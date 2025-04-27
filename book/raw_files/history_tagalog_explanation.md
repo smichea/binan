@@ -5,7 +5,7 @@ Explanation of tagalog text for english only speakers
 ---
 ## Pre-Colonial Era / Panahong Pre-Kolonyal
 
-### 🟠 Vocabulary and Grammar Explanation
+### Vocabulary and Grammar Explanation
 
 ---
 
@@ -153,7 +153,7 @@ Explanation of tagalog text for english only speakers
 
 ---
 
-### 🟠 Full Summary Table
+### Full Summary Table
 
 | Tagalog | English |
 |:---|:---|
@@ -166,7 +166,7 @@ Explanation of tagalog text for english only speakers
 
 ---
 
-### 🟠 Full Verb Breakdown Table
+### Full Verb Breakdown Table
 
 | Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
 |:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
@@ -338,7 +338,7 @@ Alright! Let's dive into this **new text** with the same method:
 
 ---
 
-### 🟠 Vocabulary and Grammar Explanation (New Content Only)
+### Vocabulary and Grammar Explanation (New Content Only)
 
 ---
 
@@ -584,19 +584,34 @@ Alright! Let's dive into this **new text** with the same method:
 
 ---
 
-### 🟠 Full Summary Table
+### Full Summary Table
 
 | Tagalog | English |
 |:---|:---|
-| Sa panahon ng pananakop ng Espanya, tuluyang nabago ang mukha ng Biñán. | During the Spanish conquest, the face of Biñán was completely changed. |
-| Matapos italaga ni Salcedo ang lugar bilang pag-aari ng Korona ng Espanya noong 1571, naging bahagi ang Biñán ng sistemang encomienda at pagkaraan ay ng mga hacienda ng Simbahan. | After Salcedo designated the place as property of the Crown of Spain in 1571, Biñán became part of the encomienda system and later the Church-owned haciendas. |
-| ... (and so on for each sentence) |
+| Sa panahon ng pananakop ng Espanya, tuluyang nabago ang mukha ng Biñán. | During the Spanish colonization period, the face of Biñán was completely transformed. |
+| Matapos italaga ni Salcedo ang lugar bilang pag-aari ng Korona ng Espanya noong 1571, naging bahagi ang Biñán ng sistemang encomienda at pagkaraan ay ng mga hacienda ng Simbahan. | After Salcedo designated the area as property of the Spanish Crown in 1571, Biñán became part of the encomienda system and later of the Church's haciendas. |
+| Noong 1644, ginawa ng mga paring Dominiko na haciendang pang-agrikultura ang malawak na lupain dito – ang Hacienda de San Isidro Labrador de Biñán. | In 1644, the Dominican priests converted the vast lands here into an agricultural estate — the Hacienda de San Isidro Labrador de Biñán. |
+| Sa haciendang ito, tubo ang pangunahing itinatanim; bukod dito, may kaunting lupaing laan para sa mga naninirahan sa komunidad. | In this estate, sugarcane was the main crop planted; aside from this, a small portion of land was allocated for the community residents. |
+| Upang masaganang madilig ang mga pananim, nagtayo ang mga prayle ng patubig at isang tanggulan ng tubig (prinsa) sa Barrio Timbáo. | To abundantly irrigate the crops, the friars built an irrigation system and a water fortification (dam) in Barrio Timbáo. |
+| Ang pusod ng hacienda ay ang malaki at matibay na bahay na may kamalig at mga kuwadra ng kabayo – nagsisilbing tanggapan ng pangangasiwa sa lupain at kanlungan ng mga gamit sa pagsasaka. | The heart of the hacienda was a large, sturdy house with a granary and horse stables — serving as the administration center for the land and the shelter for farming equipment. |
+| Bagama’t masikap ang paggawa sa hacienda, inalagaan din ng mga Dominiko ang kapakanan panrelihiyon ng mga tao: dito unang naipalaganap ang debosyon kay San Isidro Labrador, ang magiging pintakasi ng Biñán. | Although the work in the hacienda was intense, the Dominicans also cared for the religious welfare of the people: here the devotion to San Isidro Labrador, who would become Biñán's patron, was first propagated. |
+| Noong 1747, matapos ang halos isang siglo bilang hacienda, ang Biñán ay opisyal na kinilala bilang isang pueblo o bayan. | In 1747, after nearly a century as a hacienda, Biñán was officially recognized as a town or pueblo. |
+| Nagkaroon ng sariling población o kabayanan, kung saan itinayo ang simbahan at liwasan, at pinangangasiwaan nito ang mga kalapit na barrio. | It had its own town center where the church and plaza were built, and it administered the surrounding villages. |
+| Sa panahong ito, unti-unting nahubog ang pampublikong buhay ng Biñán: nagkaroon ng mga halal na opisyal ng bayan at sariling kura paroko. | During this period, Biñán's public life gradually took shape: there were elected town officials and its own parish priest. |
+| Naging unang kura paroko si Padre José Monroy noong 1757, at itinalaga niya si Antonio de Santa Rosa bilang kauna-unahang kapitan ng Biñán. | Father José Monroy became the first parish priest in 1757, and he appointed Antonio de Santa Rosa as the first town captain of Biñán. |
+| Sa mga sumunod na dekada, lalo pang lumago ang Biñán at nakilala ito sa kalakalan at pagsasaka. | In the following decades, Biñán grew even more and became known for trade and farming. |
+| Maraming mga pamilyang mestizo-tsino ang umunlad dito, nakapag-ipon ng kayamanan mula sa pagtatanim ng tubo at pakikipagkalakalan. | Many Chinese-mestizo families prospered here, amassing wealth from sugarcane farming and trade. |
+| Sila ang nagpatayo ng malalaking bahay na bato sa paligid ng plaza na hanggang ngayon ay bahagi ng pamana ng lungsod. | They built large stone houses around the plaza, which remain part of the city's heritage today. |
+| Naging tampok din ang mga pistang bayan at tradisyon sa Biñán sa ilalim ng mga Espanyol. | Town fiestas and traditions also became prominent in Biñán under Spanish rule. |
+| Tuwing buwan ng Mayo, ipinagdiriwang ng mga taga-Biñán ang kapistahan ni San Isidro Labrador sa pamamagitan ng prusisyon, sabungan, sayawan, at salu-salo. | Every May, Biñán residents celebrate the feast of San Isidro Labrador with processions, cockfights, dances, and feasts. |
+| Ang simbahan ng Biñán ang sentro ng espiritwal na buhay. | The church of Biñán was the center of spiritual life. |
+| Sa kabuuan, nanatiling buhay ang diwa ng bayanihan at pananampalataya sa mga mamamayan. | Overall, the spirit of communal unity and faith remained alive among the people. |
+| Bago matapos ang panahon ng Espanyol noong 1898, ang Biñán ay matatag nang naitatag bilang isang maunlad at makulay na bayan. | Before the end of Spanish rule in 1898, Biñán was firmly established as a prosperous and vibrant town. |
 
-(I can continue the table fully if you want — just ask!)
 
 ---
 
-### 🟠 Full Verb Breakdown Table
+### Full Verb Breakdown Table
 
 | Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
 |:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
@@ -618,7 +633,7 @@ Alright! Let's dive into this **new text** with the same method:
 
 ---
 
-### 🟠 Visual Diagram of New Verb Constructions
+### Visual Diagram of New Verb Constructions
 
 ---
 
@@ -687,7 +702,7 @@ Root: diwang → spirit (festivity sense)
 ## American Period / Panahon ng Amerikano
 ---
 
-### 🟠 Vocabulary and Grammar Explanation (new only)
+### Vocabulary and Grammar Explanation (new only)
 
 ---
 
@@ -935,7 +950,7 @@ Root: diwang → spirit (festivity sense)
 
 ---
 
-### 🟠 Full Summary Table
+### Full Summary Table
 
 | Tagalog | English |
 |:---|:---|
@@ -957,7 +972,7 @@ Root: diwang → spirit (festivity sense)
 
 ---
 
-### 🟠 Full Verb Breakdown Table
+### Full Verb Breakdown Table
 
 | Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
 |:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
@@ -979,7 +994,7 @@ Root: diwang → spirit (festivity sense)
 
 ---
 
-### 🟠 Visual Diagram of New Verb Constructions
+### Visual Diagram of New Verb Constructions
 
 ---
 
@@ -1045,7 +1060,7 @@ Let's work carefully again through your new text step-by-step (no repetition of 
 
 ---
 
-# 🟠 Vocabulary and Grammar Explanation (New Content Only)
+# Vocabulary and Grammar Explanation (New Content Only)
 
 ---
 
@@ -1383,7 +1398,7 @@ Let's go carefully:
 
 ---
 
-# 🟠 Full Summary Table (Tagalog - English)
+# Full Summary Table (Tagalog - English)
 
 | Tagalog | English |
 |:---|:---|
@@ -1414,7 +1429,7 @@ Let's go carefully:
 
 ---
 
-# 🟠 Full Verb Breakdown Table
+# Full Verb Breakdown Table
 
 | Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
 |:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
@@ -1446,7 +1461,7 @@ Let's go carefully:
 
 ---
 
-# 🟠 Visual Diagrams for New Verbs
+# Visual Diagrams for New Verbs
 
 ---
 
