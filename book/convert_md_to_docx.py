@@ -1,8 +1,9 @@
 import re
 from docx import Document
 from docx.shared import Pt
+from docx.enum.text import WD_BREAK
 
-# Function to convert Markdown file to Word document with footnotes
+# Function to convert Markdown file to Word document with footnotes and bold formatting
 def markdown_to_docx(md_filename, docx_filename):
     # Read markdown content
     with open(md_filename, 'r', encoding='utf-8') as file:
@@ -35,7 +36,14 @@ def markdown_to_docx(md_filename, docx_filename):
         elif para.startswith('### '):
             doc.add_heading(para[4:], level=3)
         else:
-            doc.add_paragraph(para)
+            # Process bold formatting
+            para_parts = re.split(r'(\*\*[^*]+\*\*)', para)
+            doc_para = doc.add_paragraph()
+            for part in para_parts:
+                if part.startswith('**') and part.endswith('**'):
+                    doc_para.add_run(part[2:-2]).bold = True
+                else:
+                    doc_para.add_run(part)
 
     # Add footnotes section
     if footnotes:
