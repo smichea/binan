@@ -178,3 +178,23 @@ h1.chapter::after { content: attr(data-tl); display: block; font-style: italic; 
 .companion td { border-bottom: 0.4pt solid var(--rule); padding: 1.2mm 1.5mm; vertical-align: top; }
 .companion tr { break-inside: avoid; }
 .companion hr { display: none; }
+
+/* ---------- Back cover ---------- */
+
+.back-cover { page: cover; break-before: page; height: 9in; background: var(--accent); color: var(--paper-tint);
+              display: flex; }
+.back-frame { padding: 12mm 12mm 0; text-align: left; }
+.back-frame .cover-rule { margin: 4mm auto 7mm; }
+.bc-title { font-family: "Cormorant Garamond"; font-weight: 600; font-size: 24pt; text-align: center; margin: 0; }
+.bc-subtitle { font-family: "Cormorant Garamond"; font-style: italic; font-size: 14pt; text-align: center;
+               color: var(--gold); margin: 0; }
+.bc-facts { list-style: none; padding: 0; margin: 0; }
+.bc-facts li { margin-bottom: 3.4mm; padding-left: 5mm; position: relative; }
+.bc-facts li::before { content: "❦"; position: absolute; left: 0; top: 0; color: var(--gold); font-size: 8pt; }
+.bc-en { font-size: 9.6pt; line-height: 1.32; text-align: left; text-indent: 0; }
+.bc-tl { font-size: 8.6pt; line-height: 1.3; font-style: italic; color: #e9d9b4; text-align: left; text-indent: 0;
+         margin-top: 0.8mm; }
+.back-cover p + p { text-indent: 0; }
+.bc-footer { position: absolute; bottom: 7mm; left: 0; right: 0; text-align: center; font-variant: small-caps;
+             letter-spacing: 0.12em; font-size: 8.5pt; color: var(--gold); }
+.back-frame { position: relative; }

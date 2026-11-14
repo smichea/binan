@@ -487,6 +487,53 @@ def cover(doc):
 </section>"""
 
 
+# Striking facts for the back cover of the history (sources in book/research/).
+BACK_COVER_FACTS = [
+    ("Some 6,600 to 4,700 years ago, the lake in front of Biñan was an arm of the sea, "
+     "connected to Manila Bay.",
+     "Mga 6,600 hanggang 4,700 taon na ang nakararaan, bahagi ng dagat na karugtong ng "
+     "Look ng Maynila ang lawa sa harap ng Biñán."),
+    ("An active fault, the West Valley Fault, runs beneath Biñan. Its last great rupture "
+     "was in 1658.",
+     "Isang aktibong fault, ang West Valley Fault, ang dumaraan sa ilalim ng Biñán. Huli "
+     "itong lumindol nang malakas noong 1658."),
+    ("Early humans were already butchering a rhinoceros on Luzon 709,000 years ago – and "
+     "the island had its own human species, <em>Homo luzonensis</em>.",
+     "May mga sinaunang tao nang kumakatay ng rhinoceros sa Luzon 709,000 taon na ang "
+     "nakararaan – at may sariling uri pa ng tao ang pulo, ang <em>Homo luzonensis</em>."),
+    ("The oldest written document of the Philippines, from the year 900, was found on the "
+     "shore of the same lake.",
+     "Ang pinakamatandang nakasulat na dokumento ng Pilipinas, mula pa noong taong 900, "
+     "ay natagpuan sa baybayin ng lawa ring ito."),
+    ("The Tagalog word <em>binyag</em>, “to baptize”, came from Brunei – and tradition says Biñan "
+     "takes its name from <em>binyagan</em>, “the place of baptism”.",
+     "Galing sa Brunei ang salitang binyag – at ayon sa tradisyon, mula sa “binyagan” "
+     "ang pangalan ng Biñán."),
+    ("Biñan’s bandstand is shaped like a slipper, a tribute to the town’s old slipper "
+     "makers.",
+     "Hugis-tsinelas ang entablado ng banda sa Biñán, bilang pagpupugay sa mga dating "
+     "gumagawa ng tsinelas."),
+]
+
+
+def back_cover(doc):
+    if doc["source"].name != "history.md":
+        return ""
+    items = "".join(
+        f'<li><p class="bc-en">{en}</p><p class="bc-tl">{tl}</p></li>'
+        for en, tl in BACK_COVER_FACTS)
+    return f"""
+<section class="back-cover">
+  <div class="cover-frame back-frame">
+    <p class="bc-title">Did you know?</p>
+    <p class="bc-subtitle">Alam mo ba?</p>
+    <div class="cover-rule"></div>
+    <ul class="bc-facts">{items}</ul>
+    <p class="bc-footer">{doc['title']} · {doc['subtitle']}</p>
+  </div>
+</section>"""
+
+
 def colophon(doc):
     credits = "".join(f"<p>{image['credit']}</p>" for image in IMAGES.values())
     archive_credits = ""
@@ -534,6 +581,7 @@ def build(doc):
 {colophon(doc)}
 {table_of_contents(body)}
 <main>{body}</main>
+{back_cover(doc)}
 </body></html>"""
     HTML(string=page, base_url=str(LAYOUT) + "/").write_pdf(doc["output"])
     print(f"wrote {doc['output'].relative_to(BOOK.parent)}")
