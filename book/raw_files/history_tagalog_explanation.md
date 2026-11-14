@@ -327,7 +327,6 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 
 ## Spanish Colonial Period / Panahon ng Kolonyalismong Espanyol
 
-Alright! Let's dive into this **new text** with the same method:  
 
 **1. Vocabulary and grammar explanation for new concepts and new verbs**  
 **2. Summary table (Tagalog-English)**  
@@ -998,7 +997,7 @@ Root: diwang → spirit (festivity sense)
 
 ---
 
-## 1. **nagkaroon** (had)
+#### 1. **nagkaroon** (had)
 
 ```
 Root: roon → there / to exist
@@ -1008,7 +1007,7 @@ Root: roon → there / to exist
 
 ---
 
-## 2. **isananib** (was merged)
+#### 2. **isinanib** (was merged)
 
 ```
 Root: sanib → to join
@@ -1018,7 +1017,7 @@ Root: sanib → to join
 
 ---
 
-## 3. **idinugtong** (was attached)
+#### 3. **idinugtong** (was attached)
 
 ```
 Root: dugtong → connect
@@ -1027,7 +1026,7 @@ Root: dugtong → connect
 
 ---
 
-## 4. **pinairal** (was implemented)
+#### 4. **pinairal** (was implemented)
 
 ```
 Root: iral → to prevail
@@ -1036,7 +1035,7 @@ Root: iral → to prevail
 
 ---
 
-## 5. **natuto** (learned)
+#### 5. **natuto** (learned)
 
 ```
 Root: tuto → to learn
@@ -1045,7 +1044,7 @@ Root: tuto → to learn
 
 ---
 
-## 6. **napadali** (was made easier)
+#### 6. **napadali** (was made easier)
 
 ```
 Root: dali → easy
@@ -1053,14 +1052,12 @@ Root: dali → easy
 ```
 
 ---
-## World War II and Japanese Occupation / Ikalawang Digmaang Pandaigdig
+## Post-War Reconstruction and Contemporary Era / Pagbangon at Makabagong Panahon
 
-Perfect, thanks for your patience!  
-Let's work carefully again through your new text step-by-step (no repetition of what was already explained earlier):
 
 ---
 
-# Vocabulary and Grammar Explanation (New Content Only)
+### Vocabulary and Grammar Explanation (New Content Only)
 
 ---
 
@@ -1083,14 +1080,14 @@ Let's work carefully again through your new text step-by-step (no repetition of 
 ---
 
 **2.**  
-> *Sama-samang binangun muli ng pamahalaan at mamamayan ang bayan...*
+> *Sama-samang binangon muli ng pamahalaan at mamamayan ang bayan...*
 
 **Vocabulary:**  
 - **sama-sama** – *together*  
-- **binangun** – *was rebuilt* (root: *bangon* = to rise)
+- **binangon** – *was rebuilt* (root: *bangon* = to rise)
 
 **Grammar:**  
-- Passive completed form (*bi- + bangon*).
+- Passive completed form (*-in- + bangon*).
 
 **Translation:**  
 > Together, the government and citizens rebuilt the town...
@@ -1392,18 +1389,15 @@ Let's work carefully again through your new text step-by-step (no repetition of 
 > We must not forget where we started.
 
 ---
-Perfect! I’ll continue **in the same clear format** for you:  
-First the **Summary Table**, then the **Full Verb Breakdown Table**, and finally the **Visual Diagrams** for the newly seen verbs.  
-Let's go carefully:
 
 ---
 
-# Full Summary Table (Tagalog - English)
+### Full Summary Table (Tagalog - English)
 
 | Tagalog | English |
 |:---|:---|
 | Pagkatapos ng digmaan, mabilis na nakabangon ang Lungsod ng Biñán at pumasok sa isang panahon ng masiglang pagbabago. | After the war, Biñán City quickly recovered and entered a period of lively change. |
-| Noong huling bahagi ng dekada 1940 at dekada ’50, sama-samang binangun muli ng pamahalaan at mamamayan ang bayan – inayos ang mga nasirang kalsada, muling itinayo ang mga tulay at gusali, at sinigurong makabalik ang mga bata sa paaralan. | In the late 1940s and 1950s, the government and citizens together rebuilt the town — repairing damaged roads, reconstructing bridges and buildings, and ensuring that children could return to school. |
+| Noong huling bahagi ng dekada 1940 at dekada ’50, sama-samang binangon muli ng pamahalaan at mamamayan ang bayan – inayos ang mga nasirang kalsada, muling itinayo ang mga tulay at gusali, at sinigurong makabalik ang mga bata sa paaralan. | In the late 1940s and 1950s, the government and citizens together rebuilt the town — repairing damaged roads, reconstructing bridges and buildings, and ensuring that children could return to school. |
 | Muling sumigla ang agrikultura at kalakalan: nagbalik ang palengke ng Biñán bilang pangunahing bagsakan ng mga ani sa rehiyon, at unti-unti ring nagtayuan ang maliliit na pabrika at pagawaan. | Agriculture and commerce became lively again: the Biñán market returned as the main drop-off point for harvests in the region, and small factories and workshops gradually sprang up. |
 | Sa mga sumunod na dekada, lalo pang lumago ang Biñán. | In the following decades, Biñán grew even further. |
 | Pagsapit ng dekada 1980, mas naging industrial ang karakter ng bayan. | By the 1980s, the town became more industrial in character. |
@@ -1429,13 +1423,13 @@ Let's go carefully:
 
 ---
 
-# Full Verb Breakdown Table
+### Full Verb Breakdown Table
 
 | Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
 |:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
 | nakabangon | bangon | Completed | Actor | naka- + bangon | recovered |
 | pumasok | pasok | Completed | Actor | pum- + pasok | entered |
-| binangun | bangon | Completed | Object | bi- + bangon | was rebuilt |
+| binangon | bangon | Completed | Object | -in- + bangon | was rebuilt |
 | inayos | ayos | Completed | Object | i- + ayos | was fixed |
 | itinayo | tayo | Completed | Object | i- + tayo | was rebuilt |
 | sinigurado | sigurado | Completed | Actor | sini- + sigurado | ensured |
@@ -1461,11 +1455,11 @@ Let's go carefully:
 
 ---
 
-# Visual Diagrams for New Verbs
+### Visual Diagrams for New Verbs
 
 ---
 
-## 1. **nakabangon** (recovered)
+#### 1. **nakabangon** (recovered)
 
 ```
 Root: bangon → rise
@@ -1474,16 +1468,16 @@ Root: bangon → rise
 
 ---
 
-## 2. **binangun** (rebuilt)
+#### 2. **binangon** (rebuilt)
 
 ```
 Root: bangon → rise
-+ bi- → binangun → was rebuilt (completed object-focus)
++ -in- → binangon → was rebuilt (completed object-focus)
 ```
 
 ---
 
-## 3. **sinikap** (endeavored)
+#### 3. **sinikap** (endeavored)
 
 ```
 Root: sikap → effort
@@ -1492,7 +1486,7 @@ Root: sikap → effort
 
 ---
 
-## 4. **iakit** (to attract)
+#### 4. **iakit** (to attract)
 
 ```
 Root: akit → attract
@@ -1501,7 +1495,7 @@ Root: akit → attract
 
 ---
 
-## 5. **itinatag** (was established)
+#### 5. **itinatag** (was established)
 
 ```
 Root: tatag → establish
@@ -1511,7 +1505,7 @@ Root: tatag → establish
 
 ---
 
-## 6. **isinasadula** (is dramatized)
+#### 6. **isinasadula** (is dramatized)
 
 ```
 Root: dula → play/drama
@@ -1520,7 +1514,7 @@ Root: dula → play/drama
 
 ---
 
-## 7. **pinangangalagaan** (safeguarding)
+#### 7. **pinangangalagaan** (safeguarding)
 
 ```
 Root: alaga → care
