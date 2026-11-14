@@ -64,7 +64,59 @@ FIGURES = [
                  "the Spaniards came, the area belonged to the Tagalog settlement of "
                  "Tabuco, today Cabuyao.",
          tagalog="Ang Biñán sa kanlurang pampang ng Lawa ng Laguna."),
-    dict(chapter=1, after=1, kind="Photo", id="copperplate",
+    dict(chapter=1, after=1, kind="Photo", id="iss-lake", src="images/geography/iss-manila-laguna-2016.jpg",
+         title="Manila Bay and Laguna de Bay from space",
+         caption="Metro Manila between Manila Bay (left) and Laguna de Bay (right), photographed "
+                 "from the International Space Station on 6 May 2016. The Pasig River links the "
+                 "lake to the sea.",
+         tagalog="Ang Look ng Maynila at ang Lawa ng Laguna mula sa kalawakan.",
+         credit="Astronaut photograph ISS047-E-99713. NASA, ISS Crew Earth Observations Facility. Public domain."),
+    dict(chapter=1, after=2, kind="Map", id="tectonics", src="maps/tectonics.svg",
+         title="The Philippines between two plates",
+         caption="The Philippines between the Philippine Sea Plate and the Sunda Plate: the "
+                 "subduction trenches, the active faults and some of the active volcanoes. In red, "
+                 "the West Valley Fault, which crosses Biñan.",
+         tagalog="Ang Pilipinas sa pagitan ng dalawang tectonic plate.",
+         credit="Plate boundaries: P. Bird (2003), PB2002, via H. Ahlenius (ODC-By). Faults: GEM "
+                "Global Active Faults Database (Styron & Pagani 2020), CC BY-SA."),
+    dict(chapter=1, after=3, kind="Photo", id="taal-ash", src="images/geography/iss-taal-ash-2020.jpg",
+         title="Taal’s ash drifting toward Laguna de Bay, 2020",
+         caption="Ash from Taal Volcano (top left) drifting over Batangas, Cavite and Laguna "
+                 "toward Laguna de Bay (top right), seen from the International Space Station on "
+                 "22 January 2020.",
+         tagalog="Ang abo ng Taal patungo sa Lawa ng Laguna, 2020.",
+         credit="Expedition 61 crew. NASA, ISS Crew Earth Observations Facility. Public domain."),
+    dict(chapter=1, after=3, kind="Photo", id="makiling", src="images/geography/mount-makiling.jpg",
+         title="Mount Makiling across the lake",
+         caption="Mount Makiling, the extinct volcano of the legend of Maria Makiling, seen "
+                 "across Laguna de Bay with fish pens in the foreground.",
+         tagalog="Ang Bundok Makiling mula sa lawa.",
+         credit="Photo: Zian Colt, 2021, CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=1, after=4, kind="Map", id="westbay", src="maps/westbay.svg",
+         title="Fire, fault and lake around Biñan",
+         caption="Biñan between the West Valley Fault and the lake: the approximate outline of "
+                 "the Laguna caldera, the volcanoes of the Macolod Corridor, and the former link "
+                 "with Manila Bay, when the West Bay was an arm of the sea (6,600–4,700 years ago; "
+                 "schematic).",
+         tagalog="Ang apoy, ang fault at ang lawa sa paligid ng Biñán.",
+         credit="Fault trace: GEM Global Active Faults Database, CC BY-SA. Sea link after "
+                "Jaraula et al. 2014."),
+    dict(chapter=1, after=4, kind="Photo", id="fault-plane", src="images/geography/wvf-fault-plane-carmona.jpg",
+         title="The West Valley Fault at Carmona",
+         caption="The scarp of the West Valley Fault, the long grassy slope on the right, in "
+                 "Barangay Mabuhay, Carmona, a few kilometres from Biñan.",
+         tagalog="Ang West Valley Fault sa Carmona.",
+         credit="Photo: Ervin Malicdem, 2017, CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=1, after=7, kind="Chart", id="climate", src="maps/climate.svg",
+         title="The climate of Biñan",
+         caption="Left: the monsoon year – normal monthly rainfall at Sangley Point, the nearest "
+                 "PAGASA station; the wet months are in blue. Right: mean yearly temperature for "
+                 "Biñan’s coordinates, 1981–2024, from NASA’s reconstruction, with its trend. The "
+                 "model averages a wide area, so its values are lower than those measured on the "
+                 "lakeshore; it is the trend that matters.",
+         tagalog="Ang klima ng Biñán.",
+         credit="PAGASA Climatological Normals; NASA POWER (MERRA-2)."),
+    dict(chapter=2, after=1, kind="Photo", id="copperplate",
          src="images/archives/copperplate-c900.jpg",
          title="The Laguna Copperplate Inscription, c. 900",
          caption="The Laguna Copperplate Inscription (c. 900 CE), the oldest known written "
@@ -73,14 +125,14 @@ FIGURES = [
                  "centuries before the Spaniards arrived.",
          tagalog="Ang Inskripsiyon sa Binatbat na Tanso ng Laguna, mga 900.",
          credit="Photo: Gary Todd, CC0, via Wikimedia Commons. National Museum of the Philippines."),
-    dict(chapter=2, after=1, kind="Map", id="territory", src="maps/territory.svg",
+    dict(chapter=3, after=1, kind="Map", id="territory", src="maps/territory.svg",
          title="The territory of Biñan, 1688–1907",
          caption="How Biñan’s territory took shape: separated from Tabuco in 1688, it lost "
                  "its barrio of Santa Rosa in 1791–92. Under American rule, San Pedro "
                  "(1903–1907) and Muntinlupa (1903–1905) were briefly joined to it. "
                  "Present-day boundaries.",
          tagalog="Ang paghubog ng teritoryo ng Biñán, 1688–1907."),
-    dict(chapter=2, after=2, kind="Map", id="murillo", src="images/archives/murillo-velarde-1734.jpg",
+    dict(chapter=3, after=2, kind="Map", id="murillo", src="images/archives/murillo-velarde-1734.jpg",
          title="“Viñan” on the Murillo Velarde map, 1734",
          caption="The south-western shore of Laguna de Bay on Pedro Murillo Velarde’s 1734 map of the Philippines, the "
                  "first scientific map of the islands. “Viñan” appears at the left edge, on the shore "
@@ -89,7 +141,7 @@ FIGURES = [
          credit="Pedro Murillo Velarde, Carta hydrographica y chorographica de las Yslas "
                 "Filipinas (Manila, 1734). Library of Congress, Geography and Map Division. "
                 "Public domain."),
-    dict(chapter=2, after=2, kind="Map", id="manuscript", src="images/archives/manuscript-laguna-18th-c.jpg",
+    dict(chapter=3, after=2, kind="Map", id="manuscript", src="images/archives/manuscript-laguna-18th-c.jpg",
          title="“Biñang” on an 18th-century Spanish map",
          caption="Detail of an 18th-century Spanish manuscript map of the surroundings of "
                  "Laguna de Bay: the town of “Biñang” with its church (red square), the river "
@@ -98,14 +150,14 @@ FIGURES = [
          tagalog="Ang “Biñang” sa isang mapang Espanyol noong ika-18 siglo.",
          credit="Fuente: Archivo Cartográfico de Estudios Geográficos del Centro Geográfico "
                 "del Ejército / Biblioteca Virtual de Defensa. CC BY 4.0."),
-    dict(chapter=2, after=3, kind="Map", id="map1897", src="images/archives/cavite-region-map-1897.jpg",
+    dict(chapter=3, after=3, kind="Map", id="map1897", src="images/archives/cavite-region-map-1897.jpg",
          title="“Biñang” on a Spanish military map, 1897",
          caption="“Biñang” and its barrios on the Spanish military map of the province of Cavite "
                  "and the neighbouring region, drawn in 1897 during the Philippine Revolution.",
          tagalog="Ang “Biñang” sa isang mapang militar ng Espanya, 1897.",
          credit="Provincia de Cavite y región limítrofe, 1897. Fuente: Archivo Histórico de la "
                 "Armada Juan Sebastián de Elcano / Biblioteca Virtual de Defensa. CC BY 4.0."),
-    dict(chapter=2, after=3, kind="Photo", id="school", src="images/archives/justiniano-school-site-pre1918.jpg",
+    dict(chapter=3, after=3, kind="Photo", id="school", src="images/archives/justiniano-school-site-pre1918.jpg",
          title="Where Rizal went to school in Biñan",
          caption="“Where Rizal went to school in Biñan: site of Master Justiniano’s house, which "
                  "burned down many years ago.” The young José Rizal studied here in 1869–70; the "
@@ -113,7 +165,7 @@ FIGURES = [
          tagalog="Ang dating paaralan ni Maestro Justiniano, kung saan nag-aral si Rizal.",
          credit="Austin Craig, Rizal’s Own Story of His Life (Manila, 1918). Internet Archive. "
                 "Public domain."),
-    dict(chapter=2, after=3, kind="Photo", id="tablet", small=True,
+    dict(chapter=3, after=3, kind="Photo", id="tablet", small=True,
          src="images/archives/jose-alberto-tablet-pre1913.jpg",
          title="Memorial tablet of José Alberto",
          caption="Memorial tablet of José Alberto, Rizal’s uncle and owner of the Alberto house, "
@@ -121,7 +173,7 @@ FIGURES = [
          tagalog="Ang lapida ni José Alberto sa simbahan ng Biñán.",
          credit="Austin Craig, Lineage, Life and Labors of José Rizal (Manila, 1913). "
                 "Internet Archive. Public domain."),
-    dict(chapter=3, after=1, kind="Map", id="atlas", src="images/archives/atlas-filipinas-1899.jpg",
+    dict(chapter=4, after=1, kind="Map", id="atlas", src="images/archives/atlas-filipinas-1899.jpg",
          title="Biñan in the Atlas de Filipinas, 1899–1900",
          caption="“Biñang” in the Atlas de Filipinas of the Manila Observatory (Map No. 9, "
                  "U.S. Coast and Geodetic Survey edition, 1900), on the road from Manila to "
@@ -129,14 +181,14 @@ FIGURES = [
          tagalog="Ang Biñán sa Atlas de Filipinas, 1899–1900.",
          credit="Observatorio de Manila / U.S. Coast and Geodetic Survey, Atlas of the "
                 "Philippine Islands (Washington, 1900), Map No. 9. Internet Archive. Public domain."),
-    dict(chapter=3, after=2, kind="Photo", id="monument", src="images/archives/rizal-monument-plaza-pre1918.jpg",
+    dict(chapter=4, after=2, kind="Photo", id="monument", src="images/archives/rizal-monument-plaza-pre1918.jpg",
          title="The Rizal monument on the plaza, 1918",
          caption="The Rizal monument on the town plaza, newly built, with the Alberto house – the "
                  "home of Rizal’s mother’s family – behind it.",
          tagalog="Ang bantayog ni Rizal sa plasa ng Biñán, mga 1918.",
          credit="Austin Craig, Rizal’s Own Story of His Life (Manila, 1918). Internet Archive. "
                 "Public domain."),
-    dict(chapter=3, after=3, kind="Photo", id="cinema", src="images/archives/alberto-house-cinematograph-pre1918.jpg",
+    dict(chapter=4, after=3, kind="Photo", id="cinema", src="images/archives/alberto-house-cinematograph-pre1918.jpg",
          title="The Alberto house as a cinema, 1910s",
          caption="“Rizal’s uncle’s home in Biñan”: in the 1910s the ground floor of the Alberto "
                  "house served as the town’s cinematograph – a sign of the new American-era "
@@ -144,7 +196,7 @@ FIGURES = [
          tagalog="Ang bahay ng mga Alberto noong naging sinehan, dekada 1910.",
          credit="Austin Craig, Rizal’s Own Story of His Life (Manila, 1918). Internet Archive. "
                 "Public domain."),
-    dict(chapter=3, after=4, kind="Photo", id="southroad", rights="pending",
+    dict(chapter=4, after=4, kind="Photo", id="southroad", rights="pending",
          src="images/archives/pendleton-south-road-1934.jpg",
          title="Carabaos on the Manila South Road, 1934",
          caption="Carabaos on the Manila South Road between Muntinlupa and Biñan, looking toward "
@@ -153,13 +205,13 @@ FIGURES = [
          tagalog="Mga kalabaw sa Manila South Road patungong Biñán, 1934.",
          credit="Robert L. Pendleton, 1934. American Geographical Society Library, University "
                 "of Wisconsin–Milwaukee Libraries (negative 409.11)."),
-    dict(chapter=4, after=1, kind="Map", id="liberation", src="maps/liberation.svg",
+    dict(chapter=5, after=1, kind="Map", id="liberation", src="maps/liberation.svg",
          title="The liberation of Biñan, 1945",
          caption="The liberation of Biñan, 3 February 1945: the Hunters ROTC guerrillas "
                  "converged on the town centre from Carmona, San Pedro and Santa Rosa. "
                  "Arrows are schematic.",
          tagalog="Ang paglaya ng Biñán, Pebrero 3, 1945."),
-    dict(chapter=5, after=1, kind="Photo", id="bridge", src="images/archives/binan-bridge-1951.jpg",
+    dict(chapter=6, after=1, kind="Photo", id="bridge", src="images/archives/binan-bridge-1951.jpg",
          title="The new Biñan bridge, c. 1951",
          caption="“Biñan Bridge completed”, about 1951: one of the bridges of the national "
                  "road rebuilt after the war under the Philippine–American public roads "
@@ -167,7 +219,7 @@ FIGURES = [
          tagalog="Ang bagong tulay ng Biñán, mga 1951.",
          credit="U.S. National Archives, Records of the Bureau of Public Roads (RG 30), "
                 "30-N-51-4622. Public domain."),
-    dict(chapter=5, after=1, kind="Map", id="ams1956", src="images/archives/ams-san-pedro-1956.jpg",
+    dict(chapter=6, after=1, kind="Map", id="ams1956", src="images/archives/ams-san-pedro-1956.jpg",
          title="The town of Biñan on a 1956 survey map",
          caption="The town of Biñan on the 1956 U.S. Army Map Service sheet “San Pedro” "
                  "(1:50,000): the street grid of the Poblacion and the neighbouring barrios "
@@ -176,67 +228,67 @@ FIGURES = [
          tagalog="Ang bayan ng Biñán sa mapa ng U.S. Army, 1956.",
          credit="U.S. Army Map Service, San Pedro (sheet 3263 III), 1:50,000, 1956. "
                 "Courtesy of the University of Texas Libraries. Public domain."),
-    dict(chapter=5, after=2, kind="Map", id="barangays", src="maps/barangays.svg",
+    dict(chapter=6, after=2, kind="Map", id="barangays", src="maps/barangays.svg",
          title="The barangays of Biñan today",
          caption="Biñan today and its 24 barangays. The Poblacion keeps the Spanish-era "
                  "heart of the town; the Laguna Technopark (Malamig) and the Laguna "
                  "International Industrial Park (Mampalasan) mark its industrial growth "
                  "since 1990.",
          tagalog="Ang 24 na barangay ng Biñán ngayon."),
-    dict(chapter=5, after=2, kind="Photo", id="technopark", src="images/modern/technopark-sign-2018.jpg",
+    dict(chapter=6, after=2, kind="Photo", id="technopark", src="images/modern/technopark-sign-2018.jpg",
          title="The Laguna Technopark",
          caption="The entrance sign of the Laguna Technopark, opened in 1990 on land in Biñan "
                  "(Malamig) and Santa Rosa (Don Jose), listing some of its manufacturers.",
          tagalog="Ang Laguna Technopark.", credit="Photo: Judgefloro, 2018, CC0, via Wikimedia Commons."),
-    dict(chapter=5, after=4, kind="Photo", id="cityhall", src="images/modern/city-hall-2018.jpg",
+    dict(chapter=6, after=4, kind="Photo", id="cityhall", src="images/modern/city-hall-2018.jpg",
          title="Biñan City Hall",
          caption="The Biñan City Hall complex, seat of the city government since Biñan became "
                  "a city in 2010.",
          tagalog="Ang bulwagang panlungsod ng Biñán.", credit="Photo: Judgefloro, 2018, CC0, via Wikimedia Commons."),
-    dict(chapter=5, after=5, kind="Photo", id="view2023", src="images/modern/view-from-alberto-mansion-2023.jpg",
+    dict(chapter=6, after=5, kind="Photo", id="view2023", src="images/modern/view-from-alberto-mansion-2023.jpg",
          title="The Poblacion from the Alberto Mansion, 2023",
          caption="The heart of Biñan seen from the balcony of the restored Alberto Mansion: the "
                  "plaza, the old municipal hall and the bell tower of San Isidro Labrador.",
          tagalog="Ang Poblacion mula sa Alberto Mansion, 2023.", credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
-    dict(chapter=5, after=6, kind="Photo", id="sentro", src="images/modern/sentrong-pangkultura-2023.jpg",
+    dict(chapter=6, after=6, kind="Photo", id="sentro", src="images/modern/sentrong-pangkultura-2023.jpg",
          title="The Sentrong Pangkultura ng Biñan",
          caption="The Spanish-era municipal hall, restored as the Sentrong Pangkultura ng Biñan "
                  "(Biñan Center for Culture and the Arts) under the Balik-Biñan programme.",
          tagalog="Ang Sentrong Pangkultura ng Biñán.", credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
-    dict(chapter=6, after=1, kind="Photo", id="marketstreet", src="images/modern/market-street-2013.jpg",
+    dict(chapter=7, after=1, kind="Photo", id="marketstreet", src="images/modern/market-street-2013.jpg",
          title="Around the public market, 2013",
          caption="Shops and shoppers around the public market of Biñan on a rainy morning.",
          tagalog="Sa paligid ng pamilihang bayan, 2013.", credit="Photo: Ramon FVelasquez, 2013, CC BY-SA 3.0, via Wikimedia Commons."),
-    dict(chapter=6, after=1, kind="Photo", id="fruit", src="images/modern/market-fruit-stall-2013.jpg",
+    dict(chapter=7, after=1, kind="Photo", id="fruit", src="images/modern/market-fruit-stall-2013.jpg",
          title="A fruit stall in the market, 2013",
          caption="A fruit stall at the Biñan market: bananas, citrus and local produce.",
          tagalog="Isang tindahan ng prutas sa pamilihan, 2013.", credit="Photo: Ramon FVelasquez, 2013, CC BY-SA 3.0, via Wikimedia Commons."),
-    dict(chapter=6, after=1, kind="Photo", id="pospas", rights="pending", src="images/culture/pospas.jpg",
+    dict(chapter=7, after=1, kind="Photo", id="pospas", rights="pending", src="images/culture/pospas.jpg",
          title="Pospas", caption="Pospas, Biñan’s yellow rice porridge with chicken, toasted "
                  "garlic, spring onion and pork crackling.",
          tagalog="Pospas, ang dilaw na lugaw ng Biñán.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
-    dict(chapter=6, after=2, kind="Photo", id="puto", rights="pending", src="images/culture/puto-binan.jpg",
+    dict(chapter=7, after=2, kind="Photo", id="puto", rights="pending", src="images/culture/puto-binan.jpg",
          title="Puto Biñan", caption="Puto Biñán, topped with grated cheese and salted egg.",
          tagalog="Ang Puto Biñán.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
-    dict(chapter=6, after=3, kind="Photo", id="maglalatik", rights="pending", src="images/culture/maglalatik.jpg",
+    dict(chapter=7, after=3, kind="Photo", id="maglalatik", rights="pending", src="images/culture/maglalatik.jpg",
          title="Maglalatik dancers",
          caption="Maglalatik dancers, coconut shells strapped to their bodies: the “Christians” "
                  "in blue and the “Moros” in red.",
          tagalog="Mga mananayaw ng maglalatik.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
-    dict(chapter=6, after=3, kind="Photo", id="festival", rights="pending", src="images/culture/puto-latik-festival.jpg",
+    dict(chapter=7, after=3, kind="Photo", id="festival", rights="pending", src="images/culture/puto-latik-festival.jpg",
          title="The Puto Latik Festival",
          caption="Street dancers in the Puto Latik Festival.",
          tagalog="Ang Puto Latik Festival.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
-    dict(chapter=6, after=4, kind="Photo", id="arawngbinan", rights="pending", src="images/culture/araw-ng-binan-night.jpg",
+    dict(chapter=7, after=4, kind="Photo", id="arawngbinan", rights="pending", src="images/culture/araw-ng-binan-night.jpg",
          title="Araw ng Biñan by night",
          caption="Araw ng Biñán: the illuminated Sentrong Pangkultura and crowds on the plaza.",
          tagalog="Ang Araw ng Biñán sa gabi.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
-    dict(chapter=6, after=4, kind="Photo", id="mass", src="images/modern/church-mass-2013.jpg",
+    dict(chapter=7, after=4, kind="Photo", id="mass", src="images/modern/church-mass-2013.jpg",
          title="Sunday Mass at San Isidro Labrador",
          caption="A full church for Mass at San Isidro Labrador, the heart of the town’s "
                  "religious life.",
          tagalog="Misa sa simbahan ni San Isidro Labrador.", credit="Photo: Ramon FVelasquez, 2013, CC BY-SA 3.0, via Wikimedia Commons."),
-    dict(chapter=6, after=4, kind="Photo", id="flowers", src="images/modern/market-flowers-2013.jpg",
+    dict(chapter=7, after=4, kind="Photo", id="flowers", src="images/modern/market-flowers-2013.jpg",
          title="Flower vendors, 2013",
          caption="Flower vendors outside the market, preparing offerings for the church and for "
                  "family celebrations.",

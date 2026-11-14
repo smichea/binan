@@ -3,6 +3,277 @@
 Explanation of tagalog text for english only speakers
 
 ---
+## Geography / Heograpiya
+
+### Vocabulary and Grammar Explanation
+
+**1. Between the lake and the plateau**
+
+> *Ang Biñán ay sumasakop sa isang makitid na lupain na humigit-kumulang 43.5 kilometro kuwadrado sa kanlurang pampang ng Lawa ng Laguna.*
+
+**Vocabulary:**
+- **sumasakop** – *occupies, covers* (root: *sakop* = scope, territory)
+- **makitid** – *narrow* (root: *kitid*)
+- **lupain** – *land, territory* (root: *lupa* = soil, land)
+- **humigit-kumulang** – *more or less, approximately* (from *higit* = more and *kulang* = less)
+- **pampang** – *shore, bank*; **baybayin** – *coast, shoreline*
+- **dahan-dahang tumataas** – *rises gently* (*dahan-dahan* = slowly; root of the verb: *taas* = height)
+- **talampas** – *plateau*
+- **hangganan** – *boundary* (root: *hangga* = limit)
+- **maaliwalas** – *clear, bright (weather)*
+- **abot-tanaw** – *horizon* (literally "reach of sight": *abot* + *tanaw*)
+- **gilid** – *edge, rim*; **nagtatago** – *hides* (root: *tago*)
+
+**Grammar:**
+- *Sumasakop* = *-um-* + repeated syllable + *sakop*: ongoing actor focus.
+- *Humigit-kumulang* is a fixed pair of *-um-* verbs used as an adverb: "going over, going under" = "about".
+- *Kanlurang pampang* – the linker *-ng* joins the adjective *kanluran* (western) to the noun.
+
+**Translation:**
+> Biñán occupies a narrow strip of land of about 43.5 square kilometres on the western shore of Laguna de Bay, some 35 kilometres south of Manila. From the lakeshore, barely 2 metres above sea level, the land rises gently westward toward the plateau of Carmona and Silang; the Poblacion stands at about 12 metres. On a clear day, volcanoes close the horizon: Mount Makiling, Mount Banahaw behind it, and to the southwest the Tagaytay ridge, the rim of the caldera that hides Taal Volcano, only 39 km away.
+
+---
+
+**2. Two plates**
+
+> *Ang tanawing ito ay hinubog ng isa sa pinakamagulong bahagi ng mundo.*
+
+**Vocabulary:**
+- **tanawin** – *landscape, view* (root: *tanaw* = to look at from afar)
+- **hinubog** – *was shaped, was moulded* (root: *hubog* = shape)
+- **pinakamagulo** – *most turbulent, most restless* (root: *gulo* = disorder)
+- **kapuluan** – *archipelago* (root: *pulo* = island)
+- **naiipit** – *is squeezed, is caught* (root: *ipit* = pinch)
+- **nagkakalapit** – *come closer to each other* (root: *lapit* = near)
+- **sumusuot** – *slips under, goes under* (root: *suot* = to slip into)
+- **pahalang** – *horizontal, sideways*
+- **sinasalo** – *is caught, is absorbed* (root: *salo* = to catch)
+- **banggaan** – *collision* (root: *bangga* = to bump)
+
+**Grammar:**
+- *Hinubog* = *-in-* + *hubog*: object focus, completed – "the landscape was shaped by…". The doer comes after *ng*.
+- *Pinaka-* + *magulo* = superlative "most restless".
+- *Naiipit* = *na-* + *i* + *ipit*: an involuntary, ongoing state – "is (being) caught".
+- *Nagkakalapit* = *nag-ka-* + repeated syllable + *lapit*: a reciprocal action in progress, "getting closer to each other".
+
+**Translation:**
+> This landscape was shaped by one of the most restless parts of the world. The Philippine archipelago is made of crustal pieces caught between two great tectonic plates, the Philippine Sea Plate to the east and the Sunda (Eurasian) Plate to the west, which come closer to each other by several centimetres a year. Each plate slips under the islands in its own deep trench, while the sideways part of the movement is absorbed by the Philippine Fault. Because of this collision, the country is on the Pacific "Ring of Fire".
+
+---
+
+**3. Born of fire**
+
+> *Ang gitnang bahagi mismo ng lawa ay isang kaldera ng bulkan.*
+
+**Vocabulary:**
+- **sinturon** – *belt*
+- **nababanat** – *is stretched* (root: *banat* = to stretch)
+- **umaakyat** – *rises, climbs* (root: *akyat*)
+- **tangway** – *peninsula*
+- **pagsabog** – *eruption, explosion* (root: *sabog* = to burst)
+- **nagbabagang agos** – *glowing flow* (root: *baga* = ember)
+- **patong** – *layer*
+- **kinatatayuan** – *the place where (something) stands* (root: *tayo* = to stand)
+- **namamatay** – *dies out* (root: *patay*)
+- **bukal** – *spring (of water)*; **mainit** – *hot*
+- **pumutok** – *erupted, burst* (root: *putok*)
+- **sinuspinde** – *were suspended* (from Spanish *suspender*)
+
+**Grammar:**
+- *Kinatatayuan* = *ka-* + *-in-* + repeated syllable + *tayo* + *-an*: a noun of place, "the very spot where it stands".
+- *Hindi pa namamatay ang apoy* – "the fire has not yet died out": *hindi pa* + ongoing aspect = "not yet".
+- *Umulan ng abo* – "it rained ash": the weather verb *umulan* can take *ng* + what falls.
+
+**Translation:**
+> Biñán is at the northern end of the Macolod Corridor, a belt of volcanoes where the crust is stretched and magma rises easily. The central part of the lake itself is a volcanic caldera, left by great eruptions between about two million and thirty thousand years ago. The ash and glowing flows of those eruptions built the layers of tuff on which western Biñán stands. The fire has not yet died out: hot springs still bubble at Los Baños and Calamba, and when Taal erupted on 12 January 2020, ash rained on Biñán and classes were suspended.
+
+---
+
+**4. The fault**
+
+> *May fault din sa ilalim ng lungsod.*
+
+**Vocabulary:**
+- **sa ilalim ng** – *under, beneath*
+- **dumaraan** – *passes through* (root: *daan* = way)
+- **magdulot** – *to cause, to bring about* (root: *dulot*)
+- **lakas** – *strength, magnitude*
+- **niyanig** – *was shaken* (root: *yanig* = tremor)
+- **mapanira** – *destructive* (root: *sira* = broken)
+- **naghahanda** – *is preparing* (root: *handa* = ready)
+- **ginanap** – *was held* (root: *ganap* = to take place)
+
+**Grammar:**
+- *Niyanig* = *-in-* + *yanig*; before a *y*, the infix often appears as *ni-*: "was shaken".
+- *Mapanira* = *mapang-* + *sira* (s → n): an adjective describing a tendency, "destructive".
+- *Ginanap* = *-in-* + *ganap*: object focus, completed – "the drill was held".
+
+**Translation:**
+> There is also a fault beneath the city. The West Valley Fault, about 100 km long, passes through Biñán in the barangays of Malamig, San Francisco (Halang) and Biñán. It can cause an earthquake of magnitude 7.2 and moves roughly every 400 to 600 years; its last strong movement was in 1658. The region has been shaken many times since: according to the old catalogue of earthquakes, on 20 July 1880 an earthquake "of destructive violence" struck "the towns around Lake Bay, especially to its south and west". Today most earthquakes felt in Biñán are weak, but the city prepares for the "Big One": on 28 September 2016 it hosted the national earthquake drill.
+
+---
+
+**5. The lake**
+
+> *Iisa lamang ang labasan nito, ang Ilog Pasig.*
+
+**Vocabulary:**
+- **napakababaw** – *very shallow* (root: *babaw*)
+- **lalim** – *depth*
+- **palanggana** – *basin* (literally "washbasin")
+- **labasan** – *outlet, exit* (root: *labas* = outside)
+- **tag-araw** – *dry season*; **tag-ulan** – *rainy season*
+- **pabalik** – *backward, returning* (root: *balik*)
+- **pinalulubog** – *makes (something) sink* (root: *lubog*)
+- **luminaw** – *became clear* (root: *linaw*)
+- **lansangan** – *road, street*
+- **hapag-kainan** – *dining table* (here: *pantry, source of food*)
+- **huli** – *catch (of fish)*
+- **baklad** – *fish pen*; **kulungan** – *cage*
+- **binabantayan** – *monitored, watched* (root: *bantay* = guard)
+
+**Grammar:**
+- *Iisa* = repeated *isa*: "only one".
+- *Napaka-* + adjective = "very": *napakababaw* = "very shallow".
+- *Pinalulubog* = causative *pa-* + *lubog* in the ongoing aspect with *-in-*: "is made to sink".
+
+**Translation:**
+> Laguna de Bay is the largest lake in the Philippines but very shallow. Twenty-one rivers flow into it, and it has only one outlet, the Pasig River. In the dry season, when the lake falls to sea level, the Pasig flows backward and seawater enters the lake; the salt makes the mud sink, and the water turns clear for a few months. For centuries the lake was Biñán's other road and its pantry: in the early 1960s, 95 per cent of the catch was three native fish – ayungin, biyang puti and kanduli – now replaced by tilapia and bangus raised in pens and cages. The Biñán River is one of the lake's monitored tributaries – and it often lacks oxygen because of the dirty water it carries.
+
+---
+
+**6. When the lake was the sea**
+
+> *Mga 6,600 hanggang 4,700 taon na ang nakararaan, bahagi ng dagat ang lawa.*
+
+**Vocabulary:**
+- **sa paglipas ng panahon** – *over time* (root: *lipas* = to pass)
+- **panahon ng yelo** – *ice age* (*yelo* = ice)
+- **tuyong lupa** – *dry land*
+- **natunaw** – *melted* (root: *tunaw*)
+- **lumampas** – *went beyond* (root: *lampas*)
+- **hinukay** – *was dug, was drilled* (root: *hukay* = to dig)
+- **maalat** – *salty*; **bahagyang maalat** – *slightly salty, brackish*; **tubig-tabang** – *fresh water*
+- **umatras** – *retreated* (root: *atras*)
+- **iniangat** – *was raised* (root: *angat* = lift)
+
+**Grammar:**
+- *Ang nakararaan* – "(the time) that has passed": *naka-* + repeated syllable + *raan* (*daan*, with d → r). Used in "… taon na ang nakararaan" = "… years ago".
+- *Iniangat ang lupa … ng paggalaw ng fault* – object focus: the land (*ang lupa*) was raised by (*ng*) the movement of the fault.
+
+**Translation:**
+> The shape of this shore has changed over time. In the ice ages, the sea rose and fell by more than a hundred metres; 20,000 years ago it was about 120 metres lower than today, but Luzon remained an island. When the ice melted, the sea came back and went beyond where it is now. A mud core drilled in the West Bay shows that about 6,600 to 4,700 years ago the lake was part of the sea, a salty lagoon connected to Manila Bay. It became brackish about 4,100 years ago and fresh about 3,000 years ago, when the sea retreated and the land between Muntinlupa and Parañaque was raised by the movement of the West Valley Fault itself.
+
+---
+
+**7. Seasons and typhoons**
+
+> *Dumaraan ang mga bagyo sa rehiyon mula Hunyo hanggang Disyembre.*
+
+**Vocabulary:**
+- **habagat** – *southwest monsoon*
+- **bagyo** – *typhoon*
+- **pinakamatindi** – *the most severe* (root: *tindi* = intensity)
+- **sa alaala ng mga tao** – *in living memory* (*alaala* = memory)
+- **nagpaangat** – *caused to rise* (root: *angat*)
+- **panukat** – *gauge, measuring instrument* (root: *sukat* = measure)
+- **nagpalubog** – *submerged* (root: *lubog*)
+- **humupa** – *to subside* (root: *hupa*)
+- **naranasan** – *experienced* (root: *danas*, d → r)
+
+**Grammar:**
+- *Nagpa-* + root = causative actor focus, completed: *nagpaangat* (made rise), *nagpalubog* (made sink).
+- *Naranasan* = *na-* + *danas* + *-an* (d → r): "was experienced".
+
+**Translation:**
+> Today Biñán's climate is tropical with two clear seasons: the dry season from November to April and the wet season from May to October, when the habagat brings about 90 per cent of the year's rain. At Sangley Point the normal yearly rainfall is about 2,080 mm. The most severe typhoon in living memory was Ondoy in September 2009, which raised the lake to about 14 metres on its gauge and submerged 192 lakeshore barangays for weeks. Lakeshore towns experienced it again in 2020 with Ulysses and in October 2024 with Kristine.
+
+---
+
+**8. A changing climate**
+
+> *Nagbabago rin ang klima.*
+
+**Vocabulary:**
+- **nagbabago** – *is changing* (root: *bago* = new)
+- **pag-init** – *warming* (root: *init* = heat)
+- **naitala** – *was recorded* (root: *tala* = record, note)
+- **rekonstruksiyon** – *reconstruction*
+- **inaasahan** – *is expected* (root: *asa* = hope, expectation)
+- **ramdam** – *felt*
+- **lumulubog** – *is sinking* (root: *lubog*)
+- **pagsipsip** – *the sucking up, pumping* (root: *sipsip* = to suck)
+- **panganib** – *danger, threat*
+- **nagpapatagal** – *makes (something) last longer* (root: *tagal* = duration)
+
+**Grammar:**
+- *Naitala* = *na-* + *i-* + *tala*: completed, object focus with the idea of something achieved – "was (able to be) recorded".
+- *Nagpapatagal* = *nag-* + *pa* + *pa* + *tagal*: ongoing causative – "keeps making longer".
+
+**Translation:**
+> The climate is changing too. PAGASA measured a warming of about 0.65 °C across the Philippines from 1951 to 2010, and 2024 was the hottest year recorded in the country. NASA's climate reconstruction for Biñán's own location shows the same: the average temperature in 2015–2024 was about 0.4 °C higher than in 1981–1990, and 2024 was the warmest year of the series. PAGASA expects about 2 °C more warming by mid-century. The heat is already felt: on 15 April 2025 the heat index reached 50 °C at Los Baños. And the water is rising: around Manila Bay, the sea rose by about a metre relative to the land from 1964 to 2002, mainly because the ground is sinking as too much groundwater is pumped out – a threat that also makes the lakeshore floods last longer.
+
+---
+
+**9. Fertile land, growing city**
+
+> *Pinataba ng abo ng bulkan, ng banlik ng ilog at ng patag na lupa ang Biñán.*
+
+**Vocabulary:**
+- **pinataba** – *made fertile* (root: *taba* = fat)
+- **banlik** – *silt*
+- **patag** – *flat, level*
+- **luad** – *clay*
+- **palayan** – *rice field* (root: *palay* = rice plant)
+- **tubuhan** – *sugarcane field* (root: *tubo* = sugarcane)
+- **pinatutubigan** – *is irrigated* (root: *tubig* = water)
+- **riles** – *railway*
+
+**Grammar:**
+- *Palay* + *-an* → *palayan*, *tubo* + *-an* → *tubuhan* (o → u): the suffix *-an* makes "a field of…".
+- *Pinatutubigan* = *pa-* + *tubig* + *-an* with *-in-* and reduplication: "is (regularly) given water", i.e. irrigated.
+
+**Translation:**
+> Volcanic ash, river silt and flat land made Biñán fertile: its soils, formed on tuff and volcanic ash, are deep and rich in clay. For centuries this land fed rice fields and sugarcane fields watered by canals – the *patubigan* that gave its name to Barangay Tubigan. In the last fifty years the expressways, the railway and the industrial parks have turned these fields into a city, and all 24 barangays are now urban. The next chapters tell how people came to live on this shore, between the fire, the fault and the lake.
+
+---
+
+### Full Verb Breakdown Table
+
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| sumasakop | sakop | Ongoing | Actor | -um- + sa + sakop | occupies |
+| tumataas | taas | Ongoing | Actor | -um- + ta + taas | rises |
+| nagtatago | tago | Ongoing | Actor | nag- + ta + tago | hides |
+| hinubog | hubog | Completed | Object | -in- + hubog | was shaped |
+| naiipit | ipit | Ongoing | Object | na- + i + ipit | is caught |
+| nagkakalapit | lapit | Ongoing | Actor (reciprocal) | nagka- + la + lapit | come closer together |
+| sumusuot | suot | Ongoing | Actor | -um- + su + suot | slips under |
+| sinasalo | salo | Ongoing | Object | -in- + sa + salo | is absorbed |
+| nababanat | banat | Ongoing | Object | na- + ba + banat | is stretched |
+| umaakyat | akyat | Ongoing | Actor | um- + a + akyat | rises |
+| namamatay | patay | Ongoing | Actor | nang- + ma + matay (p → m) | dies out |
+| pumutok | putok | Completed | Actor | -um- + putok | erupted |
+| niyanig | yanig | Completed | Object | -in- + yanig | was shaken |
+| naghahanda | handa | Ongoing | Actor | nag- + ha + handa | is preparing |
+| ginanap | ganap | Completed | Object | -in- + ganap | was held |
+| pinalulubog | lubog | Ongoing | Object (causative) | pa- + lu + lubog, -in- | is made to sink |
+| luminaw | linaw | Completed | Actor | -um- + linaw | became clear |
+| natunaw | tunaw | Completed | Actor | na- + tunaw | melted |
+| hinukay | hukay | Completed | Object | -in- + hukay | was dug |
+| umatras | atras | Completed | Actor | um- + atras | retreated |
+| iniangat | angat | Completed | Object | i- + -in- + angat | was raised |
+| nagpaangat | angat | Completed | Actor (causative) | nagpa- + angat | made rise |
+| nagpalubog | lubog | Completed | Actor (causative) | nagpa- + lubog | submerged |
+| naranasan | danas | Completed | Object | na- + danas + -an (d → r) | was experienced |
+| nagbabago | bago | Ongoing | Actor | nag- + ba + bago | is changing |
+| naitala | tala | Completed | Object | na- + i- + tala | was recorded |
+| lumulubog | lubog | Ongoing | Actor | -um- + lu + lubog | is sinking |
+| pinataba | taba | Completed | Object (causative) | pa- + taba, -in- | made fertile |
+| pinatutubigan | tubig | Ongoing | Object (causative) | pa- + tu + tubig + -an, -in- | is irrigated |
+
+---
+
 ## Pre-Colonial Era / Panahong Pre-Kolonyal
 
 ### Vocabulary and Grammar Explanation

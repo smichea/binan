@@ -407,6 +407,184 @@ def map_barangays(bgys, munis):
     m.save("barangays")
 
 
+# --------------------------------------------------------------------------
+# Geography chapter
+# --------------------------------------------------------------------------
+
+import json  # noqa: E402
+from shapely.geometry import shape as geo_shape  # noqa: E402
+
+# Active volcanoes (PHIVOLCS list), approximate summit coordinates (lon, lat).
+VOLCANOES = {
+    "Pinatubo": (120.35, 15.13), "Taal": (120.99, 14.00), "Banahaw": (121.49, 14.07),
+    "Mayon": (123.69, 13.26), "Bulusan": (124.05, 12.77), "Kanlaon": (123.13, 10.41),
+    "Hibok-Hibok": (124.67, 9.20), "Smith": (121.92, 19.52), "Didicas": (122.20, 19.08),
+    "Biliran": (124.54, 11.52), "Musuan": (125.07, 7.88), "Matutum": (125.07, 6.36),
+}
+
+
+def lines_of(path, keep=lambda props: True):
+    data = json.load(open(DATA / path, encoding="utf-8"))
+    for feature in data["features"]:
+        if keep(feature["properties"]):
+            yield feature["properties"], geo_shape(feature["geometry"])
+
+
+def line_path(m, geom):
+    parts = getattr(geom, "geoms", [geom])
+    d = []
+    for part in parts:
+        pts = [m.xy(x, y) for x, y in part.coords]
+        d.append("M" + " L".join(f"{x:.2f},{y:.2f}" for x, y in pts))
+    return " ".join(d)
+
+
+def volcano(m, lon, lat, size=1.6, fill=ACCENT):
+    x, y = m.xy(lon, lat)
+    m.raw(f'<path d="M{x:.2f},{y - size:.2f} L{x + size * 0.9:.2f},{y + size * 0.7:.2f} '
+          f'L{x - size * 0.9:.2f},{y + size * 0.7:.2f} Z" fill="{fill}" stroke="{PAPER}" stroke-width="0.25"/>')
+
+
+def map_tectonics():
+    """The Philippines between the Philippine Sea Plate and the Sunda Plate."""
+    m = Map(116.2, 4.6, 128.4, 21.0, height=150)
+    for props, geom in topo.load(DATA / "islandgroups.topo.0.001.json"):
+        m.shape(geom.buffer(0), LAND, stroke=MUTED, width=0.2)
+    for props, geom in lines_of("gem_active_faults_philippines.geojson"):
+        is_wvf = props.get("name") == "West Valley Fault"
+        m.raw(f'<path d="{line_path(m, geom)}" fill="none" stroke="{ACCENT if is_wvf else MUTED}" '
+              f'stroke-width="{0.9 if is_wvf else 0.3}" opacity="{1 if is_wvf else 0.8}"/>')
+    for props, geom in lines_of("pb2002_boundaries_philippines.geojson",
+                                lambda p: p.get("Type") == "subduction"):
+        sub = True
+        m.raw(f'<path d="{line_path(m, geom)}" fill="none" stroke="{INK}" '
+              f'stroke-width="{1.0 if sub else 0.6}" stroke-dasharray="{"none" if sub else "1.5,1"}"/>')
+    for name, (lon, lat) in VOLCANOES.items():
+        volcano(m, lon, lat)
+    m.text(120.99, 14.00, "Taal", size=2.5, anchor="end", dx=-1.8, dy=3.4)
+    m.text(120.35, 15.13, "Pinatubo", size=2.5, anchor="end", dx=-1.8, dy=1)
+    m.text(123.69, 13.26, "Mayon", size=2.5, anchor="start", dx=1.8, dy=1)
+    m.text(123.13, 10.41, "Kanlaon", size=2.5, anchor="end", dx=-1.8, dy=1)
+    # Biñan
+    m.dot(121.08, 14.34, r=1.0, fill=PAPER, stroke=ACCENT)
+    m.text(121.08, 14.34, "BIÑAN", size=3.0, weight=700, color=ACCENT, anchor="start", dx=2, dy=-1)
+    # Plates and structures
+    m.text(126.6, 17.3, "PHILIPPINE\nSEA PLATE", size=3.6, weight=600, color=MUTED, spacing=0.3, halo=False)
+    m.text(117.6, 11.0, "SUNDA\n(EURASIAN)\nPLATE", size=3.6, weight=600, color=MUTED, spacing=0.3, halo=False)
+    m.text(118.6, 16.4, "Manila\nTrench", size=2.7, italic=True, color=INK, halo=False)
+    m.text(127.55, 9.4, "Philippine\nTrench", size=2.7, italic=True, color=INK, halo=False)
+    m.text(125.0, 11.0, "Philippine\nFault", size=2.8, italic=True, color=INK, anchor="start", halo=True)
+    m.text(117.4, 7.0, "South China Sea", size=3.0, italic=True, color=WATER_INK, halo=False)
+    m.text(126.9, 20.2, "Pacific Ocean", size=3.0, italic=True, color=WATER_INK, halo=False)
+    m.arrow((127.9, 15.2), (125.9, 16.0), color=INK, width=0.9, shorten=0)
+    m.arrow((116.7, 13.6), (118.5, 14.1), color=INK, width=0.9, shorten=0)
+    m.text(127.5, 14.3, "~8–9 cm/yr", size=2.4, italic=True, halo=False)
+    # Legend
+    lx, ly = 3, m.height - 25
+    m.raw(f'<g font-family="{FONT}" font-size="2.5" fill="{INK}">'
+          f'<rect x="{lx}" y="{ly}" width="44" height="22" fill="{PAPER}" stroke="{RULE}" stroke-width="0.3"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 4}" x2="{lx + 8}" y2="{ly + 4}" stroke="{INK}" stroke-width="1"/>'
+          f'<text x="{lx + 10}" y="{ly + 4.8}">Subduction trench</text>'
+          f'<line x1="{lx + 2}" y1="{ly + 8.5}" x2="{lx + 8}" y2="{ly + 8.5}" stroke="{MUTED}" stroke-width="0.4"/>'
+          f'<text x="{lx + 10}" y="{ly + 9.3}">Active fault</text>'
+          f'<line x1="{lx + 2}" y1="{ly + 13}" x2="{lx + 8}" y2="{ly + 13}" stroke="{ACCENT}" stroke-width="1"/>'
+          f'<text x="{lx + 10}" y="{ly + 13.8}">West Valley Fault</text>'
+          f'<path d="M{lx + 5},{ly + 16.2} L{lx + 6.4},{ly + 18.6} L{lx + 3.6},{ly + 18.6} Z" fill="{ACCENT}"/>'
+          f'<text x="{lx + 10}" y="{ly + 18.6}">Active volcano</text></g>')
+    m.scale_bar(200, x=m.width - 34, y=m.height - 5)
+    m.north_arrow(x=7, y=8)
+    m.save("tectonics")
+
+
+def map_westbay(munis):
+    """Biñan, the West Valley Fault, the Laguna caldera and the old sea link."""
+    m = Map(120.86, 13.96, 121.56, 14.70)
+    for name, info in munis.items():
+        m.shape(info["geom"], LAND, stroke=RULE, width=0.18)
+    m.shape(munis["Biñan"]["geom"], ACCENT, stroke=PAPER, width=0.3)
+    # Laguna caldera, approximate outline (central lobe between Talim and Jala-Jala)
+    cx, cy = m.xy(121.27, 14.40)
+    rx, ry = m.km(11), m.km(6)
+    m.raw(f'<ellipse cx="{cx:.2f}" cy="{cy:.2f}" rx="{rx:.2f}" ry="{ry:.2f}" transform="rotate(-35 {cx:.2f} {cy:.2f})" '
+          f'fill="none" stroke="{GOLD}" stroke-width="0.8" stroke-dasharray="2,1.2"/>')
+    m.text(121.36, 14.47, "Laguna caldera\n(approximate)", size=2.7, italic=True, color="#8a6a26", anchor="start", halo=True)
+    for props, geom in lines_of("gem_active_faults_philippines.geojson",
+                                lambda p: p.get("name") in ("West Valley Fault", "East Valley Fault")):
+        m.raw(f'<path d="{line_path(m, geom)}" fill="none" stroke="{ACCENT}" stroke-width="1.0"/>')
+    m.text(121.005, 14.56, "West Valley\nFault", size=2.7, weight=600, color=ACCENT, anchor="end", halo=True)
+    # Former sea link, 6,600-4,700 years ago (schematic)
+    m.arrow((120.93, 14.50), (121.04, 14.43), color=WATER_INK, width=0.8, shorten=0)
+    m.text(120.905, 14.44, "sea link\n6,600–4,700\nyears ago", size=2.5, italic=True, color=WATER_INK, anchor="middle", halo=True)
+    for name, (lon, lat) in {"Taal": (120.99, 14.00), "Makiling": (121.20, 14.13), "Banahaw": (121.49, 14.07)}.items():
+        volcano(m, lon, lat, size=2.0)
+        right = lon > 121.4
+        m.text(lon, lat, name, size=2.8, anchor="end" if right else "start",
+               dx=-2.2 if right else 2.2, dy=1, weight=600)
+    poblacion = centre(barangays()["Poblacion"])
+    m.dot(*poblacion, r=0.9, fill=PAPER, stroke=INK)
+    m.text(*poblacion, "BIÑAN", size=3.4, weight=700, color=ACCENT, anchor="start", dx=2, dy=-1.4, spacing=0.3)
+    m.text(121.17, 14.55, "Laguna de Bay", size=4.0, italic=True, color=WATER_INK, halo=False)
+    m.text(120.90, 14.60, "Manila\nBay", size=3.2, italic=True, color=WATER_INK, halo=False)
+    m.text(120.985, 14.65, "Manila", size=2.8, weight=600, anchor="start", dx=1)
+    m.scale_bar(10, x=m.width - 30)
+    m.north_arrow(x=7, y=m.height - 16)
+    m.save("westbay")
+
+
+def chart_climate():
+    """Monthly rainfall (PAGASA normals) and annual temperature (NASA POWER) for Biñan."""
+    rain = [16.9, 11.1, 9.4, 18.5, 139.1, 264.5, 422.4, 457.5, 341.8, 224.3, 110.5, 62.7]
+    power = json.load(open(Path(__file__).resolve().parent.parent / "research" /
+                           "nasa_power_binan_1981_2024.json"))["properties"]["parameter"]["T2M"]
+    years = list(range(1981, 2025))
+    temps = [power[f"{y}13"] for y in years]
+    W, H = 116.0, 62.0
+    items = [f'<rect width="{W}" height="{H}" fill="{PAPER}"/>']
+    font = f'font-family="{FONT}"'
+    # Panel 1: rainfall
+    x0, y0, pw, ph = 8, 10, 46, 40
+    items.append(f'<text x="{x0}" y="5.5" {font} font-size="3" font-weight="600" fill="{ACCENT}">Rainfall by month (mm)</text>')
+    for k, v in enumerate(rain):
+        bw = pw / 12
+        h = v / 480 * ph
+        items.append(f'<rect x="{x0 + k * bw + 0.4:.2f}" y="{y0 + ph - h:.2f}" width="{bw - 0.8:.2f}" height="{h:.2f}" '
+                     f'fill="{WATER_INK if 4 <= k <= 9 else RULE}"/>')
+        items.append(f'<text x="{x0 + k * bw + bw / 2:.2f}" y="{y0 + ph + 3.2:.2f}" {font} font-size="2.3" '
+                     f'text-anchor="middle" fill="{MUTED}">{"JFMAMJJASOND"[k]}</text>')
+    for v in (0, 200, 400):
+        yy = y0 + ph - v / 480 * ph
+        items.append(f'<line x1="{x0}" x2="{x0 + pw}" y1="{yy:.2f}" y2="{yy:.2f}" stroke="{RULE}" stroke-width="0.15"/>')
+        items.append(f'<text x="{x0 - 1}" y="{yy + 0.8:.2f}" {font} font-size="2.2" text-anchor="end" fill="{MUTED}">{v}</text>')
+    items.append(f'<text x="{x0}" y="{H - 2}" {font} font-size="2.2" font-style="italic" fill="{MUTED}">PAGASA normals, Sangley Point</text>')
+    # Panel 2: temperature
+    x1, pw2 = 66, 46
+    lo, hi = 25.2, 26.8
+    items.append(f'<text x="{x1}" y="5.5" {font} font-size="3" font-weight="600" fill="{ACCENT}">Mean yearly temperature (°C)</text>')
+    for v in (25.5, 26.0, 26.5):
+        yy = y0 + ph - (v - lo) / (hi - lo) * ph
+        items.append(f'<line x1="{x1}" x2="{x1 + pw2}" y1="{yy:.2f}" y2="{yy:.2f}" stroke="{RULE}" stroke-width="0.15"/>')
+        items.append(f'<text x="{x1 - 1}" y="{yy + 0.8:.2f}" {font} font-size="2.2" text-anchor="end" fill="{MUTED}">{v}</text>')
+    pts = [(x1 + (y - 1981) / 43 * pw2, y0 + ph - (t - lo) / (hi - lo) * ph) for y, t in zip(years, temps)]
+    items.append('<polyline points="' + " ".join(f"{x:.2f},{y:.2f}" for x, y in pts) +
+                 f'" fill="none" stroke="{ACCENT}" stroke-width="0.5"/>')
+    n = len(years); mx = sum(years) / n; my = sum(temps) / n
+    b = sum((x - mx) * (t - my) for x, t in zip(years, temps)) / sum((x - mx) ** 2 for x in years)
+    t0, t1 = my + b * (1981 - mx), my + b * (2024 - mx)
+    items.append(f'<line x1="{x1}" x2="{x1 + pw2}" y1="{y0 + ph - (t0 - lo) / (hi - lo) * ph:.2f}" '
+                 f'y2="{y0 + ph - (t1 - lo) / (hi - lo) * ph:.2f}" stroke="{INK}" stroke-width="0.35" stroke-dasharray="1.2,0.8"/>')
+    for y in (1981, 2000, 2024):
+        xx = x1 + (y - 1981) / 43 * pw2
+        items.append(f'<text x="{xx:.2f}" y="{y0 + ph + 3.2:.2f}" {font} font-size="2.3" text-anchor="middle" fill="{MUTED}">{y}</text>')
+    items.append(f'<text x="{x1 + pw2}" y="{y0 + 3}" {font} font-size="2.4" text-anchor="end" fill="{INK}" '
+                 f'font-style="italic">trend ≈ +{b * 10:.2f} °C per decade</text>')
+    items.append(f'<text x="{x1}" y="{H - 2}" {font} font-size="2.2" font-style="italic" fill="{MUTED}">NASA POWER (MERRA-2), 14.34°N 121.08°E</text>')
+    OUT.mkdir(parents=True, exist_ok=True)
+    (OUT / "climate.svg").write_text(
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}mm" height="{H}mm" viewBox="0 0 {W} {H}">'
+        + "".join(items) + "</svg>\n", encoding="utf-8")
+    print("wrote book/layout/maps/climate.svg")
+
+
 if __name__ == "__main__":
     munis = municipalities()
     bgys = barangays()
@@ -414,3 +592,6 @@ if __name__ == "__main__":
     map_territory(munis)
     map_liberation(munis, bgys)
     map_barangays(bgys, munis)
+    map_tectonics()
+    map_westbay(munis)
+    chart_climate()

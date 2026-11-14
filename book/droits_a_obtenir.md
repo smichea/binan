@@ -47,3 +47,14 @@ Voir `book/archives_catalogue.md` et `book/archives_catalogue_2.md` : *Pictorial
 Modèle de demande pour la ville de Biñan (anglais) :
 
 > I am preparing a bilingual (English/Filipino) history of Biñan City for publication by [publisher] in [year]. I would like permission to reproduce five photographs published on Experience Biñan (experiencebinan.com): pospas, Puto Biñan, the maglalatik dancers, the Puto Latik Festival street dancers and Araw ng Biñan by night, with the credit "Experience Biñan, City Government of Biñan (BCHATO)". If possible, could you also share high-resolution files (at least 2,000 px wide) and the names of the photographers to credit?
+
+## Chapitre I (géographie) : crédits obligatoires
+
+| Document | Licence | Crédit |
+|---|---|---|
+| Photos de la Station spatiale (lac et baie de Manille 2016, cendres du Taal 2020) | Domaine public | NASA, ISS Crew Earth Observations Facility |
+| Plan de la West Valley Fault à Carmona (2017) | CC BY-SA 4.0 | Ervin Malicdem, via Wikimedia Commons |
+| Mont Makiling (2021) | CC BY-SA 4.0 | Zian Colt, via Wikimedia Commons |
+| Carte tectonique et carte du lac : failles | CC BY-SA | GEM Global Active Faults Database (Styron & Pagani 2020) |
+| Carte tectonique : limites de plaques | ODC-By | P. Bird (2003), PB2002, version H. Ahlenius |
+| Graphique du climat | données publiques | PAGASA (normales de Sangley Point), NASA POWER |
