@@ -107,6 +107,11 @@ FIGURES = [
                  "Barangay Mabuhay, Carmona, a few kilometres from Biñan.",
          tagalog="Ang West Valley Fault sa Carmona.",
          credit="Photo: Ervin Malicdem, 2017, CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=1, after=6, kind="Illustration", id="lagoon", src="images/illustrations/salt-lagoon-6000-years.jpg",
+         title="The salt lagoon, 6,000 years ago",
+         caption="An impression of the shore of Biñan about 6,000 years ago, when the western part "
+                 "of the lake was an arm of the sea: mangroves, tidal flats and shellfish gatherers.",
+         tagalog="Ang maalat na laguna, 6,000 taon na ang nakararaan.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
     dict(chapter=1, after=7, kind="Chart", id="climate", src="maps/climate.svg",
          title="The climate of Biñan",
          caption="Left: the monsoon year – normal monthly rainfall at Sangley Point, the nearest "
@@ -137,12 +142,22 @@ FIGURES = [
                  "species found only on Luzon.",
          tagalog="Ang Homo luzonensis.",
          credit="Wikimedia Commons, CC BY-SA 4.0 (after Détroit et al. 2019)."),
+    dict(chapter=2, after=2, kind="Illustration", id="ill-luzonensis", src="images/illustrations/homo-luzonensis.jpg",
+         title="Homo luzonensis, an impression",
+         caption="An impression of Homo luzonensis at a cave mouth in Cagayan. Only teeth and a "
+                 "few small bones have been found: its true appearance is unknown.",
+         tagalog="Ang Homo luzonensis, ayon sa guhit ng isang artista.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
     dict(chapter=2, after=3, kind="Photo", id="tabon", src="images/prehistory/tabon-cave.jpg",
          title="Tabon Cave, Palawan",
          caption="Tabon Cave in Palawan, where the oldest known bones of modern humans in the "
                  "Philippines were found.",
          tagalog="Ang Kuweba ng Tabon sa Palawan.",
          credit="Photo: Traveler1925, public domain, via Wikimedia Commons."),
+    dict(chapter=2, after=5, kind="Illustration", id="ill-austronesians", src="images/illustrations/austronesian-arrival.jpg",
+         title="Austronesian seafarers reach Luzon",
+         caption="An impression of Austronesian seafarers landing in northern Luzon about 4,000 "
+                 "years ago, with their outrigger canoes, red-slipped pots, plants and animals.",
+         tagalog="Ang pagdating ng mga manlalayag na Austronesyo sa Luzon.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
     dict(chapter=2, after=5, kind="Map", id="prehistoric-sites", src="maps/prehistoric-sites.svg",
          title="Prehistoric sites of the Philippines",
          caption="Some prehistoric sites of the Philippines, and, in detail, the places around "
@@ -162,6 +177,12 @@ FIGURES = [
                  "boat carry a soul to the afterlife. National Museum of the Philippines.",
          tagalog="Ang Banga ng Manunggul.",
          credit="Photo: Gary Todd, CC0, via Wikimedia Commons."),
+    dict(chapter=2, after=8, kind="Illustration", id="ill-village", src="images/illustrations/lakeshore-village.jpg",
+         title="A lakeshore village, about 1,000 years ago",
+         caption="An impression of a village on Laguna de Bay about a thousand years ago: houses on "
+                 "stilts, outrigger canoes, fishing nets, taro and earthen jars, with Mount "
+                 "Makiling across the water.",
+         tagalog="Isang nayon sa baybayin ng lawa, mga 1,000 taon na ang nakararaan.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
     dict(chapter=2, after=8, kind="Photo", id="balangay", src="images/prehistory/balangay-replica.jpg",
          title="A balangay sails again",
          caption="A modern replica of a balangay, the plank boat of ancient Butuan, sailing on "
@@ -656,6 +677,10 @@ def colophon(doc):
   <p class="colophon-head">Maps</p>
   <p>Drawn for this book from the Philippine Standard Geographic Code boundaries
      (PSA, via OCHA and github.com/faeldon/philippines-json-maps, MIT licence).</p>
+  <p class="colophon-head">Illustrations</p>
+  <p>Illustrations marked as impressions were created for this book with an AI image
+     generator (Figma) and checked against the sources cited in the text; they are not
+     historical documents.</p>
   <p class="colophon-head">Typography</p>
   <p>Set in EB Garamond and Cormorant Garamond (SIL Open Font License).</p>
   <p class="colophon-head">Sources</p>
