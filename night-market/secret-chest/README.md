@@ -29,16 +29,17 @@ Everything prints in one colour per part, flat on the bed, without supports. Pri
 
 | Part | Colour | Qty | Print time | Filament |
 |---|---|---|---|---|
-| `body` | A (chest) | 1 | 2 h 35 | 23 g |
-| `lid` | A (chest) | 1 | 1 h 35 | 15 g |
-| `plinth` | B (trim) | 1 | 1 h 30 | 15 g |
-| `drawer` | B (trim) | 1 | 50 min | 9 g |
-| `lid_strap` | B (trim) | 2 | 5 min each | 1 g each |
-| `body_strap` | B (trim) | 2 | 2 min each | under 1 g |
-| `lock_plate` | B (trim) | 1 | 3 min | under 1 g |
-| **One chest** | | | **about 6 h 45** | **about 64 g** |
+| `body` | A (chest) | 1 | 36 min | 22 g |
+| `lid` | A (chest) | 1 | 25 min | 15 g |
+| `plinth` | B (trim) | 1 | 23 min | 13 g |
+| `drawer` | B (trim) | 1 | 13 min | 8 g |
+| `lid_strap` | B (trim) | 2 | 3 min each | 1 g each |
+| `body_strap` | B (trim) | 2 | 1 min each | under 1 g |
+| `lock_plate` | B (trim) | 1 | 1 min | under 1 g |
+| **One chest** (plate A 1 h, plate B 40 min) | | | **about 1 h 40** | **about 61 g** |
+| **Three chests** (two full beds: 3 h and 2 h) | | | **about 5 h** | **about 183 g** |
 
-Times and weights come from slicing with the settings below at Ender-style speeds (45 to 60 mm/s, 500 mm/s² acceleration). A draft profile (0.28 mm layers, 2 walls, 10 % infill) brings one chest down to about 4 h 25 and 59 g.
+Times and weights are slicer estimates for an Ender-3 V3 KE on its stock 0.20 mm Standard profile (200 to 300 mm/s, 2 walls, 15 % infill). They leave out heating and bed levelling. Three sets of each colour fit on one 220 × 220 mm bed.
 
 Hardware per chest:
 
@@ -49,7 +50,7 @@ Hardware per chest:
 
 ## Print settings
 
-- PLA, 0.4 mm nozzle, 0.2 mm layers, 3 walls, 15 % infill.
+- Ender-3 V3 KE: the stock **0.20 mm Standard** profile in Creality Print or OrcaSlicer, with PLA and the 0.4 mm nozzle. It uses 2 walls and 15 % infill, which is enough here.
 - No supports and no brim. Keep the orientation of the STL files.
 - The lid has a 24 mm bridge across its inside ceiling. The slicer may warn about a long bridge; leave supports off and run the part fan at 100 %.
 - A squashed first layer makes the drawer tight. The parts have a small chamfer at the bottom for this, but if the drawer still drags, raise the nozzle slightly or turn on elephant-foot compensation.

@@ -46,7 +46,7 @@ detent = 0.5;    // height of the two click bumps (0 = none)
 /* [Ball lock] */
 ball_d = 6;       // set to your ball: 6 (steel ball / airsoft BB) or 6.35 (1/4" bearing ball)
 ball_gap = 0.35;  // extra track width
-th = 3.6;         // thickness of the drawer's hook
+th = 3.4;         // thickness of the drawer's hook
 stem_w = 5;
 head_e = 1.2;     // how far the hook reaches past the ball centre
 head_tip = 2.4;
@@ -72,11 +72,11 @@ heel = 5;          // lid stop: longer heel = lid stops earlier (5 -> about 107 
 /* [Trim] */
 strap_x = 20;     // strap / hinge positions, +- from centre
 strap_w = 7;
-strap_t = 1.3;
+strap_t = 1.4;
 groove = 0.5;
 plate_w = 12;
 plate_h = 13;
-plate_t = 1.5;
+plate_t = 1.6;
 
 /* [Fixing body to plinth] */
 screw_d = 3;      // M3 x 10; holes are simply left empty if you glue instead
@@ -115,7 +115,7 @@ x_open1 = xs1 + 0.5;
 x_tr0 = xh0 - ball_d - 1.0;         // left end of the track
 x_tr1 = xs0;                        // right end: the ball cannot get in front of the stem
 x_slope0 = xh0 - 0.1;               // the track floor rises to the left of this
-open_h = th + 0.5;
+open_h = th + 0.6;
 y_hf = y_tr1 + head_off;            // front face of the hook head
 xd = PW/2 - wp - cl;                // drawer half width
 zt = Hp - top_gap;                  // drawer top
@@ -199,8 +199,8 @@ module plinth() {
         translate([x_seat, y_trc, 0.4]) cylinder(d = seat_d, h = tf);
         // finger notch under the drawer front, plus matching dummy notches
         translate([-11, yF-1, -1]) cube([22, 13, tf+1+eps]);
-        translate([-11, yB-1.5, -1]) cube([22, 3, tf+1]);
-        mirror_x() translate([PW/2-1.5, D/2-9, -1]) cube([3, 18, tf+1]);
+        translate([-11, yB-0.8, -1]) cube([22, 3, tf+1]);
+        mirror_x() translate([PW/2-0.8, D/2-9, -1]) cube([3, 18, tf+1]);
         // dummy seams on sides and back, so the real drawer seams look like trim
         difference() {
           union() {
@@ -217,7 +217,7 @@ module plinth() {
         }
       }
       // pegs that locate the body
-      mirror_x() translate([x_peg, y_peg, Hp-eps]) cylinder(d = peg_d, h = 0.9);
+      mirror_x() translate([x_peg, y_peg, Hp-eps]) cylinder(d = peg_d, h = 1.0);
       // click bumps for the drawer
       if (detent > 0)
         mirror_x() translate([PW/2-wp+1.2-detent, y_det, z_det]) sphere(r = 1.2, $fn = 24);
@@ -238,7 +238,7 @@ module drawer() {
       // front panel: looks like the front of the plinth
       intersection() {
         plinth_env();
-        cbox([-PW/2, yF, tf], [PW/2, y_dfront, Hp-0.25]);
+        cbox([-PW/2, yF, tf], [PW/2, y_dfront, Hp-0.2]);
       }
       // tray
       cbox([-xd, yF+0.5, tf], [xd, y_dback, zt]);
