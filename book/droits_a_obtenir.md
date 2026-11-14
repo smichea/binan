@@ -1,0 +1,35 @@
+# Droits à obtenir avant publication
+
+Le brouillon (`python3 book/build_pdf.py`) contient les documents ci-dessous. Ceux marqués
+`rights="pending"` dans `book/build_pdf.py` portent la mention « Reproduction rights being
+requested » dans leur légende. `python3 book/build_pdf.py --final` produit le livre **sans** eux.
+
+## Autorisation nécessaire
+
+| Document | Page du livre | Détenteur des droits | Contact |
+|---|---|---|---|
+| Photo 6 : « Carabaos on the Manila South Road, looking toward Biñan », Robert L. Pendleton, 6 décembre 1934 (AGSL id 14222, négatif 409.11) | chapitre III | Board of Regents of the University of Wisconsin System, American Geographical Society Library (UW–Milwaukee) | agsl@uwm.edu, +1 414-229-6282 |
+
+Ces photos entrent dans le domaine public le 1er janvier 2028 (négatifs inédits, photographe mort en 1957) : un livre publié en 2028 ou après pourra les utiliser sans autorisation.
+
+Modèle de demande (anglais) :
+
+> I am preparing a bilingual (English/Filipino) local-history book on Biñan, Laguna, Philippines, to be published by [publisher] in [year], print run about [n] copies, [non-profit/commercial]. I would like permission to reproduce the photograph by Robert L. Pendleton held in the AGSL Digital Photo Archive "Laguna province (Philippines), water buffaloes on the Manila south road" (agsphoto id 14222, Pendleton negative 409.11, identifier pe004836), taken 6 December 1934 on the Manila South Road between Biñan and Muntinlupa. I request non-exclusive, one-time print and e-book rights, worldwide, with the credit line "Robert L. Pendleton, 1934. American Geographical Society Library, University of Wisconsin–Milwaukee Libraries." Please let me know of any fees, the required credit wording, and whether a higher-resolution TIFF file is available.
+
+## Licence libre : pas d'autorisation, mais crédit obligatoire
+
+| Document | Licence | Crédit exigé |
+|---|---|---|
+| Map 4 : carte manuscrite espagnole du XVIIIe s. | CC BY 4.0 | Fuente: Archivo Cartográfico de Estudios Geográficos del Centro Geográfico del Ejército / Biblioteca Virtual de Defensa |
+| Map 5 : *Provincia de Cavite y región limítrofe*, 1897 | CC BY 4.0 | Fuente: Archivo Histórico de la Armada Juan Sebastián de Elcano / Biblioteca Virtual de Defensa (à confirmer auprès de bibliotecas@oc.mde.es : le crédit pourrait devoir nommer le Centro Geográfico del Ejército) |
+| Photo de couverture (église San Isidro) | CC BY-SA 4.0 | patrickroque01, via Wikimedia Commons |
+| Photo de l'Alberto Mansion | CC BY-SA 3.0 | Bengoeswhere, via Wikimedia Commons |
+| Photo 1 : inscription sur cuivre de Laguna | CC0 | (facultatif) Gary Todd |
+
+## Domaine public
+
+Cartes de Murillo Velarde (1734) et de l'Atlas de Filipinas (1899–1900) ; photos tirées des livres d'Austin Craig (1913 et 1918) ; carte de l'U.S. Army Map Service (1956) ; photo du pont (U.S. National Archives, vers 1951).
+
+## Pistes pour d'autres images
+
+Voir `book/archives_catalogue.md` et `book/archives_catalogue_2.md` : *Pictorial Album on Rizal* (1962, accord de la NHCP pour un usage commercial), archives Retrato de la Filipinas Heritage Library (environ 10 photos de Biñan, dont la place avec des calèches en 1971, à commander via leur formulaire « Request for Reproduction »), cartes postales de collectionneurs.

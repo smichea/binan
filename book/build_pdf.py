@@ -89,7 +89,7 @@ FIGURES = [
          credit="Pedro Murillo Velarde, Carta hydrographica y chorographica de las Yslas "
                 "Filipinas (Manila, 1734). Library of Congress, Geography and Map Division. "
                 "Public domain."),
-    dict(chapter=2, after=3, kind="Map", id="manuscript", src="images/archives/manuscript-laguna-18th-c.jpg",
+    dict(chapter=2, after=2, kind="Map", id="manuscript", src="images/archives/manuscript-laguna-18th-c.jpg",
          title="“Biñang” on an 18th-century Spanish map",
          caption="Detail of an 18th-century Spanish manuscript map of the surroundings of "
                  "Laguna de Bay: the town of “Biñang” with its church (red square), the river "
@@ -98,6 +98,29 @@ FIGURES = [
          tagalog="Ang “Biñang” sa isang mapang Espanyol noong ika-18 siglo.",
          credit="Fuente: Archivo Cartográfico de Estudios Geográficos del Centro Geográfico "
                 "del Ejército / Biblioteca Virtual de Defensa. CC BY 4.0."),
+    dict(chapter=2, after=3, kind="Map", id="map1897", src="images/archives/cavite-region-map-1897.jpg",
+         title="“Biñang” on a Spanish military map, 1897",
+         caption="“Biñang” and its barrios on the Spanish military map of the province of Cavite "
+                 "and the neighbouring region, drawn in 1897 during the Philippine Revolution.",
+         tagalog="Ang “Biñang” sa isang mapang militar ng Espanya, 1897.",
+         credit="Provincia de Cavite y región limítrofe, 1897. Fuente: Archivo Histórico de la "
+                "Armada Juan Sebastián de Elcano / Biblioteca Virtual de Defensa. CC BY 4.0."),
+    dict(chapter=2, after=3, kind="Photo", id="school", src="images/archives/justiniano-school-site-pre1918.jpg",
+         title="Where Rizal went to school in Biñan",
+         caption="“Where Rizal went to school in Biñan: site of Master Justiniano’s house, which "
+                 "burned down many years ago.” The young José Rizal studied here in 1869–70; the "
+                 "site is now the School of Dr. José Rizal museum.",
+         tagalog="Ang dating paaralan ni Maestro Justiniano, kung saan nag-aral si Rizal.",
+         credit="Austin Craig, Rizal’s Own Story of His Life (Manila, 1918). Internet Archive. "
+                "Public domain."),
+    dict(chapter=2, after=3, kind="Photo", id="tablet", small=True,
+         src="images/archives/jose-alberto-tablet-pre1913.jpg",
+         title="Memorial tablet of José Alberto",
+         caption="Memorial tablet of José Alberto, Rizal’s uncle and owner of the Alberto house, "
+                 "who died on 29 October 1875, in the church of Biñan.",
+         tagalog="Ang lapida ni José Alberto sa simbahan ng Biñán.",
+         credit="Austin Craig, Lineage, Life and Labors of José Rizal (Manila, 1913). "
+                "Internet Archive. Public domain."),
     dict(chapter=3, after=1, kind="Map", id="atlas", src="images/archives/atlas-filipinas-1899.jpg",
          title="Biñan in the Atlas de Filipinas, 1899–1900",
          caption="“Biñang” in the Atlas de Filipinas of the Manila Observatory (Map No. 9, "
@@ -106,6 +129,30 @@ FIGURES = [
          tagalog="Ang Biñán sa Atlas de Filipinas, 1899–1900.",
          credit="Observatorio de Manila / U.S. Coast and Geodetic Survey, Atlas of the "
                 "Philippine Islands (Washington, 1900), Map No. 9. Internet Archive. Public domain."),
+    dict(chapter=3, after=2, kind="Photo", id="monument", src="images/archives/rizal-monument-plaza-pre1918.jpg",
+         title="The Rizal monument on the plaza, 1918",
+         caption="The Rizal monument on the town plaza, newly built, with the Alberto house – the "
+                 "home of Rizal’s mother’s family – behind it.",
+         tagalog="Ang bantayog ni Rizal sa plasa ng Biñán, mga 1918.",
+         credit="Austin Craig, Rizal’s Own Story of His Life (Manila, 1918). Internet Archive. "
+                "Public domain."),
+    dict(chapter=3, after=3, kind="Photo", id="cinema", src="images/archives/alberto-house-cinematograph-pre1918.jpg",
+         title="The Alberto house as a cinema, 1910s",
+         caption="“Rizal’s uncle’s home in Biñan”: in the 1910s the ground floor of the Alberto "
+                 "house served as the town’s cinematograph – a sign of the new American-era "
+                 "leisure, from movies to baseball.",
+         tagalog="Ang bahay ng mga Alberto noong naging sinehan, dekada 1910.",
+         credit="Austin Craig, Rizal’s Own Story of His Life (Manila, 1918). Internet Archive. "
+                "Public domain."),
+    dict(chapter=3, after=4, kind="Photo", id="southroad", rights="pending",
+         src="images/archives/pendleton-south-road-1934.jpg",
+         title="Carabaos on the Manila South Road, 1934",
+         caption="Carabaos on the Manila South Road between Muntinlupa and Biñan, looking toward "
+                 "Biñan, 6 December 1934. Rain trees line the national road; rice fields and a "
+                 "telegraph line run alongside.",
+         tagalog="Mga kalabaw sa Manila South Road patungong Biñán, 1934.",
+         credit="Robert L. Pendleton, 1934. American Geographical Society Library, University "
+                "of Wisconsin–Milwaukee Libraries (negative 409.11)."),
     dict(chapter=4, after=1, kind="Map", id="liberation", src="maps/liberation.svg",
          title="The liberation of Biñan, 1945",
          caption="The liberation of Biñan, 3 February 1945: the Hunters ROTC guerrillas "
@@ -154,6 +201,8 @@ def figure_html(fig, number):
         credit += ' <span class="rights-pending">Reproduction rights being requested.</span>'
 
     css = "map" if fig["src"].endswith(".svg") else "archive"
+    if fig.get("small"):
+        css += " small"
     return (
         f'<figure class="{css}" id="fig-{fig["id"]}"><img src="{fig["src"]}" alt="">'
         f'<figcaption><span class="map-no">{fig["kind"]} {number}.</span> '
@@ -342,7 +391,9 @@ def table_of_contents(body):
             rows.append(f'<li><a class="toc-map" href="#fig-{fig["id"]}">'
                         f'<span class="toc-kind">{fig["kind"]} {counts[fig["kind"]]}.</span> '
                         f'{fig["title"]}</a></li>')
-        map_list = ('<p class="toc-maps-title">Maps and documents · Mga mapa at dokumento</p>'
+        map_list = ('</section><section class="toc toc-figures">'
+                    '<h1 class="toc-title">Maps and documents</h1>'
+                    '<p class="toc-sub">Mga mapa at dokumento</p>'
                     f'<ol class="toc-maps">{"".join(rows)}</ol>')
     return (
         '<section class="toc"><h1 class="toc-title">Contents</h1>'

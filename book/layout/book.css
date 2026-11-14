@@ -71,7 +71,7 @@ strong { font-weight: 600; }
 
 /* ---------- Colophon ---------- */
 
-.colophon { page: front; break-after: page; font-size: 8.5pt; color: var(--muted); padding-top: 30mm; }
+.colophon { page: front; break-after: page; font-size: 7.6pt; line-height: 1.3; color: var(--muted); padding-top: 0; }
 .colophon p { text-align: left; text-indent: 0; margin-bottom: 1mm; }
 .colophon-title { font-weight: 600; color: var(--ink); font-size: 9.5pt; }
 .colophon-head { font-variant: small-caps; letter-spacing: 0.1em; color: var(--accent); margin-top: 3mm; }
@@ -90,6 +90,7 @@ figure.map figcaption { font-style: normal; color: var(--ink); font-size: 8.8pt;
 figcaption .tl { color: var(--muted); }
 figure.archive figcaption { font-style: normal; color: var(--ink); }
 figure.archive img { border: 0.4pt solid var(--rule); max-height: 125mm; width: auto; max-width: 100%; margin: 0 auto; }
+figure.small img { max-height: 70mm; }
 figcaption .credit { display: block; font-size: 7.4pt; color: var(--muted); margin-top: 0.8mm; }
 .rights-pending { display: block; font-size: 7.4pt; color: #b3261e; font-style: italic; }
 .toc-kind { color: var(--accent); font-variant: small-caps; }
@@ -108,7 +109,7 @@ figcaption .credit { display: block; font-size: 7.4pt; color: var(--muted); marg
 .toc-maps-title { font-variant: small-caps; letter-spacing: 0.12em; color: var(--accent); margin: 6mm 0 2mm;
                   text-align: left; }
 .toc ol.toc-maps { counter-reset: none; }
-.toc-maps li { counter-increment: none; margin-bottom: 0.8mm; font-size: 9.5pt; }
+.toc-maps li { counter-increment: none; margin-bottom: 2mm; font-size: 10pt; }
 .toc-map::before { content: none; }
 .toc-map::after { content: leader(". ") target-counter(attr(href url), page); }
 .toc-tl { display: block; font-style: italic; color: var(--muted); font-size: 9.5pt; padding-left: 2.2em; }
