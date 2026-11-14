@@ -91,6 +91,7 @@ figcaption .tl { color: var(--muted); }
 figure.archive figcaption { font-style: normal; color: var(--ink); }
 figure.archive img { border: 0.4pt solid var(--rule); max-height: 125mm; width: auto; max-width: 100%; margin: 0 auto; }
 figcaption .credit { display: block; font-size: 7.4pt; color: var(--muted); margin-top: 0.8mm; }
+.rights-pending { display: block; font-size: 7.4pt; color: #b3261e; font-style: italic; }
 .toc-kind { color: var(--accent); font-variant: small-caps; }
 
 /* ---------- Table of contents ---------- */

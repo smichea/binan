@@ -11,6 +11,7 @@ Usage (from anywhere):  python3 book/build_pdf.py
 import html
 import re
 import subprocess
+import sys
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
@@ -138,8 +139,20 @@ FIGURES = [
 ]
 
 
+# Documents still under copyright are marked rights="pending" in FIGURES: they
+# appear in the draft with a notice, and are left out by `build_pdf.py --final`.
+FINAL = "--final" in sys.argv
+
+
+def active_figures():
+    return [f for f in FIGURES if not (FINAL and f.get("rights") == "pending")]
+
+
 def figure_html(fig, number):
     credit = f' <span class="credit">{fig["credit"]}</span>' if fig.get("credit") else ""
+    if fig.get("rights") == "pending":
+        credit += ' <span class="rights-pending">Reproduction rights being requested.</span>'
+
     css = "map" if fig["src"].endswith(".svg") else "archive"
     return (
         f'<figure class="{css}" id="fig-{fig["id"]}"><img src="{fig["src"]}" alt="">'
@@ -271,7 +284,7 @@ def prepare_history(markdown):
         out.append(links_to_footnotes(block))
         if not tagalog:
             english_paragraphs += 1
-            for fig in FIGURES:
+            for fig in active_figures():
                 if (fig["chapter"], fig["after"]) == (chapter, english_paragraphs):
                     numbers[fig["kind"]] = numbers.get(fig["kind"], 0) + 1
                     out.append(figure_html(fig, numbers[fig["kind"]]))
@@ -320,7 +333,7 @@ def table_of_contents(body):
         for tagalog, anchor, title in entries
     )
     present = set(re.findall(r'<figure class="[^"]+" id="fig-([^"]+)"', body))
-    figures = [f for f in FIGURES if f["id"] in present]
+    figures = [f for f in active_figures() if f["id"] in present]
     map_list = ""
     if figures:
         counts, rows = {}, []
@@ -357,7 +370,7 @@ def colophon(doc):
     archive_credits = ""
     if doc["source"].name == "history.md":
         archive_credits = '<p class="colophon-head">Archival maps and photographs</p>' + "".join(
-            f"<p>{fig['title']}: {fig['credit']}</p>" for fig in FIGURES if fig.get("credit"))
+            f"<p>{fig['title']}: {fig['credit']}</p>" for fig in active_figures() if fig.get("credit"))
     return f"""
 <section class="colophon">
   <p class="colophon-title">{doc['title']}</p>
