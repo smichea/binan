@@ -11,7 +11,7 @@ Explanation of tagalog text for english only speakers
 
 **1.**  
 **Original:**  
-> *Bago pa man dumating ang mga Espanyol, ang lupain ng Biñan ay bahagi ng sinaunang pamayanan ng Tabuco (na ngayon ay Cabuyao).*
+> *Bago pa man dumating ang mga Espanyol, ang lupain ng Biñán ay bahagi ng sinaunang pamayanan ng Tabuco (na ngayon ay Cabuyao).*
 
 **Vocabulary:**  
 - **bago pa man** – *even before*  
@@ -24,7 +24,7 @@ Explanation of tagalog text for english only speakers
 - **na ngayon ay** – *which is now*
 
 **Grammar:**  
-- Passive past construction.  
+- Actor-focus completed verb (*dumating*) in the time clause; *ay* links subject and predicate.  
 - Apposition: *Tabuco (na ngayon ay Cabuyao)* explains and updates Tabuco's identity.
 
 **Translation:**  
@@ -34,7 +34,7 @@ Explanation of tagalog text for english only speakers
 
 **2.**  
 **Original:**  
-> *Walang maituturing na bayan noon sa Biñan – kakaunti at magkakalayo ang mga naninirahan, at payak ang kanilang pamumuhay.*
+> *Walang maituturing na bayan noon sa Biñán – kakaunti at magkakalayo ang mga naninirahan, at payak ang kanilang pamumuhay.*
 
 **Vocabulary:**  
 - **walang** – *none, no*  
@@ -43,7 +43,7 @@ Explanation of tagalog text for english only speakers
 - **noon** – *at that time*  
 - **kakaunti** – *few, sparse*  
 - **magkakalayo** – *scattered, distant from each other* (root: *layo* = distance)  
-- **nananinirahan** – *residents* (root: *tirahan* = place to live)  
+- **naninirahan** – *residents, those living (there)* (root: *tira* = to stay, to live; *manirahan* = to reside)  
 - **payak** – *simple, plain*  
 - **kanilang pamumuhay** – *their way of life* (root: *buhay* = life)
 
@@ -71,7 +71,7 @@ Explanation of tagalog text for english only speakers
 - **prutas** – *fruits*  
 - **halamang-ugat** – *root crops* (plants like yam, cassava)  
 - **gubat** – *forest*  
-- **nangangaso** – *hunting* (root: *gaso* = hunt)  
+- **nangangaso** – *hunting* (root: *aso* = dog; *mangaso* = to hunt, originally with dogs)  
 - **baboy-ramo** – *wild boar*  
 - **iba pang hayop** – *other animals*  
 - **kaparangan** – *grassland, open fields*
@@ -108,7 +108,7 @@ Explanation of tagalog text for english only speakers
 
 **5.**  
 **Original:**  
-> *Mayroon mang maliitang kalakalan sa pagitan ng mga karatig na nayon sa pamamagitan ng barter, walang malaking pamilihan o sentro sa lugar ng Biñan noong panahong iyon.*
+> *Mayroon mang maliitang kalakalan sa pagitan ng mga karatig na nayon sa pamamagitan ng barter, walang malaking pamilihan o sentro sa lugar ng Biñán noong panahong iyon.*
 
 **Vocabulary:**  
 - **mayroon mang** – *even though there was*  
@@ -123,7 +123,7 @@ Explanation of tagalog text for english only speakers
 
 **Grammar:**  
 - *Mayroon mang...walang...* → concessive structure (although there was... there was no...)  
-- *Pamilihan* = marketplace noun (root: *bili* = buy + suffix *-han*)
+- *Pamilihan* = marketplace noun (*pang-* + *bili* = buy + suffix *-han*; *ng + b* merges into *m*)
 
 **Translation:**  
 > Even though there was some small-scale trade between neighboring villages through barter, there was no major marketplace or center in the area of Biñan during that time.
@@ -132,7 +132,7 @@ Explanation of tagalog text for english only speakers
 
 **6.**  
 **Original:**  
-> *Sa kabila nito, mahalaga na ang Lawa ng Laguna sa pamumuhay ng mga sinaunang Tagalog dito, at itinuturing nilang tahanan ang mayamang kalikasan ng Biñan.*
+> *Sa kabila nito, mahalaga na ang Lawa ng Laguna sa pamumuhay ng mga sinaunang Tagalog dito, at itinuturing nilang tahanan ang mayamang kalikasan ng Biñán.*
 
 **Vocabulary:**  
 - **sa kabila nito** – *despite this*  
@@ -157,12 +157,12 @@ Explanation of tagalog text for english only speakers
 
 | Tagalog | English |
 |:---|:---|
-| Bago pa man dumating ang mga Espanyol, ang lupain ng Biñan ay bahagi ng sinaunang pamayanan ng Tabuco (na ngayon ay Cabuyao). | Even before the Spaniards arrived, the land of Biñan was part of the ancient settlement of Tabuco (which is now Cabuyao). |
-| Walang maituturing na bayan noon sa Biñan – kakaunti at magkakalayo ang mga naninirahan, at payak ang kanilang pamumuhay. | There could not yet be considered a town in Biñan — there were few and scattered residents, and their way of life was simple. |
+| Bago pa man dumating ang mga Espanyol, ang lupain ng Biñán ay bahagi ng sinaunang pamayanan ng Tabuco (na ngayon ay Cabuyao). | Even before the Spaniards arrived, the land of Biñan was part of the ancient settlement of Tabuco (which is now Cabuyao). |
+| Walang maituturing na bayan noon sa Biñán – kakaunti at magkakalayo ang mga naninirahan, at payak ang kanilang pamumuhay. | There could not yet be considered a town in Biñan — there were few and scattered residents, and their way of life was simple. |
 | Umaasa sila sa biyaya ng kalikasan: nangingisda sila sa Lawa ng Laguna, nangunguha ng prutas at halamang-ugat sa gubat, at nangangaso ng baboy-ramo at iba pang hayop sa kaparangan. | They relied on nature's bounty: they fished in Laguna Lake, gathered fruits and root crops in the forest, and hunted wild boar and other animals in the grasslands. |
 | Ang ugnayan ng mga tao ay umiikot sa mga barangay na pinamumunuan ng mga lokal na datu o pinuno. | The relationships among the people revolved around the barangays led by local chieftains or leaders. |
-| Mayroon mang maliitang kalakalan sa pagitan ng mga karatig na nayon sa pamamagitan ng barter, walang malaking pamilihan o sentro sa lugar ng Biñan noong panahong iyon. | Even though there was some small-scale trade between neighboring villages through barter, there was no major marketplace or center in the area of Biñan during that time. |
-| Sa kabila nito, mahalaga na ang Lawa ng Laguna sa pamumuhay ng mga sinaunang Tagalog dito, at itinuturing nilang tahanan ang mayamang kalikasan ng Biñan. | Despite this, Laguna Lake was already important to the way of life of the ancient Tagalog here, and they regarded Biñan's rich natural environment as their home. |
+| Mayroon mang maliitang kalakalan sa pagitan ng mga karatig na nayon sa pamamagitan ng barter, walang malaking pamilihan o sentro sa lugar ng Biñán noong panahong iyon. | Even though there was some small-scale trade between neighboring villages through barter, there was no major marketplace or center in the area of Biñan during that time. |
+| Sa kabila nito, mahalaga na ang Lawa ng Laguna sa pamumuhay ng mga sinaunang Tagalog dito, at itinuturing nilang tahanan ang mayamang kalikasan ng Biñán. | Despite this, Laguna Lake was already important to the way of life of the ancient Tagalog here, and they regarded Biñan's rich natural environment as their home. |
 
 ---
 
@@ -170,15 +170,15 @@ Explanation of tagalog text for english only speakers
 
 | Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
 |:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
-| **dumating** | dating | Completed (Past) | Actor | dum- + root | arrived |
+| **dumating** | dating | Completed (Past) | Actor | -um- (infix) + dating | arrived |
 | **maituturing** | turing | Potential / Future Passive | Object | mai- + turing | could be considered |
-| **nananinirahan** | tirahan (from tira) | Ongoing (Present) | Actor | nana- + root | residents (those who are living) |
+| **naninirahan** | tira | Ongoing (Present) | Actor | nang- + tira + -an (t → n), *ni* repeated | residents (those who are living) |
 | **umaasa** | asa | Ongoing (Present) | Actor | uma- + root | relying |
 | **nangingisda** | isda | Ongoing (Present) | Actor | nangingi- + isda | fishing |
-| **nangunguha** | kuha | Ongoing (Present) | Actor | nangungu- + kuha | gathering |
-| **nangangaso** | gaso (rare) | Ongoing (Present) | Actor | nangang- + gaso | hunting |
+| **nangunguha** | kuha | Ongoing (Present) | Actor | nang- + kuha (k → ng), *ngu* repeated | gathering |
+| **nangangaso** | aso (dog) | Ongoing (Present) | Actor | nang- + aso, *nga* repeated | hunting |
 | **umiikot** | ikot | Ongoing (Present) | Actor | umi- + root | revolving |
-| **pinamumunuan** | puno | Ongoing (Present) | Object | pina- + (um) + root | being led |
+| **pinamumunuan** | puno | Ongoing (Present) | Object | pang- + puno + -an (p → m) = pamunuan; -in- + *mu* repeated | being led |
 | **mayroon** | (none) | Static Existential | N/A | mayroon | there is / there are |
 | **itinuturing** | turing | Ongoing (Present) | Object | itinu- + turing | is regarded as |
 
@@ -220,7 +220,7 @@ Root: isda → fish
 🧠 Meaning construction:
 - **isda** = fish
 - **mang-** prefix = actor-focus for doing action related to object
-- Repeated first syllable + "nang-" infix = ongoing action form
+- *mang-* becomes *nang-* (started action), then the first syllable after it (*ngi*) is repeated = ongoing action form
 
 ---
 
@@ -228,7 +228,7 @@ Root: isda → fish
 
 ```
 Root: kuha → to get
-+ mang- → mangkuha → to gather
++ mang- → manguha → to gather (k is absorbed: mang + kuha → manguha)
 + nangungu- → nangunguha → is gathering (ongoing)
 ```
 
@@ -242,15 +242,15 @@ Root: kuha → to get
 #### 🔵 4. **nangangaso** (is hunting)
 
 ```
-Root: gaso → to hunt (old word, now rare)
-+ mang- → manggaso → to hunt
-+ nangang- → nangangaso → is hunting (ongoing)
+Root: aso → dog
++ mang- → mangaso → to hunt (originally: to hunt with dogs)
++ nang- + repeated nga → nangangaso → is hunting (ongoing)
 ```
 
 🧠 Meaning construction:
-- **gaso** = to hunt
+- **aso** = dog
 - **mang-** = actor-focused prefix
-- **nangang-** = continuous aspect, habitual hunting
+- **nang-** + repeated *nga* = continuous aspect, habitual hunting
 
 ---
 
@@ -271,10 +271,10 @@ Root: ikot → turn, revolve
 #### 🔵 6. **pinamumunuan** (is being ruled)
 
 ```
-Root: puno → leader
-+ (um) → pumuno → to lead
-+ -an → punuan → place of leadership
-+ pina- + (um) + -an → pinamumunuan → is being led
+Root: puno → leader, head
++ pang- ... -an → pamunuan → to lead, to govern (ng + p merges into m)
++ -in- → pinamunuan → was led
++ repeated mu → pinamumunuan → is being led
 ```
 
 🧠 Same structure as previous explanation.
@@ -303,9 +303,9 @@ Root: turing → consider
 | turing + mai- | maituturing | could be considered |
 | isda + mang- + nangingi- | nangingisda | is fishing |
 | kuha + mang- + nangungu- | nangunguha | is gathering |
-| gaso + mang- + nangang- | nangangaso | is hunting |
+| aso + mang- + nang- + nga- | nangangaso | is hunting |
 | ikot + um- + ongoing form | umiikot | is revolving |
-| puno + (um) + pina- + -an | pinamumunuan | is being ruled |
+| puno + pang- (p → m) + -an + -in- + mu- | pinamumunuan | is being ruled |
 | turing + i- + itinu- | itinuturing | is regarded as |
 
 ---
@@ -313,14 +313,14 @@ Root: turing → consider
 ### 🧠 Bonus: Quick Cheat on "Mang" Verbs Ongoing Forms
 Whenever you have **mang-** verbs in Tagalog, the pattern for ongoing tense is often:
 
-> **mang- + first syllable duplication + "ng" insertion**
+> **mang- → nang-, then the first syllable after it is repeated**
 
 Examples:  
 - *mangisda* → **nangingisda**  
-- *mangkuha* → **nangunguha**  
-- *manggaso* → **nangangaso**  
+- *manguha* → **nangunguha**  
+- *mangaso* → **nangangaso**  
 
-The **-nang-** or **-nangu-** insertion shows that the action is currently happening!
+The **nang-** prefix plus the repeated syllable (*ngi-*, *ngu-*, *nga-*) shows that the action is currently happening!
 
 ---
 
@@ -409,13 +409,13 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 ---
 
 **5.**  
-> *...itinatanim ang tubo.*
+> *...tubo ang pangunahing itinatanim.*
 
 **Vocabulary:**  
 - **itinatanim** – *is planted* (root: *tanim* = plant)
 
 **Grammar:**  
-- Passive ongoing aspect (*iti-...-in* infix for planting action).
+- Passive ongoing aspect: *i-* + *-in-* + repeated syllable *ta* + *tanim*.
 
 **Translation:**  
 > ...sugarcane was the main crop planted.
@@ -446,7 +446,7 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 - **pangangasiwa** – *management* (root: *asiwa* = to manage)
 
 **Grammar:**  
-- Ongoing actor-focus (*nag- + silbi* → *nagsisilbing*).
+- Ongoing actor-focus: *nag-* + repeated syllable *si* + *silbi* → *nagsisilbi*, plus linker *-ng*.
 
 **Translation:**  
 > ...serving as the office for land management.
@@ -475,7 +475,7 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 - **kinilala** – *recognized* (root: *kilala* = to know)
 
 **Grammar:**  
-- Passive completed form (*ki-...-la*).
+- Passive completed form (*-in-* infix: *k-in-ilala*).
 
 **Translation:**  
 > In 1747, Biñán was officially recognized as a town (*pueblo*).
@@ -489,7 +489,7 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 - **pinangangasiwaan** – *is being managed* (root: *asiwa* = to manage)
 
 **Grammar:**  
-- Ongoing passive form (*pina-...-an* + repetition for continuous action).
+- Ongoing passive form: *pangasiwaan* (*pang-* + *asiwa* + *-an*), then *-in-* + repeated *nga* for continuous action.
 
 **Translation:**  
 > ...it managed the nearby barrios.
@@ -528,10 +528,10 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 > *ipinagdiriwang ang kapistahan.*
 
 **Vocabulary:**  
-- **ipinagdiriwang** – *is celebrated* (root: *diwang* = spirit; here means "celebrate")
+- **ipinagdiriwang** – *is celebrated* (root: *diwang* = celebration, feast; *ipagdiwang* = to celebrate)
 
 **Grammar:**  
-- Passive ongoing form (*ipinag-...-wang*).
+- Passive ongoing form: *ipinag-* + repeated syllable *di* + *diwang* (the second *d* becomes *r* between vowels: *diriwang*).
 
 **Translation:**  
 > ...the feast is celebrated.
@@ -545,7 +545,7 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 - **idinaraos** – *is being held* (root: *daos* = to hold an event)
 
 **Grammar:**  
-- Passive ongoing form (*idina- + daos*).
+- Passive ongoing form: *i-* + *-in-* + repeated syllable *da* + *daos* (the second *d* becomes *r*: *idinaraos*).
 
 **Translation:**  
 > ...the mass is held.
@@ -553,11 +553,11 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 ---
 
 **15.**  
-> *nagkakapit-bisig sa polos y servicios.*
+> *nagkakapit-bisig sa polo y servicios.*
 
 **Vocabulary:**  
 - **nagkakapit-bisig** – *join arms, work together* (root: *kapit* = to cling + *bisig* = arm)  
-- **polos y servicios** – *forced communal labor system*
+- **polo y servicios** – *forced communal labor system* (Spanish colonial term)
 
 **Grammar:**  
 - Actor-focus mutual action (*nagkakapit-bisig* shows collective effort).
@@ -593,13 +593,13 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 | Sa haciendang ito, tubo ang pangunahing itinatanim; bukod dito, may kaunting lupaing laan para sa mga naninirahan sa komunidad. | In this estate, sugarcane was the main crop planted; aside from this, a small portion of land was allocated for the community residents. |
 | Upang masaganang madilig ang mga pananim, nagtayo ang mga prayle ng patubig at isang tanggulan ng tubig (prinsa) sa Barrio Timbáo. | To abundantly irrigate the crops, the friars built an irrigation system and a water fortification (dam) in Barrio Timbáo. |
 | Ang pusod ng hacienda ay ang malaki at matibay na bahay na may kamalig at mga kuwadra ng kabayo – nagsisilbing tanggapan ng pangangasiwa sa lupain at kanlungan ng mga gamit sa pagsasaka. | The heart of the hacienda was a large, sturdy house with a granary and horse stables — serving as the administration center for the land and the shelter for farming equipment. |
-| Bagama’t masikap ang paggawa sa hacienda, inalagaan din ng mga Dominiko ang kapakanan panrelihiyon ng mga tao: dito unang naipalaganap ang debosyon kay San Isidro Labrador, ang magiging pintakasi ng Biñán. | Although the work in the hacienda was intense, the Dominicans also cared for the religious welfare of the people: here the devotion to San Isidro Labrador, who would become Biñán's patron, was first propagated. |
+| Bagama’t masikap ang paggawa sa hacienda, inalagaan din ng mga Dominiko ang kapakanang panrelihiyon ng mga tao: dito unang naipalaganap ang debosyon kay San Isidro Labrador, ang magiging pintakasi ng Biñán. | Although the work in the hacienda was intense, the Dominicans also cared for the religious welfare of the people: here the devotion to San Isidro Labrador, who would become Biñán's patron, was first propagated. |
 | Noong 1747, matapos ang halos isang siglo bilang hacienda, ang Biñán ay opisyal na kinilala bilang isang pueblo o bayan. | In 1747, after nearly a century as a hacienda, Biñán was officially recognized as a town or pueblo. |
 | Nagkaroon ng sariling población o kabayanan, kung saan itinayo ang simbahan at liwasan, at pinangangasiwaan nito ang mga kalapit na barrio. | It had its own town center where the church and plaza were built, and it administered the surrounding villages. |
 | Sa panahong ito, unti-unting nahubog ang pampublikong buhay ng Biñán: nagkaroon ng mga halal na opisyal ng bayan at sariling kura paroko. | During this period, Biñán's public life gradually took shape: there were elected town officials and its own parish priest. |
 | Naging unang kura paroko si Padre José Monroy noong 1757, at itinalaga niya si Antonio de Santa Rosa bilang kauna-unahang kapitan ng Biñán. | Father José Monroy became the first parish priest in 1757, and he appointed Antonio de Santa Rosa as the first town captain of Biñán. |
 | Sa mga sumunod na dekada, lalo pang lumago ang Biñán at nakilala ito sa kalakalan at pagsasaka. | In the following decades, Biñán grew even more and became known for trade and farming. |
-| Maraming mga pamilyang mestizo-tsino ang umunlad dito, nakapag-ipon ng kayamanan mula sa pagtatanim ng tubo at pakikipagkalakalan. | Many Chinese-mestizo families prospered here, amassing wealth from sugarcane farming and trade. |
+| Maraming mga pamilyang mestizo-Tsino ang umunlad dito, nakapag-ipon ng kayamanan mula sa pagtatanim ng tubo at pakikipagkalakalan. | Many Chinese-mestizo families prospered here, amassing wealth from sugarcane farming and trade. |
 | Sila ang nagpatayo ng malalaking bahay na bato sa paligid ng plaza na hanggang ngayon ay bahagi ng pamana ng lungsod. | They built large stone houses around the plaza, which remain part of the city's heritage today. |
 | Naging tampok din ang mga pistang bayan at tradisyon sa Biñán sa ilalim ng mga Espanyol. | Town fiestas and traditions also became prominent in Biñán under Spanish rule. |
 | Tuwing buwan ng Mayo, ipinagdiriwang ng mga taga-Biñán ang kapistahan ni San Isidro Labrador sa pamamagitan ng prusisyon, sabungan, sayawan, at salu-salo. | Every May, Biñán residents celebrate the feast of San Isidro Labrador with processions, cockfights, dances, and feasts. |
@@ -617,16 +617,16 @@ The **-nang-** or **-nangu-** insertion shows that the action is currently happe
 | nabago | bago | Completed (Past) | Object | na- + bago | was changed |
 | italaga | talaga | Neutral / Infinitive | Object | i- + talaga | to designate |
 | ginawa | gawa | Completed (Past) | Object | gi- + gawa | was made |
-| itinatanim | tanim | Ongoing (Present) | Object | itina- + tanim | is being planted |
+| itinatanim | tanim | Ongoing (Present) | Object | i- + -in- + ta (repeated) + tanim | is being planted |
 | nagtayo | tayo | Completed (Past) | Actor | nag- + tayo | built |
-| nagsisilbing | silbi | Ongoing (Present) | Actor | nagsi- + silbi | serving as |
+| nagsisilbing | silbi | Ongoing (Present) | Actor | nag- + si (repeated) + silbi + -ng | serving as |
 | naipalaganap | laganap | Completed (Past) | Object | nai- + palaganap | was spread |
-| kinilala | kilala | Completed (Past) | Object | ki- + kilala | was recognized |
-| pinangangasiwaan | asiwa | Ongoing (Present) | Object | pina- + pang- + asiwa + an | is being managed |
+| kinilala | kilala | Completed (Past) | Object | -in- + kilala | was recognized |
+| pinangangasiwaan | asiwa | Ongoing (Present) | Object | pang- + asiwa + -an, -in- + nga (repeated) | is being managed |
 | nahubog | hubog | Completed (Past) | Object | na- + hubog | was shaped |
 | nakilala | kilala | Completed (Past) | Object | na- + kilala | became known |
-| ipinagdiriwang | diwang | Ongoing (Present) | Object | ipinag- + diwang | is celebrated |
-| idinaraos | daos | Ongoing (Present) | Object | idina- + daos | is being held |
+| ipinagdiriwang | diwang | Ongoing (Present) | Object | ipinag- + di (repeated, d → r) + diwang | is celebrated |
+| idinaraos | daos | Ongoing (Present) | Object | i- + -in- + da (repeated, d → r) + daos | is being held |
 | nagkakapit-bisig | kapit + bisig | Ongoing (Present) | Actor Mutual | nagkaka- + kapit + bisig | joining forces |
 | naitatag | tatag | Completed (Past) | Object | nai- + tatag | was firmly established |
 
@@ -667,7 +667,7 @@ Root: tayo → stand/build
 
 ```
 Root: tanim → plant
-+ itina- → itinatanim → is being planted (ongoing, passive)
++ i- + -in- + repeated ta → itinatanim → is being planted (ongoing, passive)
 ```
 
 ---
@@ -676,7 +676,8 @@ Root: tanim → plant
 
 ```
 Root: silbi → serve
-+ nagsi- → nagsisilbing → serving as (ongoing actor focus)
++ nag- + repeated si → nagsisilbi → serving (ongoing actor focus)
++ linker -ng → nagsisilbing → serving as
 ```
 
 ---
@@ -693,8 +694,9 @@ Root: laganap → spread
 #### 7. **ipinagdiriwang** (is celebrated)
 
 ```
-Root: diwang → spirit (festivity sense)
-+ ipinag- → ipinagdiriwang → is being celebrated (ongoing passive)
+Root: diwang → celebration, feast
++ ipag- → ipagdiwang → to celebrate
++ ipinag- + repeated di (d → r) → ipinagdiriwang → is being celebrated (ongoing passive)
 ```
 
 
@@ -710,7 +712,7 @@ Root: diwang → spirit (festivity sense)
 
 **Vocabulary:**  
 - **pagdating** – *arrival* (noun form of *dumating*)  
-- **nagkaroon** – *there was; to have* (root: *karoon* = to have)  
+- **nagkaroon** – *there was; to have* (root: *roon*, as in *mayroon* = there is)  
 - **bagong sistema** – *new systems*  
 - **pagbabago** – *changes* (root: *bago* = new, change)
 
@@ -747,7 +749,7 @@ Root: diwang → spirit (festivity sense)
 - **ibinalik** – *was returned* (root: *balik* = return)
 
 **Grammar:**  
-- Passive completed form (*i- + binalik*).
+- Passive completed form (*i- + -in- + balik*).
 
 **Translation:**  
 > However, not long after, it was returned to its former state.
@@ -842,11 +844,11 @@ Root: diwang → spirit (festivity sense)
 ---
 
 **10.**  
-> *napadali ang paglaluwas ng ani tulad ng bigas, asukal, at prutas.*
+> *napadali ang pagluluwas ng ani tulad ng bigas, asukal, at prutas.*
 
 **Vocabulary:**  
 - **napadali** – *was made easier* (root: *dali* = easy)  
-- **paglaluwas** – *export, transporting goods* (root: *luwas* = exit/export)  
+- **pagluluwas** – *bringing goods to the city/capital, shipping out produce* (root: *luwas* = to go to the city, esp. Manila; *pag-* + repeated first syllable *lu* = noun of the action)  
 - **ani** – *harvest*  
 - **bigas** – *uncooked rice*  
 - **asukal** – *sugar*
@@ -876,7 +878,7 @@ Root: diwang → spirit (festivity sense)
 - **pinalitan** – *was changed, replaced* (root: *palit* = change)
 
 **Grammar:**  
-- Passive completed (*pina- + palit*).
+- Passive completed (*-in-* + *palit* + *-an*: *palitan* → *pinalitan*).
 
 **Translation:**  
 > Under leadership, the title Municipal President replaced the former Capitán Municipal.
@@ -915,10 +917,10 @@ Root: diwang → spirit (festivity sense)
 > *pinanatili ng mga taga-Biñán ang kanilang tradisyon*
 
 **Vocabulary:**  
-- **pinanatili** – *maintained, preserved* (root: *natili* = stay, remain)
+- **pinanatili** – *maintained, preserved* (root: *tili* = remain; *manatili* = to stay, *panatilihin* = to keep)
 
 **Grammar:**  
-- Passive completed (*pina- + natili*).
+- Passive completed (*-in-* + *panatili*: *p-in-anatili*).
 
 **Translation:**  
 > The people of Biñán maintained their traditions.
@@ -960,13 +962,13 @@ Root: diwang → spirit (festivity sense)
 | Naging maunlad at mapayapa ang Biñán noong panahon ng mga Amerikano. | Biñán became prosperous and peaceful during the American period. |
 | Pinairal ang makabagong edukasyon – nagtatag ng mga pampublikong paaralan kung saan ang mga kabataan ay natutong magbasa at sumulat sa wikang Ingles kasabay ng pagpapanatili ng kanilang wikang Tagalog. | Modern education was implemented – public schools were established where the youth learned to read and write in English while preserving their Tagalog language. |
 | Masigla ang kalakalan sa pamilihang bayan ng Biñán, na lalo pang lumaki at dinarayo ng mga kalapit-bayan dahil sa mas pinahusay na transportasyon. | Commerce was lively in the Biñán town market, which grew even bigger and was visited by neighboring towns due to improved transportation. |
-| Nagkaroon ng mga bagong kalsada at linya ng tren na nagdugtong sa Biñán patungo sa Maynila, kaya’t napadali ang paglaluwas ng ani tulad ng bigas, asukal, at prutas. | New roads and railway lines were built connecting Biñán to Manila, making it easier to export harvests like rice, sugar, and fruits. |
+| Nagkaroon ng mga bagong kalsada at linya ng tren na nagdugtong sa Biñán patungo sa Maynila, kaya’t napadali ang pagluluwas ng ani tulad ng bigas, asukal, at prutas. | New roads and railway lines were built connecting Biñán to Manila, making it easier to export harvests like rice, sugar, and fruits. |
 | Dahil dito, nakilala ang Biñán bilang isang mahalagang sentro ng bentahan ng ani at kalakal sa timog ng Maynila. | Because of this, Biñán became known as an important center for the sale of harvests and trade south of Manila. |
 | Sa pamumuno, pinalitan ng titulong Municipal President ang dating Capitán Municipal. | Under the new leadership structure, the title Municipal President replaced the old Capitán Municipal. |
 | Ang mga lokal na halalan ay nagbigay-daan upang mailuklok ang mga Biñense sa posisyon sa munisipyo – tanda ng pagtanggap sa demokratikong sistema. | Local elections paved the way for Biñanense citizens to be installed in municipal positions — a sign of acceptance of the democratic system. |
 | Sa tahanan naman, unti-unting nakaimpluwensiya ang kulturang Amerikano sa araw-araw na buhay: natutunan ng mga tao ang ilang kaugaliang kanluranin, mula sa pananamit (barong at American suit) hanggang sa paglilibang (pagsali sa mga palaro gaya ng baseball at pagsine sa bayan). | At home, American culture gradually influenced daily life: people learned some Western customs, from clothing (barong and American suits) to leisure activities (joining games like baseball and going to the movies). |
 | Gayunman, pinanatili ng mga taga-Biñán ang kanilang tradisyon at kaugaliang Pilipino. | Nevertheless, the people of Biñán preserved their Filipino traditions and customs. |
-| Patuloy nilang ipinagdiwang ang mga pistang pang-relihiyon at iginagalang ang nakatatanda sa pamamagitan ng pagmamano at bayanihan. | They continued to celebrate religious festivals and respect elders through *pagmamano* (gesture of respect) and *bayanihan* (community cooperation). |
+| Patuloy nilang ipinagdiwang ang mga pistang panrelihiyon at iginagalang ang nakatatanda sa pamamagitan ng pagmamano at bayanihan. | They continued to celebrate religious festivals and respect elders through *pagmamano* (gesture of respect) and *bayanihan* (community cooperation). |
 | Sa kabuuan, sa ilalim ng pananakop ng Amerikano, naihanda ang Biñán sa makabagong panahon nang hindi isinasantabi ang sariling pagkakakilanlan at kultura. | Overall, under American rule, Biñán was prepared for the modern era without abandoning its own identity and culture. |
 
 ---
@@ -975,20 +977,20 @@ Root: diwang → spirit (festivity sense)
 
 | Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
 |:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
-| nagkaroon | karoon | Completed (Past) | Actor | nag- + ka- + roon | had, experienced |
-| isinanib | sanib | Completed (Past) | Object | i- + sanib | was merged |
-| idinugtong | dugtong | Completed (Past) | Object | i- + dugtong | was attached |
-| ibinalik | balik | Completed (Past) | Object | i- + balik | was returned |
+| nagkaroon | roon | Completed (Past) | Actor | nag- + ka- + roon | had, experienced |
+| isinanib | sanib | Completed (Past) | Object | i- + -in- + sanib | was merged |
+| idinugtong | dugtong | Completed (Past) | Object | i- + -in- + dugtong | was attached |
+| ibinalik | balik | Completed (Past) | Object | i- + -in- + balik | was returned |
 | naibalik | balik | Completed (Past) | Object | nai- + balik | was restored |
 | pinairal | iral | Completed (Past) | Object | pina- + iral | was implemented |
 | nagtayo | tayo | Completed (Past) | Actor | nag- + tayo | built |
-| nagtayo | tayo | Completed (Past) | Actor | nag- + tayo | established |
+| nagtatag | tatag | Completed (Past) | Actor | nag- + tatag | established |
 | natuto | tuto | Completed (Past) | Actor | na- + tuto | learned |
 | napadali | dali | Completed (Past) | Object | na- + padali | was made easier |
-| pinalitan | palit | Completed (Past) | Object | pina- + palit | was replaced |
+| pinalitan | palit | Completed (Past) | Object | -in- + palit + -an | was replaced |
 | mailuklok | luklok | Potential | Object | mai- + luklok | to be installed |
 | nakaimpluwensiya | impluwensiya | Completed (Past) | Actor | naka- + impluwensiya | influenced |
-| pinanatili | natili | Completed (Past) | Object | pina- + natili | preserved |
+| pinanatili | tili | Completed (Past) | Object | -in- + panatili | preserved |
 | naihanda | handa | Completed (Past) | Object | nai- + handa | was prepared |
 
 ---
@@ -1011,8 +1013,8 @@ Root: roon → there / to exist
 
 ```
 Root: sanib → to join
-+ i- → is- 
-+ anib → isinanib → was merged (completed passive)
++ i- → isanib → to merge (object focus)
++ -in- → is-in-anib → isinanib → was merged (completed passive)
 ```
 
 ---
@@ -1021,7 +1023,8 @@ Root: sanib → to join
 
 ```
 Root: dugtong → connect
-+ i- + dugtong → idinugtong → was attached
++ i- → idugtong → to attach
++ -in- → id-in-ugtong → idinugtong → was attached
 ```
 
 ---
@@ -1222,16 +1225,18 @@ Root: dali → easy
 ---
 
 **9.**  
-> *Pagsapit ng pagpalapit ng kalayaan, naging saksi ang Biñán sa mga huling kabanata ng digmaan.*
+> *Nang papalapit na ang kalayaan, naging saksi ang Biñán sa mga huling kabanata ng digmaan.*
 
 **Vocabulary:**  
-- **pagpalapit** – *drawing near* (root: *lapit* = near)  
+- **nang** – *when, as* (introduces a time clause)  
+- **papalapit** – *approaching, drawing near* (root: *lapit* = near; *pa-* + repeated *pa* + *lapit*)  
+- **na** – *already, now*  
 - **kalayaan** – *freedom* (root: *laya* = free)  
 - **saksi** – *witness*  
 - **huli** – *last, final*  
 - **kabanata** – *chapter*
 
-**Note:** *Pagsapit ng pagpalapit* ("upon the arrival of the approach") repeats the same idea and sounds heavy in Tagalog. A more natural phrasing would be *Nang papalapit na ang kalayaan* ("As freedom was approaching").
+**Note:** *Nang papalapit na ang kalayaan* = "as freedom was (already) approaching". The earlier wording *Pagsapit ng pagpalapit ng kalayaan* ("upon the arrival of the approach of freedom") repeated the same idea and was corrected.
 
 **Translation:**  
 > As freedom drew near, Biñán witnessed the final chapters of the war.
@@ -1415,7 +1420,7 @@ Root: dali → easy
 - **gutom** – *hunger*
 
 **Grammar:**  
-- *Namatayan* = *na- + patay + -an*: the *p* becomes *m*. The *-an* suffix points to the person affected: "the one who had someone die" (not the one who died).  
+- *Namatayan* = *nang-* (completed form of *mang-*) + *patay* + *-an*: *ng + p* merges into *m*. The *-an* suffix points to the person affected: "the one who had someone die" (not the one who died).  
 - *Nasugatan* = *na- + sugat + -an*: "got wounded".  
 - *Dumanas* = *-um-* + *danas*: actor focus, completed.
 
@@ -1524,7 +1529,7 @@ Root: dali → easy
 | Subalit sa kabila ng panganib, ang diwa ng paglaban ay buhay sa puso ng mga Biñense. | But despite the danger, the spirit of resistance was alive in the hearts of the Biñenses. |
 | Palihim na sumuporta ang mga residente sa mga gerilya – ang ilan ay sumapi mismo sa mga pangkat, at ang iba naman ay nagbigay ng pagkain, taguan, o impormasyon sa mga mandirigma sa kabundukan. | The residents secretly supported the guerrillas – some joined the units themselves, while others gave food, hiding places, or information to the fighters in the mountains. |
 | Naging bahagi ang Biñán ng malawakang kilusang paglaban sa okupasyon. | Biñán became part of the widespread resistance movement against the occupation. |
-| Pagsapit ng pagpalapit ng kalayaan, naging saksi ang Biñán sa mga huling kabanata ng digmaan. | As freedom drew near, Biñán witnessed the final chapters of the war. |
+| Nang papalapit na ang kalayaan, naging saksi ang Biñán sa mga huling kabanata ng digmaan. | As freedom drew near, Biñán witnessed the final chapters of the war. |
 | Pebrero 3, 1945 nang tuluyang napalaya ang Biñán mula sa pananakop. | It was on February 3, 1945 that Biñán was finally liberated from the occupation. |
 | Sa araw na ito, isang sama-samang pagsalakay ang isinagawa ng mga gerilyang Pilipino – ang kilalang Hunters ROTC – sa pangunguna ni Komandante Marcial Alintanahin. | On this day, a combined assault was carried out by Filipino guerrillas – the famous Hunters ROTC – under the leadership of Commander Marcial Alintanahin. |
 | Mula sa iba't ibang direksyon sila nagmula: may dumating mula sa Carmona sa kanluran, mula sa San Pedro sa hilaga, at mula sa Santa Rosa sa timog. | They came from different directions: some arrived from Carmona in the west, from San Pedro in the north, and from Santa Rosa in the south. |
@@ -1573,7 +1578,7 @@ Root: dali → easy
 | nasira | sira | Completed | Object | na- + sira | was damaged |
 | naulila | ulila | Completed | Object | na- + ulila | was orphaned |
 | nasugatan | sugat | Completed | Object | na- + sugat + -an | was wounded |
-| namatayan | patay | Completed | Object | na- + patay + -an (p → m) | lost a loved one |
+| namatayan | patay | Completed | Object | nang- + patay + -an (ng + p → m) | lost a loved one |
 | dumanas | danas | Completed | Actor | -um- + danas | experienced |
 | nagsimula | simula | Completed | Actor | nag- + simula | began |
 | nagbalik | balik | Completed | Actor | nag- + balik | returned |
@@ -1669,8 +1674,8 @@ Root: ligtas → safe
 
 ```
 Root: patay → dead
-+ na- ... -an → na-patay-an
-p → m after na- → namatayan → one who suffered a death (bereaved)
++ nang- ... -an → nang-patay-an
+ng + p merges into m → namatayan → one who suffered a death (bereaved)
 ```
 
 ---
@@ -1716,7 +1721,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **masiglang pagbabago** – *lively, vigorous change* (root: *sigla* = vitality)
 
 **Grammar:**  
-- *Nakabangon* and *pumasok* are actor-focus completed verbs (*naka-*, *pum-* forms).
+- *Nakabangon* and *pumasok* are actor-focus completed verbs (*naka-* prefix; *-um-* infix: *p-um-asok*).
 
 **Translation:**  
 > After the war, Biñán City quickly recovered and entered a period of lively change.
@@ -1724,14 +1729,14 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 ---
 
 **2.**  
-> *Sama-samang binangon muli ng pamahalaan at mamamayan ang bayan...*
+> *Sama-samang ibinangon muli ng pamahalaan at mamamayan ang bayan...*
 
 **Vocabulary:**  
 - **sama-sama** – *together*  
-- **binangon** – *was rebuilt* (root: *bangon* = to rise)
+- **ibinangon** – *was raised up, was rebuilt* (root: *bangon* = to rise)
 
 **Grammar:**  
-- Passive completed form (*-in- + bangon*).
+- Object focus, completed: *i- + -in- + bangon* (from *ibangon* = to raise something up, seen in the WWII chapter).
 
 **Translation:**  
 > Together, the government and citizens rebuilt the town...
@@ -1747,7 +1752,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **itinayo** – *was rebuilt* (root: *tayo* = stand)
 
 **Grammar:**  
-- Passive completed forms (*i- + ayos*, *i- + tayo*).
+- Passive completed forms (*in-* + *ayos* → *inayos*; *i-* + *-in-* + *tayo* → *itinayo*).
 
 **Translation:**  
 > ...repaired the damaged roads, rebuilt the bridges and buildings...
@@ -1758,11 +1763,11 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 > *sinigurong makabalik ang mga bata sa paaralan.*
 
 **Vocabulary:**  
-- **sinigurado** – *ensured* (root: *sigurado* = sure)  
+- **sinigurong** – *ensured (that)* (*siniguro* + linker *-ng*; root: *siguro*, from Spanish *seguro* = sure)  
 - **makabalik** – *be able to return* (root: *balik* = return)
 
 **Grammar:**  
-- Actor-focus completed *sinigurado*, with *maka-* verb (*makabalik* → potential ability to return).
+- Object-focus completed *siniguro* (*-in-* + *siguro*), with *maka-* verb (*makabalik* → potential ability to return).
 
 **Translation:**  
 > ...and ensured that children could return to school.
@@ -1776,7 +1781,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **sumigla** – *became lively again* (root: *sigla* = vigor)
 
 **Grammar:**  
-- Actor-focus completed (*sum-* infix for sudden change into state).
+- Actor-focus completed (*-um-* infix, *s-um-igla*, for a change into a state).
 
 **Translation:**  
 > Agriculture and commerce became lively again...
@@ -1806,7 +1811,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **nagtayuan** – *were built one after another* (root: *tayo* = stand)
 
 **Grammar:**  
-- Reciprocal/mutual plural form (*nag- + tayuan*).
+- Plural/collective form (*nag-* + *tayo* + *-an*, *o → u*): many subjects doing the same action.
 
 **Translation:**  
 > ...and gradually, small factories and workshops sprang up.
@@ -1814,14 +1819,14 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 ---
 
 **8.**  
-> *Sinikap ng mga lokal na lider na iakit ang malalaking mamumuhunan...*
+> *Sinikap ng mga lokal na lider na akitin ang malalaking mamumuhunan...*
 
 **Vocabulary:**  
 - **sinikap** – *endeavored, exerted effort* (root: *sikap* = effort)  
-- **iakit** – *to attract* (root: *akit* = attract)
+- **akitin** – *to attract* (root: *akit* = attraction, allure)
 
 **Grammar:**  
-- Actor-focus completed (*sinikap*), infinitive for *iakit* (goal focus).
+- Object-focus completed (*sinikap* = *-in-* + *sikap*: "(it) was striven for"), followed by the object-focus infinitive *akitin* (*akit* + *-in*).
 
 **Translation:**  
 > Local leaders endeavored to attract big investors...
@@ -1835,7 +1840,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **itatag** – *to establish* (root: *tatag* = establish)
 
 **Grammar:**  
-- Future/intentional passive (*i- + tatag*).
+- Object-focus infinitive (*i- + tatag*); after *nang* ("when") the infinitive is used for a past event, as in *nang makamit*.
 
 **Translation:**  
 > ...leading to the establishment of industrial parks in Biñán.
@@ -1843,7 +1848,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 ---
 
 **10.**  
-> *nagtayo ng mga bagong negosyo upang suportahan ang lumalaking populasyon.*
+> *nagtayo ng maliliit na negosyo upang suportahan ang lumalaking populasyon ng Biñán.*
 
 **Vocabulary:**  
 - **nagtayo** – *built, established* (root: *tayo*)  
@@ -1853,7 +1858,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - Actor-focus past (*nag- + tayo*).
 
 **Translation:**  
-> ...built new businesses to support the growing population.
+> ...set up small businesses to support the growing population of Biñán.
 
 ---
 
@@ -1872,9 +1877,9 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 ---
 
 **12.**  
-> *ipinagdiriwang hindi lamang ang bagong katayuan kundi pati ang mayamang kasaysayan ng pamayanan.*
+> *ipinagdiwang hindi lamang ang bagong katayuan kundi pati ang mayamang kasaysayan ng pamayanan.*
 
-(**ipinagdiriwang** already explained.)
+(**ipinagdiwang** = completed form of *ipinagdiriwang*, already explained: "was celebrated".)
 
 ---
 
@@ -1885,7 +1890,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **itinakda** – *was set, designated* (root: *takda* = schedule, set)
 
 **Grammar:**  
-- Passive completed form (*i- + takda*).
+- Passive completed form (*i- + -in- + takda*).
 
 **Translation:**  
 > The city designated Biñán Day...
@@ -1899,7 +1904,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **isinasadula** – *is dramatized, reenacted* (root: *dula* = play, drama)
 
 **Grammar:**  
-- Passive ongoing form (*isina- + dula*).
+- Passive ongoing form: *isadula* (*i-* + *sa* + *dula*), then *-in-* + repeated *sa*.
 
 **Translation:**  
 > ...the colorful history is dramatized in programs and parades.
@@ -1913,7 +1918,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **pinagsasama** – *combining, integrating* (root: *sama* = together)
 
 **Grammar:**  
-- Ongoing passive (*pina- + sama*).
+- Ongoing passive (*pinag-* + repeated *sa* + *sama*, from *pagsamahin* = to combine).
 
 **Translation:**  
 > ...combining progress and tradition.
@@ -1928,7 +1933,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **dumarami** – *increasing* (root: *dami* = quantity)
 
 **Grammar:**  
-- Ongoing actor-focus (*duma- + dami*).
+- Ongoing actor-focus (*-um-* + repeated *da* + *dami*; the second *d* becomes *r*: *dumarami*).
 
 **Translation:**  
 > ...continuously increasing because of its proximity to Metro Manila.
@@ -1942,7 +1947,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **pinangangalagaan** – *is protecting, safeguarding* (root: *alaga* = care)
 
 **Grammar:**  
-- Ongoing passive (*pina- + alaga*).
+- Ongoing passive: *pangalagaan* (*pang-* + *alaga* + *-an*), then *-in-* + repeated *nga*.
 
 **Translation:**  
 > Biñán is safeguarding its heritage buildings and arts.
@@ -1956,7 +1961,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **inilunsad** – *was launched* (root: *lunsad* = launch)
 
 **Grammar:**  
-- Passive completed (*i- + lunsad*).
+- Passive completed (*i- + -in- + lunsad*).
 
 **Translation:**  
 > ...the “Balik-Biñán” project was launched.
@@ -1977,7 +1982,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **pinangunahan** – *led by* (root: *una* = first, lead)
 
 **Grammar:**  
-- Passive completed (*pina- + una*).
+- Passive completed (*pangunahan* = *pang-* + *una* + *-han*, then *-in-*).
 
 **Translation:**  
 > The city also led the creation of the Cultural Mapping.
@@ -1999,9 +2004,9 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 ---
 
 **22.**  
-> *kinilala ang Biñán sa pambansa...*
+> *kinilala ang Biñán sa pambansang antas...*
 
-(**kinilala** already explained.)
+(**kinilala** already explained; *pambansang antas* = *national level*.)
 
 ---
 
@@ -2012,7 +2017,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - **ipinakita** – *was shown* (root: *kita* = to see)
 
 **Grammar:**  
-- Passive completed (*i- + kita*).
+- Passive completed (*ipakita* = *i-* + *pa-* + *kita* "to show", then *-in-*).
 
 **Translation:**  
 > ...this honor showed...
@@ -2041,16 +2046,16 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 | Tagalog | English |
 |:---|:---|
 | Pagkatapos ng digmaan, mabilis na nakabangon ang Lungsod ng Biñán at pumasok sa isang panahon ng masiglang pagbabago. | After the war, Biñán City quickly recovered and entered a period of lively change. |
-| Noong huling bahagi ng dekada 1940 at dekada ’50, sama-samang binangon muli ng pamahalaan at mamamayan ang bayan – inayos ang mga nasirang kalsada, muling itinayo ang mga tulay at gusali, at sinigurong makabalik ang mga bata sa paaralan. | In the late 1940s and 1950s, the government and citizens together rebuilt the town — repairing damaged roads, reconstructing bridges and buildings, and ensuring that children could return to school. |
+| Noong huling bahagi ng dekada 1940 at dekada ’50, sama-samang ibinangon muli ng pamahalaan at mamamayan ang bayan – inayos ang mga nasirang kalsada, muling itinayo ang mga tulay at gusali, at sinigurong makabalik ang mga bata sa paaralan. | In the late 1940s and 1950s, the government and citizens together rebuilt the town — repairing damaged roads, reconstructing bridges and buildings, and ensuring that children could return to school. |
 | Muling sumigla ang agrikultura at kalakalan: nagbalik ang palengke ng Biñán bilang pangunahing bagsakan ng mga ani sa rehiyon, at unti-unti ring nagtayuan ang maliliit na pabrika at pagawaan. | Agriculture and commerce became lively again: the Biñán market returned as the main drop-off point for harvests in the region, and small factories and workshops gradually sprang up. |
 | Sa mga sumunod na dekada, lalo pang lumago ang Biñán. | In the following decades, Biñán grew even further. |
 | Pagsapit ng dekada 1980, mas naging industrial ang karakter ng bayan. | By the 1980s, the town became more industrial in character. |
-| Sinikap ng mga lokal na lider na iakit ang malalaking mamumuhunan upang lumikha ng trabaho para sa mga Biñense. | Local leaders exerted effort to attract large investors to create jobs for the people of Biñán. |
+| Sinikap ng mga lokal na lider na akitin ang malalaking mamumuhunan upang lumikha ng trabaho para sa mga Biñense. | Local leaders exerted effort to attract large investors to create jobs for the people of Biñán. |
 | Nagbunga ito nang itatag ang mga industrial park sa Biñán – ang Laguna Technopark at Laguna International Industrial Park – na nagdala ng daan-daang kompanya at libu-libong trabaho sa lungsod. | This effort bore fruit with the establishment of industrial parks in Biñán — Laguna Technopark and Laguna International Industrial Park — bringing hundreds of companies and thousands of jobs to the city. |
 | Dahil dito, ang dating tahimik na lupang sakahan ay naging lunsaran ng modernong pagawaan at teknolohiya. | Because of this, the once quiet farmlands became a launching ground for modern industry and technology. |
 | Maraming mga magsasaka ang naging manggagawa sa pabrika, at ang iba’y nagtayo ng maliliit na negosyo upang suportahan ang lumalaking populasyon ng Biñán. | Many farmers became factory workers, and others established small businesses to support Biñán’s growing population. |
 | Sa pag-unlad na ito, hindi nawala ang puso ng mga Biñense sa kanilang nakaraan at kultura. | Despite this development, Biñán's people did not lose their heart for their history and culture. |
-| Noong 2010, nang maging ganap na lungsod ang Biñán sa bisa ng RA 9740, ipinagdiriwang hindi lamang ang bagong katayuan kundi pati ang mayamang kasaysayan ng pamayanan. | In 2010, when Biñán officially became a city by virtue of RA 9740, they celebrated not only their new status but also the rich history of their community. |
+| Noong 2010, nang maging ganap na lungsod ang Biñán sa bisa ng RA 9740, ipinagdiwang hindi lamang ang bagong katayuan kundi pati ang mayamang kasaysayan ng pamayanan. | In 2010, when Biñán officially became a city by virtue of RA 9740, they celebrated not only their new status but also the rich history of their community. |
 | Itinakda ng lungsod ang Araw ng Biñán tuwing unang linggo ng Pebrero bilang tatlong araw na pagdiriwang... | The city designated "Biñán Day" every first week of February as a three-day celebration... |
 | Taun-taon, isinasadula ang makulay na kasaysayan sa mga programa at parada. | Every year, the colorful history is dramatized in programs and parades. |
 | Sa kasalukuyan, ang Biñán ay isang lungsod na pinagsasama ang kaunlaran at tradisyon. | At present, Biñán is a city that combines progress and tradition. |
@@ -2058,7 +2063,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 | Pinangangalagaan ng Biñán ang mga pamanang gusali at sining. | Biñán safeguards its heritage buildings and arts. |
 | Inilunsad ng pamahalaang lokal ang “Balik-Biñán” project noong 2016 upang ibalik ang sigla ng downtown heritage district. | The local government launched the "Balik-Biñán" project in 2016 to restore the vitality of the downtown heritage district. |
 | Pinangunahan din ng lungsod ang paggawa ng Cultural Mapping. | The city also led the creation of the Cultural Mapping project. |
-| Ang mga pagsisikap na ito ay nagbunga ng karangalan: kinilala ang Biñán sa pambansa at binigyan ng Galing Pook Award noong 2022. | These efforts resulted in honor: Biñán was recognized nationally and awarded the Galing Pook Award in 2022. |
+| Ang mga pagsisikap na ito ay nagbunga ng karangalan: kinilala ang Biñán sa pambansang antas at binigyan ng Galing Pook Award noong 2022. | These efforts resulted in honor: Biñán was recognized nationally and awarded the Galing Pook Award in 2022. |
 | Ayon kay Mayor Walfredo Dimaguila, ang pagbabalik sa kasaysayan ang susi sa pagharap sa kinabukasan. | According to Mayor Walfredo Dimaguila, returning to history is the key to facing the future. |
 | Sa kabuuan, ang Kasalukuyang Biñán ay larawan ng isang lungsod na yumayabong — umuunlad ang ekonomiya, mataas ang kita at antas ng pamumuhay – subalit matibay ang koneksyon sa ugat ng kasaysayan. | Overall, today's Biñán is the image of a flourishing city — with a growing economy, high income and living standards — but firmly connected to its historical roots. |
 | Ang mga kabataan ng Biñán ay lumalaki na may pagmamalaki sa kanilang lungsod. | The youth of Biñán are growing up proud of their city. |
@@ -2072,29 +2077,29 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 | Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
 |:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
 | nakabangon | bangon | Completed | Actor | naka- + bangon | recovered |
-| pumasok | pasok | Completed | Actor | pum- + pasok | entered |
-| binangon | bangon | Completed | Object | -in- + bangon | was rebuilt |
-| inayos | ayos | Completed | Object | i- + ayos | was fixed |
-| itinayo | tayo | Completed | Object | i- + tayo | was rebuilt |
-| sinigurado | sigurado | Completed | Actor | sini- + sigurado | ensured |
+| pumasok | pasok | Completed | Actor | -um- + pasok | entered |
+| ibinangon | bangon | Completed | Object | i- + -in- + bangon | was raised up, rebuilt |
+| inayos | ayos | Completed | Object | in- + ayos | was fixed |
+| itinayo | tayo | Completed | Object | i- + -in- + tayo | was rebuilt |
+| siniguro | siguro | Completed | Object | -in- + siguro | ensured |
 | makabalik | balik | Potential | Actor | maka- + balik | be able to return |
-| sumigla | sigla | Completed | Actor | sum- + sigla | became lively |
+| sumigla | sigla | Completed | Actor | -um- + sigla | became lively |
 | nagbalik | balik | Completed | Actor | nag- + balik | returned |
-| nagtayuan | tayo | Completed (Reciprocal) | Actor | nag- + tayuan | sprang up (plural) |
-| sinikap | sikap | Completed | Actor | sini- + sikap | endeavored |
-| iakit | akit | Neutral/Infinitive | Object | i- + akit | to attract |
-| itatag | tatag | Future Intentional | Object | i- + tatag | to establish |
+| nagtayuan | tayo | Completed (Collective) | Actor | nag- + tayo + -an | sprang up (plural) |
+| sinikap | sikap | Completed | Object | -in- + sikap | endeavored |
+| akitin | akit | Neutral/Infinitive | Object | akit + -in | to attract |
+| itatag | tatag | Infinitive (after nang) | Object | i- + tatag | to establish |
 | nagtayo | tayo | Completed | Actor | nag- + tayo | built |
-| itinakda | takda | Completed | Object | i- + takda | was designated |
-| isinasadula | dula | Ongoing | Object | isina- + dula | is dramatized |
-| pinagsasama | sama | Ongoing | Object | pina- + sama | combining |
-| dumarami | dami | Ongoing | Actor | duma- + dami | increasing |
-| pinangangalagaan | alaga | Ongoing | Object | pina- + alaga | safeguarding |
-| inilunsad | lunsad | Completed | Object | i- + lunsad | was launched |
-| pinangunahan | una | Completed | Object | pina- + una | led |
+| itinakda | takda | Completed | Object | i- + -in- + takda | was designated |
+| isinasadula | dula | Ongoing | Object | i- + -in- + sa (repeated) + sadula | is dramatized |
+| pinagsasama | sama | Ongoing | Object | pinag- + sa (repeated) + sama | combining |
+| dumarami | dami | Ongoing | Actor | -um- + da (repeated, d → r) + dami | increasing |
+| pinangangalagaan | alaga | Ongoing | Object | pang- + alaga + -an, -in- + nga (repeated) | safeguarding |
+| inilunsad | lunsad | Completed | Object | i- + -in- + lunsad | was launched |
+| pinangunahan | una | Completed | Object | pang- + una + -han, -in- | led |
 | nagbunga | bunga | Completed | Actor | nag- + bunga | bore fruit |
-| ipinakita | kita | Completed | Object | i- + kita | was shown |
-| kalimutan | limot | Infinitive | Object | ka- + limot | to forget |
+| ipinakita | kita | Completed | Object | i- + -in- + pa- + kita | was shown |
+| kalimutan | limot | Infinitive | Object | ka- + limot + -an (o → u) | to forget |
 | nagsimula | simula | Completed | Actor | nag- + simula | started |
 
 ---
@@ -2112,11 +2117,12 @@ Root: bangon → rise
 
 ---
 
-#### 2. **binangon** (rebuilt)
+#### 2. **ibinangon** (rebuilt)
 
 ```
 Root: bangon → rise
-+ -in- → binangon → was rebuilt (completed object-focus)
++ i- → ibangon → to raise (something) up
++ -in- → ib-in-angon → ibinangon → was raised up / rebuilt (completed object-focus)
 ```
 
 ---
@@ -2125,16 +2131,16 @@ Root: bangon → rise
 
 ```
 Root: sikap → effort
-+ sini- → sinikap → endeavored (completed actor-focus)
++ -in- → s-in-ikap → sinikap → endeavored, strove for (completed object-focus)
 ```
 
 ---
 
-#### 4. **iakit** (to attract)
+#### 4. **akitin** (to attract)
 
 ```
 Root: akit → attract
-+ i- → iakit → to attract (infinitive object-focus)
++ -in → akitin → to attract (infinitive object-focus)
 ```
 
 ---
@@ -2143,8 +2149,8 @@ Root: akit → attract
 
 ```
 Root: tatag → establish
-+ i- → itatag → (future/intentional)
-+ itinatag (past) → was established
++ i- → itatag → to establish (infinitive; used in the text after nang)
++ -in- → itinatag (completed) → was established
 ```
 
 ---
@@ -2153,7 +2159,8 @@ Root: tatag → establish
 
 ```
 Root: dula → play/drama
-+ isina- + dula → isinasadula → being dramatized (ongoing passive)
++ i- + sa- → isadula → to dramatize
++ -in- + repeated sa → isinasadula → being dramatized (ongoing passive)
 ```
 
 ---
@@ -2162,7 +2169,8 @@ Root: dula → play/drama
 
 ```
 Root: alaga → care
-+ pina- + alaga → pinangangalagaan → is being safeguarded (ongoing object-focus)
++ pang- ... -an → pangalagaan → to take care of
++ -in- + repeated nga → pinangangalagaan → is being safeguarded (ongoing object-focus)
 ```
 
 ---
