@@ -183,6 +183,64 @@ FIGURES = [
                  "International Industrial Park (Mampalasan) mark its industrial growth "
                  "since 1990.",
          tagalog="Ang 24 na barangay ng Biñán ngayon."),
+    dict(chapter=5, after=2, kind="Photo", id="technopark", src="images/modern/technopark-sign-2018.jpg",
+         title="The Laguna Technopark",
+         caption="The entrance sign of the Laguna Technopark, opened in 1990 on land in Biñan "
+                 "(Malamig) and Santa Rosa (Don Jose), listing some of its manufacturers.",
+         tagalog="Ang Laguna Technopark.", credit="Photo: Judgefloro, 2018, CC0, via Wikimedia Commons."),
+    dict(chapter=5, after=4, kind="Photo", id="cityhall", src="images/modern/city-hall-2018.jpg",
+         title="Biñan City Hall",
+         caption="The Biñan City Hall complex, seat of the city government since Biñan became "
+                 "a city in 2010.",
+         tagalog="Ang bulwagang panlungsod ng Biñán.", credit="Photo: Judgefloro, 2018, CC0, via Wikimedia Commons."),
+    dict(chapter=5, after=5, kind="Photo", id="view2023", src="images/modern/view-from-alberto-mansion-2023.jpg",
+         title="The Poblacion from the Alberto Mansion, 2023",
+         caption="The heart of Biñan seen from the balcony of the restored Alberto Mansion: the "
+                 "plaza, the old municipal hall and the bell tower of San Isidro Labrador.",
+         tagalog="Ang Poblacion mula sa Alberto Mansion, 2023.", credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=5, after=6, kind="Photo", id="sentro", src="images/modern/sentrong-pangkultura-2023.jpg",
+         title="The Sentrong Pangkultura ng Biñan",
+         caption="The Spanish-era municipal hall, restored as the Sentrong Pangkultura ng Biñan "
+                 "(Biñan Center for Culture and the Arts) under the Balik-Biñan programme.",
+         tagalog="Ang Sentrong Pangkultura ng Biñán.", credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=6, after=1, kind="Photo", id="marketstreet", src="images/modern/market-street-2013.jpg",
+         title="Around the public market, 2013",
+         caption="Shops and shoppers around the public market of Biñan on a rainy morning.",
+         tagalog="Sa paligid ng pamilihang bayan, 2013.", credit="Photo: Ramon FVelasquez, 2013, CC BY-SA 3.0, via Wikimedia Commons."),
+    dict(chapter=6, after=1, kind="Photo", id="fruit", src="images/modern/market-fruit-stall-2013.jpg",
+         title="A fruit stall in the market, 2013",
+         caption="A fruit stall at the Biñan market: bananas, citrus and local produce.",
+         tagalog="Isang tindahan ng prutas sa pamilihan, 2013.", credit="Photo: Ramon FVelasquez, 2013, CC BY-SA 3.0, via Wikimedia Commons."),
+    dict(chapter=6, after=1, kind="Photo", id="pospas", rights="pending", src="images/culture/pospas.jpg",
+         title="Pospas", caption="Pospas, Biñan’s yellow rice porridge with chicken, toasted "
+                 "garlic, spring onion and pork crackling.",
+         tagalog="Pospas, ang dilaw na lugaw ng Biñán.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
+    dict(chapter=6, after=2, kind="Photo", id="puto", rights="pending", src="images/culture/puto-binan.jpg",
+         title="Puto Biñan", caption="Puto Biñán, topped with grated cheese and salted egg.",
+         tagalog="Ang Puto Biñán.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
+    dict(chapter=6, after=3, kind="Photo", id="maglalatik", rights="pending", src="images/culture/maglalatik.jpg",
+         title="Maglalatik dancers",
+         caption="Maglalatik dancers, coconut shells strapped to their bodies: the “Christians” "
+                 "in blue and the “Moros” in red.",
+         tagalog="Mga mananayaw ng maglalatik.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
+    dict(chapter=6, after=3, kind="Photo", id="festival", rights="pending", src="images/culture/puto-latik-festival.jpg",
+         title="The Puto Latik Festival",
+         caption="Street dancers in the Puto Latik Festival.",
+         tagalog="Ang Puto Latik Festival.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
+    dict(chapter=6, after=4, kind="Photo", id="arawngbinan", rights="pending", src="images/culture/araw-ng-binan-night.jpg",
+         title="Araw ng Biñan by night",
+         caption="Araw ng Biñán: the illuminated Sentrong Pangkultura and crowds on the plaza.",
+         tagalog="Ang Araw ng Biñán sa gabi.", credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
+    dict(chapter=6, after=4, kind="Photo", id="mass", src="images/modern/church-mass-2013.jpg",
+         title="Sunday Mass at San Isidro Labrador",
+         caption="A full church for Mass at San Isidro Labrador, the heart of the town’s "
+                 "religious life.",
+         tagalog="Misa sa simbahan ni San Isidro Labrador.", credit="Photo: Ramon FVelasquez, 2013, CC BY-SA 3.0, via Wikimedia Commons."),
+    dict(chapter=6, after=4, kind="Photo", id="flowers", src="images/modern/market-flowers-2013.jpg",
+         title="Flower vendors, 2013",
+         caption="Flower vendors outside the market, preparing offerings for the church and for "
+                 "family celebrations.",
+         tagalog="Mga nagtitinda ng bulaklak, 2013.", credit="Photo: Ramon FVelasquez, 2013, CC BY-SA 3.0, via Wikimedia Commons."),
 ]
 
 
@@ -333,10 +391,23 @@ def prepare_history(markdown):
         out.append(links_to_footnotes(block))
         if not tagalog:
             english_paragraphs += 1
-            for fig in active_figures():
-                if (fig["chapter"], fig["after"]) == (chapter, english_paragraphs):
-                    numbers[fig["kind"]] = numbers.get(fig["kind"], 0) + 1
-                    out.append(figure_html(fig, numbers[fig["kind"]]))
+            here = [f for f in active_figures()
+                    if (f["chapter"], f["after"]) == (chapter, english_paragraphs)]
+            row = []  # consecutive photos are set side by side, two per row
+            for fig in here:
+                numbers[fig["kind"]] = numbers.get(fig["kind"], 0) + 1
+                html_fig = figure_html(fig, numbers[fig["kind"]])
+                if fig["kind"] == "Photo" and not fig.get("small"):
+                    row.append(html_fig)
+                    if len(row) == 2:
+                        out.append(f'<div class="fig-row">{"".join(row)}</div>')
+                        row = []
+                else:
+                    if row:
+                        out.append(row.pop())
+                    out.append(html_fig)
+            if row:
+                out.append(row.pop())
     if in_tagalog:
         out.append(":::")
     return "\n\n".join(out)

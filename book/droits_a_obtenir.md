@@ -10,9 +10,11 @@ requested » dans leur légende. `python3 book/build_pdf.py --final` produit le 
 |---|---|---|---|
 | Photo 6 : « Carabaos on the Manila South Road, looking toward Biñan », Robert L. Pendleton, 6 décembre 1934 (AGSL id 14222, négatif 409.11) | chapitre III | Board of Regents of the University of Wisconsin System, American Geographical Society Library (UW–Milwaukee) | agsl@uwm.edu, +1 414-229-6282 |
 
-Ces photos entrent dans le domaine public le 1er janvier 2028 (négatifs inédits, photographe mort en 1957) : un livre publié en 2028 ou après pourra les utiliser sans autorisation.
+| Photos du chapitre VI : pospas, Puto Biñan, danseurs de maglalatik, Puto Latik Festival, Araw ng Biñan la nuit (images du site touristique officiel, 719×408 px – demander aussi les fichiers en haute résolution) | chapitre VI | Ville de Biñan – Biñan City Culture, History, Arts and Tourism Office (BCHATO) | via experiencebinan.com et binan.gov.ph (bureau BCHATO, hôtel de ville) |
 
-Modèle de demande (anglais) :
+Les photos de Pendleton entrent dans le domaine public le 1er janvier 2028 (négatifs inédits, photographe mort en 1957) : un livre publié en 2028 ou après pourra les utiliser sans autorisation.
+
+Modèle de demande pour la photo de Pendleton (anglais) :
 
 > I am preparing a bilingual (English/Filipino) local-history book on Biñan, Laguna, Philippines, to be published by [publisher] in [year], print run about [n] copies, [non-profit/commercial]. I would like permission to reproduce the photograph by Robert L. Pendleton held in the AGSL Digital Photo Archive "Laguna province (Philippines), water buffaloes on the Manila south road" (agsphoto id 14222, Pendleton negative 409.11, identifier pe004836), taken 6 December 1934 on the Manila South Road between Biñan and Muntinlupa. I request non-exclusive, one-time print and e-book rights, worldwide, with the credit line "Robert L. Pendleton, 1934. American Geographical Society Library, University of Wisconsin–Milwaukee Libraries." Please let me know of any fees, the required credit wording, and whether a higher-resolution TIFF file is available.
 
@@ -33,3 +35,15 @@ Cartes de Murillo Velarde (1734) et de l'Atlas de Filipinas (1899–1900) ; phot
 ## Pistes pour d'autres images
 
 Voir `book/archives_catalogue.md` et `book/archives_catalogue_2.md` : *Pictorial Album on Rizal* (1962, accord de la NHCP pour un usage commercial), archives Retrato de la Filipinas Heritage Library (environ 10 photos de Biñan, dont la place avec des calèches en 1971, à commander via leur formulaire « Request for Reproduction »), cartes postales de collectionneurs.
+
+## Photos modernes sous licence libre (crédit obligatoire)
+
+| Document | Licence | Auteur |
+|---|---|---|
+| Marché, étals de fruits, vendeuses de fleurs, messe à San Isidro (2013) | CC BY-SA 3.0 | Ramon FVelasquez, via Wikimedia Commons |
+| Laguna Technopark, hôtel de ville (2018) | CC0 | Judgefloro, via Wikimedia Commons |
+| Vue depuis l’Alberto Mansion, Sentrong Pangkultura (2023) | CC BY-SA 4.0 | Ralff Nestor Nacor, via Wikimedia Commons |
+
+Modèle de demande pour la ville de Biñan (anglais) :
+
+> I am preparing a bilingual (English/Filipino) history of Biñan City for publication by [publisher] in [year]. I would like permission to reproduce five photographs published on Experience Biñan (experiencebinan.com): pospas, Puto Biñan, the maglalatik dancers, the Puto Latik Festival street dancers and Araw ng Biñan by night, with the credit "Experience Biñan, City Government of Biñan (BCHATO)". If possible, could you also share high-resolution files (at least 2,000 px wide) and the names of the photographers to credit?

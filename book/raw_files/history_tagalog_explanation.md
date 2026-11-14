@@ -2183,3 +2183,139 @@ Root: alaga → care
 ```
 
 ---
+
+## Culture, Daily Life and Commerce / Kultura, Pang-araw-araw na Buhay at Kalakalan
+
+### Vocabulary and Grammar Explanation (New Content Only)
+
+**1. The market and everyday trade**
+
+> *Mula pa noon, bayan na ng mga mangangalakal ang Biñán.*
+
+**Vocabulary:**
+- **mula pa noon** – *since long ago, from way back*
+- **mangangalakal** – *traders, merchants* (root: *kalakal* = goods, trade)
+- **pampublikong pamilihan** – *public market* (root: *bili* = buy; *pamilihan* = place for buying)
+- **madaling-araw** – *dawn, very early morning*
+- **puwesto** – *stall*
+- **siksikan** – *crowded, packed together* (root: *siksik* = compressed)
+- **dyip, traysikel** – *jeepney, tricycle*
+- **umusbong** – *sprang up, sprouted* (root: *usbong* = shoot, bud)
+- **sambahayan** – *household*
+- **tsinelas** – *slippers*
+- **nakaugat** – *rooted* (root: *ugat* = root)
+- **entablado ng banda** – *bandstand*
+- **pospas** – *Biñan’s yellow rice porridge*; **lugaw** – *rice porridge*; **lamang-loob** – *innards*; **kasubha** – *safflower*
+
+**Grammar:**
+- *Mangangalakal* = *mang-* + repeated first syllable + *kalakal* (k → ng): the doer of an action, "one who trades". Compare *mananakop* (occupier) in the WWII chapter.
+- *Pamilihan* = *pang-* + *bili* + *-han*: the place where an action happens. The same pattern gives *paaralan* (school), *simbahan* (church).
+- *Napupuno* = *na-* + repeated syllable + *puno* (full): ongoing state, "is (always) getting filled".
+- *Umusbong* = *-um-* + *usbong*. With a root beginning with a vowel, *-um-* goes in front: *um* + *usbong*.
+- *Kinukulayan* = *-in-* + repeated syllable + *kulay* + *-an*: ongoing object focus, "is coloured (with)".
+
+**Translation:**
+> Biñán has been a town of traders since long ago. Its public market, near the plaza and the old municipal hall, is where daily life begins: from dawn the stalls fill with fruit, vegetables, fish and flowers, while jeepneys and tricycles crowd the streets of the Poblacion. Small family businesses sprang up around it. For generations, households in barangays such as Dela Paz and Malaban made slippers and shoes – a livelihood so rooted in the town’s identity that its bandstand was even built in the shape of a slipper. The market also enriched the food traditions. Every morning someone sells pospas there, a yellow porridge with chicken and innards coloured with safflower; Merta Silva is said to have started it in Biñán during the Japanese period, and Mang Tony’s still serves it in the Poblacion.
+
+---
+
+**2. Puto Biñán**
+
+> *Ang pinakatanyag na produkto ng lungsod ay ang Puto Biñán, isang pinasingawang kakanin na kasinlaki ng pizza.*
+
+**Vocabulary:**
+- **pinakatanyag** – *most famous* (root: *tanyag* = famous)
+- **pinasingawan** – *steamed* (root: *singaw* = steam)
+- **kakanin** – *native rice cake, snack* (root: *kain* = eat)
+- **kasinlaki ng** – *as big as* (root: *laki* = size)
+- **ginadgad** – *grated* (root: *gadgad*)
+- **itlog na maalat** – *salted egg*
+- **maybahay** – *housewife*
+- **galapong** – *rice-flour batter*; **lansungan** – *steamer*; **katsa** – *muslin cloth*; **pugon** – *oven*; **ipa** – *rice husk*
+- **inilako** – *was peddled* (root: *lako* = to peddle)
+- **tagapagmana** – *heir* (root: *mana* = inheritance)
+
+**Grammar:**
+- *Pinaka-* + adjective = superlative: *tanyag* (famous) → *pinakatanyag* (most famous).
+- *Kasin-* + adjective = equality: *kasinlaki ng pizza* = "as big as a pizza".
+- *Pinasingawan* = *pa-* + *singaw* + *-an* with *-in-*: "was caused to be steamed". *Pinaaapoy* (is fired) follows the same causative pattern in the ongoing aspect.
+- *Tagapag-* + root names a role: *tagapagmana* = "the one who inherits".
+
+**Translation:**
+> The city’s most famous product is Puto Biñán, a steamed rice cake as big as a pizza, soft and moist, topped with grated cheese, bits of salted egg and a little condensed milk. According to the town’s story, it was created almost a century ago by a housewife, Petronila “Aling Nila” Samaniego. She tried out a batter of rice flour, brown sugar and baking powder, poured it onto a steamer covered with muslin, and steamed it in an oven fired with rice husks. Her puto was first peddled to passengers at the old Biñán railway station in Barangay Santo Niño; other puto makers followed, and her recipe is still cooked today in the family’s original bakery, now managed by her heir.
+
+---
+
+**3. The Puto Latik Festival and the maglalatik**
+
+> *Mula noong 2011, sabay na ipinagdiriwang ng lungsod ang kakanin at ang sayaw nito sa Puto Latik Festival.*
+
+**Vocabulary:**
+- **sabay** – *together, at the same time*
+- **ipinagdiriwang** – *is celebrated* (root: *diwang* = feast)
+- **maglalatik** – *the latik dance* (root: *latik* = sweet coconut curd)
+- **isinayaw** – *was danced* (root: *sayaw* = dance)
+- **handog** – *offering*
+- **bao ng niyog** – *coconut shell*
+- **dibdib, balakang, hita** – *chest, hips, thighs*
+- **kunwaring labanan** – *mock battle* (*kunwari* = pretend)
+- **latak** – *residue, dregs*; **gata** – *coconut milk*
+- **pagkakasundo** – *reconciliation* (root: *sundo*, *magkasundo* = to agree)
+- **karosa** – *float, carriage*
+- **ginawaran** – *was awarded* (root: *gawad* = award)
+- **hinirang** – *was named, was chosen* (root: *hirang*)
+
+**Grammar:**
+- *Maglalatik* = *mag-* + repeated first syllable + *latik*: a noun for the person (or here the dance) associated with an activity, "the latik-fighter".
+- *Isinayaw* = *i-* + *-in-* + *sayaw*: object focus, completed ("was danced").
+- *Dating idinaraos tuwing Pebrero* – "formerly held every February": *dati* + linker *-ng*; *idinaraos* shows the reduplicated ongoing aspect of *idaos* (to hold an event), with *d → r* between vowels.
+- *Ginawaran* = *-in-* + *gawad* + *-an* (d → r): "was given an award".
+
+**Translation:**
+> Since 2011, the city has celebrated its rice cake and its dance together in the Puto Latik Festival. Its name joins puto and the maglalatik, a folk dance said to have been first danced by the men of Loma and Zapote as an offering to San Isidro Labrador in his procession. In this dance, men with halved coconut shells tied to their chests, hips and thighs stage a mock battle over latik, the sweet curd of boiled coconut milk: Moros in red trousers against Christians in blue, in a fight that ends in reconciliation. Formerly held every February, the festival was moved to the feast of San Isidro on 15 May, and now lasts nine days, from 15 to 23 May. It begins with the procession of the image of Nuestra Señora de la Paz y Buen Viaje, followed by the inter-barangay street-dance contest, the float parade and the Puto Biñán cooking contest, and ends with the Pistang Intsik and the Santacruzan. It has been given the Pearl Awards of the Department of Tourism and the tourism officers several times – in 2018, 2019 and 2022 – and was named the best cultural festival in the city category in 2025.
+
+---
+
+**4. The rhythm of the year**
+
+> *May sariling indayog ang bawat araw.*
+
+**Vocabulary:**
+- **minamarkahan** – *is marked* (root: *marka* = mark)
+- **pagdiriwang** – *celebration* (root: *diwang*)
+- **indayog** – *rhythm, sway*
+- **pamamasyal** – *strolling, going for a walk* (root: *pasyal*)
+
+**Grammar:**
+- *Minamarkahan* = *-in-* + repeated syllable + *marka* + *-han*: ongoing object focus.
+- *Pamamasyal* = *pang-* + repeated syllable + *pasyal* (p → m): the noun for an ongoing activity.
+
+**Translation:**
+> In this way, the year in Biñán is marked by celebrations – the Araw ng Biñán in the first days of February and the fiesta of San Isidro in May – and each day has its own rhythm: Mass at the church of San Isidro Labrador, the market in the morning, and strolling on the plaza in the evening.
+
+---
+
+### Full Verb Breakdown Table
+
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| napupuno | puno | Ongoing | Actor | na- + pu + puno | is getting filled |
+| umusbong | usbong | Completed | Actor | um- + usbong | sprang up |
+| gumawa | gawa | Completed | Actor | -um- + gawa | made |
+| itinayo | tayo | Completed | Object | i- + -in- + tayo | was built |
+| pinayaman | yaman | Completed | Object | -in- + payaman (pa- + yaman) | was enriched |
+| kinukulayan | kulay | Ongoing | Object | -in- + ku + kulay + -an | is coloured |
+| inihahain | hain | Ongoing | Object | i- + -in- + ha + hain | is served |
+| pinasingawan | singaw | Completed | Object | pa- + singaw + -an, -in- | was steamed |
+| nilikha | likha | Completed | Object | ni- + likha (-in- becomes ni- before l) | was created |
+| ibinuhos | buhos | Completed | Object | i- + -in- + buhos | was poured |
+| inilako | lako | Completed | Object | i- + -in- + lako | was peddled |
+| niluluto | luto | Ongoing | Object | -in- + lu + luto | is being cooked |
+| ipinagdiriwang | diwang | Ongoing | Object | ipag- + -in- + di + diwang | is celebrated |
+| isinayaw | sayaw | Completed | Object | i- + -in- + sayaw | was danced |
+| nagtatanghal | tanghal | Ongoing | Actor | nag- + ta + tanghal | stage, perform |
+| inilipat | lipat | Completed | Object | i- + -in- + lipat | was moved |
+| tumatagal | tagal | Ongoing | Actor | -um- + ta + tagal | lasts |
+| ginawaran | gawad | Completed | Object | -in- + gawad + -an (d → r) | was awarded |
+| hinirang | hirang | Completed | Object | -in- + hirang | was named |
+| minamarkahan | marka | Ongoing | Object | -in- + ma + marka + -han | is marked |

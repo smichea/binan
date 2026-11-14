@@ -90,6 +90,11 @@ figure.map figcaption { font-style: normal; color: var(--ink); font-size: 8.8pt;
 figcaption .tl { color: var(--muted); }
 figure.archive figcaption { font-style: normal; color: var(--ink); }
 figure.archive img { border: 0.4pt solid var(--rule); max-height: 125mm; width: auto; max-width: 100%; margin: 0 auto; }
+.fig-row { display: flex; gap: 4mm; align-items: flex-start; margin: 6mm 0; break-inside: avoid; }
+.fig-row figure { flex: 1 1 0; margin: 0; }
+.fig-row figure.archive img { max-height: 60mm; width: 100%; height: auto; object-fit: cover; }
+.fig-row figcaption { font-size: 7.8pt; }
+figure.archive img { max-height: 95mm; }
 figure.small img { max-height: 70mm; }
 figcaption .credit { display: block; font-size: 7.4pt; color: var(--muted); margin-top: 0.8mm; }
 .rights-pending { display: block; font-size: 7.4pt; color: #b3261e; font-style: italic; }
