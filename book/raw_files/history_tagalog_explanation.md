@@ -1052,6 +1052,650 @@ Root: dali → easy
 ```
 
 ---
+## World War II and Japanese Occupation / Ikalawang Digmaang Pandaigdig
+
+---
+
+### Vocabulary and Grammar Explanation (New Content Only)
+
+---
+
+**1.**  
+> *Ang pananakop ng mga Hapones noong Ikalawang Digmaang Pandaigdig ay nagdulot ng matinding hirap at pighati sa mga taga-Biñán.*
+
+**Vocabulary:**  
+- **Hapones** – *Japanese (people)*  
+- **Ikalawang Digmaang Pandaigdig** – *Second World War* (*ikalawa* = second, *digmaan* = war, *pandaigdig* = worldwide, from *daigdig* = world)  
+- **nagdulot** – *brought about, caused* (root: *dulot* = to bring, to offer)  
+- **matindi** – *intense, severe*  
+- **hirap** – *hardship*  
+- **pighati** – *grief, sorrow*  
+- **taga-Biñán** – *people from Biñán* (*taga-* = "from, native of")
+
+**Grammar:**  
+- *Nagdulot* = actor focus, completed aspect (*nag- + dulot*). The occupation is the "actor" that caused the hardship.  
+- *Ang ... ay ...* is the inverted sentence order, common in formal or written Tagalog: subject first, then *ay*, then the predicate.
+
+**Translation:**  
+> The Japanese occupation during World War II brought severe hardship and grief to the people of Biñán.
+
+---
+
+**2.**  
+> *Pinasok ng Imperyal na Hukbong Hapones ang Laguna noong 1942 at kontrolado nila ang Biñán sa loob ng tatlong taon.*
+
+**Vocabulary:**  
+- **pinasok** – *entered, invaded* (root: *pasok* = enter)  
+- **Imperyal na Hukbong Hapones** – *Imperial Japanese Army* (*hukbo* = army)  
+- **kontrolado** – *controlled, under control* (borrowed from Spanish *controlado*)  
+- **sa loob ng** – *within, for the duration of* (*loob* = inside)
+
+**Grammar:**  
+- *Pinasok* = object focus, completed (*-in-* infix + *pasok*). The thing entered (*ang Laguna*) is the focus; the actor is marked by *ng* (*ng Imperyal na Hukbong Hapones*).  
+- Compare with actor focus *pumasok* ("entered"), seen in the post-war chapter.
+
+**Translation:**  
+> The Imperial Japanese Army entered Laguna in 1942 and controlled Biñán for three years.
+
+---
+
+**3.**  
+> *Sa panahong ito, ang karaniwang araw-araw na buhay ay napalitan ng takot at kakulangan.*
+
+**Vocabulary:**  
+- **karaniwan** – *ordinary, usual*  
+- **araw-araw** – *daily, every day* (doubling *araw* = day)  
+- **napalitan** – *was replaced* (root: *palit* = change, exchange)  
+- **takot** – *fear*  
+- **kakulangan** – *shortage, lack* (root: *kulang* = lacking)
+
+**Grammar:**  
+- *Napalitan* = *na- + palit + -an*, completed. The *na-* prefix shows something that happened to the subject, not something done on purpose.  
+- *Kakulangan* = *ka- ... -an* turns an adjective (*kulang*) into an abstract noun ("the state of lacking").
+
+**Translation:**  
+> During this time, ordinary daily life was replaced by fear and shortage.
+
+---
+
+**4.**  
+> *Nagkulang ang suplay ng pagkain dahil kinukuha ng mga mananakop ang ani para sa kanilang hukbo, kaya't kinailangang magtipid at magtago ng mga pamilya.*
+
+**Vocabulary:**  
+- **nagkulang** – *became insufficient, ran short* (root: *kulang*)  
+- **suplay ng pagkain** – *food supply*  
+- **kinukuha** – *were taking* (root: *kuha* = take, get)  
+- **mananakop** – *occupiers, invaders* (root: *sakop* = to cover, to rule over)  
+- **ani** – *harvest*  
+- **kaya't** – *so, therefore* (short for *kaya at*)  
+- **kinailangan** – *had to, needed to* (root: *kailangan* = need)  
+- **magtipid** – *to save, to be thrifty* (root: *tipid*)  
+- **magtago** – *to hide, to keep hidden* (root: *tago*)
+
+**Grammar:**  
+- *Kinukuha* = object focus, **ongoing** aspect: *-in-* + repeated first syllable (*ku*) + *kuha*. It describes a repeated action in the past ("kept taking").  
+- *Mananakop* = *mang- + sakop*, with the first syllable repeated. The *s* changes to *n* (*mang + sakop → manakop*), and this form names the person who does the action: "one who conquers".  
+- *Kinailangang magtipid* – the *-ng* linker joins *kinailangan* to the verb that follows ("had to save").
+
+**Translation:**  
+> The food supply ran short because the occupiers were taking the harvest for their army, so families had to save and hide food.
+
+---
+
+**5.**  
+> *Maraming kabataan ang hindi nakapag-aral at ang pamahalaang bayan ay napasailalim sa mahigpit na utos ng mga Hapones.*
+
+**Vocabulary:**  
+- **kabataan** – *youth, young people* (root: *bata* = child)  
+- **nakapag-aral** – *was able to study* (root: *aral* = study, lesson)  
+- **pamahalaang bayan** – *town government*  
+- **napasailalim** – *came under, was placed under* (*sa ilalim* = under, beneath)  
+- **mahigpit** – *strict, tight*  
+- **utos** – *order, command*
+
+**Grammar:**  
+- *Nakapag-aral* = *naka- + pag- + aral*. *Naka-* expresses **ability** (completed): "managed to / was able to". With *hindi*: "could not go to school".  
+- *Napasailalim* = *na- + pa- + sa ilalim*, built on a whole phrase: "ended up under".
+
+**Translation:**  
+> Many young people could not go to school, and the town government came under the strict orders of the Japanese.
+
+---
+
+**6.**  
+> *Subalit sa kabila ng panganib, ang diwa ng paglaban ay buhay sa puso ng mga Biñense.*
+
+**Vocabulary:**  
+- **subalit** – *but, however*  
+- **sa kabila ng** – *despite, in spite of* (*kabila* = other side)  
+- **panganib** – *danger*  
+- **diwa** – *spirit*  
+- **paglaban** – *resistance, fighting back* (root: *laban* = fight)  
+- **buhay** – *alive* (also: *life*)  
+- **puso** – *heart*
+
+**Grammar:**  
+- *Paglaban* = *pag-* + root: a noun naming the action ("the act of fighting back").
+
+**Translation:**  
+> But despite the danger, the spirit of resistance was alive in the hearts of the Biñenses.
+
+---
+
+**7.**  
+> *Palihim na sumuporta ang mga residente sa mga gerilya – ang ilan ay sumapi mismo sa mga pangkat, at ang iba naman ay nagbigay ng pagkain, taguan, o impormasyon sa mga mandirigma sa kabundukan.*
+
+**Vocabulary:**  
+- **palihim** – *secretly* (root: *lihim* = secret)  
+- **sumuporta** – *supported* (root: *suporta*, from Spanish *soporte* / English *support*)  
+- **gerilya** – *guerrilla fighters*  
+- **ang ilan ... ang iba** – *some ... others*  
+- **sumapi** – *joined (a group)* (root: *sapi*)  
+- **mismo** – *themselves, personally*  
+- **pangkat** – *group, unit*  
+- **taguan** – *hiding place* (root: *tago* + *-an* = place)  
+- **mandirigma** – *warrior, fighter* (root: *digma* = war)  
+- **kabundukan** – *mountains, mountainous area* (root: *bundok* = mountain)
+
+**Grammar:**  
+- *Sumuporta* and *sumapi* = actor focus, completed, with the **-um-** infix (*s-um-uporta*, *s-um-api*).  
+- *Palihim na* – the *pa-* prefix turns *lihim* into an adverb of manner, linked to the verb with *na*.  
+- *Ka- ... -an* on a noun of place makes a collective area: *bundok* → *kabundukan* ("the mountains"). Note the vowel change *o → u* when a suffix is added.
+
+**Translation:**  
+> The residents secretly supported the guerrillas – some joined the units themselves, while others gave food, hiding places, or information to the fighters in the mountains.
+
+---
+
+**8.**  
+> *Naging bahagi ang Biñán ng malawakang kilusang paglaban sa okupasyon.*
+
+**Vocabulary:**  
+- **bahagi** – *part*  
+- **malawakan** – *widespread, large-scale* (root: *lawak* = breadth)  
+- **kilusan** – *movement* (root: *kilos* = to move, to act)  
+- **okupasyon** – *occupation*
+
+**Translation:**  
+> Biñán became part of the widespread resistance movement against the occupation.
+
+---
+
+**9.**  
+> *Pagsapit ng pagpalapit ng kalayaan, naging saksi ang Biñán sa mga huling kabanata ng digmaan.*
+
+**Vocabulary:**  
+- **pagpalapit** – *drawing near* (root: *lapit* = near)  
+- **kalayaan** – *freedom* (root: *laya* = free)  
+- **saksi** – *witness*  
+- **huli** – *last, final*  
+- **kabanata** – *chapter*
+
+**Note:** *Pagsapit ng pagpalapit* ("upon the arrival of the approach") repeats the same idea and sounds heavy in Tagalog. A more natural phrasing would be *Nang papalapit na ang kalayaan* ("As freedom was approaching").
+
+**Translation:**  
+> As freedom drew near, Biñán witnessed the final chapters of the war.
+
+---
+
+**10.**  
+> *Pebrero 3, 1945 nang tuluyang napalaya ang Biñán mula sa pananakop.*
+
+**Vocabulary:**  
+- **tuluyan** – *completely, for good*  
+- **napalaya** – *was freed, was liberated* (root: *laya* = free)  
+- **mula sa** – *from*
+
+**Grammar:**  
+- *Napalaya* = *na- + pa- + laya*. *Pa-* means "to cause" (*palayain* = to set free); *na-* marks it as an accomplished result: "was (successfully) set free".  
+- *[Date] nang ...* – "It was on [date] that ...": a way to put the date first for emphasis.
+
+**Translation:**  
+> It was on February 3, 1945 that Biñán was finally liberated from the occupation.
+
+---
+
+**11.**  
+> *Sa araw na ito, isang sama-samang pagsalakay ang isinagawa ng mga gerilyang Pilipino – ang kilalang Hunters ROTC – sa pangunguna ni Komandante Marcial Alintanahin.*
+
+**Vocabulary:**  
+- **pagsalakay** – *attack, assault* (root: *salakay* = attack)  
+- **isinagawa** – *was carried out* (root: *sagawa*, from *gawa* = do, make)  
+- **kilala** – *well-known, famous*  
+- **sa pangunguna ni** – *under the leadership of* (root: *una* = first)  
+- **Komandante** – *Commander*
+
+**Grammar:**  
+- *Isinagawa* = object focus, completed: *i-* + *-in-* + *sagawa*. The *-in-* infix becomes part of the prefix (*isina-*). The thing done (*pagsalakay*) is the focus.  
+- *Pangunguna* = *pang-* + *una*, with the first syllable repeated: "the act of leading".  
+- *Ni* is the *ng*-marker used before a person's name.
+
+**Translation:**  
+> On this day, a combined assault was carried out by Filipino guerrillas – the famous Hunters ROTC – under the leadership of Commander Marcial Alintanahin.
+
+---
+
+**12.**  
+> *Mula sa iba't ibang direksyon sila nagmula: may dumating mula sa Carmona sa kanluran, mula sa San Pedro sa hilaga, at mula sa Santa Rosa sa timog.*
+
+**Vocabulary:**  
+- **iba't iba** – *various, different* (short for *iba at iba*)  
+- **nagmula** – *came from, originated* (root: *mula* = from)  
+- **may dumating** – *some arrived* (literally "there were those who arrived")  
+- **kanluran** – *west*  
+- **hilaga** – *north*  
+- **timog** – *south*  
+- *(and for completeness:* **silangan** – *east)*
+
+**Translation:**  
+> They came from different directions: some arrived from Carmona in the west, from San Pedro in the north, and from Santa Rosa in the south.
+
+---
+
+**13.**  
+> *Nagulat at di nakaagapay ang mga natitirang kawal na Hapones sa Biñán, kaya't sa loob lamang ng isang araw ay napasuko sila at ang mga kakamping lokal na kolaborasyonistang kasama nila.*
+
+**Vocabulary:**  
+- **nagulat** – *were surprised* (root: *gulat* = shock, surprise)  
+- **nakaagapay** – *was able to keep up / cope* (root: *agapay* = to keep alongside)  
+- **natitira** – *remaining* (root: *tira* = leftover)  
+- **kawal** – *soldier*  
+- **lamang** – *only*  
+- **napasuko** – *were made to surrender* (root: *suko* = surrender)  
+- **kakampi** – *ally* (root: *kampi* = side, party)  
+- **kolaborasyonista** – *collaborator*  
+- **kasama** – *companion, together with*
+
+**Grammar:**  
+- *Nagulat* = *na- + gulat* (not *nag-* + *ulat*): an involuntary feeling that happened to them.  
+- *Di nakaagapay* = *naka-* of ability, negated: "could not keep up".  
+- *Natitira* = *na-* + repeated syllable *ti* + *tira*: ongoing state, "those still remaining".  
+- *Napasuko* = *na- + pa- + suko*: "were caused to surrender" (they surrendered because of the attack).
+
+**Translation:**  
+> The remaining Japanese soldiers in Biñán were caught by surprise and could not hold out, so within just one day they were forced to surrender, together with the local collaborators who were on their side.
+
+---
+
+**14.**  
+> *Matapos ang labanan, nagwagayway ang watawat ng Pilipinas sa Biñán, hudyat ng katapusan ng mapait na yugto ng digmaan para sa bayan.*
+
+**Vocabulary:**  
+- **matapos** – *after* (similar to *pagkatapos*)  
+- **labanan** – *battle* (root: *laban*)  
+- **nagwagayway** – *waved, fluttered* (root: *wagayway*)  
+- **watawat** – *flag*  
+- **hudyat** – *signal, sign*  
+- **katapusan** – *end* (root: *tapos* = finished)  
+- **mapait** – *bitter* (root: *pait*)  
+- **yugto** – *period, stage, chapter*
+
+**Translation:**  
+> After the battle, the Philippine flag flew over Biñán, a signal of the end of the bitter period of the war for the town.
+
+---
+
+**15.**  
+> *Bagama't napakasaklap ng sinapit ng marami, mapalad ang Biñán dahil hindi ito lubusang nawasak noong digmaan.*
+
+**Vocabulary:**  
+- **bagama't** – *although*  
+- **napakasaklap** – *extremely tragic* (root: *saklap* = misery, bitterness)  
+- **sinapit** – *fate, what one went through* (root: *sapit* = to arrive at, to befall)  
+- **mapalad** – *lucky, fortunate* (root: *palad* = palm of the hand; also luck, fate)  
+- **lubusan** – *completely, totally*  
+- **nawasak** – *was destroyed* (root: *wasak* = ruined)
+
+**Grammar:**  
+- *Napaka-* + adjective = "very, extremely" (*napakasaklap* = "so very tragic").  
+- *Nawasak* = *na- + wasak*: something that happened to the subject (destroyed, not "destroyed someone").
+
+**Translation:**  
+> Although what many people went through was deeply tragic, Biñán was fortunate because it was not completely destroyed during the war.
+
+---
+
+**16.**  
+> *Maraming bayan sa Laguna ang naabo ang mga gusali at simbahan sa mga pambobomba, subalit ang simbahan at kabayanan ng Biñán ay nakaligtas sa matinding pinsala.*
+
+**Vocabulary:**  
+- **naabo** – *was burned to ashes* (root: *abo* = ash)  
+- **gusali** – *building*  
+- **pambobomba** – *bombing* (root: *bomba* = bomb)  
+- **kabayanan** – *town center, poblacion* (root: *bayan* = town)  
+- **nakaligtas** – *survived, escaped* (root: *ligtas* = safe)  
+- **pinsala** – *damage*
+
+**Grammar:**  
+- *Naabo* – Tagalog can make a verb from a noun: *na- + abo* = "turned into ash".  
+- *Nakaligtas* = *naka- + ligtas*: "managed to be safe", i.e. survived.  
+- *Pambobomba* = *pang- + bomba*, with the first syllable repeated: the noun for the ongoing act ("the bombing").
+
+**Translation:**  
+> Many towns in Laguna saw their buildings and churches reduced to ashes by the bombings, but the church and town center of Biñán escaped severe damage.
+
+---
+
+**17.**  
+> *Dahil dito, napanatili ang maraming lumang bahay at istruktura sa Biñán na itinayo pa noong panahon ng Espanyol – na isang bihirang pangyayari sa ibang lugar na lubhang nasira ang mga makasaysayang gusali.*
+
+**Vocabulary:**  
+- **dahil dito** – *because of this*  
+- **napanatili** – *were preserved, were kept* (root: *panatili* = to keep, to remain)  
+- **luma** – *old*  
+- **itinayo** – *was built* (root: *tayo* = to stand, to build)  
+- **bihira** – *rare*  
+- **pangyayari** – *event, occurrence* (root: *yari* = happen)  
+- **lubha** – *greatly, severely*  
+- **nasira** – *was damaged* (root: *sira* = broken)  
+- **makasaysayan** – *historical* (root: *kasaysayan* = history)
+
+**Grammar:**  
+- *Napanatili* = *na- + panatili*: object focus, completed, with the sense of a result that was achieved.  
+- *Itinayo* = *i- + -in- + tayo*: object focus, completed – "was built".
+
+**Translation:**  
+> Because of this, many old houses and structures in Biñán built during the Spanish period were preserved – something rare in other places where historic buildings were badly damaged.
+
+---
+
+**18.**  
+> *Gayunpaman, ang sugat sa pamayanan ay hindi biro: may mga naulila, may mga nasugatan at namatayan, at halos lahat ay dumanas ng gutom at takot.*
+
+**Vocabulary:**  
+- **gayunpaman** – *nevertheless, however*  
+- **sugat** – *wound*  
+- **pamayanan** – *community*  
+- **hindi biro** – *no joke, serious*  
+- **naulila** – *were orphaned* (root: *ulila* = orphan)  
+- **nasugatan** – *were wounded* (root: *sugat*)  
+- **namatayan** – *lost a loved one, were bereaved* (root: *patay* = dead)  
+- **halos lahat** – *almost everyone*  
+- **dumanas** – *experienced, went through* (root: *danas* = experience)  
+- **gutom** – *hunger*
+
+**Grammar:**  
+- *Namatayan* = *na- + patay + -an*: the *p* becomes *m*. The *-an* suffix points to the person affected: "the one who had someone die" (not the one who died).  
+- *Nasugatan* = *na- + sugat + -an*: "got wounded".  
+- *Dumanas* = *-um-* + *danas*: actor focus, completed.
+
+**Translation:**  
+> Nevertheless, the wound to the community was serious: some were orphaned, some were wounded or lost loved ones, and almost everyone suffered hunger and fear.
+
+---
+
+**19.**  
+> *Matapos ang liberasyon, nagsimula ang mahaba at mahirap na pagbangon.*
+
+**Vocabulary:**  
+- **liberasyon** – *liberation*  
+- **nagsimula** – *began* (root: *simula* = beginning)  
+- **mahaba** – *long*  
+- **mahirap** – *difficult*  
+- **pagbangon** – *recovery, rising again* (root: *bangon* = to rise)
+
+**Translation:**  
+> After the liberation, the long and difficult recovery began.
+
+---
+
+**20.**  
+> *Nagbalik unti-unti ang mga pamilya mula sa mga pinagtaguan nilang baryo at bundok, upang muling itayo ang mga bahay, linisin ang mga lansangan, at buhayin ang naantalang mga kabuhayan.*
+
+**Vocabulary:**  
+- **nagbalik** – *returned* (root: *balik*)  
+- **unti-unti** – *little by little, gradually*  
+- **pinagtaguan** – *(places) where they hid* (root: *tago* = hide)  
+- **baryo** – *village* (from Spanish *barrio*)  
+- **upang** – *in order to*  
+- **muli** – *again*  
+- **itayo** – *to build (up)* (root: *tayo*)  
+- **linisin** – *to clean* (root: *linis* = clean)  
+- **lansangan** – *street*  
+- **buhayin** – *to revive, to bring back to life* (root: *buhay* = life)  
+- **naantala** – *delayed, interrupted* (root: *antala* = delay)  
+- **kabuhayan** – *livelihood* (root: *buhay*)
+
+**Grammar:**  
+- *Itayo*, *linisin*, *buhayin* = object-focus **infinitives** after *upang* ("in order to"). Two ways of making them: *i-* + root (*itayo*), or root + *-in* (*linisin*, *buhayin*).  
+- *Pinagtaguan* = *pinag- + tago + -an*: "the place where (they) hid". The *-an* suffix often points to a place.  
+- *Naantalang* = *naantala* + linker *-ng* to describe *kabuhayan*.
+
+**Translation:**  
+> Families gradually returned from the villages and mountains where they had hidden, to rebuild their houses, clean the streets, and revive their interrupted livelihoods.
+
+---
+
+**21.**  
+> *Ang diwa ng bayanihan ang nagsilbing sandigan ng mga Biñense sa panahong ito – nagtulungan ang bawat isa upang ibangon ang Biñán mula sa pagkakadapa.*
+
+**Vocabulary:**  
+- **nagsilbing** – *served as* (root: *silbi* = use, service)  
+- **sandigan** – *support, pillar, something to lean on* (root: *sandig* = to lean)  
+- **nagtulungan** – *helped one another* (root: *tulong* = help)  
+- **bawat isa** – *each one, everyone*  
+- **ibangon** – *to raise up, to lift* (root: *bangon*)  
+- **pagkakadapa** – *having fallen flat on one's face* (root: *dapa* = lying face-down)
+
+**Grammar:**  
+- *Nagtulungan* = *nag- + tulong + -an*: the *nag- ... -an* pattern shows a **reciprocal** action ("helped each other"). Note *tulong* → *tulung-* before the suffix.  
+- *Ibangon* = *i- + bangon*: object focus – "to raise (Biñán) up". Compare actor focus *bumangon* = "to get up (oneself)".  
+- *Pagkakadapa* = *pagka- + ka- + dapa*: the state of having fallen. Here it is an image: Biñán had been "knocked to the ground".
+
+**Translation:**  
+> The spirit of bayanihan served as the support of the Biñenses during this time – everyone helped one another to lift Biñán up from its fall.
+
+---
+
+**22.**  
+> *Nang makamit ng Pilipinas ang kasarinlan noong Hulyo 4, 1946, ang Biñán ay humakbang na rin patungo sa bagong yugto bilang bahagi ng isang malayang bansa, bitbit ang mga aral at alaala ng digmaan.*
+
+**Vocabulary:**  
+- **nang** – *when* (with a past event)  
+- **makamit** – *to achieve, to attain* (root: *kamit*)  
+- **kasarinlan** – *independence* (root: *sarili* = self)  
+- **humakbang** – *stepped, took a step* (root: *hakbang* = step)  
+- **patungo sa** – *towards*  
+- **malaya** – *free* (root: *laya*)  
+- **bansa** – *nation, country*  
+- **bitbit** – *carrying (in hand)*  
+- **aral** – *lessons*  
+- **alaala** – *memories*
+
+**Grammar:**  
+- *Nang makamit* – after *nang* ("when"), Tagalog often uses the plain *ma-* form instead of the past: "when (it) was attained".  
+- *Humakbang* = *-um-* + *hakbang*: actor focus, completed.  
+- *Kasarinlan* = *ka- + sarili + -an*: "self-ness", i.e. independence. The root is shortened (*sarili* → *sarinl-*).
+
+**Translation:**  
+> When the Philippines achieved independence on July 4, 1946, Biñán also stepped into a new chapter as part of a free nation, carrying with it the lessons and memories of the war.
+
+---
+
+### Full Summary Table
+
+| Tagalog | English |
+|:---|:---|
+| Ang pananakop ng mga Hapones noong Ikalawang Digmaang Pandaigdig ay nagdulot ng matinding hirap at pighati sa mga taga-Biñán. | The Japanese occupation during World War II brought severe hardship and grief to the people of Biñán. |
+| Pinasok ng Imperyal na Hukbong Hapones ang Laguna noong 1942 at kontrolado nila ang Biñán sa loob ng tatlong taon. | The Imperial Japanese Army entered Laguna in 1942 and controlled Biñán for three years. |
+| Sa panahong ito, ang karaniwang araw-araw na buhay ay napalitan ng takot at kakulangan. | During this time, ordinary daily life was replaced by fear and shortage. |
+| Nagkulang ang suplay ng pagkain dahil kinukuha ng mga mananakop ang ani para sa kanilang hukbo, kaya't kinailangang magtipid at magtago ng mga pamilya. | The food supply ran short because the occupiers were taking the harvest for their army, so families had to save and hide food. |
+| Maraming kabataan ang hindi nakapag-aral at ang pamahalaang bayan ay napasailalim sa mahigpit na utos ng mga Hapones. | Many young people could not go to school, and the town government came under the strict orders of the Japanese. |
+| Subalit sa kabila ng panganib, ang diwa ng paglaban ay buhay sa puso ng mga Biñense. | But despite the danger, the spirit of resistance was alive in the hearts of the Biñenses. |
+| Palihim na sumuporta ang mga residente sa mga gerilya – ang ilan ay sumapi mismo sa mga pangkat, at ang iba naman ay nagbigay ng pagkain, taguan, o impormasyon sa mga mandirigma sa kabundukan. | The residents secretly supported the guerrillas – some joined the units themselves, while others gave food, hiding places, or information to the fighters in the mountains. |
+| Naging bahagi ang Biñán ng malawakang kilusang paglaban sa okupasyon. | Biñán became part of the widespread resistance movement against the occupation. |
+| Pagsapit ng pagpalapit ng kalayaan, naging saksi ang Biñán sa mga huling kabanata ng digmaan. | As freedom drew near, Biñán witnessed the final chapters of the war. |
+| Pebrero 3, 1945 nang tuluyang napalaya ang Biñán mula sa pananakop. | It was on February 3, 1945 that Biñán was finally liberated from the occupation. |
+| Sa araw na ito, isang sama-samang pagsalakay ang isinagawa ng mga gerilyang Pilipino – ang kilalang Hunters ROTC – sa pangunguna ni Komandante Marcial Alintanahin. | On this day, a combined assault was carried out by Filipino guerrillas – the famous Hunters ROTC – under the leadership of Commander Marcial Alintanahin. |
+| Mula sa iba't ibang direksyon sila nagmula: may dumating mula sa Carmona sa kanluran, mula sa San Pedro sa hilaga, at mula sa Santa Rosa sa timog. | They came from different directions: some arrived from Carmona in the west, from San Pedro in the north, and from Santa Rosa in the south. |
+| Nagulat at di nakaagapay ang mga natitirang kawal na Hapones sa Biñán, kaya't sa loob lamang ng isang araw ay napasuko sila at ang mga kakamping lokal na kolaborasyonistang kasama nila. | The remaining Japanese soldiers in Biñán were caught by surprise and could not hold out, so within just one day they were forced to surrender, together with the local collaborators on their side. |
+| Matapos ang labanan, nagwagayway ang watawat ng Pilipinas sa Biñán, hudyat ng katapusan ng mapait na yugto ng digmaan para sa bayan. | After the battle, the Philippine flag flew over Biñán, a signal of the end of the bitter period of the war for the town. |
+| Bagama't napakasaklap ng sinapit ng marami, mapalad ang Biñán dahil hindi ito lubusang nawasak noong digmaan. | Although what many people went through was deeply tragic, Biñán was fortunate because it was not completely destroyed during the war. |
+| Maraming bayan sa Laguna ang naabo ang mga gusali at simbahan sa mga pambobomba, subalit ang simbahan at kabayanan ng Biñán ay nakaligtas sa matinding pinsala. | Many towns in Laguna saw their buildings and churches reduced to ashes by the bombings, but the church and town center of Biñán escaped severe damage. |
+| Dahil dito, napanatili ang maraming lumang bahay at istruktura sa Biñán na itinayo pa noong panahon ng Espanyol – na isang bihirang pangyayari sa ibang lugar na lubhang nasira ang mga makasaysayang gusali. | Because of this, many old houses and structures in Biñán built during the Spanish period were preserved – something rare in other places where historic buildings were badly damaged. |
+| Gayunpaman, ang sugat sa pamayanan ay hindi biro: may mga naulila, may mga nasugatan at namatayan, at halos lahat ay dumanas ng gutom at takot. | Nevertheless, the wound to the community was serious: some were orphaned, some were wounded or lost loved ones, and almost everyone suffered hunger and fear. |
+| Matapos ang liberasyon, nagsimula ang mahaba at mahirap na pagbangon. | After the liberation, the long and difficult recovery began. |
+| Nagbalik unti-unti ang mga pamilya mula sa mga pinagtaguan nilang baryo at bundok, upang muling itayo ang mga bahay, linisin ang mga lansangan, at buhayin ang naantalang mga kabuhayan. | Families gradually returned from the villages and mountains where they had hidden, to rebuild their houses, clean the streets, and revive their interrupted livelihoods. |
+| Ang diwa ng bayanihan ang nagsilbing sandigan ng mga Biñense sa panahong ito – nagtulungan ang bawat isa upang ibangon ang Biñán mula sa pagkakadapa. | The spirit of bayanihan served as the support of the Biñenses during this time – everyone helped one another to lift Biñán up from its fall. |
+| Nang makamit ng Pilipinas ang kasarinlan noong Hulyo 4, 1946, ang Biñán ay humakbang na rin patungo sa bagong yugto bilang bahagi ng isang malayang bansa, bitbit ang mga aral at alaala ng digmaan. | When the Philippines achieved independence on July 4, 1946, Biñán also stepped into a new chapter as part of a free nation, carrying with it the lessons and memories of the war. |
+
+---
+
+### Full Verb Breakdown Table
+
+| Verb in Text | Root Word | Aspect | Focus | Construction | Meaning |
+|:-------------|:----------|:-------|:------|:-------------|:--------|
+| nagdulot | dulot | Completed | Actor | nag- + dulot | brought about |
+| pinasok | pasok | Completed | Object | -in- + pasok | entered, invaded |
+| napalitan | palit | Completed | Object | na- + palit + -an | was replaced |
+| nagkulang | kulang | Completed | Actor | nag- + kulang | ran short |
+| kinukuha | kuha | Ongoing | Object | -in- + ku + kuha | were taking |
+| kinailangan | kailangan | Completed | Object | -in- + kailangan | had to |
+| magtipid | tipid | Infinitive | Actor | mag- + tipid | to save, economize |
+| magtago | tago | Infinitive | Actor | mag- + tago | to hide |
+| nakapag-aral | aral | Completed (ability) | Actor | naka- + pag- + aral | was able to study |
+| napasailalim | sa ilalim | Completed | Actor | na- + pa- + sailalim | came under |
+| sumuporta | suporta | Completed | Actor | -um- + suporta | supported |
+| sumapi | sapi | Completed | Actor | -um- + sapi | joined |
+| nagbigay | bigay | Completed | Actor | nag- + bigay | gave |
+| napalaya | laya | Completed | Object | na- + pa- + laya | was liberated |
+| isinagawa | sagawa | Completed | Object | i- + -in- + sagawa | was carried out |
+| nagmula | mula | Completed | Actor | nag- + mula | came from |
+| nagulat | gulat | Completed | Actor | na- + gulat | was surprised |
+| nakaagapay | agapay | Completed (ability) | Actor | naka- + agapay | was able to cope |
+| napasuko | suko | Completed | Object | na- + pa- + suko | was made to surrender |
+| nagwagayway | wagayway | Completed | Actor | nag- + wagayway | waved, flew |
+| nawasak | wasak | Completed | Object | na- + wasak | was destroyed |
+| naabo | abo | Completed | Object | na- + abo | was burned to ashes |
+| nakaligtas | ligtas | Completed (ability) | Actor | naka- + ligtas | survived |
+| napanatili | panatili | Completed | Object | na- + panatili | was preserved |
+| itinayo | tayo | Completed | Object | i- + -in- + tayo | was built |
+| nasira | sira | Completed | Object | na- + sira | was damaged |
+| naulila | ulila | Completed | Object | na- + ulila | was orphaned |
+| nasugatan | sugat | Completed | Object | na- + sugat + -an | was wounded |
+| namatayan | patay | Completed | Object | na- + patay + -an (p → m) | lost a loved one |
+| dumanas | danas | Completed | Actor | -um- + danas | experienced |
+| nagsimula | simula | Completed | Actor | nag- + simula | began |
+| nagbalik | balik | Completed | Actor | nag- + balik | returned |
+| itayo | tayo | Infinitive | Object | i- + tayo | to build |
+| linisin | linis | Infinitive | Object | linis + -in | to clean |
+| buhayin | buhay | Infinitive | Object | buhay + -in | to revive |
+| naantala | antala | Completed | Object | na- + antala | was interrupted |
+| nagsilbi | silbi | Completed | Actor | nag- + silbi | served as |
+| nagtulungan | tulong | Completed (reciprocal) | Actor | nag- + tulong + -an | helped one another |
+| ibangon | bangon | Infinitive | Object | i- + bangon | to raise up |
+| makamit | kamit | Infinitive / potential | Object | ma- + kamit | to achieve |
+| humakbang | hakbang | Completed | Actor | -um- + hakbang | stepped |
+
+---
+
+### Visual Diagram of New Verb Constructions
+
+---
+
+#### 1. **pinasok** (entered, invaded)
+
+```
+Root: pasok → enter
++ -in- (after first consonant) → p-in-asok → pinasok → was entered (completed object focus)
+Compare: p-um-asok → pumasok → entered (actor focus)
+```
+
+---
+
+#### 2. **kinukuha** (were taking)
+
+```
+Root: kuha → take
++ repeat first syllable → ku-kuha
++ -in- → k-in-ukuha → kinukuha → is/was being taken (ongoing object focus)
+```
+
+---
+
+#### 3. **nakapag-aral** (was able to study)
+
+```
+Root: aral → study
++ pag- → pag-aral → studying
++ naka- → nakapag-aral → was able to study (completed, ability)
+hindi + nakapag-aral → could not study
+```
+
+---
+
+#### 4. **sumuporta** (supported)
+
+```
+Root: suporta → support
++ -um- (after first consonant) → s-um-uporta → sumuporta → supported (completed actor focus)
+Same pattern: sapi → sumapi, danas → dumanas, hakbang → humakbang
+```
+
+---
+
+#### 5. **napalaya** (was liberated)
+
+```
+Root: laya → free
++ pa- → palaya → cause to be free
++ na- → napalaya → was (successfully) set free
+Same pattern: suko → napasuko (was made to surrender)
+```
+
+---
+
+#### 6. **isinagawa** (was carried out)
+
+```
+Root: gawa → do, make
++ sa- → sagawa
++ i- → isagawa → to carry out
++ -in- → is-in-agawa → isinagawa → was carried out (completed object focus)
+```
+
+---
+
+#### 7. **nakaligtas** (survived)
+
+```
+Root: ligtas → safe
++ naka- → nakaligtas → managed to be safe → survived
+```
+
+---
+
+#### 8. **namatayan** (lost a loved one)
+
+```
+Root: patay → dead
++ na- ... -an → na-patay-an
+p → m after na- → namatayan → one who suffered a death (bereaved)
+```
+
+---
+
+#### 9. **nagtulungan** (helped one another)
+
+```
+Root: tulong → help
++ -an → tulungan (o → u before suffix)
++ nag- → nagtulungan → helped one another (completed, reciprocal)
+```
+
+---
+
+#### 10. **ibangon** (to raise up)
+
+```
+Root: bangon → rise
++ i- → ibangon → to raise (something) up (object focus)
+Compare: b-um-angon → bumangon → to get up (actor focus)
+         pag- + bangon → pagbangon → recovery (noun)
+```
+
+---
+
 ## Post-War Reconstruction and Contemporary Era / Pagbangon at Makabagong Panahon
 
 
