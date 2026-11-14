@@ -54,37 +54,99 @@ IMAGES = {
     },
 }
 
-# Maps (drawn by book/maps/make_maps.py), placed after the first paragraph
-# of a chapter of the history, numbered from 1.
-MAPS = {
-    1: ("location",
-        "Biñan on the western shore of Laguna de Bay, south of Manila. Before the "
-        "Spaniards came, the area belonged to the Tagalog settlement of Tabuco, "
-        "today Cabuyao.",
-        "Ang Biñán sa kanlurang pampang ng Lawa ng Laguna."),
-    2: ("territory",
-        "How Biñan’s territory took shape: separated from Tabuco in 1688, it lost its "
-        "barrio of Santa Rosa in 1791–92. Under American rule, San Pedro (1903–1907) "
-        "and Muntinlupa (1903–1905) were briefly joined to it. Present-day boundaries.",
-        "Ang paghubog ng teritoryo ng Biñán, 1688–1907."),
-    4: ("liberation",
-        "The liberation of Biñan, 3 February 1945: the Hunters ROTC guerrillas "
-        "converged on the town centre from Carmona, San Pedro and Santa Rosa. "
-        "Arrows are schematic.",
-        "Ang paglaya ng Biñán, Pebrero 3, 1945."),
-    5: ("barangays",
-        "Biñan today and its 24 barangays. The Poblacion keeps the Spanish-era heart "
-        "of the town; the Laguna Technopark (Malamig) and the Laguna International "
-        "Industrial Park (Mampalasan) mark its industrial growth since 1990.",
-        "Ang 24 na barangay ng Biñán ngayon."),
-}
+# Maps drawn for the book (book/maps/make_maps.py) and archival documents,
+# placed in a chapter of the history after its n-th English paragraph.
+FIGURES = [
+    dict(chapter=1, after=1, kind="Map", id="location", src="maps/location.svg",
+         title="Biñan and Laguna de Bay",
+         caption="Biñan on the western shore of Laguna de Bay, south of Manila. Before "
+                 "the Spaniards came, the area belonged to the Tagalog settlement of "
+                 "Tabuco, today Cabuyao.",
+         tagalog="Ang Biñán sa kanlurang pampang ng Lawa ng Laguna."),
+    dict(chapter=1, after=1, kind="Photo", id="copperplate",
+         src="images/archives/copperplate-c900.jpg",
+         title="The Laguna Copperplate Inscription, c. 900",
+         caption="The Laguna Copperplate Inscription (c. 900 CE), the oldest known written "
+                 "document of the Philippines, found in 1989 near Lumban on Laguna de Bay. "
+                 "It shows that the lake shore was home to organized, literate communities "
+                 "centuries before the Spaniards arrived.",
+         tagalog="Ang Inskripsiyon sa Binatbat na Tanso ng Laguna, mga 900.",
+         credit="Photo: Gary Todd, CC0, via Wikimedia Commons. National Museum of the Philippines."),
+    dict(chapter=2, after=1, kind="Map", id="territory", src="maps/territory.svg",
+         title="The territory of Biñan, 1688–1907",
+         caption="How Biñan’s territory took shape: separated from Tabuco in 1688, it lost "
+                 "its barrio of Santa Rosa in 1791–92. Under American rule, San Pedro "
+                 "(1903–1907) and Muntinlupa (1903–1905) were briefly joined to it. "
+                 "Present-day boundaries.",
+         tagalog="Ang paghubog ng teritoryo ng Biñán, 1688–1907."),
+    dict(chapter=2, after=2, kind="Map", id="murillo", src="images/archives/murillo-velarde-1734.jpg",
+         title="“Viñan” on the Murillo Velarde map, 1734",
+         caption="The south-western shore of Laguna de Bay on Pedro Murillo Velarde’s 1734 map of the Philippines, the "
+                 "first scientific map of the islands. “Viñan” appears at the left edge, on the shore "
+                 "near Tunasan and Calamba.",
+         tagalog="Ang “Viñan” sa mapa ni Murillo Velarde, 1734.",
+         credit="Pedro Murillo Velarde, Carta hydrographica y chorographica de las Yslas "
+                "Filipinas (Manila, 1734). Library of Congress, Geography and Map Division. "
+                "Public domain."),
+    dict(chapter=2, after=3, kind="Map", id="manuscript", src="images/archives/manuscript-laguna-18th-c.jpg",
+         title="“Biñang” on an 18th-century Spanish map",
+         caption="Detail of an 18th-century Spanish manuscript map of the surroundings of "
+                 "Laguna de Bay: the town of “Biñang” with its church (red square), the river "
+                 "mouth (“Bª de Biñang”), Malabag (today Malaban), Sinalsan, Landayan, San "
+                 "Pedro Tunasan and Santa Rosa.",
+         tagalog="Ang “Biñang” sa isang mapang Espanyol noong ika-18 siglo.",
+         credit="Fuente: Archivo Cartográfico de Estudios Geográficos del Centro Geográfico "
+                "del Ejército / Biblioteca Virtual de Defensa. CC BY 4.0."),
+    dict(chapter=3, after=1, kind="Map", id="atlas", src="images/archives/atlas-filipinas-1899.jpg",
+         title="Biñan in the Atlas de Filipinas, 1899–1900",
+         caption="“Biñang” in the Atlas de Filipinas of the Manila Observatory (Map No. 9, "
+                 "U.S. Coast and Geodetic Survey edition, 1900), on the road from Manila to "
+                 "Calamba, as the Americans found it.",
+         tagalog="Ang Biñán sa Atlas de Filipinas, 1899–1900.",
+         credit="Observatorio de Manila / U.S. Coast and Geodetic Survey, Atlas of the "
+                "Philippine Islands (Washington, 1900), Map No. 9. Internet Archive. Public domain."),
+    dict(chapter=4, after=1, kind="Map", id="liberation", src="maps/liberation.svg",
+         title="The liberation of Biñan, 1945",
+         caption="The liberation of Biñan, 3 February 1945: the Hunters ROTC guerrillas "
+                 "converged on the town centre from Carmona, San Pedro and Santa Rosa. "
+                 "Arrows are schematic.",
+         tagalog="Ang paglaya ng Biñán, Pebrero 3, 1945."),
+    dict(chapter=5, after=1, kind="Photo", id="bridge", src="images/archives/binan-bridge-1951.jpg",
+         title="The new Biñan bridge, c. 1951",
+         caption="“Biñan Bridge completed”, about 1951: one of the bridges of the national "
+                 "road rebuilt after the war under the Philippine–American public roads "
+                 "rehabilitation programme.",
+         tagalog="Ang bagong tulay ng Biñán, mga 1951.",
+         credit="U.S. National Archives, Records of the Bureau of Public Roads (RG 30), "
+                "30-N-51-4622. Public domain."),
+    dict(chapter=5, after=1, kind="Map", id="ams1956", src="images/archives/ams-san-pedro-1956.jpg",
+         title="The town of Biñan on a 1956 survey map",
+         caption="The town of Biñan on the 1956 U.S. Army Map Service sheet “San Pedro” "
+                 "(1:50,000): the street grid of the Poblacion and the neighbouring barrios "
+                 "of Canlalay, Malaban, De La Paz and San Antonio, between the national road "
+                 "and the lake.",
+         tagalog="Ang bayan ng Biñán sa mapa ng U.S. Army, 1956.",
+         credit="U.S. Army Map Service, San Pedro (sheet 3263 III), 1:50,000, 1956. "
+                "Courtesy of the University of Texas Libraries. Public domain."),
+    dict(chapter=5, after=2, kind="Map", id="barangays", src="maps/barangays.svg",
+         title="The barangays of Biñan today",
+         caption="Biñan today and its 24 barangays. The Poblacion keeps the Spanish-era "
+                 "heart of the town; the Laguna Technopark (Malamig) and the Laguna "
+                 "International Industrial Park (Mampalasan) mark its industrial growth "
+                 "since 1990.",
+         tagalog="Ang 24 na barangay ng Biñán ngayon."),
+]
 
-MAP_TITLES = {
-    "location": "Biñan and Laguna de Bay",
-    "territory": "The territory of Biñan, 1688–1907",
-    "liberation": "The liberation of Biñan, 1945",
-    "barangays": "The barangays of Biñan today",
-}
+
+def figure_html(fig, number):
+    credit = f' <span class="credit">{fig["credit"]}</span>' if fig.get("credit") else ""
+    css = "map" if fig["src"].endswith(".svg") else "archive"
+    return (
+        f'<figure class="{css}" id="fig-{fig["id"]}"><img src="{fig["src"]}" alt="">'
+        f'<figcaption><span class="map-no">{fig["kind"]} {number}.</span> '
+        f'{fig["caption"]} <em class="tl">{fig["tagalog"]}</em>{credit}</figcaption></figure>'
+    )
+
 
 # A photo caption in the source: "([File:...jpg - Wikimedia Commons](url)) *caption*"
 FIGURE = re.compile(r"^\(\[(File:[^\]]+?\.jpg)[^\]]*\]\([^)]+\)\)\s*\*(.+)\*$", re.S)
@@ -166,7 +228,8 @@ def prepare_history(markdown):
     out = []
     in_tagalog = False
     chapter = 0
-    map_pending = False
+    english_paragraphs = 0
+    numbers = {}
     for block in blocks:
         block = block.strip()
         if not block or block.startswith("# "):
@@ -177,7 +240,7 @@ def prepare_history(markdown):
                 in_tagalog = False
             out.append(split_heading(block))
             chapter += 1
-            map_pending = chapter in MAPS
+            english_paragraphs = 0
             continue
         if block.startswith("**Did You Know?**"):
             if in_tagalog:
@@ -206,14 +269,12 @@ def prepare_history(markdown):
             out.append(":::")
             in_tagalog = False
         out.append(links_to_footnotes(block))
-        if map_pending and not tagalog:
-            name, caption, tagalog_caption = MAPS[chapter]
-            out.append(
-                f'<figure class="map" id="map-{name}"><img src="maps/{name}.svg" alt="">'
-                f'<figcaption><span class="map-no">Map {list(MAPS).index(chapter) + 1}.</span> '
-                f'{caption} <em class="tl">{tagalog_caption}</em></figcaption></figure>'
-            )
-            map_pending = False
+        if not tagalog:
+            english_paragraphs += 1
+            for fig in FIGURES:
+                if (fig["chapter"], fig["after"]) == (chapter, english_paragraphs):
+                    numbers[fig["kind"]] = numbers.get(fig["kind"], 0) + 1
+                    out.append(figure_html(fig, numbers[fig["kind"]]))
     if in_tagalog:
         out.append(":::")
     return "\n\n".join(out)
@@ -258,14 +319,18 @@ def table_of_contents(body):
         f'<span class="toc-tl">{tagalog}</span></li>'
         for tagalog, anchor, title in entries
     )
-    maps = [(f"map-{name}", MAP_TITLES[name])
-            for name in re.findall(r'<figure class="map" id="map-([^"]+)"', body)]
+    present = set(re.findall(r'<figure class="[^"]+" id="fig-([^"]+)"', body))
+    figures = [f for f in FIGURES if f["id"] in present]
     map_list = ""
-    if maps:
-        map_items = "\n".join(
-            f'<li><a class="toc-map" href="#{anchor}">{title}</a></li>'
-            for anchor, title in maps)
-        map_list = f'<p class="toc-maps-title">Maps · Mga Mapa</p><ol class="toc-maps">{map_items}</ol>'
+    if figures:
+        counts, rows = {}, []
+        for fig in figures:
+            counts[fig["kind"]] = counts.get(fig["kind"], 0) + 1
+            rows.append(f'<li><a class="toc-map" href="#fig-{fig["id"]}">'
+                        f'<span class="toc-kind">{fig["kind"]} {counts[fig["kind"]]}.</span> '
+                        f'{fig["title"]}</a></li>')
+        map_list = ('<p class="toc-maps-title">Maps and documents · Mga mapa at dokumento</p>'
+                    f'<ol class="toc-maps">{"".join(rows)}</ol>')
     return (
         '<section class="toc"><h1 class="toc-title">Contents</h1>'
         f'<p class="toc-sub">Nilalaman</p><ol>{items}</ol>{map_list}</section>'
@@ -289,6 +354,10 @@ def cover(doc):
 
 def colophon(doc):
     credits = "".join(f"<p>{image['credit']}</p>" for image in IMAGES.values())
+    archive_credits = ""
+    if doc["source"].name == "history.md":
+        archive_credits = '<p class="colophon-head">Archival maps and photographs</p>' + "".join(
+            f"<p>{fig['title']}: {fig['credit']}</p>" for fig in FIGURES if fig.get("credit"))
     return f"""
 <section class="colophon">
   <p class="colophon-title">{doc['title']}</p>
@@ -297,6 +366,7 @@ def colophon(doc):
      github.com/smichea/binan.</p>
   <p class="colophon-head">Photographs</p>
   {credits}
+  {archive_credits}
   <p class="colophon-head">Maps</p>
   <p>Drawn for this book from the Philippine Standard Geographic Code boundaries
      (PSA, via OCHA and github.com/faeldon/philippines-json-maps, MIT licence).</p>
