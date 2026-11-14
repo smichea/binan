@@ -147,3 +147,15 @@ En marge, hors périmètre et non modifié : l’anglais contient des erreurs de
   - *Poblacion* contre *población* (chapitre espagnol) : graphie à harmoniser.
   - *nakakagamit* : *nakagagamit* en registre soutenu.
   - *binabalik-tanaw* pourrait devenir *ginugunita*.
+
+---
+
+## (d) Suite donnée aux écarts factuels (14 novembre 2026)
+
+| Point | Décision |
+|---|---|
+| « halos isang siglo » (1644 → 1747) | Corrigé en « mahigit isang siglo » ; traduction du compagnon alignée (« more than a century »). |
+| « Lungsod ng Biñán » juste après la guerre | Corrigé en « bayan ng Biñán » (Biñán n’est devenue ville qu’en 2010). |
+| Alimtanahin / Alintanahin | Harmonisé en **Alintanahin**, graphie de la source citée (EL FILIPINISMO). Ajout en anglais du récit divergent de Proculo Mojica (Col. Emmanuel de Ocampo, garnison de 80 hommes), source OpinYon. |
+| Fondation 1571 / 1747 | 1571 = début de l’histoire écrite (arrivée de Salcedo) ; **4 février 1747** = fondation officielle du *pueblo*, célébrée le dernier jour de l’Araw ng Biñán (2–4 février). Encadré « Did You Know? » et chapitre espagnol réécrits en ce sens, source BusinessMirror 2023. |
+| Citation du maire Dimaguila | La citation sans source a été remplacée par des citations vérifiées : en anglais « The past lives in our city… » (BusinessMirror, 2024) et en tagalog « Isang Biñan tayong nagpapahalaga sa ating nakaraan… » (Journal News, 2025). Le compagnon explique la nouvelle phrase. « City of Life » sourcé (BusinessMirror, 2023). |

@@ -594,7 +594,7 @@ The **nang-** prefix plus the repeated syllable (*ngi-*, *ngu-*, *nga-*) shows t
 | Upang masaganang madilig ang mga pananim, nagtayo ang mga prayle ng patubig at isang tanggulan ng tubig (prinsa) sa Barrio Timbáo. | To abundantly irrigate the crops, the friars built an irrigation system and a water fortification (dam) in Barrio Timbáo. |
 | Ang pusod ng hacienda ay ang malaki at matibay na bahay na may kamalig at mga kuwadra ng kabayo – nagsisilbing tanggapan ng pangangasiwa sa lupain at kanlungan ng mga gamit sa pagsasaka. | The heart of the hacienda was a large, sturdy house with a granary and horse stables — serving as the administration center for the land and the shelter for farming equipment. |
 | Bagama’t masikap ang paggawa sa hacienda, inalagaan din ng mga Dominiko ang kapakanang panrelihiyon ng mga tao: dito unang naipalaganap ang debosyon kay San Isidro Labrador, ang magiging pintakasi ng Biñán. | Although the work in the hacienda was intense, the Dominicans also cared for the religious welfare of the people: here the devotion to San Isidro Labrador, who would become Biñán's patron, was first propagated. |
-| Noong 1747, matapos ang halos isang siglo bilang hacienda, ang Biñán ay opisyal na kinilala bilang isang pueblo o bayan. | In 1747, after nearly a century as a hacienda, Biñán was officially recognized as a town or pueblo. |
+| Noong 1747, matapos ang mahigit isang siglo bilang hacienda, ang Biñán ay opisyal na kinilala bilang isang pueblo o bayan. | In 1747, after more than a century as a hacienda, Biñán was officially recognized as a town or pueblo. |
 | Nagkaroon ng sariling población o kabayanan, kung saan itinayo ang simbahan at liwasan, at pinangangasiwaan nito ang mga kalapit na barrio. | It had its own town center where the church and plaza were built, and it administered the surrounding villages. |
 | Sa panahong ito, unti-unting nahubog ang pampublikong buhay ng Biñán: nagkaroon ng mga halal na opisyal ng bayan at sariling kura paroko. | During this period, Biñán's public life gradually took shape: there were elected town officials and its own parish priest. |
 | Naging unang kura paroko si Padre José Monroy noong 1757, at itinalaga niya si Antonio de Santa Rosa bilang kauna-unahang kapitan ng Biñán. | Father José Monroy became the first parish priest in 1757, and he appointed Antonio de Santa Rosa as the first town captain of Biñán. |
@@ -1711,7 +1711,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 ---
 
 **1.**  
-> *Pagkatapos ng digmaan, mabilis na nakabangon ang Lungsod ng Biñán at pumasok sa isang panahon ng masiglang pagbabago.*
+> *Pagkatapos ng digmaan, mabilis na nakabangon ang bayan ng Biñán at pumasok sa isang panahon ng masiglang pagbabago.*
 
 **Vocabulary:**  
 - **pagkatapos** – *after*  
@@ -1724,7 +1724,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 - *Nakabangon* and *pumasok* are actor-focus completed verbs (*naka-* prefix; *-um-* infix: *p-um-asok*).
 
 **Translation:**  
-> After the war, Biñán City quickly recovered and entered a period of lively change.
+> After the war, the town of Biñán quickly recovered and entered a period of lively change.
 
 ---
 
@@ -2025,17 +2025,25 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 ---
 
 **24.**  
-> *hindi natin dapat kalimutan kung saan tayo nagsimula.*
+> *Isang Biñan tayong nagpapahalaga sa ating nakaraan kaya't Isang Biñan tayong sasalubong sa ating magandang bukas.*
 
 **Vocabulary:**  
-- **kalimutan** – *to forget* (root: *limot* = forget)  
-- **nagsimula** – *began* (root: *simula* = start)
+- **Isang Biñan** – *One Biñan* (a slogan of the city: *isa* = one, with the linker *-ng*)  
+- **nagpapahalaga** – *values, holds dear* (root: *halaga* = value, worth)  
+- **nakaraan** – *the past* (root: *daan* = pass, way)  
+- **kaya't** – *so, therefore*  
+- **sasalubong** – *will welcome, will go out to meet* (root: *salubong* = to meet someone coming)  
+- **magandang bukas** – *a bright tomorrow* (*maganda* = beautiful, *bukas* = tomorrow)
 
 **Grammar:**  
-- *Kalimutan* = infinitive, *nagsimula* = actor-focus completed (*nag- + simula*).
+- *Nagpapahalaga* = *magpahalaga* ("to value") in the **ongoing** aspect: *nag-* + repeated *pa* + *pahalaga*.  
+- *Sasalubong* = **future** (contemplated) aspect of *sumalubong*: the first syllable *sa* is repeated and the *-um-* infix drops (*sumalubong* → *sasalubong*).  
+- *Isang Biñan tayong…* – "We are One Biñan that…": *tayo* (we, inclusive) + linker *-ng* introduces the description.
 
 **Translation:**  
-> We must not forget where we started.
+> We are One Biñan that values its past, and so we are One Biñan that will welcome our bright tomorrow.
+
+*(Said by Mayor Walfredo "Arman" Dimaguila Jr. at the 2025 Araw ng Biñan.)*
 
 ---
 
@@ -2045,7 +2053,7 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 
 | Tagalog | English |
 |:---|:---|
-| Pagkatapos ng digmaan, mabilis na nakabangon ang Lungsod ng Biñán at pumasok sa isang panahon ng masiglang pagbabago. | After the war, Biñán City quickly recovered and entered a period of lively change. |
+| Pagkatapos ng digmaan, mabilis na nakabangon ang bayan ng Biñán at pumasok sa isang panahon ng masiglang pagbabago. | After the war, the town of Biñán quickly recovered and entered a period of lively change. |
 | Noong huling bahagi ng dekada 1940 at dekada ’50, sama-samang ibinangon muli ng pamahalaan at mamamayan ang bayan – inayos ang mga nasirang kalsada, muling itinayo ang mga tulay at gusali, at sinigurong makabalik ang mga bata sa paaralan. | In the late 1940s and 1950s, the government and citizens together rebuilt the town — repairing damaged roads, reconstructing bridges and buildings, and ensuring that children could return to school. |
 | Muling sumigla ang agrikultura at kalakalan: nagbalik ang palengke ng Biñán bilang pangunahing bagsakan ng mga ani sa rehiyon, at unti-unti ring nagtayuan ang maliliit na pabrika at pagawaan. | Agriculture and commerce became lively again: the Biñán market returned as the main drop-off point for harvests in the region, and small factories and workshops gradually sprang up. |
 | Sa mga sumunod na dekada, lalo pang lumago ang Biñán. | In the following decades, Biñán grew even further. |
@@ -2064,7 +2072,8 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 | Inilunsad ng pamahalaang lokal ang “Balik-Biñán” project noong 2016 upang ibalik ang sigla ng downtown heritage district. | The local government launched the "Balik-Biñán" project in 2016 to restore the vitality of the downtown heritage district. |
 | Pinangunahan din ng lungsod ang paggawa ng Cultural Mapping. | The city also led the creation of the Cultural Mapping project. |
 | Ang mga pagsisikap na ito ay nagbunga ng karangalan: kinilala ang Biñán sa pambansang antas at binigyan ng Galing Pook Award noong 2022. | These efforts resulted in honor: Biñán was recognized nationally and awarded the Galing Pook Award in 2022. |
-| Ayon kay Mayor Walfredo Dimaguila, ang pagbabalik sa kasaysayan ang susi sa pagharap sa kinabukasan. | According to Mayor Walfredo Dimaguila, returning to history is the key to facing the future. |
+| Ayon kay Mayor Walfredo “Arman” Dimaguila Jr., ang pagbabalik sa kasaysayan ang susi sa pagharap sa kinabukasan. | According to Mayor Walfredo “Arman” Dimaguila Jr., returning to history is the key to facing the future. |
+| “Isang Biñan tayong nagpapahalaga sa ating nakaraan kaya’t Isang Biñan tayong sasalubong sa ating magandang bukas,” aniya noong Araw ng Biñán 2025. | “We are One Biñan that values its past, and so we are One Biñan that will welcome our bright tomorrow,” he said at the 2025 Araw ng Biñán. |
 | Sa kabuuan, ang Kasalukuyang Biñán ay larawan ng isang lungsod na yumayabong — umuunlad ang ekonomiya, mataas ang kita at antas ng pamumuhay – subalit matibay ang koneksyon sa ugat ng kasaysayan. | Overall, today's Biñán is the image of a flourishing city — with a growing economy, high income and living standards — but firmly connected to its historical roots. |
 | Ang mga kabataan ng Biñán ay lumalaki na may pagmamalaki sa kanilang lungsod. | The youth of Biñán are growing up proud of their city. |
 | Tunay na ang Biñán ay “City of Life” para sa mga naninirahan dito. | Truly, Biñán is the "City of Life" for its residents. |
@@ -2099,8 +2108,8 @@ Compare: b-um-angon → bumangon → to get up (actor focus)
 | pinangunahan | una | Completed | Object | pang- + una + -han, -in- | led |
 | nagbunga | bunga | Completed | Actor | nag- + bunga | bore fruit |
 | ipinakita | kita | Completed | Object | i- + -in- + pa- + kita | was shown |
-| kalimutan | limot | Infinitive | Object | ka- + limot + -an (o → u) | to forget |
-| nagsimula | simula | Completed | Actor | nag- + simula | started |
+| nagpapahalaga | halaga | Ongoing | Actor | nag- + pa + pahalaga | values |
+| sasalubong | salubong | Future | Actor | sa + salubong | will welcome |
 
 ---
 
