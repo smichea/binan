@@ -585,6 +585,153 @@ def chart_climate():
     print("wrote book/layout/maps/climate.svg")
 
 
+# --------------------------------------------------------------------------
+# Prehistory chapter
+# --------------------------------------------------------------------------
+
+def world_land():
+    """Natural Earth land (1:50m), via world-atlas (ISC licence)."""
+    topo_data = json.load(open(DATA / "world-land-50m.topo.json"))
+    obj = topo_data["objects"]["land"]
+    tmp = dict(topo_data)
+    if obj["type"] != "GeometryCollection":
+        obj = {"type": "GeometryCollection", "geometries": [obj]}
+    tmp["objects"] = {"land": obj}
+    path = Path(OUT.parent / "_land.json")
+    path.write_text(json.dumps(tmp))
+    shapes = [g for _, g in topo.load(path)]
+    path.unlink()
+    return unary_union([g.buffer(0) for g in shapes])
+
+
+def curved_arrow(m, points, color, width=0.9, dash=None):
+    """A smooth path through lon/lat points, with an arrowhead at the end."""
+    pts = [m.xy(*p) for p in points]
+    d = f"M{pts[0][0]:.2f},{pts[0][1]:.2f}"
+    for (x0, y0), (x1, y1) in zip(pts, pts[1:]):
+        mx, my = (x0 + x1) / 2, (y0 + y1) / 2
+        d += f" Q{x0:.2f},{y0:.2f} {mx:.2f},{my:.2f}"
+    d += f" L{pts[-1][0]:.2f},{pts[-1][1]:.2f}"
+    dash_attr = f' stroke-dasharray="{dash}"' if dash else ""
+    m.raw(f'<path d="{d}" fill="none" stroke="{color}" stroke-width="{width}" '
+          f'stroke-linecap="round"{dash_attr}/>')
+    (xa, ya), (xb, yb) = pts[-2], pts[-1]
+    length = math.hypot(xb - xa, yb - ya) or 1
+    ux, uy = (xb - xa) / length, (yb - ya) / length
+    head = 2.2
+    hx, hy = xb - ux * head, yb - uy * head
+    px, py = -uy * head * 0.55, ux * head * 0.55
+    m.raw(f'<path d="M{xb:.2f},{yb:.2f} L{hx + px:.2f},{hy + py:.2f} L{hx - px:.2f},{hy - py:.2f} Z" fill="{color}"/>')
+
+
+def map_migrations():
+    """Early human journeys from Africa to Island Southeast Asia."""
+    m = Map(22, -32, 160, 46)
+    m.shape(world_land(), LAND, stroke=MUTED, width=0.15)
+    archaic, sapiens, austro = GOLD, ACCENT, WATER_INK
+    curved_arrow(m, [(36, 2), (40, 25), (44.5, 41.3)], archaic, 1.0)
+    curved_arrow(m, [(44.5, 41.3), (75, 30), (100, 12), (110.8, -7.4)], archaic, 1.0)
+    curved_arrow(m, [(110.8, -7.4), (121.0, -8.6)], archaic, 0.8, "1.4,0.8")
+    curved_arrow(m, [(112, -5), (119.9, -4.4)], archaic, 0.8, "1.4,0.8")
+    curved_arrow(m, [(112, 2), (117, 12), (121.5, 17.4)], archaic, 0.8, "1.4,0.8")
+    curved_arrow(m, [(39, 9), (45, 13), (60, 22), (78, 12), (98, 8), (106, 0)], sapiens, 1.1)
+    curved_arrow(m, [(106, 0), (118, -3), (133, -14)], sapiens, 1.1)
+    curved_arrow(m, [(106, 0), (114, 6), (117.9, 9.3)], sapiens, 1.0)
+    curved_arrow(m, [(121.0, 23.3), (122, 20.4), (121.7, 17.9)], austro, 1.0)
+    sites = [
+        ("Dmanisi\n1.8 million years", 44.5, 41.3, "start", 2, 1, archaic),
+        ("Java\n1.5–1.3 million", 110.8, -7.4, "end", -2.5, 4.5, archaic),
+        ("Flores\n700,000", 121.0, -8.6, "start", 1.5, 4.8, archaic),
+        ("Sulawesi\n≥118,000", 119.9, -4.4, "start", 2.5, -1.2, archaic),
+        ("Luzon\n709,000", 121.5, 17.4, "start", 2.2, 0.5, archaic),
+        ("Tabon\n~47,000", 117.9, 9.3, "end", -2.2, -1.6, sapiens),
+        ("Sahul\n65,000–50,000", 133, -14, "start", 2, 3.5, sapiens),
+        ("Taiwan → Luzon\n4,500–3,500 years", 121.0, 23.3, "start", 2.5, -2.5, austro),
+    ]
+    for label, lon, lat, anchor, dx, dy, color in sites:
+        m.dot(lon, lat, r=0.7, fill=color)
+        m.text(lon, lat, label, size=2.4, anchor=anchor, dx=dx, dy=dy, color=INK)
+    m.text(31, -6, "AFRICA", size=3.0, color=MUTED, spacing=0.4, halo=False)
+    m.text(80, 40, "ASIA", size=3.0, color=MUTED, spacing=0.4, halo=False)
+    m.text(135, -26, "AUSTRALIA", size=2.8, color=MUTED, spacing=0.4, halo=False)
+    x0, y0 = m.xy(124.0, 30)
+    # Wallace Line, schematic
+    wl = [(116.8, -9), (116.2, -6), (118.5, -1), (119.5, 3), (120.5, 6.5)]
+    m.raw('<path d="M' + " L".join(f"{m.xy(*p)[0]:.2f},{m.xy(*p)[1]:.2f}" for p in wl) +
+          f'" fill="none" stroke="{INK}" stroke-width="0.3" stroke-dasharray="0.8,0.6"/>')
+    m.text(113.5, -13.5, "Wallace Line", size=2.2, italic=True, anchor="middle", color=INK)
+    lx, ly = m.xy(24, 0)[0], m.height - 15
+    m.raw(f'<g font-family="{FONT}" font-size="2.4" fill="{INK}">'
+          f'<rect x="{lx}" y="{ly}" width="50" height="13" fill="{PAPER}" stroke="{RULE}" stroke-width="0.3"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 3.3}" x2="{lx + 8}" y2="{ly + 3.3}" stroke="{archaic}" stroke-width="1"/>'
+          f'<text x="{lx + 10}" y="{ly + 4}">Early humans (Homo erectus and others)</text>'
+          f'<line x1="{lx + 2}" y1="{ly + 7.3}" x2="{lx + 8}" y2="{ly + 7.3}" stroke="{sapiens}" stroke-width="1"/>'
+          f'<text x="{lx + 10}" y="{ly + 8}">Homo sapiens</text>'
+          f'<line x1="{lx + 2}" y1="{ly + 11.1}" x2="{lx + 8}" y2="{ly + 11.1}" stroke="{austro}" stroke-width="1"/>'
+          f'<text x="{lx + 10}" y="{ly + 11.8}">Austronesian seafarers</text></g>')
+    m.save("migrations")
+
+
+def map_prehistoric_sites(munis):
+    """Prehistoric sites of the Philippines, and around Laguna de Bay."""
+    m = Map(116.2, 4.6, 128.4, 21.4, height=150)
+    for props, geom in topo.load(DATA / "islandgroups.topo.0.001.json"):
+        m.shape(geom.buffer(0), LAND, stroke=MUTED, width=0.2)
+    sites = [  # name, point, label position, anchor, note
+        ("Batanes", (121.97, 20.45), (122.4, 20.45), "start", "route from Taiwan"),
+        ("Nagsabaran", (121.66, 18.20), (122.9, 19.2), "start", "red-slipped pottery, ~4,000 years"),
+        ("Callao Cave", (121.83, 17.71), (122.9, 18.2), "start", "Homo luzonensis"),
+        ("Andarayan", (121.69, 17.62), (122.9, 17.2), "start", "rice grain, ~3,400 years"),
+        ("Rizal, Kalinga", (121.55, 17.45), (122.9, 16.2), "start", "butchered rhinoceros, 709,000 years"),
+        ("Ille Cave", (119.41, 11.20), (120.3, 10.9), "start", "cremation, ~9,000 years"),
+        ("Tabon Caves", (117.98, 9.28), (118.5, 8.3), "start", "Homo sapiens ~47,000 years;\nManunggul Jar"),
+        ("Butuan", (125.54, 8.95), (124.9, 9.9), "end", "balangay boats, from ~320 CE"),
+    ]
+    for name, (lon, lat), (tlon, tlat), anchor, note in sites:
+        if (tlon, tlat) != (lon, lat):
+            m.leader((lon, lat), (tlon, tlat))
+        m.dot(lon, lat, r=0.85, fill=ACCENT)
+        dx = 0.8 if anchor == "start" else -0.8
+        m.text(tlon, tlat, name, size=2.7, weight=600, anchor=anchor, dx=dx, dy=0.2)
+        m.text(tlon, tlat, note, size=2.2, italic=True, color=MUTED, anchor=anchor, dx=dx, dy=3.0)
+    # Laguna de Bay area box
+    bx1, by1 = m.xy(120.9, 14.75)
+    bx2, by2 = m.xy(121.6, 14.05)
+    m.raw(f'<rect x="{bx1:.2f}" y="{by1:.2f}" width="{bx2 - bx1:.2f}" height="{by2 - by1:.2f}" fill="none" '
+          f'stroke="{ACCENT}" stroke-width="0.6"/>')
+    m.text(121.65, 14.4, "Laguna de Bay\n(see detail)", size=2.4, anchor="start", italic=True, color=ACCENT)
+    # Inset: the lake
+    iw = 37.0
+    sub = Map(120.92, 14.12, 121.62, 14.66, width=iw)
+    for name, info in munis.items():
+        sub.shape(info["geom"], LAND, stroke=RULE, width=0.15)
+    sub.shape(munis["Biñan"]["geom"], LAND_ALT, stroke=ACCENT, width=0.4)
+    lake_sites = [
+        ("Biñan", 121.08, 14.34, "end", 700),
+        ("Santa Ana (Manila)", 121.01, 14.58, "start", 400),
+        ("Angono–Binangonan petroglyphs", 121.18, 14.545, "start", 400),
+        ("Baras, Tanay, Pililla\nstone tools", 121.28, 14.51, "start", 400),
+        ("Bay (Puypuy)\nburial jars", 121.28, 14.18, "end", 400),
+        ("Pila", 121.36, 14.23, "start", 400),
+        ("Lumban\n(copper plate)", 121.46, 14.30, "end", 400),
+    ]
+    for name, lon, lat, anchor, weight in lake_sites:
+        sub.dot(lon, lat, r=0.7, fill=ACCENT if name != "Biñan" else PAPER, stroke=INK if name == "Biñan" else PAPER)
+        sub.text(lon, lat, name, size=2.2, anchor=anchor, dx=1.6 if anchor == "start" else -1.6,
+                 dy=-1.2 if "petroglyphs" in name else (3.2 if "Baras" in name else 0.8),
+                 weight=weight, color=ACCENT if name == "Biñan" else INK)
+    sub.text(121.22, 14.40, "Laguna\nde Bay", size=2.6, italic=True, color=WATER_INK, halo=False)
+    ox, oy = 3, m.xy(0, 15.9)[1]
+    m.raw(f'<defs><clipPath id="inset-clip"><rect width="{iw}" height="{sub.height:.2f}"/></clipPath></defs>'
+          f'<g transform="translate({ox:.2f},{oy:.2f})" clip-path="url(#inset-clip)">'
+          f'<rect width="{iw}" height="{sub.height:.2f}" fill="{WATER}"/>'
+          + "".join(sub.items) + f'<rect width="{iw}" height="{sub.height:.2f}" fill="none" stroke="{ACCENT}" '
+          f'stroke-width="0.6"/></g>')
+    m.scale_bar(200, x=4, y=m.height - 5)
+    m.north_arrow(x=7, y=8)
+    m.save("prehistoric-sites")
+
+
 if __name__ == "__main__":
     munis = municipalities()
     bgys = barangays()
@@ -595,3 +742,5 @@ if __name__ == "__main__":
     map_tectonics()
     map_westbay(munis)
     chart_climate()
+    map_migrations()
+    map_prehistoric_sites(munis)

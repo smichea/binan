@@ -274,6 +274,248 @@ Explanation of tagalog text for english only speakers
 
 ---
 
+## Prehistory / Sinaunang Panahon
+
+### Vocabulary and Grammar Explanation
+
+**1. A long walk**
+
+> *Ang kuwento ng mga unang tao sa baybayin ng Lawa ng Laguna ay nagsisimula sa malayong Aprika.*
+
+**Vocabulary:**
+- **nagsisimula** – *begins* (root: *simula* = beginning)
+- **isinilang** – *was born* (root: *silang* = birth)
+- **sinaunang tao** – *ancient people, early humans* (*sinauna* = ancient, from *una* = first)
+- **kasangkapan** – *tool, implement*
+- **lakarin** – *to walk across, to reach on foot* (root: *lakad* = walk)
+- **nadudugtong** – *is joined, gets connected* (root: *dugtong*)
+- **di-nakikitang hangganan** – *invisible boundary* (*di* = not; *nakikita* = can be seen)
+- **kailanman ay hindi** – *never*
+- **tawirin** – *to cross* (root: *tawid*, d → r)
+- **balsa** – *raft*; **nang di-sinasadya** – *by accident*; **nang sinasadya** – *on purpose* (root: *sadya* = intention)
+- **walang nakaaalam** – *nobody knows* (root: *alam* = know)
+
+**Grammar:**
+- *Nagsisimula* = *nag-* + repeated syllable *si* + *simula*: ongoing actor focus.
+- *Isinilang* = *i-* + *-in-* + *silang*: object focus, completed – "was born".
+- *Lakarin* and *tawirin* are object-focus infinitives in *-in*. When the root ends in *d*, it becomes *r* before the suffix: *lakad → lakarin*, *tawid → tawirin*.
+- *Nakaaalam* = *naka-* + repeated syllable *a* + *alam*: "one who knows" – with *wala* (none): "no one knows".
+
+**Translation:**
+> The story of the first people on the shores of Laguna de Bay begins in faraway Africa, where the human family was born. About 1.8 million years ago, early humans had already left Africa: their bones and tools were found at Dmanisi in Georgia. *Homo erectus* reached Java 1.5 to 1.3 million years ago. Java, Sumatra and Borneo could then be reached on foot, but further east, beyond the Wallace Line, the islands were always separated from the continent by deep sea. Luzon was never joined to any continent. To reach it, early humans had to cross the sea – by accident on rafts of vegetation, or on purpose; nobody knows.
+
+---
+
+**2. The first visitors of Luzon**
+
+> *Ngunit dumating sila.*
+
+**Vocabulary:**
+- **nakatagpo** – *found, came upon* (root: *tagpo* = meeting)
+- **kalansay** – *skeleton*
+- **nawalang uri** – *extinct species* (*nawala* = lost; *uri* = kind, species)
+- **bakas** – *trace, mark*; **hiwa** – *cut*
+- **binasag** – *was broken, was smashed* (root: *basag*)
+- **utak** – *marrow* (also: *brain*)
+- **baluktot** – *bent, curved*
+- **pinangalanan** – *was named* (root: *ngalan* = name)
+- **pagtataya** – *estimate, assessment* (root: *taya* = estimate)
+- **nag-iisa** – *alone* (root: *isa* = one)
+- **umunlad** – *developed, evolved* (root: *unlad* = progress)
+
+**Grammar:**
+- *Pinangalanan* = *-in-* + *pangalan* + *-an*: object focus, completed – "(they) named it".
+- *Hindi bababa sa* – "not lower than" = "at least" (*baba* = low, with reduplication for the future/contemplated aspect).
+- *Nag-iisa* = *nag-* + repeated *i* + *isa*: "being one", i.e. alone.
+
+**Translation:**
+> But they came. At Rizal, Kalinga, in the Cagayan Valley, archaeologists found 57 stone tools and the skeleton of an extinct rhinoceros whose bones bear cut marks and were smashed to reach the marrow. They are about 709,000 years old – the oldest known trace of humans in the Philippines. Much later, in Callao Cave, researchers found the teeth and bones of a small human with curved finger and toe bones; in 2019 they named it a new species, *Homo luzonensis*. It lived at least 50,000 years ago, perhaps more than 130,000 years ago. Like *Homo floresiensis*, it evolved alone on an island for a very long time.
+
+---
+
+**3. Our species arrives**
+
+> *Ang sarili nating uri, ang Homo sapiens, ay umalis sa Aprika nang mas huli.*
+
+**Vocabulary:**
+- **sarili nating uri** – *our own species* (*sarili* = self; *natin* = our, inclusive)
+- **umalis** – *left, departed* (root: *alis*)
+- **nagpinta** – *painted* (root: *pinta*)
+- **baboy-ramo** – *wild pig*
+- **buto ng binti** – *shin bone* (*binti* = leg, calf)
+- **palugit** – *margin, allowance*
+- **bungo** – *skull*
+- **bagong dating** – *newcomers*
+- **henetika** – *genetics*
+- **alon ng pandarayuhan** – *wave of migration* (*alon* = wave; root of *pandarayuhan*: *dayo* = stranger, to migrate)
+- **ninuno** – *ancestor*; **inapo** – *descendant*
+
+**Grammar:**
+- *Nating* = *natin* + linker *-ng*: "our (inclusive)" placed before the noun: *sarili nating uri*.
+- *Pandarayuhan* = *pang-* + repeated *da* + *dayo* + *-han* (d → r): the noun for the whole process of migrating.
+
+**Translation:**
+> Our own species, *Homo sapiens*, left Africa later, perhaps 70,000 to 50,000 years ago, following the coasts of Asia. On Sulawesi, people painted a wild pig on a cave wall at least 45,500 years ago. In the Philippines, the oldest bone of a modern human is a shin bone from Tabon Cave in Palawan, about 47,000 years old; the famous skull fragment called "Tabon Man" is younger, about 16,500 years. The newcomers met older humans: the Ayta Magbukon of Bataan carry more Denisovan DNA than any other people. Genetics shows at least five waves of migration over the last 50,000 years, beginning with the ancestors of the Agta, Ayta and Dumagat. Their descendants, the Dumagat and Remontado, still live in the Sierra Madre east of the lake.
+
+---
+
+**4. A different land**
+
+> *Hindi ganito ang lupaing nakilala ng mga taong ito.*
+
+**Vocabulary:**
+- **ganito** – *like this*
+- **nakilala** – *knew, got to know* (root: *kilala* = known)
+- **pagtabang** – *the becoming fresh (of water)* (root: *tabang* = tasteless, fresh)
+
+**Grammar:**
+- *Hindi ganito ang lupaing nakilala nila* – "The land they knew was not like this": the predicate *hindi ganito* comes first, as is usual in Tagalog.
+
+**Translation:**
+> The land these people knew was not like this. In the last ice age, about 20,000 years ago, the sea was about 120 metres lower; when the ice melted, the sea came back, and from about 6,600 to 4,700 years ago the lake in front of Biñán was part of the sea, a salt lagoon connected to Manila Bay. It became the freshwater lake we know only about 3,000 years ago.
+
+---
+
+**5. The seafarers**
+
+> *Wikang Austronesyo ang Tagalog.*
+
+**Vocabulary:**
+- **manlalayag** – *seafarer, sailor* (root: *layag* = sail)
+- **palayok** – *clay pot*; **mapula** – *reddish*
+- **palamuti** – *ornament*
+- **bangkang may katig** – *outrigger canoe* (*katig* = outrigger)
+- **butil** – *grain*
+- **itinanim** – *was planted* (root: *tanim*)
+- **tinipon** – *was gathered* (root: *tipon*)
+- **lambat** – *net* (here: network)
+- **kamag-anak** – *relative*
+
+**Grammar:**
+- *Manlalayag* = *mang-* + repeated syllable + *layag*: the person who does the action, "one who sails". Compare *mangangalakal* (trader).
+- *Itinanim* (i- + -in- + tanim) and *tinipon* (-in- + tipon) are completed object-focus forms: "was planted", "was gathered".
+
+**Translation:**
+> About the time the lake turned fresh, new people arrived by sea. Between about 4,500 and 3,500 years ago, seafarers speaking Austronesian languages came down from Taiwan, through Batanes, to northern Luzon. In the Cagayan Valley they left reddish pottery like that of eastern Taiwan and ornaments of Taiwanese jade. They knew the outrigger canoe and perhaps rice: the oldest rice grain found in the Philippines, at Andarayan, is about 3,400 years old, although we do not know whether it was planted or only gathered. Some scholars, following Solheim, prefer to see a network of sea trade. Either way, Tagalog is an Austronesian language, a distant cousin of Malay, Javanese, Malagasy and Hawaiian.
+
+---
+
+**6. Traces around the lake**
+
+> *May mga bakas ng sinaunang panahong ito na natagpuan sa paligid ng lawa.*
+
+**Vocabulary:**
+- **natagpuan** – *were found* (root: *tagpo*)
+- **tinatayang** – *estimated* (root: *taya*)
+- **talim** – *blade*
+- **bangin** – *cliff*
+- **iniulat** – *was reported* (root: *ulat* = report)
+- **inukit** – *was carved* (root: *ukit* = carving)
+- **idineklara** – *was declared* (from Spanish *declarar*)
+- **Pambansang Yamang Pangkultura** – *National Cultural Treasure*
+- **nakahukay** – *dug up (by chance)* (root: *hukay*)
+- **tapayan** – *large earthen jar*; **tapayang libingan** – *burial jar*
+- **kabilang buhay** – *afterlife* (literally "the other life")
+
+**Grammar:**
+- *Nakahukay* = *naka-* + *hukay*: the actor managed to dig something up, here by chance.
+- *Inukit* = *-in-* + *ukit*; with a root starting with a vowel, *-in-* goes in front: *in + ukit*.
+
+**Translation:**
+> Traces of this ancient time have been found around the lake. In the valleys of Baras, in Rizal, stone tools are estimated from their shape to be 50,000 to 20,000 years old, and small blades of obsidian and chert come from Baras, Tanay and Pililla. On a tuff cliff in Binangonan, the painter Carlos "Botong" Francisco reported in 1965 more than a hundred figures carved in the rock: the Angono–Binangonan Petroglyphs, declared a National Cultural Treasure in 1973. In 2013, in Barangay Puypuy, Bay, a family dug up hundreds of pieces of earthen jars in their yard; archaeologists of the University of the Philippines identified them as burial jars perhaps 2,800 years old. Far away in Palawan, the Manunggul Jar shows on its lid two figures in a boat carrying a soul to the afterlife.
+
+---
+
+**7. And in Biñán?**
+
+> *Wala pang natatagpuan o nahuhukay na sinaunang pook sa Biñán.*
+
+**Vocabulary:**
+- **wala pa** – *not yet (any)*
+- **pook** – *place, site*
+- **nangangahulugan** – *means* (root: *kahulugan* = meaning)
+- **banlik** – *silt*
+- **iulat** – *to report*
+- **Pambansang Museo** – *National Museum*
+- **Batas Republika** – *Republic Act*
+
+**Grammar:**
+- *Wala pang natatagpuan* – "nothing has been found yet": *wala* + *pa* + an ongoing-aspect verb gives the sense "not yet".
+- *Dapat iulat* – "must be reported": *dapat* (should, must) + the object-focus infinitive *iulat*.
+
+**Translation:**
+> And in Biñán? No ancient site has yet been found or excavated in Biñán, nor anywhere on the western shore of the lake. This does not mean that no one lived here: the old shore lies under metres of river silt and lake mud, part of it was under the sea six thousand years ago, and the city grew quickly over the fields before anyone looked. Any old pottery, stone tool or bone found while digging should be reported to the National Museum, as the National Cultural Heritage Act (Republic Act No. 10066) requires.
+
+---
+
+**8. Life on the lakeshore before writing**
+
+> *Maaari lamang nating isipin ang buhay ng mga unang tao sa baybayin ng lawa.*
+
+**Vocabulary:**
+- **maaari lamang** – *can only*
+- **isipin** – *to imagine, to think of* (root: *isip* = mind)
+- **tagapagtala** – *chronicler, recorder* (root: *tala* = record)
+- **gabi, ube, saging** – *taro, yam, banana*
+- **haligi** – *post, pillar*
+- **tinahi** – *sewn* (root: *tahi*)
+- **tarugo** – *wooden peg*
+- **pamayanan** – *community*
+- **pinararangalan** – *are honoured* (root: *dangal* = honour, d → r)
+- **inililibing** – *are buried* (root: *libing*)
+- **ibubunyag** – *will reveal* (root: *bunyag*)
+- **balang araw** – *one day (in the future)*
+
+**Grammar:**
+- *Tagapag-* + *tala* = "one whose role is to record": a chronicler.
+- *Pinararangalan* = *pa-* + *dangal* + *-an*, with *-in-* and reduplication (d → r): ongoing object focus, "are (regularly) honoured".
+- *Ibubunyag* = *i-* + repeated *bu* + *bunyag*: **future** (contemplated) aspect – "will reveal".
+
+**Translation:**
+> We can only imagine the life of the first people of the lakeshore, using what archaeology found nearby and what the first Spanish chroniclers saw a few centuries later: fishing in the lake; gardens of taro, yam and banana, and later rice; houses raised on posts; boats of planks sewn and pegged together, like the balangay of Butuan, the oldest about 1,700 years old – the boat that gave its name to the barangay, the community; spirits and ancestors, the anito, honoured in rituals; and the dead buried in jars. In the Metal Age, from about 500 BCE, iron tools, glass beads and gold came through trade. By about the year 900, the lake was already part of a wider world of trade and writing – as a copper plate found at Lumban would one day reveal.
+
+---
+
+### Full Verb Breakdown Table
+
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| nagsisimula | simula | Ongoing | Actor | nag- + si + simula | begins |
+| isinilang | silang | Completed | Object | i- + -in- + silang | was born |
+| nakaalis | alis | Completed (ability) | Actor | naka- + alis | had left |
+| natagpuan | tagpo | Completed | Object | na- + tagpo + -an (o → u) | was found |
+| nakarating | dating | Completed (ability) | Actor | naka- + dating (d → r) | reached |
+| lakarin | lakad | Infinitive | Object | lakad + -in (d → r) | to walk across |
+| tawirin | tawid | Infinitive | Object | tawid + -in (d → r) | to cross |
+| kinailangan | kailangan | Completed | Object | -in- + kailangan | had to |
+| dumating | dating | Completed | Actor | -um- + dating | came |
+| binasag | basag | Completed | Object | -in- + basag | was smashed |
+| pinangalanan | ngalan | Completed | Object | -in- + pangalan + -an | was named |
+| nabuhay | buhay | Completed | Actor | na- + buhay | lived |
+| umunlad | unlad | Completed | Actor | um- + unlad | evolved |
+| umalis | alis | Completed | Actor | um- + alis | left |
+| sinundan | sunod | Completed | Object | -in- + sunod + -an | followed |
+| nagpinta | pinta | Completed | Actor | nag- + pinta | painted |
+| pinanirahan | tira | Completed | Object (place) | -in- + panirahan (pang- + tira + -han) | was settled |
+| naninirahan | tira | Ongoing | Actor | nang- + ni + nirahan | live, reside |
+| nakilala | kilala | Completed | Object | na- + kilala | knew |
+| bumaba | baba | Completed | Actor | -um- + baba | came down |
+| itinanim | tanim | Completed | Object | i- + -in- + tanim | was planted |
+| tinipon | tipon | Completed | Object | -in- + tipon | was gathered |
+| naglakbay | lakbay | Completed | Actor | nag- + lakbay | travelled |
+| iniulat | ulat | Completed | Object | i- + -in- + ulat | was reported |
+| inukit | ukit | Completed | Object | in- + ukit | was carved |
+| idineklara | deklara | Completed | Object | i- + -in- + deklara | was declared |
+| nakahukay | hukay | Completed (chance) | Actor | naka- + hukay | dug up |
+| kinilala | kilala | Completed | Object | -in- + kilala | identified |
+| tinantiya | tantiya | Completed | Object | -in- + tantiya | estimated |
+| isipin | isip | Infinitive | Object | isip + -in | to imagine |
+| pinararangalan | dangal | Ongoing | Object | pa- + ra + dangal + -an, -in- | are honoured |
+| inililibing | libing | Ongoing | Object | i- + -in- + li + libing | are buried |
+| ibubunyag | bunyag | Future | Object | i- + bu + bunyag | will reveal |
+
+---
+
 ## Pre-Colonial Era / Panahong Pre-Kolonyal
 
 ### Vocabulary and Grammar Explanation
