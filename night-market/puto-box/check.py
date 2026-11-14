@@ -7,8 +7,8 @@ Needs: openscad on PATH, and  pip install trimesh manifold3d numpy networkx
 
 Checks: every part is a closed solid that sits flat on the bed and needs no
 supports; nothing overlaps when the box is assembled; the cake cannot be
-pulled off the leaf but unscrews freely; the lid lifts off; the toppings plate
-cannot pull out through the lid; the plates fit a 220 mm bed.
+pulled off the leaf but unscrews freely; the lid lifts off; the cheese goes in
+from below and cannot pull out through the top; the plates fit a 220 mm bed.
 Friction and print tolerances are not modelled - print one and try it.
 """
 import math
@@ -25,7 +25,7 @@ import trimesh
 
 HERE = Path(__file__).resolve().parent
 SCAD = HERE / "puto.scad"
-PARTS = ["base", "body", "lid", "toppings"]
+PARTS = ["base", "body", "lid", "cheese"]
 PLATES = ["plate_white", "plate_green", "plate_yellow"]
 BED = 220
 MAX_HANG = 1.0   # mm a layer may hang beyond a 50 degree overhang (small bridges)
@@ -130,14 +130,14 @@ def main():
         print(f"       to open: turn the cake {'anticlockwise' if opens[0] == 1 else 'clockwise'} "
               f"about {turn_needed:.0f} degrees (seen from above)")
 
-    print("\nLid and toppings")
-    lid, top = asm["lid"], asm["toppings"]
+    print("\nLid and cheese")
+    lid, top = asm["lid"], asm["cheese"]
     lifted = max((body ^ lid.translate((0, 0, dz))).volume() for dz in np.arange(0.5, 8, 0.5))
     report(lifted <= TOUCH, "lid lifts straight off the cake")
     held = min((lid ^ top.translate((0, 0, dz))).volume() for dz in (0.5, 1.0, 2.0))
-    report(held > 1.0, "toppings plate cannot pull out through the lid, so the butter pat lifts the lid")
+    report(held > 1.0, "cheese cannot pull out through the top of the lid")
     drop = max((lid ^ top.translate((0, 0, -dz))).volume() for dz in (0.5, 1.5, 3.0))
-    report(drop <= TOUCH, "toppings plate goes into the lid from below")
+    report(drop <= TOUCH, "cheese goes into the lid from below")
 
     print("\nPlates")
     for p in PLATES:

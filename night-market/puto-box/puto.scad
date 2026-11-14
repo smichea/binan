@@ -1,21 +1,20 @@
 // Puto Biñan trinket box for the night-market stand.
 //
-// A small round box that looks like a puto on a banana leaf.  The cake is the
-// box and the top lifts off by its butter pat.  The secret: the cake unscrews
-// from the leaf with a third of a turn, and the leaf cup hides a second
-// compartment underneath.
+// A small round box that looks like a puto: a white domed cake with one
+// triangular slice of cheese on top, sitting in a pleated cup on a banana leaf.
+// The dome is the lid.  The secret: the cake unscrews from the leaf with a
+// third of a turn, and the leaf's cup hides a second compartment underneath.
 //
 // Four parts, each printed in one colour without supports:
-//   green   base      banana leaf with a threaded cup
-//   white   body      the cake, with a threaded foot
-//   white   lid       top of the cake (prints upside down)
-//   yellow  toppings  butter pat, cheese strips and egg yolks on one plate
-//                     that presses into the lid from below
+//   green   base    banana leaf with a pleated, threaded cup
+//   white   body    the cake, with a threaded foot
+//   white   lid     the domed top of the cake
+//   yellow  cheese  the triangle; it pushes into the lid from below
 //
 // Z = up, 0 = table.  Export one part:  openscad -D 'part="body"' -o body.stl puto.scad
 
 /* [What to show] */
-part = "assembly";  // assembly | open | exploded | section | base | body | lid | toppings | plate_white | plate_green | plate_yellow
+part = "assembly";  // assembly | open | exploded | base | body | lid | cheese | plate_white | plate_green | plate_yellow
 in_place = false;   // true: export a part where it sits in the assembly (used by check.py)
 sets = 4;           // boxes per plate
 
@@ -39,30 +38,23 @@ hidden_h = 4;       // depth of the hidden compartment
 leaf = 68;          // size of the square of banana leaf
 leaf_t = 1.2;
 collar_t = 2.0;
+flutes = 24;        // pleats around the cup
 label = "PUTO BIÑAN";
 label_size = 4;
 
 /* [Lid] */
-lid_over = 0.8;     // how far the lid overhangs the cake
-lid_t = 2.4;
-bevel = 1.2;
-skin = 1.2;         // thickness of lid above the toppings plate
-lip_h = 3;
-lip_t = 1.6;
-lip_clear = 0.25;
+lid_over = 1.2;     // how far the lid overhangs the cake (this is what you grip)
+dome_h = 9;         // height of the dome
+band = 0.8;         // straight edge below the dome
+skirt = 1.6;        // how far the lid reaches down over the rim of the cake
+rim_clear = 0.25;   // clearance each side of the rim
 
-/* [Toppings] */
-eggs = true;        // salted-egg slices between the cheese strips
-plate_r = 18.8;
-plate_t = 1.0;
-fit = 0.15;         // clearance around each topping where it passes through the lid
-top_r = 13;         // distance of the toppings from the centre
-cheese = [3.2, 11];
-cheese_up = 1.0;
-yolk_d = 5.5;
-yolk_up = 0.6;
-knob = 10;
-knob_up = 5;
+/* [Cheese] */
+cheese_pts = [[-3, 0], [15, 8.5], [15, -8.5]];  // corners of the triangle; [0, 0] is the middle of the lid
+cheese_r = 1.2;     // corner rounding
+cheese_up = 0.8;    // how far the cheese stands above the cake
+flare = 1.2;        // wider foot that stops the cheese pulling out upwards
+fit = 0.15;         // clearance between cheese and lid
 
 /* [Hidden] */
 eps = 0.01;
@@ -75,7 +67,8 @@ base_h = floor_t + hidden_h + thread_h + seat;
 body_z = floor_t + hidden_h;                 // where the cake's foot ends up
 shoulder = Rb - (rm + ta);                   // height of the 45 degree shoulder
 body_total = thread_h + shoulder + body_h;
-lid_z = body_z + body_total;                 // rim of the cake
+rim_z = body_z + body_total;                 // rim of the cake
+lid_z = rim_z - rim_clear;                   // the rim sits a little way up the lid's groove
 Rl = Rb + lid_over;
 body_turn = 360*hidden_h/lead;               // lines the two threads up
 
@@ -134,9 +127,9 @@ module base() {
     translate([0, 0, floor_t]) thread(rm + tclear, base_h);
     // cone the cake's shoulder sits in
     translate([0, 0, base_h-seat-2*ta]) cylinder(r1 = rm-ta, r2 = rm+ta+seat+eps, h = seat+2*ta+eps);
-    // pleats on the outside of the cup, like a folded leaf (and a grip for twisting)
-    for (i = [0:17]) rotate([0, 0, i*20])
-      translate([rc, 0, leaf_t+0.6]) linear_extrude(base_h) polygon([[eps, -0.7], [eps, 0.7], [-0.5, 0]]);
+    // pleats round the cup, like a paper case (and a grip for twisting)
+    for (i = [0 : flutes-1]) rotate([0, 0, i*360/flutes])
+      translate([rc, 0, leaf_t+0.6]) linear_extrude(base_h) polygon([[eps, -1.1], [eps, 1.1], [-0.7, 0]]);
     // leaf veins and name
     translate([0, 0, leaf_t]) veins();
     if (label != "")
@@ -167,56 +160,46 @@ module body() {
   }
 }
 
-// ---------------------------------------------------------------- toppings
-// Footprints of everything that pokes through the lid.
+// ---------------------------------------------------------------- lid and cheese
+// Both are drawn with z = 0 at the top of the straight part of the lid's groove.
+
+// Half outline of the lid, to be spun round: a straight edge, then a dome.
+module dome2d(lift = 0) {
+  polygon(concat(
+    [[0, -skirt], [Rl-ef, -skirt], [Rl, -skirt+ef]],
+    [for (t = [0 : 3 : 90]) [Rl*cos(t), band+lift+dome_h*sin(t)]]));
+}
+
 module cheese2d() {
-  for (a = [60, 180, 300]) rotate(a) hull() {
-    translate([top_r-(cheese[1]-cheese[0])/2, 0]) circle(d = cheese[0], $fn = 24);
-    translate([top_r+(cheese[1]-cheese[0])/2, 0]) circle(d = cheese[0], $fn = 24);
-  }
-}
-module yolks2d() { if (eggs) for (a = [0, 120, 240]) rotate(a) translate([top_r, 0]) circle(d = yolk_d, $fn = 32); }
-module knob2d() { offset(r = 2, $fn = 24) square(knob-4, center = true); }
-
-// drawn with z = 0 at the rim of the cake
-module toppings() {
-  z0 = lid_t - skin;
-  translate([0, 0, z0-plate_t]) cylinder(r = plate_r, h = plate_t);
-  translate([0, 0, z0-eps]) {
-    linear_extrude(skin+cheese_up) cheese2d();
-    linear_extrude(skin+yolk_up) yolks2d();
-    hull() {
-      linear_extrude(skin+knob_up-1) knob2d();
-      linear_extrude(skin+knob_up) offset(delta = -1) knob2d();
-    }
-  }
+  hull() for (p = cheese_pts) translate(p) circle(r = cheese_r, $fn = 24);
 }
 
-// ---------------------------------------------------------------- lid
+// The cheese as a column through the lid, with a flared foot at the bottom.
+module cheese_column(grow = 0) {
+  hull() {
+    translate([0, 0, -skirt]) linear_extrude(eps) offset(r = flare+grow) cheese2d();
+    translate([0, 0, -skirt+flare]) linear_extrude(eps) offset(r = grow+eps) cheese2d();
+  }
+  translate([0, 0, -skirt+flare-eps]) linear_extrude(skirt+band+dome_h+5) offset(r = grow+eps) cheese2d();
+}
+
 module lid() {
-  rl = Rb - wall - lip_clear;
   difference() {
-    union() {
-      hull() {
-        cylinder(r = Rl, h = lid_t-bevel);
-        cylinder(r = Rl-bevel, h = lid_t);
-      }
-      translate([0, 0, -lip_h]) difference() {
-        cylinder(r = rl, h = lip_h+eps);
-        translate([0, 0, -1]) cylinder(r = rl-lip_t, h = lip_h+2);
-      }
-    }
-    // pocket for the toppings plate, open from below
-    translate([0, 0, -lip_h-1]) cylinder(r = plate_r+0.2, h = lip_h+1+lid_t-skin);
-    // windows for the toppings
-    translate([0, 0, -1]) linear_extrude(lid_t+2) offset(delta = fit) {
-      cheese2d(); yolks2d(); knob2d();
-    }
-    // the cake is scored into six slices
-    for (a = [30 : 60 : 330]) rotate(a) translate([knob/2+2.5, 0, lid_t]) groove(Rl);
-    // outline of each egg slice around its yolk
-    if (eggs) for (a = [0, 120, 240]) rotate(a) translate([top_r, 0, lid_t])
-      rotate_extrude($fn = 48) translate([yolk_d/2+2.2, 0]) polygon([[-0.4, eps], [0.4, eps], [0, -0.4]]);
+    rotate_extrude() dome2d();
+    // groove that drops over the rim of the cake; its pointed roof prints without bridging
+    rotate_extrude() polygon([[Rb-wall-rim_clear, -skirt-1], [Rb+rim_clear, -skirt-1], [Rb+rim_clear, 0],
+                              [Rb-wall/2, wall/2+rim_clear], [Rb-wall-rim_clear, 0]]);
+    // window for the cheese
+    cheese_column(fit);
+    translate([0, 0, -skirt-1]) linear_extrude(1+eps) offset(r = flare+fit) cheese2d();
+  }
+}
+
+module cheese() {
+  intersection() {
+    cheese_column();
+    rotate_extrude() dome2d(cheese_up);   // top follows the dome, a little above it
+    translate([0, 0, -skirt-1]) cylinder(r = Rb-wall-rim_clear-0.5, h = skirt+band+dome_h+5);
   }
 }
 
@@ -224,11 +207,11 @@ module lid() {
 // turn = degrees the cake has been unscrewed; lift = how far the lid is raised
 module assembly(turn = 0, lift = 0) {
   color(green) base();
-  translate([0, 0, body_z + turn/360*lead]) rotate([0, 0, body_turn + turn]) {
-    color(white) body();
-    translate([0, 0, body_total + lift]) {
+  translate([0, 0, turn/360*lead]) rotate([0, 0, body_turn + turn]) {
+    translate([0, 0, body_z]) color(white) body();
+    translate([0, 0, lid_z + lift]) {
       color(white) lid();
-      color(yellow) toppings();
+      color(yellow) cheese();
     }
   }
 }
@@ -236,58 +219,49 @@ module assembly(turn = 0, lift = 0) {
 module exploded() {
   color(green) base();
   translate([0, 0, body_z+16]) rotate([0, 0, body_turn]) color(white) body();
-  translate([0, 0, lid_z+28]) color(white) lid();
-  translate([0, 0, lid_z+20]) color(yellow) toppings();
-}
-
-module section() {
-  difference() {
-    assembly();
-    translate([-100, -200, -1]) cube([200, 200, 100]);
-  }
+  translate([0, 0, lid_z+34]) color(white) lid();
+  translate([0, 0, lid_z+52]) color(yellow) cheese();
 }
 
 // ---------------------------------------------------------------- print layouts
 module print_base() { base(); }
 module print_body() { body(); }
-module print_lid() { translate([0, 0, lid_t]) rotate([180, 0, 0]) lid(); }
-module print_toppings() { translate([0, 0, plate_t-(lid_t-skin)]) toppings(); }
-
-module grid(n, dx, dy) {
-  cols = ceil(n/2);
-  for (i = [0 : n-1]) translate([(i % cols)*dx, floor(i/cols)*dy, 0]) children();
-}
+module print_lid() { translate([0, 0, skirt]) lid(); }
+module print_cheese() { translate([-6, 0, skirt]) cheese(); }
 
 module plate_white() {
-  grid(sets, 2*Rl+4, 2*Rl+4) print_body();
-  translate([0, 2*(2*Rl+4), 0]) grid(sets, 2*Rl+4, 2*Rl+4) print_lid();
+  for (k = [0 : 2*sets-1])
+    translate([(k % 3)*(2*Rl+4), floor(k/3)*(2*Rl+4), 0])
+      if (k < sets) print_body(); else print_lid();
 }
-module plate_green() { grid(sets, leaf+4, leaf+4) print_base(); }
-module plate_yellow() { grid(sets, 2*plate_r+4, 2*plate_r+4) print_toppings(); }
+module plate_green() {
+  for (k = [0 : sets-1]) translate([(k % 2)*(leaf+4), floor(k/2)*(leaf+4), 0]) print_base();
+}
+module plate_yellow() {
+  for (k = [0 : sets-1]) translate([(k % 2)*28, floor(k/2)*28, 0]) print_cheese();
+}
 
 if (part == "assembly") assembly();
-else if (part == "open") assembly(turn = 150, lift = 14);
+else if (part == "open") assembly(turn = 150, lift = 16);
 else if (part == "exploded") exploded();
-else if (part == "section") section();
 else if (part == "plate_white") plate_white();
 else if (part == "plate_green") plate_green();
 else if (part == "plate_yellow") plate_yellow();
 else if (in_place) {
   if (part == "base") base();
   else if (part == "body") translate([0, 0, body_z]) rotate([0, 0, body_turn]) body();
-  else if (part == "lid") translate([0, 0, lid_z]) rotate([0, 0, body_turn]) lid();
-  else if (part == "toppings") translate([0, 0, lid_z]) rotate([0, 0, body_turn]) toppings();
+  else if (part == "lid") translate([0, 0, lid_z+0.03]) rotate([0, 0, body_turn]) lid();
+  else if (part == "cheese") translate([0, 0, lid_z+0.03]) rotate([0, 0, body_turn]) cheese();
 }
 else if (part == "base") print_base();
 else if (part == "body") print_body();
 else if (part == "lid") print_lid();
-else if (part == "toppings") print_toppings();
+else if (part == "cheese") print_cheese();
 
 // numbers that check.py needs
 if (part == "info") {
   echo(str("INFO lead=", lead)); echo(str("INFO thread_h=", thread_h));
-  echo(str("INFO body_z=", body_z)); echo(str("INFO lid_z=", lid_z));
-  echo(str("INFO outer=", leaf, " x ", leaf, " x ", lid_z+lid_t+knob_up));
-  echo(str("INFO main_inner=", 2*(Rb-wall), " dia x ", body_total-floor_t-lip_h+lip_h));
+  echo(str("INFO outer=", leaf, " x ", leaf, " x ", lid_z+band+dome_h+cheese_up));
+  echo(str("INFO main_inner=", 2*(Rb-wall), " dia x ", body_total-floor_t-skirt+rim_clear));
   echo(str("INFO hidden_inner=", 2*(rm+tclear-ta), " dia x ", hidden_h));
 }
