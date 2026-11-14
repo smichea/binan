@@ -54,6 +54,38 @@ IMAGES = {
     },
 }
 
+# Maps (drawn by book/maps/make_maps.py), placed after the first paragraph
+# of a chapter of the history, numbered from 1.
+MAPS = {
+    1: ("location",
+        "Biñan on the western shore of Laguna de Bay, south of Manila. Before the "
+        "Spaniards came, the area belonged to the Tagalog settlement of Tabuco, "
+        "today Cabuyao.",
+        "Ang Biñán sa kanlurang pampang ng Lawa ng Laguna."),
+    2: ("territory",
+        "How Biñan’s territory took shape: separated from Tabuco in 1688, it lost its "
+        "barrio of Santa Rosa in 1791–92. Under American rule, San Pedro (1903–1907) "
+        "and Muntinlupa (1903–1905) were briefly joined to it. Present-day boundaries.",
+        "Ang paghubog ng teritoryo ng Biñán, 1688–1907."),
+    4: ("liberation",
+        "The liberation of Biñan, 3 February 1945: the Hunters ROTC guerrillas "
+        "converged on the town centre from Carmona, San Pedro and Santa Rosa. "
+        "Arrows are schematic.",
+        "Ang paglaya ng Biñán, Pebrero 3, 1945."),
+    5: ("barangays",
+        "Biñan today and its 24 barangays. The Poblacion keeps the Spanish-era heart "
+        "of the town; the Laguna Technopark (Malamig) and the Laguna International "
+        "Industrial Park (Mampalasan) mark its industrial growth since 1990.",
+        "Ang 24 na barangay ng Biñán ngayon."),
+}
+
+MAP_TITLES = {
+    "location": "Biñan and Laguna de Bay",
+    "territory": "The territory of Biñan, 1688–1907",
+    "liberation": "The liberation of Biñan, 1945",
+    "barangays": "The barangays of Biñan today",
+}
+
 # A photo caption in the source: "([File:...jpg - Wikimedia Commons](url)) *caption*"
 FIGURE = re.compile(r"^\(\[(File:[^\]]+?\.jpg)[^\]]*\]\([^)]+\)\)\s*\*(.+)\*$", re.S)
 
@@ -133,6 +165,8 @@ def prepare_history(markdown):
     blocks = markdown.split("\n\n")
     out = []
     in_tagalog = False
+    chapter = 0
+    map_pending = False
     for block in blocks:
         block = block.strip()
         if not block or block.startswith("# "):
@@ -142,6 +176,8 @@ def prepare_history(markdown):
                 out.append(":::")
                 in_tagalog = False
             out.append(split_heading(block))
+            chapter += 1
+            map_pending = chapter in MAPS
             continue
         if block.startswith("**Did You Know?**"):
             if in_tagalog:
@@ -170,6 +206,14 @@ def prepare_history(markdown):
             out.append(":::")
             in_tagalog = False
         out.append(links_to_footnotes(block))
+        if map_pending and not tagalog:
+            name, caption, tagalog_caption = MAPS[chapter]
+            out.append(
+                f'<figure class="map" id="map-{name}"><img src="maps/{name}.svg" alt="">'
+                f'<figcaption><span class="map-no">Map {list(MAPS).index(chapter) + 1}.</span> '
+                f'{caption} <em class="tl">{tagalog_caption}</em></figcaption></figure>'
+            )
+            map_pending = False
     if in_tagalog:
         out.append(":::")
     return "\n\n".join(out)
@@ -214,9 +258,17 @@ def table_of_contents(body):
         f'<span class="toc-tl">{tagalog}</span></li>'
         for tagalog, anchor, title in entries
     )
+    maps = [(f"map-{name}", MAP_TITLES[name])
+            for name in re.findall(r'<figure class="map" id="map-([^"]+)"', body)]
+    map_list = ""
+    if maps:
+        map_items = "\n".join(
+            f'<li><a class="toc-map" href="#{anchor}">{title}</a></li>'
+            for anchor, title in maps)
+        map_list = f'<p class="toc-maps-title">Maps · Mga Mapa</p><ol class="toc-maps">{map_items}</ol>'
     return (
         '<section class="toc"><h1 class="toc-title">Contents</h1>'
-        f'<p class="toc-sub">Nilalaman</p><ol>{items}</ol></section>'
+        f'<p class="toc-sub">Nilalaman</p><ol>{items}</ol>{map_list}</section>'
     )
 
 
@@ -245,6 +297,9 @@ def colophon(doc):
      github.com/smichea/binan.</p>
   <p class="colophon-head">Photographs</p>
   {credits}
+  <p class="colophon-head">Maps</p>
+  <p>Drawn for this book from the Philippine Standard Geographic Code boundaries
+     (PSA, via OCHA and github.com/faeldon/philippines-json-maps, MIT licence).</p>
   <p class="colophon-head">Typography</p>
   <p>Set in EB Garamond and Cormorant Garamond (SIL Open Font License).</p>
   <p class="colophon-head">Sources</p>
