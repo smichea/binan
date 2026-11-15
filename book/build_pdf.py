@@ -211,7 +211,7 @@ FIGURES = [
                  "description of Ma-i: porcelain, iron pots and glass beads against cotton, wax and "
                  "cloth, and a white parasol offered to the datu.",
          tagalog="Ang pakikipagkalakalan sa mga barkong Tsino.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
-    dict(chapter=3, after=5, kind="Photo", id="boxer-couple", src="images/archives/boxer-codex-tagalog-couple.png",
+    dict(chapter=3, after=5, kind="Photo", id="boxer-couple", small=True, src="images/archives/boxer-codex-tagalog-couple.png",
          title="A Tagalog couple in the Boxer Codex",
          caption="A Tagalog couple of rank, painted in Manila around 1590 for the Boxer Codex: the "
                  "man in a kangan jacket and putong headcloth, the woman in baro and saya, both "
