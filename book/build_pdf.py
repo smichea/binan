@@ -226,9 +226,10 @@ FIGURES = [
     dict(chapter=3, after=6, kind="Photo", id="doctrina", src="images/archives/doctrina-christiana-1593.jpg",
          title="Baybayin in the Doctrina Christiana, 1593",
          caption="A page of the Doctrina Christiana printed in Manila in 1593, the first book of the "
-                 "Philippines, with the Tagalog text in baybayin script.",
+                 "Philippines: Tagalog prayers in baybayin script above, the Ave Maria in Spanish below.",
          tagalog="Baybayin sa Doctrina Christiana, 1593.",
-         credit="Library of Congress, Rosenwald Collection. Public domain."),
+         credit="Library of Congress, Rare Book and Special Collections, Rosenwald Collection 1302. "
+                "Public domain."),
     dict(chapter=3, after=7, kind="Illustration", id="ill-salcedo", src="images/illustrations/salcedo-galley-1571.jpg",
          title="Salcedo on the lake, 1571",
          caption="An impression of Juan de Salcedo’s galley reaching a lakeshore village in the "
