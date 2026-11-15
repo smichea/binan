@@ -410,12 +410,52 @@ FIGURES = [
          tagalog="Mga kalabaw sa Manila South Road patungong Biñán, 1934.",
          credit="Robert L. Pendleton, 1934. American Geographical Society Library, University "
                 "of Wisconsin–Milwaukee Libraries (negative 409.11)."),
-    dict(chapter=6, after=1, kind="Map", id="liberation", src="maps/liberation.svg",
-         title="The liberation of Biñan, 1945",
-         caption="The liberation of Biñan, 3 February 1945: the Hunters ROTC guerrillas "
-                 "converged on the town centre from Carmona, San Pedro and Santa Rosa. "
-                 "Arrows are schematic.",
+    dict(chapter=6, after=2, kind="Illustration", id="ill-rice", src="images/illustrations/occupation-rice-1943.jpg",
+         title="Rice under the occupation, 1943",
+         caption="An impression of rice being collected for the Japanese army in a Laguna town, 1943, "
+                 "while families queue for their ration.",
+         tagalog="Ang bigas sa panahon ng pananakop, 1943.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=6, after=2, kind="Photo", id="peso1000", small=True,
+         src="images/wwii/occupation-1000-pesos-1945.jpg",
+         title="A 1,000-peso occupation note, 1945",
+         caption="Front and back of a 1,000-peso note issued by the Japanese government in the "
+                 "Philippines in 1945. Filipinos called this money “Mickey Mouse money”: by the "
+                 "end of the war it was almost worthless.",
+         tagalog="Perang papel na 1,000 piso ng pamahalaang Hapones, 1945.",
+         credit="National Numismatic Collection, National Museum of American History (Smithsonian). Public domain, via Wikimedia Commons."),
+    dict(chapter=6, after=4, kind="Illustration", id="ill-guerrillas", src="images/illustrations/guerrillas-1944.jpg",
+         title="A guerrilla meeting, 1944",
+         caption="An impression of a night meeting of guerrillas in a lakeshore house, 1944: most of "
+                 "the resistance was made of civilians who carried food, messages and information.",
+         tagalog="Isang lihim na pulong ng mga gerilya, 1944.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=6, after=5, kind="Map", id="liberation", src="maps/liberation.svg",
+         title="The liberation of Biñan, 3 February 1945",
+         caption="The liberation of Biñan, 3 February 1945. According to Proculo Mojica, the Hunters-ROTC "
+                 "came down from Carmona in three columns: one attacked the garrison, one sealed the "
+                 "roads from San Pedro, one blocked the way to Santa Rosa. Arrows are schematic.",
          tagalog="Ang paglaya ng Biñán, Pebrero 3, 1945."),
+    dict(chapter=6, after=5, kind="Photo", id="memorial", src="images/wwii/hunters-rotc-memorial-binan.jpg",
+         title="The Hunters-ROTC memorial at Biñan City Hall",
+         caption="The memorial to the Hunters-ROTC guerrillas, “the army that freed Biñan in the time of "
+                 "the Japanese”, unveiled at City Hall on 3 February 2018.",
+         tagalog="Ang bantayog ng Hunters-ROTC sa Bulwagang Panlungsod ng Biñán.",
+         credit="Photo: Judgefloro, 2018. CC0, via Wikimedia Commons."),
+    dict(chapter=6, after=5, kind="Photo", id="memorial-text", src="images/wwii/hunters-rotc-memorial-text.jpg",
+         title="Mojica’s account on the memorial",
+         caption="The plaque quotes Proculo Mojica’s Terry’s Hunters (1965): “In one day, the entire "
+                 "garrison was annihilated and Biñan fell to the Hunters.”",
+         tagalog="Ang salaysay ni Mojica sa bantayog.",
+         credit="Photo: Judgefloro, 2018. CC0, via Wikimedia Commons."),
+    dict(chapter=6, after=7, kind="Photo", id="mabitac", src="images/wwii/mabitac-1945.jpg",
+         title="Mabitac, Laguna, April 1945",
+         caption="The ruins of Mabitac, on the eastern shore of Laguna de Bay, photographed by the U.S. Army "
+                 "on 4 April 1945. Biñan, behind the front since February, was spared such destruction.",
+         tagalog="Ang nawasak na bayan ng Mabitac, Abril 1945.",
+         credit="U.S. Army Signal Corps, 1945. Public domain, via Wikimedia Commons."),
+    dict(chapter=6, after=8, kind="Illustration", id="ill-liberation", src="images/illustrations/liberation-1945.jpg",
+         title="Liberation Day",
+         caption="An impression of the Philippine flag raised on the plaza of Biñan after the liberation of 1945.",
+         tagalog="Ang Araw ng Paglaya.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
     dict(chapter=7, after=1, kind="Photo", id="bridge", src="images/archives/binan-bridge-1951.jpg",
          title="The new Biñan bridge, c. 1951",
          caption="“Biñan Bridge completed”, about 1951: one of the bridges of the national "

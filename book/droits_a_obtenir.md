@@ -71,3 +71,13 @@ Modèle de demande pour la ville de Biñan (anglais) :
 ## Chapitre V (période américaine)
 
 Tous les nouveaux documents sont dans le domaine public : caricature *Puck* « School Begins » (Library of Congress, « No known restrictions »), dessin « Kill every one over ten » (*New York Evening Journal*, 1902), photo de la canonnière *Laguna de Bay* (1899). Pistes non utilisées, à demander : photos de la reddition de Cailles (Ortigas Foundation Library), caricature « To Avoid the Horrors of War » (Historical Society of Pennsylvania).
+
+## Chapitre VI (Seconde Guerre mondiale)
+
+| Document | Licence | Crédit |
+|---|---|---|
+| Mémorial Hunters-ROTC, hôtel de ville de Biñan (2 photos, 2018) | CC0 | Judgefloro, via Wikimedia Commons (crédit facultatif mais conservé) |
+| Billet d'occupation de 1 000 pesos (1945) | Domaine public | National Numismatic Collection, Smithsonian NMAH |
+| Ruines de Mabitac (4 avril 1945) | Domaine public | U.S. Army Signal Corps |
+
+Aucune autorisation à demander pour ce chapitre. Pistes : photo « Former internees of Los Banos with 11th Airborne troopers, 1945 » (domaine public, Commons ; téléchargement bloqué ici, à ajouter plus tard) ; photos de 1945 montrant Biñan dans la série NARA 111-SC (Signal Corps) ; aucune trouvée en ligne.
