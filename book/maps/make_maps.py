@@ -732,6 +732,40 @@ def map_prehistoric_sites(munis):
     m.save("prehistoric-sites")
 
 
+def map_polities(munis):
+    """Laguna de Bay and its communities around 1570."""
+    m = Map(120.90, 14.05, 121.60, 14.68)
+    for name, info in munis.items():
+        m.shape(info["geom"], LAND, stroke=RULE, width=0.15)
+    places = [  # name, lon, lat, anchor, dx, dy, note
+        ("Tondo", 120.968, 14.612, "start", 1.6, -1.6, "Lakandula"),
+        ("Maynila", 120.975, 14.590, "start", 1.6, 2.4, "Rajah Sulayman"),
+        ("Cainta", 121.115, 14.578, "start", 1.6, -0.6, "fortified; taken by Salcedo, Aug. 1571"),
+        ("Taytay", 121.132, 14.560, "start", 1.6, 2.6, ""),
+        ("Tunasan", 121.045, 14.372, "end", -1.6, 0.8, ""),
+        ("Tabuco", 121.125, 14.272, "start", 1.6, 0.8, "encomienda: 1,000 tributes (1591)"),
+        ("Bay", 121.284, 14.183, "start", 1.6, 2.6, "gave its name to the lake"),
+        ("Pila", 121.364, 14.234, "start", 1.6, 0.8, "graves of the 12th–14th c."),
+        ("Lumban", 121.460, 14.297, "end", -1.6, -1.6, "copper plate of 900 found here"),
+        ("Nagcarlán", 121.417, 14.137, "start", 1.6, 0.8, "Plasencia writes, 1589"),
+    ]
+    for name, lon, lat, anchor, dx, dy, note in places:
+        m.dot(lon, lat, r=0.75, fill=INK)
+        m.text(lon, lat, name, size=2.9, weight=600, anchor=anchor, dx=dx, dy=dy)
+        if note:
+            m.text(lon, lat, note, size=2.2, italic=True, color=MUTED, anchor=anchor, dx=dx, dy=dy + 2.8)
+    poblacion = centre(barangays()["Poblacion"])
+    m.dot(*poblacion, r=0.95, fill=PAPER, stroke=ACCENT)
+    m.text(*poblacion, "site of Biñan", size=3.0, weight=700, color=ACCENT, anchor="start", dx=1.8, dy=-0.8)
+    m.text(*poblacion, "no record before 1571", size=2.2, italic=True, color=ACCENT, anchor="start", dx=1.8, dy=2.0)
+    m.text(121.25, 14.40, "Laguna de Bay", size=4.2, italic=True, color=WATER_INK, halo=False, spacing=0.2)
+    m.text(120.93, 14.52, "Manila\nBay", size=3.0, italic=True, color=WATER_INK, halo=False)
+    m.text(121.03, 14.63, "Pasig River", size=2.4, italic=True, color=WATER_INK, anchor="start")
+    m.scale_bar(10, x=m.width - 30)
+    m.north_arrow(x=7, y=m.height - 16)
+    m.save("polities")
+
+
 if __name__ == "__main__":
     munis = municipalities()
     bgys = barangays()
@@ -744,3 +778,4 @@ if __name__ == "__main__":
     chart_climate()
     map_migrations()
     map_prehistoric_sites(munis)
+    map_polities(munis)

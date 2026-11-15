@@ -520,323 +520,245 @@ Explanation of tagalog text for english only speakers
 
 ### Vocabulary and Grammar Explanation
 
----
+**1. What we know, and how**
 
-**1.**  
-**Original:**  
-> *Bago pa man dumating ang mga Espanyol, ang lupain ng Biñán ay bahagi ng sinaunang pamayanan ng Tabuco (na ngayon ay Cabuyao).*
+> *Sa loob ng anim na siglo bago dumating ang mga Espanyol, walang dokumentong bumabanggit sa Biñán.*
 
-**Vocabulary:**  
-- **bago pa man** – *even before*  
-- **dumating** – *arrived*  
-- **mga Espanyol** – *the Spaniards*  
-- **lupain** – *land*  
-- **bahagi** – *part*  
-- **sinaunang pamayanan** – *ancient settlement* (root: *sinauna* = ancient, *pamayanan* = community)  
-- **Tabuco** – *old name* (now Cabuyao)  
-- **na ngayon ay** – *which is now*
+**Vocabulary:**
+- **sa loob ng** – *within, during*
+- **siglo** – *century*
+- **bumabanggit** – *mentions* (root: *banggit*)
+- **paghuhukay** – *excavation, digging* (root: *hukay*)
+- **nagmumula** – *comes from* (root: *mula*)
+- **pinagsasaluhan** – *shared (among them)* (root: *salo* = to share a meal)
+- **pamayanan** – *settlement, community*
+- **nakakalat** – *scattered* (root: *kalat*)
+- **nakapangkat** – *grouped* (root: *pangkat* = group)
+- **pinamumunuan** – *led, ruled* (root: *puno* = head, leader)
 
-**Grammar:**  
-- Actor-focus completed verb (*dumating*) in the time clause; *ay* links subject and predicate.  
-- Apposition: *Tabuco (na ngayon ay Cabuyao)* explains and updates Tabuco's identity.
+**Grammar:**
+- *Bumabanggit* = *-um-* + repeated syllable + *banggit*: ongoing actor focus, "(that) mentions".
+- *Pinagsasaluhan* = *pinag-* + repeated syllable + *salo* + *-han*: an action done together by many people, ongoing.
+- *Nakakalat* and *nakapangkat* = *naka-* + root: a resulting state ("in a scattered state", "in groups").
 
-**Translation:**  
-> Even before the Spaniards arrived, the land of Biñan was part of the ancient settlement of Tabuco (which is now Cabuyao).
-
----
-
-**2.**  
-**Original:**  
-> *Walang maituturing na bayan noon sa Biñán – kakaunti at magkakalayo ang mga naninirahan, at payak ang kanilang pamumuhay.*
-
-**Vocabulary:**  
-- **walang** – *none, no*  
-- **maituturing** – *could be considered* (root: *turing* = regard, consider)  
-- **bayan** – *town*  
-- **noon** – *at that time*  
-- **kakaunti** – *few, sparse*  
-- **magkakalayo** – *scattered, distant from each other* (root: *layo* = distance)  
-- **naninirahan** – *residents, those living (there)* (root: *tira* = to stay, to live; *manirahan* = to reside)  
-- **payak** – *simple, plain*  
-- **kanilang pamumuhay** – *their way of life* (root: *buhay* = life)
-
-**Grammar:**  
-- *Walang maituturing na bayan* → no town could really be considered existing.  
-- Conjunction *–* (dash) used to link related ideas.  
-- Use of repetitive-sounding words (kakaunti, magkakalayo) is very natural in Tagalog for emphasis.
-
-**Translation:**  
-> There could not yet be considered a town in Biñan — there were few and scattered residents, and their way of life was simple.
+**Translation:**
+> For six centuries before the Spaniards came, no document mentions Biñán and no excavation has yet been made on its soil. What we know of life on this shore comes from its neighbours – Tabuco, Bay, Pila and Lumban – from Chinese and Spanish writers, and from the customs shared by the Tagalog communities of the region. The land of today's Biñán was most likely part of Tabuco. Its people lived in small settlements scattered along the lake and the rivers coming down from the hills: they fished, planted rice and vegetables, gathered fruit and hunted wild pig, and they were grouped in barangays led by datus.
 
 ---
 
-**3.**  
-**Original:**  
-> *Umaasa sila sa biyaya ng kalikasan: nangingisda sila sa Lawa ng Laguna, nangunguha ng prutas at halamang-ugat sa gubat, at nangangaso ng baboy-ramo at iba pang hayop sa kaparangan.*
+**2. The copper plate of 900**
 
-**Vocabulary:**  
-- **umaasa** – *they rely* (root: *asa* = to hope or depend)  
-- **sila** – *they*  
-- **biyaya** – *blessing, bounty*  
-- **kalikasan** – *nature*  
-- **nangingisda** – *fishing*  
-- **nangunguha** – *gathering* (root: *kuha* = to get)  
-- **prutas** – *fruits*  
-- **halamang-ugat** – *root crops* (plants like yam, cassava)  
-- **gubat** – *forest*  
-- **nangangaso** – *hunting* (root: *aso* = dog; *mangaso* = to hunt, originally with dogs)  
-- **baboy-ramo** – *wild boar*  
-- **iba pang hayop** – *other animals*  
-- **kaparangan** – *grassland, open fields*
+> *Mula sa lawang ito ang pinakamatandang nakasulat na dokumentong natagpuan sa Pilipinas.*
 
-**Grammar:**  
-- Colon *:* introduces a list of activities.  
-- Parallel structure: **nangingisda, nangunguha, nangangaso** all present tense, simultaneous actions.
+**Vocabulary:**
+- **pinakamatanda** – *the oldest* (root: *tanda* = age)
+- **nakasulat** – *written* (root: *sulat*)
+- **manggagawa** – *worker* (root: *gawa* = work)
+- **buhangin** – *sand*
+- **bunganga ng ilog** – *river mouth* (*bunganga* = mouth, opening)
+- **platong tanso** – *copper plate*
+- **titik** – *letter, script*
+- **katibayan ng pagbabayad** – *receipt, proof of payment* (*tibay* = firmness; *bayad* = payment)
+- **pinalalaya** – *frees, sets free* (root: *laya*)
+- **inapo** – *descendant*
+- **nagngangalang** – *named* (root: *ngalan* = name)
+- **utang** – *debt*
+- **saksi** – *witness*
+- **pinagtatalunan** – *is debated* (root: *talo* = to argue)
+- **iniingatan** – *is kept, is preserved* (root: *ingat* = care)
 
-**Translation:**  
-> They relied on nature's bounty: they fished in Laguna Lake, gathered fruits and root crops in the forest, and hunted wild boar and other animals in the grasslands.
+**Grammar:**
+- *Manggagawa* = *mang-* + repeated syllable + *gawa*: the person who does the work.
+- *Pinalalaya* = causative *pa-* + *laya* with *-in-* and reduplication: "is (being) set free".
+- *Pinagtatalunan* = *pinag-* + repeated syllable + *talo* + *-an* (o → u): ongoing, "is argued about".
 
----
-
-**4.**  
-**Original:**  
-> *Ang ugnayan ng mga tao ay umiikot sa mga barangay na pinamumunuan ng mga lokal na datu o pinuno.*
-
-**Vocabulary:**  
-- **ugnayan** – *relationship, connection*  
-- **mga tao** – *the people*  
-- **umiikot** – *revolved around* (root: *ikot* = to turn, circle)  
-- **barangay** – *villages*  
-- **pinamumunuan** – *ruled by*  
-- **lokal na datu o pinuno** – *local chieftains or leaders*
-
-**Grammar:**  
-- *Ugnayan...umiikot* → Subject-verb inversion: "The relationship revolved around..."  
-- Passive construction: *pinamumunuan*.
-
-**Translation:**  
-> The relationships among the people revolved around the barangays led by local chieftains or leaders.
+**Translation:**
+> The oldest written document found in the Philippines comes from this lake. In the late 1980s, a worker digging sand near the mouth of the Lumbang River found a thin copper plate covered with writing, dated 21 April 900. Written mostly in Old Malay, in the Kawi script of Java, the Laguna Copperplate Inscription is a receipt: on behalf of the chief of Tundun (Tondo), it frees the descendants of a man named Namwaran from a debt of about 865 grams of gold, before witnesses from Pailah, Puliran and Binuangan. Scholars still debate where these places were; none of them is Biñán. But the plate shows that by the year 900 the lake belonged to a world of writing, gold, debts and titles linked to Java and Sumatra.
 
 ---
 
-**5.**  
-**Original:**  
-> *Mayroon mang maliitang kalakalan sa pagitan ng mga karatig na nayon sa pamamagitan ng barter, walang malaking pamilihan o sentro sa lugar ng Biñán noong panahong iyon.*
+**3. Ma-i and the porcelain trade**
 
-**Vocabulary:**  
-- **mayroon mang** – *even though there was*  
-- **maliitang kalakalan** – *small-scale trade*  
-- **sa pagitan ng** – *between*  
-- **karatig na nayon** – *neighboring villages*  
-- **sa pamamagitan ng** – *through*  
-- **barter** – *exchange of goods*  
-- **walang malaking pamilihan** – *no large market*  
-- **sentro** – *center*  
-- **noong panahong iyon** – *during that time*
+> *Bahagi rin ang lawa ng mga ruta ng kalakalan ng Asya.*
 
-**Grammar:**  
-- *Mayroon mang...walang...* → concessive structure (although there was... there was no...)  
-- *Pamilihan* = marketplace noun (*pang-* + *bili* = buy + suffix *-han*; *ng + b* merges into *m*)
+**Vocabulary:**
+- **talaan** – *record, annal* (root: *tala*)
+- **inilarawan** – *described* (root: *larawan* = picture)
+- **nakadaong** – *anchored, moored* (root: *daong* = ship)
+- **nagaganap** – *takes place* (root: *ganap*)
+- **puting payong** – *white umbrella*
+- **ipinagpapalit** – *are exchanged* (root: *palit*)
+- **pautang** – *on credit* (root: *utang* = debt)
+- **bulak** – *cotton*; **pagkit** – *wax*; **kabibi ng pagong** – *tortoiseshell*; **nganga** – *betel*
+- **tingga** – *lead (metal)*; **karayom** – *needle*
+- **iminungkahi** – *proposed, suggested* (root: *mungkahi*)
+- **kaakit-akit** – *attractive* (root: *akit*)
+- **napatutunayan** – *proven* (root: *tunay* = true)
+- **pagsusunog ng bangkay** – *cremation* (*sunog* = burn; *bangkay* = corpse)
+- **pabigat ng lambat** – *net weight*; **ikiran ng sinulid** – *spindle whorl*
 
-**Translation:**  
-> Even though there was some small-scale trade between neighboring villages through barter, there was no major marketplace or center in the area of Biñan during that time.
+**Grammar:**
+- *Ipinagpapalit* = *ipag-* + *-in-* + repeated syllable + *palit*: ongoing object focus with *ipag-*, used for exchanging.
+- *Hindi pa napatutunayan* – "not yet proven": *napa-* + reduplication + *tunay* + *-an* = can be shown to be true.
 
----
-
-**6.**  
-**Original:**  
-> *Sa kabila nito, mahalaga na ang Lawa ng Laguna sa pamumuhay ng mga sinaunang Tagalog dito, at itinuturing nilang tahanan ang mayamang kalikasan ng Biñán.*
-
-**Vocabulary:**  
-- **sa kabila nito** – *despite this*  
-- **mahalaga na** – *already important*  
-- **Lawa ng Laguna** – *Laguna Lake*  
-- **pamumuhay** – *way of life*  
-- **mga sinaunang Tagalog** – *the ancient Tagalog people*  
-- **itinuturing nilang** – *they regarded as*  
-- **tahanan** – *home*  
-- **mayamang kalikasan** – *rich nature*
-
-**Grammar:**  
-- *Sa kabila nito...* shows concession (despite).  
-- **itinuturing nilang tahanan** = *they considered [it] home* (verb + object focus).
-
-**Translation:**  
-> Despite this, Laguna Lake was already important to the way of life of the ancient Tagalog here, and they regarded Biñan's rich natural environment as their home.
+**Translation:**
+> The lake was also part of Asia's trade routes. Chinese records mention merchants from a country called Ma-i as early as 971. In 1225, the Chinese official Zhao Rugua described Ma-i: big villages on both banks of a river, Chinese ships anchored before the "official place" where trade took place, local chiefs given white umbrellas, and goods exchanged on credit – cotton, wax, tortoiseshell, betel nut and cloth for porcelain, gold, iron pots, lead, glass beads and needles. Ma-i is usually placed on Mindoro, but Go Bon Juan proposed that it may be Ba-i, the town of Bay – an attractive but unproven idea. What is certain is that at Pinagbayanan, in Pila, archaeologists excavated some 241 graves of the 12th to 14th centuries, with Song and Yuan porcelain, cremations, net weights, spindle whorls and traces of rice farming, cotton weaving and ironworking.
 
 ---
 
-### Full Summary Table
+**4. Brunei and Islam**
 
-| Tagalog | English |
-|:---|:---|
-| Bago pa man dumating ang mga Espanyol, ang lupain ng Biñán ay bahagi ng sinaunang pamayanan ng Tabuco (na ngayon ay Cabuyao). | Even before the Spaniards arrived, the land of Biñan was part of the ancient settlement of Tabuco (which is now Cabuyao). |
-| Walang maituturing na bayan noon sa Biñán – kakaunti at magkakalayo ang mga naninirahan, at payak ang kanilang pamumuhay. | There could not yet be considered a town in Biñan — there were few and scattered residents, and their way of life was simple. |
-| Umaasa sila sa biyaya ng kalikasan: nangingisda sila sa Lawa ng Laguna, nangunguha ng prutas at halamang-ugat sa gubat, at nangangaso ng baboy-ramo at iba pang hayop sa kaparangan. | They relied on nature's bounty: they fished in Laguna Lake, gathered fruits and root crops in the forest, and hunted wild boar and other animals in the grasslands. |
-| Ang ugnayan ng mga tao ay umiikot sa mga barangay na pinamumunuan ng mga lokal na datu o pinuno. | The relationships among the people revolved around the barangays led by local chieftains or leaders. |
-| Mayroon mang maliitang kalakalan sa pagitan ng mga karatig na nayon sa pamamagitan ng barter, walang malaking pamilihan o sentro sa lugar ng Biñán noong panahong iyon. | Even though there was some small-scale trade between neighboring villages through barter, there was no major marketplace or center in the area of Biñan during that time. |
-| Sa kabila nito, mahalaga na ang Lawa ng Laguna sa pamumuhay ng mga sinaunang Tagalog dito, at itinuturing nilang tahanan ang mayamang kalikasan ng Biñán. | Despite this, Laguna Lake was already important to the way of life of the ancient Tagalog here, and they regarded Biñan's rich natural environment as their home. |
+> *Patungong Brunei at Islam ang pinakamalakas na ugnayan ng mundong Tagalog.*
+
+**Vocabulary:**
+- **patungo** – *toward*
+- **ugnayan** – *relationship, tie* (root: *ugnay* = connection)
+- **nadatnan** – *found (on arrival)* (root: *datna*, from *dating*)
+- **nakipag-ugnayan** – *dealt with, had dealings with* (root: *ugnay*)
+- **nangaral** – *preached* (root: *aral* = teaching)
+- **nakababasa** – *can read* (root: *basa*)
+- **pagbubuhos** – *pouring* (root: *buhos*)
+- **paglilinis** – *cleansing, ablution* (root: *linis*)
+
+**Grammar:**
+- *Nakipag-ugnayan* = *nakipag-* + *ugnay* + *-an*: an action done with someone else, completed – "had dealings (with)".
+- *Nakababasa* = *naka-* + repeated syllable + *basa*: ability in the ongoing aspect, "is able to read".
+
+**Translation:**
+> In the 16th century, the strongest ties of the Tagalog world ran toward Brunei and Islam. When the Spaniards reached Manila Bay in 1570–71, they found Maynila ruled by Rajah Sulayman and Tondo by Lakandula. A Spanish report of 1572 says that the coastal people did not eat pork "because they had dealings with the Moros of Burney, who preached to them a little of the teaching of Mahoma", and that some who had been to Brunei could read a few words of the Koran. The influence reached the language: the Tagalog dictionary of 1754 says that the word *binyag* came from Brunei, where it meant pouring water from above in a Muslim ablution, before it was used for Christian baptism.
+
+---
+
+**5. The society of the barangay**
+
+> *“Laging may mga pinuno ang bayang ito, na tinatawag nilang datos.”*
+
+**Vocabulary:**
+- **nilagdaan** – *signed* (root: *lagda* = signature)
+- **kaugalian** – *custom* (root: *ugali* = habit)
+- **pinuno** – *leader, chief*
+- **namumuno** – *rules, leads* (root: *puno*)
+- **malaya** – *free*
+- **sumasagwan** – *paddles, rows* (root: *sagwan* = paddle)
+- **ani** – *harvest*
+- **ipagbili** – *to sell* (root: *bili*)
+- **tubusin** – *to redeem, to buy back* (root: *tubos*)
+- **palaisdaan** – *fishery* (root: *isda* = fish)
+- **takdang hangganan** – *fixed boundaries*
+- **takal** – *a measure of grain*
+- **ari-arian** – *property*
+- **bigay-kaya** – *dowry* (literally "a gift according to one's means")
+- **makipaghiwalay** – *to separate, to divorce* (root: *hiwalay*)
+- **kuta** – *fort*
+
+**Grammar:**
+- *Nilagdaan* = *-in-* + *lagda* + *-an*; before *l*, the infix becomes *ni-*: "(he) signed".
+- *Tubusin* = *tubos* + *-in* (o → u): object-focus infinitive, "to redeem".
+- *Makipaghiwalay* = *makipag-* + *hiwalay*: a reciprocal action with another person – "to separate (from someone)".
+
+**Translation:**
+> The best description of Tagalog society was written on this lake: the Franciscan Juan de Plasencia signed his *Customs of the Tagalogs* at Nagcarlán, Laguna, on 21 October 1589. "This people always had chiefs, whom they call datos," he wrote; each ruled "sometimes up to a hundred houses, sometimes fewer than thirty", a group "called in Tagalog a barangay". Below the datu were the free maharlika, who went to war with him and rowed for him; the aliping namamahay, who had their own houses and gave him part of their harvest; and the aliping sa gigilid, who lived in his house and could be sold. One could become a slave through war or debt, and buy one's freedom back with gold. Some chiefs owned fisheries with fixed boundaries and parts of rivers for markets; at Pila, free men paid their datu a hundred measures of rice a year. Women kept their own property, received a dowry and could divorce. Settlements could be fortified: in 1571 Cainta had about a thousand people behind thick bamboo, a wall and small cannons.
+
+---
+
+**6. Beliefs and the baybayin**
+
+> *Sinasamba ng mga Tagalog si Bathala, “ang lumikha ng lahat ng bagay”.*
+
+**Vocabulary:**
+- **sinasamba** – *is worshipped* (root: *samba*)
+- **lumikha** – *created* (root: *likha*)
+- **nagtatakda** – *sets, marks* (root: *takda*)
+- **kinakatawan** – *is represented* (root: *katawan* = body)
+- **pinangungunahan** – *is led* (root: *una* = first)
+- **katayuan** – *rank, status* (root: *tayo* = to stand)
+- **ipinagluluksa** – *are mourned* (root: *luksa* = mourning)
+- **inihihimlay** – *are laid to rest* (root: *himlay*)
+- **kabaong** – *coffin*
+- **bukung-bukong** – *ankle*
+- **marunong bumasa at sumulat** – *literate, able to read and write*
+- **inilimbag** – *was printed* (root: *limbag*)
+
+**Grammar:**
+- *Pinangungunahan* = *pang-* + *una* + *-han* with *-in-* and reduplication: "is (being) led".
+- *Ipinagluluksa* = *ipag-* + *-in-* + repeated syllable + *luksa*: ongoing object focus.
+- *Marunong* + infinitive = "knows how to": *marunong bumasa* = "knows how to read".
+
+**Translation:**
+> The Tagalogs worshipped Bathala, "the maker of all things", honoured the sun, the moon and the stars that mark the farming year, and the spirits of their ancestors, the anito, represented by images called lic-ha. There were no temples: a house was prepared for each feast, led by a catalonan, often a woman of high rank. The dead were mourned for four days and laid to rest in a boat as a coffin. Men and women wore gold bracelets and anklets; around 1590 the Boxer Codex shows Tagalog couples in baro, saya and putong. Many could read and write in baybayin, which appears beside the Latin alphabet in the Doctrina Christiana of 1593, the first book printed in the Philippines.
+
+---
+
+**7. The year 1571**
+
+> *Nagbago ang mundong ito noong 1571.*
+
+**Vocabulary:**
+- **galera** – *galley*
+- **kanyon** – *cannon*
+- **nasakop** – *conquered* (root: *sakop*)
+- **pagkubkob** – *siege* (root: *kubkob* = to surround)
+- **tagapagtanggol** – *defender* (root: *tanggol*)
+- **napatay** – *were killed* (root: *patay*)
+- **pinatahimik** – *were "pacified", made quiet* (root: *tahimik* = quiet)
+- **ipinagkaloob** – *were granted* (root: *kaloob* = gift)
+- **tributo** – *tribute*
+- **nagtatag** – *founded* (root: *tatag*)
+- **nagtirik** – *planted upright, erected* (root: *tirik*)
+- **pinatutunayan** – *confirm, prove* (root: *tunay*)
+
+**Grammar:**
+- *Pinatahimik* = causative *pa-* + *tahimik* with *-in-*: "were made quiet". The Spanish word *pacificar* is often translated this way.
+- *Ipinagkaloob* = *ipag-* + *-in-* + *kaloob*: completed object focus, "were given (as a grant)".
+- *Tagapagtanggol* = *tagapag-* + *tanggol*: the one whose role is to defend.
+
+**Translation:**
+> This world changed in 1571. Legazpi settled in Manila in May. On 15 August 1571, his young captain Juan de Salcedo left with a galley, a hundred soldiers and three cannons against Cainta, which he conquered after a short siege; about four hundred of its defenders, men and women, were killed. The same report says that "the villages around this lake, with about twenty-four or twenty-six thousand men, were pacified" by Salcedo. Soon the lake towns were granted as encomiendas to Spaniards: Pila in November 1571, and in 1591 Don Luis Enríquez held Tabuco, with a thousand tributes – about four thousand people; Biñán was probably among them, although it is not named. From 1578 the Franciscans founded missions all around the lake. According to a local tradition, Salcedo and the missionaries stopped on the site of Biñán, planted a cross and baptized its people, so the place was called Binyagan, the "place of baptism"; the documents of the time confirm Salcedo's journey around the lake in late 1571, but do not mention Biñán.
 
 ---
 
 ### Full Verb Breakdown Table
 
-| Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
-|:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
-| **dumating** | dating | Completed (Past) | Actor | -um- (infix) + dating | arrived |
-| **maituturing** | turing | Potential / Future Passive | Object | mai- + turing | could be considered |
-| **naninirahan** | tira | Ongoing (Present) | Actor | nang- + tira + -an (t → n), *ni* repeated | residents (those who are living) |
-| **umaasa** | asa | Ongoing (Present) | Actor | uma- + root | relying |
-| **nangingisda** | isda | Ongoing (Present) | Actor | nangingi- + isda | fishing |
-| **nangunguha** | kuha | Ongoing (Present) | Actor | nang- + kuha (k → ng), *ngu* repeated | gathering |
-| **nangangaso** | aso (dog) | Ongoing (Present) | Actor | nang- + aso, *nga* repeated | hunting |
-| **umiikot** | ikot | Ongoing (Present) | Actor | umi- + root | revolving |
-| **pinamumunuan** | puno | Ongoing (Present) | Object | pang- + puno + -an (p → m) = pamunuan; -in- + *mu* repeated | being led |
-| **mayroon** | (none) | Static Existential | N/A | mayroon | there is / there are |
-| **itinuturing** | turing | Ongoing (Present) | Object | itinu- + turing | is regarded as |
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| bumabanggit | banggit | Ongoing | Actor | -um- + ba + banggit | mentions |
+| ginagawa | gawa | Ongoing | Object | -in- + ga + gawa | is (being) done |
+| nagmumula | mula | Ongoing | Actor | nag- + mu + mula | comes from |
+| pinagsasaluhan | salo | Ongoing | Object (shared) | pinag- + sa + salo + -han | is shared |
+| nanirahan | tira | Completed | Actor | nang- + tirahan (t → n) | lived |
+| pinamumunuan | puno | Ongoing | Object | -in- + pa + mu + munuan | is led |
+| nakatagpo | tagpo | Completed (chance) | Actor | naka- + tagpo | came upon |
+| pinalalaya | laya | Ongoing | Object (causative) | pa- + la + laya, -in- | frees |
+| pinagtatalunan | talo | Ongoing | Object | pinag- + ta + talo + -an | is debated |
+| iniingatan | ingat | Ongoing | Object | i- + -in- + i + ingat + -an | is preserved |
+| binabanggit | banggit | Ongoing | Object | -in- + ba + banggit | is mentioned |
+| inilarawan | larawan | Completed | Object | i- + -in- + larawan | described |
+| nagaganap | ganap | Ongoing | Actor | nag- + ga + ganap | takes place |
+| ipinagpapalit | palit | Ongoing | Object | ipag- + -in- + pa + palit | are exchanged |
+| iminungkahi | mungkahi | Completed | Object | i- + -in- + mungkahi | proposed |
+| nahukay | hukay | Completed | Object | na- + hukay | was excavated |
+| nadatnan | dating | Completed | Object | na- + datna + -n | found on arrival |
+| nakipag-ugnayan | ugnay | Completed | Actor (with others) | nakipag- + ugnay + -an | had dealings |
+| nangaral | aral | Completed | Actor | nang- + aral | preached |
+| nilagdaan | lagda | Completed | Object | ni- + lagda + -an | signed |
+| namumuno | puno | Ongoing | Actor | nang- + mu + muno | rules |
+| sumasagwan | sagwan | Ongoing | Actor | -um- + sa + sagwan | rows |
+| tubusin | tubos | Infinitive | Object | tubos + -in (o → u) | to redeem |
+| sinasamba | samba | Ongoing | Object | -in- + sa + samba | is worshipped |
+| lumikha | likha | Completed | Actor | -um- + likha | created |
+| kinakatawan | katawan | Ongoing | Object | -in- + ka + katawan | is represented |
+| pinangungunahan | una | Ongoing | Object | pang- + u + una + -han, -in- | is led |
+| ipinagluluksa | luksa | Ongoing | Object | ipag- + -in- + lu + luksa | is mourned |
+| inihihimlay | himlay | Ongoing | Object | i- + -in- + hi + himlay | is laid to rest |
+| inilimbag | limbag | Completed | Object | i- + -in- + limbag | was printed |
+| nasakop | sakop | Completed | Object | na- + sakop | was conquered |
+| pinatahimik | tahimik | Completed | Object (causative) | pa- + tahimik, -in- | was pacified |
+| ipinagkaloob | kaloob | Completed | Object | ipag- + -in- + kaloob | was granted |
+| nagtatag | tatag | Completed | Actor | nag- + tatag | founded |
+| nagtirik | tirik | Completed | Actor | nag- + tirik | planted upright |
+| pinatutunayan | tunay | Ongoing | Object (causative) | pa- + tu + tunay + -an, -in- | confirm |
 
 ---
-
-### 🔥 Observations:
-- **Many ongoing actions** (present aspect): nangingisda, nangunguha, nangangaso, umiikot, itinuturing → shows daily life and continuous activities.  
-- **Actor-focus dominates** daily life activities (fishing, hunting) → humans act on nature.  
-- **Object-focus used** for *being ruled* (pinamumunuan) and *being regarded* (itinuturing).
-
----
-
-### 📈 How the Verbs Are Built
-
----
-
-#### 🔵 1. **maituturing** (could be considered)
-
-```
-Root: turing → to consider
-+ mai- → maituturing → can be considered (potential passive form)
-```
-
-🧠 Meaning construction:
-- **turing** = to regard, to consider
-- **mai-** prefix = "capable of being..." (potential form)  
-→ maituturing = *can be considered*
-
----
-
-#### 🔵 2. **nangingisda** (is fishing)
-
-```
-Root: isda → fish
-+ mang- → mangisda → to fish
-+ nangingi- → nangingisda → is fishing (ongoing)
-```
-
-🧠 Meaning construction:
-- **isda** = fish
-- **mang-** prefix = actor-focus for doing action related to object
-- *mang-* becomes *nang-* (started action), then the first syllable after it (*ngi*) is repeated = ongoing action form
-
----
-
-#### 🔵 3. **nangunguha** (is gathering)
-
-```
-Root: kuha → to get
-+ mang- → manguha → to gather (k is absorbed: mang + kuha → manguha)
-+ nangungu- → nangunguha → is gathering (ongoing)
-```
-
-🧠 Meaning construction:
-- **kuha** = to get
-- **mang-** = actor-focus for action involving "kuha" (getting things)
-- **nangungu-** = shows present/ongoing action repeated (habitual/continuous)
-
----
-
-#### 🔵 4. **nangangaso** (is hunting)
-
-```
-Root: aso → dog
-+ mang- → mangaso → to hunt (originally: to hunt with dogs)
-+ nang- + repeated nga → nangangaso → is hunting (ongoing)
-```
-
-🧠 Meaning construction:
-- **aso** = dog
-- **mang-** = actor-focused prefix
-- **nang-** + repeated *nga* = continuous aspect, habitual hunting
-
----
-
-#### 🔵 5. **umiikot** (is revolving)
-
-```
-Root: ikot → turn, revolve
-+ um- → umiikot → is revolving (ongoing)
-```
-
-🧠 Meaning construction:
-- **ikot** = to circle, revolve
-- **um-** infix (actor-focus, natural action)
-- Continuous "umi-" for ongoing movement.
-
----
-
-#### 🔵 6. **pinamumunuan** (is being ruled)
-
-```
-Root: puno → leader, head
-+ pang- ... -an → pamunuan → to lead, to govern (ng + p merges into m)
-+ -in- → pinamunuan → was led
-+ repeated mu → pinamumunuan → is being led
-```
-
-🧠 Same structure as previous explanation.
-
----
-
-#### 🔵 7. **itinuturing** (is being regarded as)
-
-```
-Root: turing → consider
-+ i- → ituring → to be regarded (command form passive)
-+ itinu- → itinuturing → is regarded (ongoing passive)
-```
-
-🧠 Meaning construction:
-- **turing** = to consider
-- **i-** = object-focus prefix
-- **itinu-** = ongoing aspect passive
-
----
-
-### 📜 Visual Summary Table
-
-| Construction | Result | Meaning |
-|:-------------|:-------|:--------|
-| turing + mai- | maituturing | could be considered |
-| isda + mang- + nangingi- | nangingisda | is fishing |
-| kuha + mang- + nangungu- | nangunguha | is gathering |
-| aso + mang- + nang- + nga- | nangangaso | is hunting |
-| ikot + um- + ongoing form | umiikot | is revolving |
-| puno + pang- (p → m) + -an + -in- + mu- | pinamumunuan | is being ruled |
-| turing + i- + itinu- | itinuturing | is regarded as |
-
----
-
-### 🧠 Bonus: Quick Cheat on "Mang" Verbs Ongoing Forms
-Whenever you have **mang-** verbs in Tagalog, the pattern for ongoing tense is often:
-
-> **mang- → nang-, then the first syllable after it is repeated**
-
-Examples:  
-- *mangisda* → **nangingisda**  
-- *manguha* → **nangunguha**  
-- *mangaso* → **nangangaso**  
-
-The **nang-** prefix plus the repeated syllable (*ngi-*, *ngu-*, *nga-*) shows that the action is currently happening!
-
----
-
 
 ## Spanish Colonial Period / Panahon ng Kolonyalismong Espanyol
 

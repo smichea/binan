@@ -189,15 +189,51 @@ FIGURES = [
                  "Manila Bay. The word barangay comes from this boat.",
          tagalog="Isang balangay sa Look ng Maynila.",
          credit="Photo: Fung360, CC BY-SA 4.0, via Wikimedia Commons."),
-    dict(chapter=3, after=1, kind="Photo", id="copperplate",
+    dict(chapter=3, after=1, kind="Map", id="polities", src="maps/polities.svg",
+         title="Laguna de Bay around 1570",
+         caption="The communities around Laguna de Bay on the eve of the Spanish conquest, with the "
+                 "places named in this chapter. No document mentions a settlement on the site of "
+                 "Biñan before 1571.",
+         tagalog="Ang Lawa ng Laguna noong mga 1570.",
+         credit="Boundaries: PSA / OCHA via philippines-json-maps (MIT). Places after Blair & "
+                "Robertson, vols. 3, 7 and 8."),
+    dict(chapter=3, after=2, kind="Photo", id="copperplate",
          src="images/archives/copperplate-c900.jpg",
-         title="The Laguna Copperplate Inscription, c. 900",
-         caption="The Laguna Copperplate Inscription (c. 900 CE), the oldest known written "
-                 "document of the Philippines, found in 1989 near Lumban on Laguna de Bay. "
-                 "It shows that the lake shore was home to organized, literate communities "
-                 "centuries before the Spaniards arrived.",
-         tagalog="Ang Inskripsiyon sa Binatbat na Tanso ng Laguna, mga 900.",
+         title="The Laguna Copperplate Inscription, 900",
+         caption="The Laguna Copperplate Inscription, dated 21 April 900: the oldest known written "
+                 "document of the Philippines, found at the end of the 1980s near the mouth of the "
+                 "Lumbang River, on the other shore of our lake.",
+         tagalog="Ang Inskripsiyon sa Binatbat na Tanso ng Laguna, 900.",
          credit="Photo: Gary Todd, CC0, via Wikimedia Commons. National Museum of the Philippines."),
+    dict(chapter=3, after=3, kind="Illustration", id="ill-trade", src="images/illustrations/chinese-trade.jpg",
+         title="Trading with the Chinese junks",
+         caption="An impression of trade at a river mouth in the 13th century, after Zhao Rugua’s "
+                 "description of Ma-i: porcelain, iron pots and glass beads against cotton, wax and "
+                 "cloth, and a white parasol offered to the datu.",
+         tagalog="Ang pakikipagkalakalan sa mga barkong Tsino.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=3, after=5, kind="Photo", id="boxer-couple", src="images/archives/boxer-codex-tagalog-couple.png",
+         title="A Tagalog couple in the Boxer Codex",
+         caption="A Tagalog couple of rank, painted in Manila around 1590 for the Boxer Codex: the "
+                 "man in a kangan jacket and putong headcloth, the woman in baro and saya, both "
+                 "wearing gold.",
+         tagalog="Mag-asawang Tagalog sa Boxer Codex, mga 1590.",
+         credit="Boxer Codex, c. 1590, Lilly Library, Indiana University. Public domain."),
+    dict(chapter=3, after=6, kind="Illustration", id="ill-catalonan", src="images/illustrations/catalonan-feast.jpg",
+         title="A feast for the anito",
+         caption="An impression of a feast for the anito, the ancestor spirits, led by a catalonan, "
+                 "after the descriptions of 1572 and 1589. Clothing is simplified.",
+         tagalog="Isang pagdiriwang para sa mga anito.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=3, after=6, kind="Photo", id="doctrina", src="images/archives/doctrina-christiana-1593.jpg",
+         title="Baybayin in the Doctrina Christiana, 1593",
+         caption="A page of the Doctrina Christiana printed in Manila in 1593, the first book of the "
+                 "Philippines, with the Tagalog text in baybayin script.",
+         tagalog="Baybayin sa Doctrina Christiana, 1593.",
+         credit="Library of Congress, Rosenwald Collection. Public domain."),
+    dict(chapter=3, after=7, kind="Illustration", id="ill-salcedo", src="images/illustrations/salcedo-galley-1571.jpg",
+         title="Salcedo on the lake, 1571",
+         caption="An impression of Juan de Salcedo’s galley reaching a lakeshore village in the "
+                 "second half of 1571.",
+         tagalog="Si Salcedo sa lawa, 1571.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
     dict(chapter=4, after=1, kind="Map", id="territory", src="maps/territory.svg",
          title="The territory of Biñan, 1688–1907",
          caption="How Biñan’s territory took shape: separated from Tabuco in 1688, it lost "
