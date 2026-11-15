@@ -58,3 +58,12 @@ Modèle de demande pour la ville de Biñan (anglais) :
 | Carte tectonique et carte du lac : failles | CC BY-SA | GEM Global Active Faults Database (Styron & Pagani 2020) |
 | Carte tectonique : limites de plaques | ODC-By | P. Bird (2003), PB2002, version H. Ahlenius |
 | Graphique du climat | données publiques | PAGASA (normales de Sangley Point), NASA POWER |
+
+## Chapitre IV (époque espagnole) : crédits obligatoires
+
+| Document | Licence | Crédit |
+|---|---|---|
+| Barrage de Timbao | CC BY-SA 4.0 | Totoyba2, via Wikimedia Commons |
+| Plaque « Rizal in Biñan » (1948) | CC BY-SA 4.0 | Andre Ryan B. Maceda (correction : Eugene Alvin Villar), via Wikimedia Commons |
+| Église San Isidro Labrador (2010) | Domaine public | Monbrye |
+| Acte de baptême de Lam-co, croquis de Rizal (Craig 1913), gallera (Bowring 1859), portrait d'A. R. Bautista | Domaine public | — |

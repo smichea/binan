@@ -235,14 +235,14 @@ FIGURES = [
          caption="An impression of Juan de Salcedo’s galley reaching a lakeshore village in the "
                  "second half of 1571.",
          tagalog="Si Salcedo sa lawa, 1571.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
-    dict(chapter=4, after=1, kind="Map", id="territory", src="maps/territory.svg",
+    dict(chapter=4, after=4, kind="Map", id="territory", src="maps/territory.svg",
          title="The territory of Biñan, 1688–1907",
          caption="How Biñan’s territory took shape: separated from Tabuco in 1688, it lost "
                  "its barrio of Santa Rosa in 1791–92. Under American rule, San Pedro "
                  "(1903–1907) and Muntinlupa (1903–1905) were briefly joined to it. "
                  "Present-day boundaries.",
          tagalog="Ang paghubog ng teritoryo ng Biñán, 1688–1907."),
-    dict(chapter=4, after=2, kind="Map", id="murillo", src="images/archives/murillo-velarde-1734.jpg",
+    dict(chapter=4, after=1, kind="Map", id="murillo", src="images/archives/murillo-velarde-1734.jpg",
          title="“Viñan” on the Murillo Velarde map, 1734",
          caption="The south-western shore of Laguna de Bay on Pedro Murillo Velarde’s 1734 map of the Philippines, the "
                  "first scientific map of the islands. “Viñan” appears at the left edge, on the shore "
@@ -260,14 +260,14 @@ FIGURES = [
          tagalog="Ang “Biñang” sa isang mapang Espanyol noong ika-18 siglo.",
          credit="Fuente: Archivo Cartográfico de Estudios Geográficos del Centro Geográfico "
                 "del Ejército / Biblioteca Virtual de Defensa. CC BY 4.0."),
-    dict(chapter=4, after=3, kind="Map", id="map1897", src="images/archives/cavite-region-map-1897.jpg",
+    dict(chapter=4, after=8, kind="Map", id="map1897", src="images/archives/cavite-region-map-1897.jpg",
          title="“Biñang” on a Spanish military map, 1897",
          caption="“Biñang” and its barrios on the Spanish military map of the province of Cavite "
                  "and the neighbouring region, drawn in 1897 during the Philippine Revolution.",
          tagalog="Ang “Biñang” sa isang mapang militar ng Espanya, 1897.",
          credit="Provincia de Cavite y región limítrofe, 1897. Fuente: Archivo Histórico de la "
                 "Armada Juan Sebastián de Elcano / Biblioteca Virtual de Defensa. CC BY 4.0."),
-    dict(chapter=4, after=3, kind="Photo", id="school", src="images/archives/justiniano-school-site-pre1918.jpg",
+    dict(chapter=4, after=7, kind="Photo", id="school", src="images/archives/justiniano-school-site-pre1918.jpg",
          title="Where Rizal went to school in Biñan",
          caption="“Where Rizal went to school in Biñan: site of Master Justiniano’s house, which "
                  "burned down many years ago.” The young José Rizal studied here in 1869–70; the "
@@ -275,7 +275,7 @@ FIGURES = [
          tagalog="Ang dating paaralan ni Maestro Justiniano, kung saan nag-aral si Rizal.",
          credit="Austin Craig, Rizal’s Own Story of His Life (Manila, 1918). Internet Archive. "
                 "Public domain."),
-    dict(chapter=4, after=3, kind="Photo", id="tablet", small=True,
+    dict(chapter=4, after=6, kind="Photo", id="tablet", small=True,
          src="images/archives/jose-alberto-tablet-pre1913.jpg",
          title="Memorial tablet of José Alberto",
          caption="Memorial tablet of José Alberto, Rizal’s uncle and owner of the Alberto house, "
@@ -283,6 +283,63 @@ FIGURES = [
          tagalog="Ang lapida ni José Alberto sa simbahan ng Biñán.",
          credit="Austin Craig, Lineage, Life and Labors of José Rizal (Manila, 1913). "
                 "Internet Archive. Public domain."),
+    dict(chapter=4, after=2, kind="Photo", id="lamco", small=True, src="images/spanish/lamco-baptism.jpg",
+         title="The baptism record of Domingo Lam-co",
+         caption="The record of the baptism of Domingo Lam-co, a Chinese convert who settled on the "
+                 "Dominican estate of Biñan and became an ancestor of José Rizal.",
+         tagalog="Ang tala ng binyag ni Domingo Lam-co.",
+         credit="Austin Craig, Lineage, Life and Labors of José Rizal (1913). Project Gutenberg. Public domain."),
+    dict(chapter=4, after=5, kind="Illustration", id="ill-hacienda", src="images/illustrations/dominican-hacienda.jpg",
+         title="The Dominican hacienda",
+         caption="An impression of the Dominican estate of Biñan: irrigated rice fields fed by a stone "
+                 "dam, sugar cane and a carabao-driven press in the gardens, tenants and their "
+                 "sharecroppers.",
+         tagalog="Ang asyenda ng mga Dominiko.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=4, after=5, kind="Photo", id="timbao", src="images/spanish/timbao-dam.jpg",
+         title="The Timbao dam",
+         caption="The Timbao dam, one of the two surviving dams of the old hacienda’s irrigation "
+                 "system, declared local heritage in 2023.",
+         tagalog="Ang prinsa ng Timbao.",
+         credit="Photo: Totoyba2, CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=4, after=6, kind="Illustration", id="ill-plaza", src="images/illustrations/binan-plaza-1870.jpg",
+         title="A town plaza around 1870",
+         caption="An impression of a Laguna town plaza around 1870, with its stone church, "
+                 "bahay-na-bato houses and market. The church is not a portrait of Biñan’s.",
+         tagalog="Isang plasa ng bayan noong mga 1870.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=4, after=6, kind="Photo", id="church2010", src="images/spanish/san-isidro-church-2010.jpg",
+         title="The church of San Isidro Labrador",
+         caption="The church of San Isidro Labrador, heart of the town since Spanish times (photographed "
+                 "in 2010; the present building was rebuilt in the 20th century).",
+         tagalog="Ang simbahan ni San Isidro Labrador.",
+         credit="Photo: Monbrye, public domain, via Wikimedia Commons."),
+    dict(chapter=4, after=6, kind="Illustration", id="ill-cascos", src="images/illustrations/cascos-on-the-lake.jpg",
+         title="Cascos on the lake",
+         caption="An impression of cascos, the roofed cargo barges that carried rice, sugar and cloth "
+                 "from the lake towns to Manila.",
+         tagalog="Mga casco sa lawa.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=4, after=6, kind="Photo", id="gallera", small=True, src="images/spanish/bowring-gallera.jpg",
+         title="A cockpit, 1859",
+         caption="A gallera, or cockpit, as drawn for Sir John Bowring’s account of his journey to "
+                 "La Laguna in 1858–59.",
+         tagalog="Isang sabungan, 1859.",
+         credit="John Bowring, A Visit to the Philippine Islands (1859). Project Gutenberg. Public domain."),
+    dict(chapter=4, after=7, kind="Photo", id="rizal-sketch", small=True, src="images/spanish/rizal-sketch-map.jpg",
+         title="Rizal’s sketch of the lake region",
+         caption="A sketch map of the Laguna de Bay region drawn by José Rizal.",
+         tagalog="Ang guhit-mapa ni Rizal ng rehiyon ng lawa.",
+         credit="Austin Craig, Lineage, Life and Labors of José Rizal (1913). Project Gutenberg. Public domain."),
+    dict(chapter=4, after=7, kind="Photo", id="marker1948", src="images/spanish/rizal-marker-1948.jpg",
+         title="The 1948 marker “Rizal in Biñan”",
+         caption="The historical marker placed in 1948 at the site of Rizal’s school. It gives the "
+                 "year 1871; Rizal’s own memoirs point to 1870.",
+         tagalog="Ang panandang “Rizal sa Biñán”, 1948.",
+         credit="Photo: Andre Ryan B. Maceda (perspective correction: Eugene Alvin Villar), CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=4, after=8, kind="Photo", id="bautista", small=True, src="images/spanish/ambrosio-rianzares-bautista.jpg",
+         title="Ambrosio Rianzares Bautista",
+         caption="Ambrosio Rianzares Bautista (1830–1903), born in Biñan, author of the Act of the "
+                 "Proclamation of Philippine Independence of 12 June 1898.",
+         tagalog="Si Ambrosio Rianzares Bautista.",
+         credit="Public domain, via Wikimedia Commons."),
     dict(chapter=5, after=1, kind="Map", id="atlas", src="images/archives/atlas-filipinas-1899.jpg",
          title="Biñan in the Atlas de Filipinas, 1899–1900",
          caption="“Biñang” in the Atlas de Filipinas of the Manila Observatory (Map No. 9, "
