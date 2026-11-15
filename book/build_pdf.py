@@ -141,7 +141,7 @@ FIGURES = [
          caption="Teeth and foot bones of Homo luzonensis from Callao Cave, Cagayan: a human "
                  "species found only on Luzon.",
          tagalog="Ang Homo luzonensis.",
-         credit="Wikimedia Commons, CC BY-SA 4.0 (after Détroit et al. 2019)."),
+         credit="Diagram: Homo schollensis, CC BY-SA 4.0, via Wikimedia Commons (after Détroit et al. 2019)."),
     dict(chapter=2, after=2, kind="Illustration", id="ill-luzonensis", src="images/illustrations/homo-luzonensis.jpg",
          title="Homo luzonensis, an impression",
          caption="An impression of Homo luzonensis at a cave mouth in Cagayan. Only teeth and a "
@@ -152,7 +152,7 @@ FIGURES = [
          caption="Tabon Cave in Palawan, where the oldest known bones of modern humans in the "
                  "Philippines were found.",
          tagalog="Ang Kuweba ng Tabon sa Palawan.",
-         credit="Photo: Traveler1925, public domain, via Wikimedia Commons."),
+         credit="Photo: Jimaggro, 2014, CC BY-SA 4.0, via Wikimedia Commons."),
     dict(chapter=2, after=5, kind="Illustration", id="ill-austronesians", src="images/illustrations/austronesian-arrival.jpg",
          title="Austronesian seafarers reach Luzon",
          caption="An impression of Austronesian seafarers landing in northern Luzon about 4,000 "
