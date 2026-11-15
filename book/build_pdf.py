@@ -340,7 +340,45 @@ FIGURES = [
                  "Proclamation of Philippine Independence of 12 June 1898.",
          tagalog="Si Ambrosio Rianzares Bautista.",
          credit="Public domain, via Wikimedia Commons."),
-    dict(chapter=5, after=1, kind="Map", id="atlas", src="images/archives/atlas-filipinas-1899.jpg",
+    dict(chapter=5, after=1, kind="Photo", id="puck", src="images/american/puck-school-begins-1899.jpg",
+         title="“School Begins”, Puck, 1899",
+         caption="“School Begins”, a cartoon published in the American magazine Puck on 25 January "
+                 "1899, a week before the war: Uncle Sam lectures his “new class in civilization”. "
+                 "Its caricatures show the racist view of the colonized peoples common in the United "
+                 "States at the time.",
+         tagalog="“School Begins”, karikatura sa Puck, 1899.",
+         credit="Louis Dalrymple, Puck, 1899. Library of Congress, Prints and Photographs Division. Public domain."),
+    dict(chapter=5, after=2, kind="Photo", id="kill-every-one", small=True,
+         src="images/american/kill-every-one-over-ten-1902.jpg",
+         title="“Kill every one over ten”, 1902",
+         caption="“Kill every one over ten”: a cartoon in the New York Evening Journal of 5 May 1902, "
+                 "denouncing General Jacob Smith’s order in Samar. Its caption reads: “Criminals "
+                 "because they were born ten years before we took the Philippines.”",
+         tagalog="“Patayin ang lahat ng lampas sampung taon”, 1902.",
+         credit="Homer Davenport, New York Evening Journal, 1902. Public domain."),
+    dict(chapter=5, after=3, kind="Illustration", id="ill-troops", src="images/illustrations/us-troops-laguna-1900.jpg",
+         title="American troops in Laguna, 1900",
+         caption="An impression of an American column on a Laguna road in January 1900, during the "
+                 "campaign that took Biñan.",
+         tagalog="Mga sundalong Amerikano sa Laguna, 1900.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=5, after=3, kind="Photo", id="gunboat", src="images/american/gunboat-laguna-de-bay-1899.jpg",
+         title="The gunboat Laguna de Bay, 1899",
+         caption="The American river gunboat Laguna de Bay, 1899. Gunboats on the lake supported the "
+                 "attacks on the lakeshore towns, and in January 1900 the Napindan laid a telegraph "
+                 "cable from Taguig to Biñan.",
+         tagalog="Ang barkong pandigma na Laguna de Bay, 1899.",
+         credit="Unknown photographer, 1899. Public domain, via Wikimedia Commons."),
+    dict(chapter=5, after=7, kind="Illustration", id="ill-classroom", src="images/illustrations/thomasite-classroom.jpg",
+         title="A public school, around 1905",
+         caption="An impression of a public school classroom in a Laguna town around 1905, with an "
+                 "American teacher and a Filipino assistant.",
+         tagalog="Isang pampublikong paaralan, mga 1905.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=5, after=7, kind="Illustration", id="ill-station", src="images/illustrations/binan-station-1908.jpg",
+         title="The train reaches Biñan, 1908",
+         caption="An impression of the arrival of the Manila Railroad at Biñan, opened on 2 September "
+                 "1908, with puto vendors on the platform.",
+         tagalog="Dumating ang tren sa Biñán, 1908.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=5, after=3, kind="Map", id="atlas", src="images/archives/atlas-filipinas-1899.jpg",
          title="Biñan in the Atlas de Filipinas, 1899–1900",
          caption="“Biñang” in the Atlas de Filipinas of the Manila Observatory (Map No. 9, "
                  "U.S. Coast and Geodetic Survey edition, 1900), on the road from Manila to "
@@ -348,14 +386,14 @@ FIGURES = [
          tagalog="Ang Biñán sa Atlas de Filipinas, 1899–1900.",
          credit="Observatorio de Manila / U.S. Coast and Geodetic Survey, Atlas of the "
                 "Philippine Islands (Washington, 1900), Map No. 9. Internet Archive. Public domain."),
-    dict(chapter=5, after=2, kind="Photo", id="monument", src="images/archives/rizal-monument-plaza-pre1918.jpg",
+    dict(chapter=5, after=7, kind="Photo", id="monument", src="images/archives/rizal-monument-plaza-pre1918.jpg",
          title="The Rizal monument on the plaza, 1918",
          caption="The Rizal monument on the town plaza, newly built, with the Alberto house – the "
                  "home of Rizal’s mother’s family – behind it.",
          tagalog="Ang bantayog ni Rizal sa plasa ng Biñán, mga 1918.",
          credit="Austin Craig, Rizal’s Own Story of His Life (Manila, 1918). Internet Archive. "
                 "Public domain."),
-    dict(chapter=5, after=3, kind="Photo", id="cinema", src="images/archives/alberto-house-cinematograph-pre1918.jpg",
+    dict(chapter=5, after=7, kind="Photo", id="cinema", src="images/archives/alberto-house-cinematograph-pre1918.jpg",
          title="The Alberto house as a cinema, 1910s",
          caption="“Rizal’s uncle’s home in Biñan”: in the 1910s the ground floor of the Alberto "
                  "house served as the town’s cinematograph – a sign of the new American-era "
@@ -363,7 +401,7 @@ FIGURES = [
          tagalog="Ang bahay ng mga Alberto noong naging sinehan, dekada 1910.",
          credit="Austin Craig, Rizal’s Own Story of His Life (Manila, 1918). Internet Archive. "
                 "Public domain."),
-    dict(chapter=5, after=4, kind="Photo", id="southroad", rights="pending",
+    dict(chapter=5, after=8, kind="Photo", id="southroad", rights="pending",
          src="images/archives/pendleton-south-road-1934.jpg",
          title="Carabaos on the Manila South Road, 1934",
          caption="Carabaos on the Manila South Road between Muntinlupa and Biñan, looking toward "

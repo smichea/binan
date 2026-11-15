@@ -67,3 +67,7 @@ Modèle de demande pour la ville de Biñan (anglais) :
 | Plaque « Rizal in Biñan » (1948) | CC BY-SA 4.0 | Andre Ryan B. Maceda (correction : Eugene Alvin Villar), via Wikimedia Commons |
 | Église San Isidro Labrador (2010) | Domaine public | Monbrye |
 | Acte de baptême de Lam-co, croquis de Rizal (Craig 1913), gallera (Bowring 1859), portrait d'A. R. Bautista | Domaine public | — |
+
+## Chapitre V (période américaine)
+
+Tous les nouveaux documents sont dans le domaine public : caricature *Puck* « School Begins » (Library of Congress, « No known restrictions »), dessin « Kill every one over ten » (*New York Evening Journal*, 1902), photo de la canonnière *Laguna de Bay* (1899). Pistes non utilisées, à demander : photos de la reddition de Cailles (Ortigas Foundation Library), caricature « To Avoid the Horrors of War » (Historical Society of Pennsylvania).

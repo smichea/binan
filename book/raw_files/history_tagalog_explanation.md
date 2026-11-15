@@ -1024,360 +1024,263 @@ Explanation of tagalog text for english only speakers
 ---
 
 ## American Period / Panahon ng Amerikano
----
 
-### Vocabulary and Grammar Explanation (new only)
+### Vocabulary and Grammar Explanation
 
----
+**1. A country sold**
 
-**1.**  
-> *Sa pagdating ng mga Amerikano pagkatapos ng 1898, nagkaroon ng mga bagong sistema at pagbabago sa Biñán.*
+> *Hindi tinanong ang mga Pilipino nang magpalit ng panginoon ang kanilang bayan.*
 
-**Vocabulary:**  
-- **pagdating** – *arrival* (noun form of *dumating*)  
-- **nagkaroon** – *there was; to have* (root: *roon*, as in *mayroon* = there is)  
-- **bagong sistema** – *new systems*  
-- **pagbabago** – *changes* (root: *bago* = new, change)
+**Vocabulary:**
+- **tinanong** – *were asked* (root: *tanong* = question)
+- **magpalit** – *to change, to exchange* (root: *palit*)
+- **panginoon** – *master, lord*
+- **kunwaring labanan** – *mock battle*
+- **kumukubkob** – *besieging* (root: *kubkob*)
+- **sa bisa ng** – *by virtue of*
+- **kasunduan** – *treaty, agreement* (root: *sundo*)
+- **halaga** – *sum, amount*
+- **kinilala** – *was recognized* (root: *kilala*)
+- **sumiklab** – *broke out, flared up* (root: *siklab*)
 
-**Grammar:**  
-- *Nagkaroon* = actor focus, completed aspect (*nag- + ka- + roon*).  
-- *Pagdating* is a noun, *pag-* form indicating event ("the arrival").
+**Grammar:**
+- *Hindi tinanong ang mga Pilipino* – object focus: the Filipinos (*ang*) are the ones not asked.
+- *Kumukubkob* = *-um-* + repeated syllable + *kubkob*: ongoing actor focus, used here like an adjective ("the besieging army").
 
-**Translation:**  
-> Upon the arrival of the Americans after 1898, new systems and changes came to Biñán.
-
----
-
-**2.**  
-> *Noong 1903, pansamantalang isinanib ang San Pedro Tunasan (at sandaling idinugtong ang Muntinlupa) sa munisipalidad ng Biñán.*
-
-**Vocabulary:**  
-- **pansamantala** – *temporary*  
-- **isanib** – *to merge, to integrate* (root: *sanib* = to join)  
-- **idinugtong** – *was attached* (root: *dugtong* = to connect)
-
-**Grammar:**  
-- Passive completed forms (*isinanib*, *idinugtong*).
-
-**Translation:**  
-> In 1903, San Pedro Tunasan was temporarily merged (and Muntinlupa briefly attached) to the municipality of Biñán.
+**Translation:**
+> Filipinos were not asked when their country changed masters. On 13 August 1898, Spanish and American commanders staged a "mock battle" in Manila so the city would surrender to the Americans and not to the Filipino army besieging it. On 10 December 1898, by the Treaty of Paris, Spain gave the islands to the United States, which paid it "the sum of twenty million dollars". The Republic proclaimed at Malolos in January 1899 – whose independence had been declared the year before in words written by Biñán's Ambrosio Rianzares Bautista – was not recognized. On 4 February 1899, fighting broke out in Manila: the Philippine–American War had begun.
 
 ---
 
-**3.**  
-> *subalit di nagtagal ay ibinalik din sa dati*
+**2. The cost of the war**
 
-**Vocabulary:**  
-- **di nagtagal** – *not long after*  
-- **ibinalik** – *was returned* (root: *balik* = return)
+> *Mahaba at malupit ang digmaan.*
 
-**Grammar:**  
-- Passive completed form (*i- + -in- + balik*).
+**Vocabulary:**
+- **malupit** – *cruel, brutal* (root: *lupit*)
+- **bumaling** – *turned to* (root: *baling*)
+- **pakikidigmang gerilya** – *guerrilla warfare* (root: *digma* = war)
+- **sinunog** – *burned* (root: *sunog*)
+- **pananim** – *crops* (root: *tanim*)
+- **pinahirapan** – *were tortured, made to suffer* (root: *hirap* = hardship)
+- **bilanggo** – *prisoner*
+- **tinipon** – *were gathered* (root: *tipon*)
+- **umaatungal na ilang** – *howling wilderness* (*atungal* = howl; *ilang* = wilderness)
+- **nagpatuloy** – *continued* (root: *tuloy*)
+- **sibilyan** – *civilian*
 
-**Translation:**  
-> However, not long after, it was returned to its former state.
+**Grammar:**
+- *Pinahirapan* = causative *pa-* + *hirap* + *-an* with *-in-*: "were made to suffer".
+- *Pakikidigma* = *pakiki-* + *digma*: the noun for taking part in war (with others).
 
----
-
-**4.**  
-> *naibalik ang Muntinlupa sa Lalawigan ng Rizal pagsapit ng 1905*
-
-**Vocabulary:**  
-- **naibalik** – *was returned* (passive completed)
-
-**Grammar:**  
-- *nai- + balik* → past, completed, object focus.
-
-**Translation:**  
-> Muntinlupa was returned to the Province of Rizal by 1905.
+**Translation:**
+> The war was long and brutal. When the Filipino army turned to guerrilla warfare, the Americans burned villages and crops, tortured prisoners with the "water cure" and gathered villagers into guarded "zones". After 48 American soldiers were killed at Balangiga in 1901, General Jacob Smith ordered Samar turned into a "howling wilderness". The war officially ended on 4 July 1902, but resistance continued, notably under Macario Sakay in the hills of Laguna, Cavite and Rizal until 1906. The U.S. State Department today counts more than 4,200 American and over 20,000 Filipino combatants killed, and "as many as 200,000 Filipino civilians" dead of violence, hunger and disease; some historians give higher figures.
 
 ---
 
-**5.**  
-> *muling ginawang bukod na bayan ang San Pedro noong 1907.*
+**3. Biñán on the front line**
 
-**Vocabulary:**  
-- **muling** – *again* (adverb)  
-- **bukod na bayan** – *separate town*
+> *Nasa unahan ng labanan ang Biñán.*
 
-**Grammar:**  
-- *Muling ginawa* → past tense, passive construction with adverbial "again."
+**Vocabulary:**
+- **unahan** – *front* (root: *una* = first)
+- **himpilan** – *base, headquarters* (root: *himpil*)
+- **trinsera** – *trench*
+- **sumulong** – *advanced* (root: *sulong*)
+- **sagupaan** – *clash, skirmish* (root: *sagupa*)
+- **nasakop** – *was captured* (root: *sakop*)
+- **nasamsam** – *were seized* (root: *samsam*)
+- **inutusan** – *were ordered* (root: *utos*)
+- **kakahuyan** – *wood, grove* (root: *kahoy* = wood)
+- **nabihag** – *were taken prisoner* (root: *bihag*)
+- **lumulusong** – *wading* (root: *lusong*)
+- **suyurin** – *to comb, to scour* (root: *suyod* = comb)
 
-**Translation:**  
-> San Pedro was again made into a separate town in 1907.
+**Grammar:**
+- *Kakahuyan* = *ka-* + repeated syllable + *kahoy* + *-an* (o → u): "a place full of trees".
+- *Suyurin* = *suyod* + *-in* (d → r): object-focus infinitive.
 
----
-
-**6.**  
-> *Naging maunlad at mapayapa ang Biñán noong panahon ng mga Amerikano.*
-
-**Vocabulary:**  
-- **maunlad** – *prosperous*  
-- **mapayapa** – *peaceful*
-
-(*naging* already explained)
-
-**Translation:**  
-> Biñán became prosperous and peaceful during the American period.
+**Translation:**
+> Biñán was on the front line. In 1899 it was the base of General Mariano Noriel's Filipino brigade, whose trenches ran from Calamba to Santa Rosa. On 2 January 1900, American volunteers of the 39th Infantry advanced from Santa Rosa: there was a sharp clash at the bridge into town, and they took Biñán after an hour. In the presidente's office they seized Filipino flags and military papers – but they were ordered back to Calamba the next day. On 6 January, General Schwan's brigade came from Muntinlupa and San Pedro across the rice fields, defeated Noriel's rearguard in a wood north of the town – 18 Filipinos reported killed and 25 captured – and unloaded its rations from cascos, the soldiers wading through rough water. On 7 January a battalion of the 46th Infantry was left "to garrison Biñán, establish civil government and scour the surroundings".
 
 ---
 
-**7.**  
-> *Pinairal ang makabagong edukasyon...*
+**4. Zones and cholera**
 
-**Vocabulary:**  
-- **pinairal** – *was implemented* (root: *iral* = to prevail, to be in effect)
+> *Sa loob ng dalawang taon, naging bayang may garison ang Biñán.*
 
-**Grammar:**  
-- Passive completed (*pina- + iral*).
+**Vocabulary:**
+- **binabantayan** – *guarded* (root: *bantay*)
+- **kumpiskahin** – *to confiscate*
+- **wasakin** – *to destroy* (root: *wasak*)
+- **pases** – *pass, permit*
+- **sumuko** – *surrendered* (root: *suko*)
+- **dinanas** – *went through, suffered* (root: *danas*)
+- **kakila-kilabot** – *terrible* (root: *kilabot* = horror)
+- **pinagbayad** – *were made to pay* (root: *bayad*)
+- **kahabag-habag** – *pitiful, distressed* (root: *habag* = pity)
 
-**Translation:**  
-> Modern education was implemented...
+**Grammar:**
+- *Kakila-kilabot* and *kahabag-habag* use the pattern *ka-* + repeated root: "worthy of horror", "worthy of pity".
+- *Hindi na pinagbayad* – "were no longer made to pay": *pinag-* + *bayad*, completed object focus.
 
----
-
-**8.**  
-> *nagtatag ng mga pampublikong paaralan*
-
-**Vocabulary:**  
-- **nagtatag** – *established* (root: *tatag* = to establish)
-
-**Grammar:**  
-- Actor-focus past (*nag- + tatag*).
-
-**Translation:**  
-> ...established public schools...
+**Translation:**
+> For two years Biñán was a garrison town. In December 1901, General Bell ordered the people of "all towns in the provinces of Batangas and Laguna" to move into guarded zones with their rice and animals; anything left outside could be confiscated or destroyed, and men could not leave without a pass. At least 100,000 people were gathered in the two provinces, and thousands died of hunger and disease. On 18 February 1902 a battalion of "Tiradores" surrendered to the American commander of Biñán, and in May and June 1902 the post went through "a terrible cholera epidemic". When civil government returned to La Laguna on 1 July 1902, its people were spared that year's land tax "in view of their distressed condition".
 
 ---
 
-**9.**  
-> *natutong magbasa at sumulat sa wikang Ingles*
+**5. A reshaped town**
 
-**Vocabulary:**  
-- **natuto** – *learned*  
-- **magbasa** – *to read*  
-- **sumulat** – *to write*
+> *Pagkatapos ay binago ng mga Amerikano ang bayan.*
 
-**Grammar:**  
-- *Natutong* is actor focus completed (*na- + tuto* = learned).
+**Vocabulary:**
+- **kodigo munisipal** – *municipal code*
+- **inihahalal** – *elected* (root: *halal*)
+- **botante** – *voter*
+- **makatipid** – *to save money* (root: *tipid*)
+- **isinanib** – *was merged* (root: *sanib*)
+- **idinugtong** – *was attached* (root: *dugtong*)
+- **senso** – *census*
+- **nakakalat** – *scattered*
 
-**Translation:**  
-> ...learned to read and write in English.
+**Grammar:**
+- *Inihahalal* = *i-* + *-in-* + repeated syllable + *halal*: ongoing object focus, "who is elected".
 
----
-
-**10.**  
-> *napadali ang pagluluwas ng ani tulad ng bigas, asukal, at prutas.*
-
-**Vocabulary:**  
-- **napadali** – *was made easier* (root: *dali* = easy)  
-- **pagluluwas** – *bringing goods to the city/capital, shipping out produce* (root: *luwas* = to go to the city, esp. Manila; *pag-* + repeated first syllable *lu* = noun of the action)  
-- **ani** – *harvest*  
-- **bigas** – *uncooked rice*  
-- **asukal** – *sugar*
-
-**Grammar:**  
-- Passive completed (*na- + padali*).
-
-**Translation:**  
-> ...the transport of goods like rice, sugar, and fruits was made easier.
+**Translation:**
+> Then the Americans reshaped the town. A municipal code replaced the Spanish-era capitán with an elected presidente municipal, chosen by few voters – property owners and literate men. To save money, the colonial government merged San Pedro Tunasan into Biñán in October 1903 and briefly attached Muntinlupa too; Muntinlupa returned to Rizal in 1905, and San Pedro became a town again in January 1907. The 1903 census counted 9,563 people in Biñán, the fourth town of Laguna; in 1918 there were 10,692, scattered over the Poblacion and sixteen barrios.
 
 ---
 
-**11.**  
-> *nakilala ang Biñán bilang sentro ng bentahan ng ani at kalakal.*
+**6. The friar lands**
 
-(**nakilala** already explained previously.)
+> *Ang lupa ang malaking tanong.*
 
-**Translation:**  
-> Biñán became known as a center for the selling of harvests and trade.
+**Vocabulary:**
+- **palihim** – *secretly*
+- **ipinagbili** – *was sold* (root: *bili*)
+- **ektarya** – *hectare*
+- **walang bisa** – *void, invalid*
+- **itinakda** – *provided, set* (root: *takda*)
+- **muling pagbebenta** – *resale* (root: *benta*)
+- **bentahan** – *sale (event)*
+- **hagdan** – *stairway*
+- **amoy-nganga** – *smelling of betel nut*
+- **lote** – *lot, parcel*
 
----
+**Grammar:**
+- *Naipagbili* = *na-* + *ipag-* + *bili*: completed, achievement – "were (successfully) sold".
+- *Babayaran* = repeated *ba* + *bayad* + *-an* (d → r): future object focus, "will be paid".
 
-**12.**  
-> *Sa pamumuno, pinalitan ng titulong Municipal President ang dating Capitán Municipal.*
-
-**Vocabulary:**  
-- **pinalitan** – *was changed, replaced* (root: *palit* = change)
-
-**Grammar:**  
-- Passive completed (*-in-* + *palit* + *-an*: *palitan* → *pinalitan*).
-
-**Translation:**  
-> Under leadership, the title Municipal President replaced the former Capitán Municipal.
-
----
-
-**13.**  
-> *mailuklok ang mga Biñense sa posisyon*
-
-**Vocabulary:**  
-- **mailuklok** – *to be installed into office* (root: *luklok* = to sit, be seated officially)
-
-**Grammar:**  
-- Potential form (*mai- + luklok*).
-
-**Translation:**  
-> ...to have Biñan citizens installed into municipal positions.
+**Translation:**
+> The land was the great question. On 8 August 1898, as American troops prepared to take Manila, the Dominicans secretly sold the Hacienda of Biñán – 3,474 hectares, "mostly irrigated rice land usually harvested twice a year, and partly sugar-cane land" – to a British businessman; the colonial government's lawyers held the sale void. On 22 December 1903 the government bought all the friar estates for about 7.2 million dollars, and the Friar Lands Act of 1904 provided for their resale to those who farmed them. The sale at Biñán opened on 9 May 1910. "The office is full of people, and the street and the stairs," the land agent wrote, "and everything smells of betel nut, even the money I receive"; in eight days 2,500 of the 3,200 lots were sold, to be paid over twenty-five years. That same year the town bought the old Dominican casa hacienda on the plaza for ₱29,000 for the municipality and the school.
 
 ---
 
-**14.**  
-> *nakaimpluwensiya sa araw-araw na buhay*
+**7. School, railway and monument**
 
-**Vocabulary:**  
-- **nakaimpluwensiya** – *influenced* (root: *impluwensiya* = influence)
+> *Maagang dumating ang mga paaralan.*
 
-**Grammar:**  
-- Completed aspect (*naka- + impluwensiya*).
+**Vocabulary:**
+- **maaga** – *early*
+- **nakatatanda** – *elders, adults* (root: *tanda*)
+- **inhinyero** – *engineer*
+- **madilim** – *dark* (root: *dilim*)
+- **nagkamit** – *obtained, earned* (root: *kamit*)
+- **karapatang bumoto** – *right to vote*
+- **Pambansang Siyentipiko** – *National Scientist*
+- **sunog** – *fire*; **tumupok** – *consumed (by fire)* (root: *tupok*)
+- **bantayog** – *monument*
+- **nakaukit** – *engraved* (root: *ukit*)
+- **sinehan** – *cinema* (root: *sine*)
 
-**Translation:**  
-> ...influenced daily life.
+**Grammar:**
+- *Nagkamit* = *nag-* + *kamit*: completed actor focus, "achieved, earned".
+- *Nakaukit* = *naka-* + *ukit*: a resulting state, "(is) engraved".
 
----
-
-**15.**  
-> *pinanatili ng mga taga-Biñán ang kanilang tradisyon*
-
-**Vocabulary:**  
-- **pinanatili** – *maintained, preserved* (root: *tili* = remain; *manatili* = to stay, *panatilihin* = to keep)
-
-**Grammar:**  
-- Passive completed (*-in-* + *panatili*: *p-in-anatili*).
-
-**Translation:**  
-> The people of Biñán maintained their traditions.
+**Translation:**
+> Schools came early. By 1904 most towns of Laguna had American teachers and all had Filipino teachers, who also taught English to adults at night; in Biñán the public school moved into the old hacienda house, which engineers in 1914 found "large and full of rooms" but too dark for classes. A pupil of this generation, Encarnación Alzona, born in Biñán in 1895, became the first Filipina to earn a doctorate in history, a leader of the women's suffrage movement and a National Scientist. On 2 September 1908 the Manila Railroad opened its line from San Pedro to Biñán. A great fire in 1904 destroyed part of the town. And on 14 May 1918 the people of Biñán completed the Rizal monument on the plaza, in front of the Alberto house – by then a cinema.
 
 ---
 
-**16.**  
-> *patuloy nilang ipinagdiwang ang mga pista*
+**8. Toward the Commonwealth**
 
-(**ipinagdiwang** already explained before.)
+> *Pagkaraan ng apat na taon, muling dumating ang digmaan.*
 
-**Translation:**  
-> They continued to celebrate the religious festivals.
+**Vocabulary:**
+- **dahan-dahan** – *slowly*
+- **manghahabi** – *weaver* (root: *habi*)
+- **sumbrero** – *hat*
+- **pinasinayaan** – *was inaugurated* (root: *pasinaya* = inauguration)
+- **paghahanda** – *preparation* (root: *handa*)
+- **plebisito** – *plebiscite*
 
----
+**Grammar:**
+- *Manghahabi* = *mang-* + repeated syllable + *habi*: the person who weaves.
+- *Pinasinayaan* = *-in-* + *pasinaya* + *-an*: completed object focus, "was inaugurated".
 
-**17.**  
-> *naihanda ang Biñán sa makabagong panahon*
-
-**Vocabulary:**  
-- **naihanda** – *was prepared* (root: *handa* = ready)
-
-**Grammar:**  
-- Passive completed (*nai- + handa*).
-
-**Translation:**  
-> Biñán was prepared for the modern era.
-
----
-
-### Full Summary Table
-
-| Tagalog | English |
-|:---|:---|
-| Sa pagdating ng mga Amerikano pagkatapos ng 1898, nagkaroon ng mga bagong sistema at pagbabago sa Biñán. | Upon the arrival of the Americans after 1898, new systems and changes came to Biñán. |
-| Noong 1903, bilang bahagi ng programa ng mga Amerikano na bawasan ang bilang ng mga bayan, pansamantalang isinanib ang San Pedro Tunasan (at sandaling idinugtong ang Muntinlupa) sa munisipalidad ng Biñán. | In 1903, as part of the Americans' program to reduce the number of towns, San Pedro Tunasan was temporarily merged (and Muntinlupa briefly attached) to the municipality of Biñán. |
-| Naging mas malawak ang nasasakupan ng Biñán, subalit di nagtagal ay ibinalik din sa dati: naibalik ang Muntinlupa sa Lalawigan ng Rizal pagsapit ng 1905, at muling ginawang bukod na bayan ang San Pedro noong 1907. | Biñán's jurisdiction became wider, but not long after it was restored to its previous state: Muntinlupa was returned to the Province of Rizal by 1905, and San Pedro was again made a separate town in 1907. |
-| Mula noon, muling naging hiwalay at sarili ang pamahalaang lokal ng Biñán sa ilalim ng pamahalaang Amerikano. | From then on, Biñán's local government again became separate and independent under the American administration. |
-| Naging maunlad at mapayapa ang Biñán noong panahon ng mga Amerikano. | Biñán became prosperous and peaceful during the American period. |
-| Pinairal ang makabagong edukasyon – nagtatag ng mga pampublikong paaralan kung saan ang mga kabataan ay natutong magbasa at sumulat sa wikang Ingles kasabay ng pagpapanatili ng kanilang wikang Tagalog. | Modern education was implemented – public schools were established where the youth learned to read and write in English while preserving their Tagalog language. |
-| Masigla ang kalakalan sa pamilihang bayan ng Biñán, na lalo pang lumaki at dinarayo ng mga kalapit-bayan dahil sa mas pinahusay na transportasyon. | Commerce was lively in the Biñán town market, which grew even bigger and was visited by neighboring towns due to improved transportation. |
-| Nagkaroon ng mga bagong kalsada at linya ng tren na nagdugtong sa Biñán patungo sa Maynila, kaya’t napadali ang pagluluwas ng ani tulad ng bigas, asukal, at prutas. | New roads and railway lines were built connecting Biñán to Manila, making it easier to export harvests like rice, sugar, and fruits. |
-| Dahil dito, nakilala ang Biñán bilang isang mahalagang sentro ng bentahan ng ani at kalakal sa timog ng Maynila. | Because of this, Biñán became known as an important center for the sale of harvests and trade south of Manila. |
-| Sa pamumuno, pinalitan ng titulong Municipal President ang dating Capitán Municipal. | Under the new leadership structure, the title Municipal President replaced the old Capitán Municipal. |
-| Ang mga lokal na halalan ay nagbigay-daan upang mailuklok ang mga Biñense sa posisyon sa munisipyo – tanda ng pagtanggap sa demokratikong sistema. | Local elections paved the way for Biñanense citizens to be installed in municipal positions — a sign of acceptance of the democratic system. |
-| Sa tahanan naman, unti-unting nakaimpluwensiya ang kulturang Amerikano sa araw-araw na buhay: natutunan ng mga tao ang ilang kaugaliang kanluranin, mula sa pananamit (barong at American suit) hanggang sa paglilibang (pagsali sa mga palaro gaya ng baseball at pagsine sa bayan). | At home, American culture gradually influenced daily life: people learned some Western customs, from clothing (barong and American suits) to leisure activities (joining games like baseball and going to the movies). |
-| Gayunman, pinanatili ng mga taga-Biñán ang kanilang tradisyon at kaugaliang Pilipino. | Nevertheless, the people of Biñán preserved their Filipino traditions and customs. |
-| Patuloy nilang ipinagdiwang ang mga pistang panrelihiyon at iginagalang ang nakatatanda sa pamamagitan ng pagmamano at bayanihan. | They continued to celebrate religious festivals and respect elders through *pagmamano* (gesture of respect) and *bayanihan* (community cooperation). |
-| Sa kabuuan, sa ilalim ng pananakop ng Amerikano, naihanda ang Biñán sa makabagong panahon nang hindi isinasantabi ang sariling pagkakakilanlan at kultura. | Overall, under American rule, Biñán was prepared for the modern era without abandoning its own identity and culture. |
+**Translation:**
+> In the 1920s and 1930s Biñán grew slowly, a town of rice fields, shoemakers, hat weavers and puto makers by the road and the railway to Manila. Its population reached 16,238 in 1939. In 1935 the Commonwealth of the Philippines was inaugurated as a ten-year preparation for independence, and in 1937 Filipino women, Encarnación Alzona among their leaders, voted for the first time in a plebiscite on their own right to vote. Four years later, war came again.
 
 ---
 
 ### Full Verb Breakdown Table
 
-| Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
-|:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
-| nagkaroon | roon | Completed (Past) | Actor | nag- + ka- + roon | had, experienced |
-| isinanib | sanib | Completed (Past) | Object | i- + -in- + sanib | was merged |
-| idinugtong | dugtong | Completed (Past) | Object | i- + -in- + dugtong | was attached |
-| ibinalik | balik | Completed (Past) | Object | i- + -in- + balik | was returned |
-| naibalik | balik | Completed (Past) | Object | nai- + balik | was restored |
-| pinairal | iral | Completed (Past) | Object | pina- + iral | was implemented |
-| nagtayo | tayo | Completed (Past) | Actor | nag- + tayo | built |
-| nagtatag | tatag | Completed (Past) | Actor | nag- + tatag | established |
-| natuto | tuto | Completed (Past) | Actor | na- + tuto | learned |
-| napadali | dali | Completed (Past) | Object | na- + padali | was made easier |
-| pinalitan | palit | Completed (Past) | Object | -in- + palit + -an | was replaced |
-| mailuklok | luklok | Potential | Object | mai- + luklok | to be installed |
-| nakaimpluwensiya | impluwensiya | Completed (Past) | Actor | naka- + impluwensiya | influenced |
-| pinanatili | tili | Completed (Past) | Object | -in- + panatili | preserved |
-| naihanda | handa | Completed (Past) | Object | nai- + handa | was prepared |
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| tinanong | tanong | Completed | Object | -in- + tanong | was asked |
+| magpalit | palit | Infinitive | Actor | mag- + palit | to change |
+| nagsagawa | sagawa | Completed | Actor | nag- + sagawa | carried out |
+| sumuko | suko | Completed | Actor | -um- + suko | surrendered |
+| kumukubkob | kubkob | Ongoing | Actor | -um- + ku + kubkob | besieging |
+| ibinigay | bigay | Completed | Object | i- + -in- + bigay | was given |
+| nagbayad | bayad | Completed | Actor | nag- + bayad | paid |
+| kinilala | kilala | Completed | Object | -in- + kilala | was recognized |
+| sumiklab | siklab | Completed | Actor | -um- + siklab | broke out |
+| bumaling | baling | Completed | Actor | -um- + baling | turned to |
+| sinunog | sunog | Completed | Object | -in- + sunog | was burned |
+| pinahirapan | hirap | Completed | Object (causative) | pa- + hirap + -an, -in- | was tortured |
+| tinipon | tipon | Completed | Object | -in- + tipon | was gathered |
+| iniutos | utos | Completed | Object | i- + -in- + utos | was ordered |
+| nagpatuloy | tuloy | Completed | Actor | nagpa- + tuloy | continued |
+| sumulong | sulong | Completed | Actor | -um- + sulong | advanced |
+| nasakop | sakop | Completed | Object | na- + sakop | was captured |
+| nasamsam | samsam | Completed | Object | na- + samsam | was seized |
+| inutusan | utos | Completed | Object | -in- + utos + -an | was ordered |
+| tinalo | talo | Completed | Object | -in- + talo | was defeated |
+| nabihag | bihag | Completed | Object | na- + bihag | was captured |
+| ibinaba | baba | Completed | Object | i- + -in- + baba | was unloaded |
+| lumulusong | lusong | Ongoing | Actor | -um- + lu + lusong | wading |
+| iniwan | iwan | Completed | Object | in- + iwan | was left |
+| suyurin | suyod | Infinitive | Object | suyod + -in (d → r) | to scour |
+| kumpiskahin | kumpiska | Infinitive | Object | kumpiska + -hin | to confiscate |
+| wasakin | wasak | Infinitive | Object | wasak + -in | to destroy |
+| dinanas | danas | Completed | Object | -in- + danas | was suffered |
+| pinagbayad | bayad | Completed | Object (causative) | pinag- + bayad | was made to pay |
+| binago | bago | Completed | Object | -in- + bago | was changed |
+| pinalitan | palit | Completed | Object | pa- + palit + -an, -in- | was replaced |
+| inihahalal | halal | Ongoing | Object | i- + -in- + ha + halal | is elected |
+| isinanib | sanib | Completed | Object | i- + -in- + sanib | was merged |
+| idinugtong | dugtong | Completed | Object | i- + -in- + dugtong | was attached |
+| ibinalik | balik | Completed | Object | i- + -in- + balik | was returned |
+| binilang | bilang | Completed | Object | -in- + bilang | was counted |
+| ipinagbili | bili | Completed | Object | ipag- + -in- + bili | was sold |
+| itinuring | turing | Completed | Object | i- + -in- + turing | was considered |
+| binili | bili | Completed | Object | -in- + bili | was bought |
+| itinakda | takda | Completed | Object | i- + -in- + takda | was provided |
+| binuksan | bukas | Completed | Object | -in- + bukas + -an | was opened |
+| naipagbili | bili | Completed | Object (achieved) | na- + ipag- + bili | were sold |
+| babayaran | bayad | Future | Object | ba + bayad + -an (d → r) | will be paid |
+| lumipat | lipat | Completed | Actor | -um- + lipat | moved |
+| natagpuan | tagpo | Completed | Object | na- + tagpo + -an | was found |
+| nagkamit | kamit | Completed | Actor | nag- + kamit | earned |
+| tumupok | tupok | Completed | Actor | -um- + tupok | consumed (by fire) |
+| natapos | tapos | Completed | Object | na- + tapos | was completed |
+| lumaki | laki | Completed | Actor | -um- + laki | grew |
+| pinasinayaan | pasinaya | Completed | Object | -in- + pasinaya + -an | was inaugurated |
+| bumoto | boto | Completed | Actor | -um- + boto | voted |
 
 ---
 
-### Visual Diagram of New Verb Constructions
-
----
-
-#### 1. **nagkaroon** (had)
-
-```
-Root: roon → there / to exist
-+ ka- + roon →karoon
-+ nag- → nagkaroon → had (completed actor focus)
-```
-
----
-
-#### 2. **isinanib** (was merged)
-
-```
-Root: sanib → to join
-+ i- → isanib → to merge (object focus)
-+ -in- → is-in-anib → isinanib → was merged (completed passive)
-```
-
----
-
-#### 3. **idinugtong** (was attached)
-
-```
-Root: dugtong → connect
-+ i- → idugtong → to attach
-+ -in- → id-in-ugtong → idinugtong → was attached
-```
-
----
-
-#### 4. **pinairal** (was implemented)
-
-```
-Root: iral → to prevail
-+ pina- + iral → pinairal → was implemented
-```
-
----
-
-#### 5. **natuto** (learned)
-
-```
-Root: tuto → to learn
-+ na- + tuto → natuto → learned
-```
-
----
-
-#### 6. **napadali** (was made easier)
-
-```
-Root: dali → easy
-+ na- + padali → napadali → was made easier
-```
-
----
 ## World War II and Japanese Occupation / Ikalawang Digmaang Pandaigdig
 
 ---
