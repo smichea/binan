@@ -1572,486 +1572,269 @@ Explanation of tagalog text for english only speakers
 
 ## Post-War Reconstruction and Contemporary Era / Pagbangon at Makabagong Panahon
 
+### Vocabulary and Grammar Explanation
+
+**1. Rebuilding**
+
+> *Pagkatapos ng digmaan, ginugol ang mga unang taon ng kapayapaan sa muling pagtatayo.*
+
+**Vocabulary:**
+- **ginugol** – *was spent (time, effort)* (root: *gugol*)
+- **kapayapaan** – *peace* (root: *payapa* = calm)
+- **muling pagtatayo** – *rebuilding* (*muli* = again; *tayo* = to build, stand up)
+- **ari-arian** – *property* (root: *ari* = to own)
+- **kinalalagyan** – *the place where something is located* (root: *lagay*)
+- **kinumpuni** – *was repaired* (root: *kumpuni*)
+- **nilagyan** – *was provided with, had something added* (root: *lagay*)
+- **kapistahan** – *feast day* (root: *pista*)
+- **kamalig** – *granary, storehouse*
+- **luklukan** – *seat (of power)* (root: *luklok* = to seat)
+
+**Grammar:**
+- *Ginugol ang mga unang taon … sa muling pagtatayo* – object focus with *-in-*: the years (*ang*) are what was spent.
+- *Na kinalalagyan ng pampublikong paaralan* – a relative clause with *na*; *kina-…-an* names the place where the action happens.
+
+**Translation:**
+> After the war, the first years of peace were spent rebuilding. Bridges on the national road were rebuilt under a Philippine–American programme, the War Damage Commission paid for damaged property, and the 1948 census counted 20,794 people in Biñán. In 1954 the town bought the old casa hacienda of the Dominicans on the plaza, which had housed the public school since the American period. It was repaired, given a portico, and opened as the municipal hall on 15 May 1955 – the feast day of San Isidro – under Mayor Jesus M. Garcia, while the school moved to a new building in Santo Domingo. In this way the friars' granary of the eighteenth century became the seat of the town government for more than half a century.
 
 ---
 
-### Vocabulary and Grammar Explanation (New Content Only)
+**2. The Huk years**
+
+> *Marupok ang kapayapaan sa kanayunan.*
+
+**Vocabulary:**
+- **marupok** – *fragile* (root: *rupok*)
+- **kanayunan** – *countryside* (root: *nayon* = village)
+- **nag-armas** – *took up arms* (from Spanish *armas*)
+- **dakpin** – *to arrest* (root: *dakip*)
+- **panghoholdap** – *hold-ups, robberies* (from English *hold-up*)
+- **pag-aalsa** – *uprising, insurrection* (root: *alsa* = to rise)
+- **ninakawan** – *was robbed* (root: *nakaw* = to steal)
+- **makabukid** – *rural* (*maka-* + *bukid* = field)
+- **tinamnan** – *was planted* (root: *tanim*)
+- **tubo** – *sugarcane*
+- **sapatero** – *shoemaker*
+
+**Grammar:**
+- *Ninakawan ng mga Huk ang bangko* – locative focus *-in-…-an*: the bank (*ang*) is the one robbed *from*; the robbers take *ng*.
+- *Matapos dakpin* – *matapos* ("after") + infinitive.
+
+**Translation:**
+> Peace in the countryside was fragile. The Hukbalahap, which had fought the Japanese, took up arms against the new Republic, and after the leaders of the communist party were arrested in Manila on 18 October 1950, their raids and hold-ups multiplied. According to a U.S. Army history of the uprising, late in 1950 "the Huks robbed the bank of Biñán of $76,000". Around the town, life remained rural. The lots of the former friar estate – still called the "Biñan Estate" in land titles – were planted with rice and sugarcane, and the Poblacion lived from its market, its shoemakers and its puto makers along the national road and the railway to Manila.
 
 ---
 
-**1.**  
-> *Pagkatapos ng digmaan, mabilis na nakabangon ang bayan ng Biñán at pumasok sa isang panahon ng masiglang pagbabago.*
+**3. Fire and growth**
 
-**Vocabulary:**  
-- **pagkatapos** – *after*  
-- **digmaan** – *war*  
-- **nakabangon** – *recovered, rose again* (root: *bangon* = rise)  
-- **pumasok** – *entered* (root: *pasok* = enter)  
-- **masiglang pagbabago** – *lively, vigorous change* (root: *sigla* = vitality)
+> *Noong 1968, tinupok ng apoy ang simbahan ni San Isidro Labrador at ang kumbento nito.*
 
-**Grammar:**  
-- *Nakabangon* and *pumasok* are actor-focus completed verbs (*naka-* prefix; *-um-* infix: *p-um-asok*).
+**Vocabulary:**
+- **tinupok** – *was consumed (by fire)* (root: *tupok*)
+- **apoy** – *fire*
+- **kumbento** – *convent, parish house*
+- **natapos** – *was completed* (root: *tapos*)
+- **mas bata … kaysa sa** – *younger than*
+- **napanatili** – *kept, preserved* (root: *panatili*)
+- **riles** – *railway*
+- **tulisan** – *bandit, robber*
+- **kawani** – *employee*
+- **tinangay** – *carried off, took away* (root: *tangay*)
 
-**Translation:**  
-> After the war, the town of Biñán quickly recovered and entered a period of lively change.
+**Grammar:**
+- *Mas bata pa … kaysa sa …* – comparative: *mas* + adjective + *kaysa sa*.
+- *Habang umaalis ito* – *habang* ("while") + ongoing actor-focus verb.
 
----
-
-**2.**  
-> *Sama-samang ibinangon muli ng pamahalaan at mamamayan ang bayan...*
-
-**Vocabulary:**  
-- **sama-sama** – *together*  
-- **ibinangon** – *was raised up, was rebuilt* (root: *bangon* = to rise)
-
-**Grammar:**  
-- Object focus, completed: *i- + -in- + bangon* (from *ibangon* = to raise something up, seen in the WWII chapter).
-
-**Translation:**  
-> Together, the government and citizens rebuilt the town...
+**Translation:**
+> The town grew quickly in the 1960s, from 33,309 people in 1960 to 58,290 in 1970. In 1968 fire consumed the church of San Isidro Labrador and its convent; the present church was completed in 1970. So the building facing the plaza today is younger than many of the houses around it. Biñán also kept its station on the railway south: on the night of 16 March 1972, bandits boarded the Bicol Express as it left Biñán station, killed a railway employee and carried off more than ₱32,000.
 
 ---
 
-**3.**  
-> *inayos ang mga nasirang kalsada, muling itinayo ang mga tulay at gusali...*
+**4. Martial law and the expressway**
 
-**Vocabulary:**  
-- **inayos** – *was fixed* (root: *ayos* = order, fix)  
-- **nasira** – *was damaged* (root: *sira* = broken)  
-- **itinayo** – *was rebuilt* (root: *tayo* = stand)
+> *Isang daan ang pinakanagpabago sa bayan.*
 
-**Grammar:**  
-- Passive completed forms (*in-* + *ayos* → *inayos*; *i-* + *-in-* + *tayo* → *itinayo*).
+**Vocabulary:**
+- **isinailalim** – *was placed under* (root: *ilalim* = beneath)
+- **batas militar** – *martial law*
+- **kakaunti** – *very few, very little* (root: *kaunti*)
+- **tipunin** – *to gather* (root: *tipon*)
+- **pinakanagpabago** – *changed the most* (*pinaka-* + *nagpabago*, from *bago* = new)
+- **pinahaba** – *was lengthened* (root: *haba* = length)
+- **tinawid** – *crossed* (root: *tawid*)
+- **inilapit** – *brought closer* (root: *lapit*)
+- **umakyat** – *rose, climbed* (root: *akyat*)
+- **halal** – *elected*
 
-**Translation:**  
-> ...repaired the damaged roads, rebuilt the bridges and buildings...
+**Grammar:**
+- *Isang daan ang pinakanagpabago* – *ang*-inversion for emphasis: "It was a road that changed the town most."
+- *Pinakanagpabago* – the superlative *pinaka-* can attach even to a verb: "the one that most caused change".
+- *Isinailalim … sa batas militar* – *isa-* + *ilalim* with *-in-*: "was put under".
 
----
-
-**4.**  
-> *sinigurong makabalik ang mga bata sa paaralan.*
-
-**Vocabulary:**  
-- **sinigurong** – *ensured (that)* (*siniguro* + linker *-ng*; root: *siguro*, from Spanish *seguro* = sure)  
-- **makabalik** – *be able to return* (root: *balik* = return)
-
-**Grammar:**  
-- Object-focus completed *siniguro* (*-in-* + *siguro*), with *maka-* verb (*makabalik* → potential ability to return).
-
-**Translation:**  
-> ...and ensured that children could return to school.
+**Translation:**
+> Six months later, on 21 September 1972, President Ferdinand Marcos placed the country under martial law. Very little has yet been written about Biñán in those years, and the town's own memories of them still have to be gathered. A road changed the town most. In the late 1970s the South Luzon Expressway was extended from Alabang toward Calamba; it crossed Biñán and brought it closer to Manila. The population rose to 83,684 in 1980. Miguelito Limaco was mayor from 1980 to 1986; after the People Power revolution of February 1986, officers-in-charge replaced the town's elected officials until the elections of January 1988.
 
 ---
 
-**5.**  
-> *Muling sumigla ang agrikultura at kalakalan...*
+**5. From cane fields to factories**
 
-**Vocabulary:**  
-- **sumigla** – *became lively again* (root: *sigla* = vigor)
+> *Dinala ng halalang iyon si Bayani "Arthur" Alonte, alkalde mula 1988 hanggang 1998, at kasama niya ang mga pabrika.*
 
-**Grammar:**  
-- Actor-focus completed (*-um-* infix, *s-um-igla*, for a change into a state).
+**Vocabulary:**
+- **dinala** – *brought* (root: *dala*)
+- **halalan** – *election* (root: *halal*)
+- **katuwang** – *partner* (root: *tuwang*)
+- **tubuhan** – *sugarcane field* (*tubo* + *-han*)
+- **lawak** – *extent, area*
+- **karugtong** – *extension* (root: *dugtong*)
+- **hinatulan** – *was sentenced, convicted* (root: *hatol* = verdict)
+- **panggagahasa** – *rape*
+- **pinawalang-bisa** – *was annulled* (*walang bisa* = without effect)
+- **wastong proseso** – *due process*
+- **paglilitis** – *trial* (root: *litis*)
+- **humalili** – *succeeded, replaced* (root: *halili*)
+- **nanguna** – *led, ranked first* (root: *una*)
 
-**Translation:**  
-> Agriculture and commerce became lively again...
+**Grammar:**
+- *Dinala ng halalang iyon si Bayani Alonte* – object focus: Alonte (*si*) is what the election "brought".
+- *Pinawalang-bisa* – a compound root (*walang-bisa*, "without validity") with causative *pa-* and *-in-*: "was made void".
+- *Pinakamayayamang bayan* – superlative plus plural adjective (*mayayaman*, repeated syllable for plural).
 
----
-
-**6.**  
-> *nagbalik ang palengke ng Biñán bilang pangunahing bagsakan ng mga ani...*
-
-**Vocabulary:**  
-- **nagbalik** – *returned* (root: *balik* = return)  
-- **bagsakan** – *drop-off point, market depot* (root: *bagsak* = drop)
-
-**Grammar:**  
-- Actor-focus completed form (*nag- + balik*).
-
-**Translation:**  
-> ...the Biñán market returned as the main drop-off point for harvests...
-
----
-
-**7.**  
-> *unti-unti ring nagtayuan ang maliliit na pabrika at pagawaan.*
-
-**Vocabulary:**  
-- **unti-unti** – *gradually*  
-- **nagtayuan** – *were built one after another* (root: *tayo* = stand)
-
-**Grammar:**  
-- Plural/collective form (*nag-* + *tayo* + *-an*, *o → u*): many subjects doing the same action.
-
-**Translation:**  
-> ...and gradually, small factories and workshops sprang up.
+**Translation:**
+> That election brought Bayani "Arthur" Alonte, mayor from 1988 to 1998, and with him came the factories. In 1990 the Laguna Technopark, a project of Ayala Land and Japanese partners, opened on former sugarcane land in Santa Rosa and Biñán; by 2020 it covered 471 hectares and had more than 270 companies with over 100,000 workers. Its extensions reached barangay Biñán in 1997 and Loma and Timbao in 1998, and in 1992 Samsung and Solid Corporation opened the Laguna International Industrial Park in Mamplasan and Ganado. Subdivisions followed for workers and for families leaving Metro Manila: Biñán had 134,553 people in 1990 and 201,186 in 2000. Politics also had a scandal: in December 1997 a Manila court convicted Mayor Alonte of rape, but in March 1998 the Supreme Court annulled the verdict because due process had not been followed, and sent the case back for a new trial. Under his successor, Hermis Perez (1998–2007), Biñán became one of the richest towns in the country: according to government statistics for 2008, it ranked first in income among all municipalities of the Philippines.
 
 ---
 
-**8.**  
-> *Sinikap ng mga lokal na lider na akitin ang malalaking mamumuhunan...*
+**6. A city**
 
-**Vocabulary:**  
-- **sinikap** – *endeavored, exerted effort* (root: *sikap* = effort)  
-- **akitin** – *to attract* (root: *akit* = attraction, allure)
+> *Noong 2007, naging unang babaeng alkalde ng bayan si Len Alonte, anak ng dating alkalde.*
 
-**Grammar:**  
-- Object-focus completed (*sinikap* = *-in-* + *sikap*: "(it) was striven for"), followed by the object-focus infinitive *akitin* (*akit* + *-in*).
+**Vocabulary:**
+- **babaeng alkalde** – *woman mayor*
+- **nagbuhos** – *poured* (root: *buhos*)
+- **di-pangkaraniwan** – *unusual, extraordinary*
+- **lubog** – *submerged*
+- **nilagdaan** – *was signed* (root: *lagda*)
+- **karta** – *charter*
+- **pinagtibay** – *was ratified, confirmed* (root: *tibay* = strength)
+- **plebisito** – *plebiscite*
+- **distritong pangkongreso** – *congressional district*
+- **kinatawan** – *representative* (root: *katawan* = body)
 
-**Translation:**  
-> Local leaders endeavored to attract big investors...
+**Grammar:**
+- *Pinagtibay ito ng mga botante* – *pag-…-in-* object focus: the charter (*ito*) is what the voters made firm.
+- *Ikaapat na lungsod* – ordinal numbers take *ika-*: *ikaapat* = fourth.
 
----
-
-**9.**  
-> *nang itatag ang mga industrial park sa Biñán.*
-
-**Vocabulary:**  
-- **itatag** – *to establish* (root: *tatag* = establish)
-
-**Grammar:**  
-- Object-focus infinitive (*i- + tatag*); after *nang* ("when") the infinitive is used for a past event, as in *nang makamit*.
-
-**Translation:**  
-> ...leading to the establishment of industrial parks in Biñán.
+**Translation:**
+> In 2007 Len Alonte, the former mayor's daughter, became the town's first woman mayor. Two years later, on 26 September 2009, Typhoon Ondoy poured an extraordinary amount of rain; Laguna de Bay rose to nearly 14 metres, and the lakeshore barangays of De La Paz and Malaban stayed under water for weeks. On 30 October 2009 the President signed Republic Act No. 9740, the charter of the City of Biñán; the voters ratified it in a plebiscite on 2 February 2010, and Biñán became the fourth city of Laguna, after San Pablo, Calamba and Santa Rosa. In 2015 Republic Act No. 10658 made it a congressional district of its own, and in 2016 it elected its first representative, Len Alonte.
 
 ---
 
-**10.**  
-> *nagtayo ng maliliit na negosyo upang suportahan ang lumalaking populasyon ng Biñán.*
+**7. Back to the past: Balik-Biñán**
 
-**Vocabulary:**  
-- **nagtayo** – *built, established* (root: *tayo*)  
-- **lumalaking populasyon** – *growing population* (root: *laki* = big)
+> *Sa ilalim ni Alkalde Arman Dimaguila (2016–2025), muling lumingon ang lungsod sa nakaraan nito.*
 
-**Grammar:**  
-- Actor-focus past (*nag- + tayo*).
+**Vocabulary:**
+- **lumingon** – *looked back* (root: *lingon*)
+- **nakaraan** – *the past* (root: *daan* = pass)
+- **sinimulan** – *was begun* (root: *simula*)
+- **aklatan** – *library* (root: *aklat* = book)
+- **pook-pamana** – *heritage area*
+- **itinala** – *was recorded, listed* (root: *tala*)
+- **gantimpala** – *award, prize*
+- **pamamahala** – *governance* (root: *bahala*)
+- **ipinagbili** – *was sold* (root: *bili*)
+- **nagsampa ng kaso** – *filed a case* (root: *sampa*)
+- **maingat** – *careful* (root: *ingat*)
+- **pagkakatatag** – *founding* (root: *tatag*)
+- **nagpapahalaga** – *values, cherishes* (root: *halaga* = value)
+- **sasalubong** – *will welcome, will meet* (root: *salubong*)
 
-**Translation:**  
-> ...set up small businesses to support the growing population of Biñán.
+**Grammar:**
+- *Isang Biñan tayong nagpapahalaga … kaya't Isang Biñan tayong sasalubong …* – parallel clauses: *tayo* + linker *-ng* + verb; ongoing *nagpapahalaga* then future *sasalubong* (repeated first syllable, no affix change).
+- *Upang ito'y makuha* – *ito'y* is the short form of *ito ay*.
 
----
-
-**11.**  
-> *naging manggagawa sa pabrika*
-
-**Vocabulary:**  
-- **manggagawa** – *factory worker* (root: *gawa* = work)
-
-**Grammar:**  
-- *Mang-* form indicates a doer.
-
-**Translation:**  
-> ...became factory workers.
-
----
-
-**12.**  
-> *ipinagdiwang hindi lamang ang bagong katayuan kundi pati ang mayamang kasaysayan ng pamayanan.*
-
-(**ipinagdiwang** = completed form of *ipinagdiriwang*, already explained: "was celebrated".)
+**Translation:**
+> Under Mayor Arman Dimaguila (2016–2025), the city looked back toward its past. Under the Balik-Biñán programme, begun in 2016, the old municipal hall was turned into the Sentrong Pangkultura ng Biñan, with a museum, a library and the city's culture and tourism office; the heritage area around Plaza Rizal was revived and the city's cultural assets were listed. In 2022 it won a Galing Pook award for good local governance. The hardest fight was for the house of the Alberto family, where Rizal's mother grew up. It was sold around 2010 to a resort owner who began moving parts of it to Bagac, Bataan, and its roof collapsed on 18 October 2012. The city filed a case to acquire it in 2017, rebuilt it, and opened it on 6 December 2019 – a careful reconstruction that kept only about a tenth of the original material. Every February the city now celebrates Araw ng Biñán over three days: its cityhood on the 2nd, its liberation in 1945 on the 3rd, and its founding as a pueblo in 1747 on the 4th. In Mayor Dimaguila's words: "We are one Biñan that values our past, and so we are one Biñan that will welcome our bright tomorrow."
 
 ---
 
-**13.**  
-> *Itinakda ng lungsod ang Araw ng Biñán...*
+**8. Biñán today**
 
-**Vocabulary:**  
-- **itinakda** – *was set, designated* (root: *takda* = schedule, set)
+> *May kapalit ang paglago.*
 
-**Grammar:**  
-- Passive completed form (*i- + -in- + takda*).
+**Vocabulary:**
+- **nabilang** – *was counted* (root: *bilang*)
+- **pinakamatao** – *most populous* (*pinaka-* + *matao*, from *tao* = person)
+- **siksik** – *dense, packed*
+- **saradong subdibisyon** – *gated subdivision*
+- **kapalit** – *price, something in exchange* (root: *palit*)
+- **paglago** – *growth* (root: *lago*)
+- **pamantayan** – *standard* (root: *pantay* = level)
+- **binaha** – *was flooded* (root: *baha*)
+- **naghalal** – *elected* (root: *halal*)
+- **pagtugmain** – *to reconcile, make fit together* (root: *tugma*)
+- **pagkakakilanlan** – *identity* (root: *kilala*)
 
-**Translation:**  
-> The city designated Biñán Day...
+**Grammar:**
+- *May kapalit ang paglago* – existential *may*: "Growth has a price."
+- *Kailangan pa ring pagtugmain* – *kailangan* + *pa rin* ("still") + linker + infinitive *pag-…-in*.
+- *Pagkakakilanlan* – *pagka-* + repeated syllable + root + *-an*: an abstract noun ("identity").
 
----
-
-**14.**  
-> *isinasadula ang makulay na kasaysayan sa mga programa at parada.*
-
-**Vocabulary:**  
-- **isinasadula** – *is dramatized, reenacted* (root: *dula* = play, drama)
-
-**Grammar:**  
-- Passive ongoing form: *isadula* (*i-* + *sa* + *dula*), then *-in-* + repeated *sa*.
-
-**Translation:**  
-> ...the colorful history is dramatized in programs and parades.
-
----
-
-**15.**  
-> *pinagsasama ang kaunlaran at tradisyon.*
-
-**Vocabulary:**  
-- **pinagsasama** – *combining, integrating* (root: *sama* = together)
-
-**Grammar:**  
-- Ongoing passive (*pinag-* + repeated *sa* + *sama*, from *pagsamahin* = to combine).
-
-**Translation:**  
-> ...combining progress and tradition.
-
----
-
-**16.**  
-> *patuloy na dumarami dahil sa lokasyon nitong malapit sa Kamaynilaan.*
-
-**Vocabulary:**  
-- **patuloy** – *continuously*  
-- **dumarami** – *increasing* (root: *dami* = quantity)
-
-**Grammar:**  
-- Ongoing actor-focus (*-um-* + repeated *da* + *dami*; the second *d* becomes *r*: *dumarami*).
-
-**Translation:**  
-> ...continuously increasing because of its proximity to Metro Manila.
-
----
-
-**17.**  
-> *Pinangangalagaan ng Biñán ang mga pamanang gusali at sining.*
-
-**Vocabulary:**  
-- **pinangangalagaan** – *is protecting, safeguarding* (root: *alaga* = care)
-
-**Grammar:**  
-- Ongoing passive: *pangalagaan* (*pang-* + *alaga* + *-an*), then *-in-* + repeated *nga*.
-
-**Translation:**  
-> Biñán is safeguarding its heritage buildings and arts.
-
----
-
-**18.**  
-> *inilunsad ang “Balik-Biñán” project.*
-
-**Vocabulary:**  
-- **inilunsad** – *was launched* (root: *lunsad* = launch)
-
-**Grammar:**  
-- Passive completed (*i- + -in- + lunsad*).
-
-**Translation:**  
-> ...the “Balik-Biñán” project was launched.
-
----
-
-**19.**  
-> *idinaraos ang mga misa.*
-
-(**idinaraos** already explained.)
-
----
-
-**20.**  
-> *pinangunahan din ng lungsod ang paggawa ng Cultural Mapping.*
-
-**Vocabulary:**  
-- **pinangunahan** – *led by* (root: *una* = first, lead)
-
-**Grammar:**  
-- Passive completed (*pangunahan* = *pang-* + *una* + *-han*, then *-in-*).
-
-**Translation:**  
-> The city also led the creation of the Cultural Mapping.
-
----
-
-**21.**  
-> *Ang mga pagsisikap na ito ay nagbunga ng karangalan.*
-
-**Vocabulary:**  
-- **nagbunga** – *bore fruit, resulted in* (root: *bunga* = fruit/result)
-
-**Grammar:**  
-- Actor-focus completed (*nag- + bunga*).
-
-**Translation:**  
-> These efforts resulted in honor.
-
----
-
-**22.**  
-> *kinilala ang Biñán sa pambansang antas...*
-
-(**kinilala** already explained; *pambansang antas* = *national level*.)
-
----
-
-**23.**  
-> *ipinakita ng karangalang ito...*
-
-**Vocabulary:**  
-- **ipinakita** – *was shown* (root: *kita* = to see)
-
-**Grammar:**  
-- Passive completed (*ipakita* = *i-* + *pa-* + *kita* "to show", then *-in-*).
-
-**Translation:**  
-> ...this honor showed...
-
----
-
-**24.**  
-> *Isang Biñan tayong nagpapahalaga sa ating nakaraan kaya't Isang Biñan tayong sasalubong sa ating magandang bukas.*
-
-**Vocabulary:**  
-- **Isang Biñan** – *One Biñan* (a slogan of the city: *isa* = one, with the linker *-ng*)  
-- **nagpapahalaga** – *values, holds dear* (root: *halaga* = value, worth)  
-- **nakaraan** – *the past* (root: *daan* = pass, way)  
-- **kaya't** – *so, therefore*  
-- **sasalubong** – *will welcome, will go out to meet* (root: *salubong* = to meet someone coming)  
-- **magandang bukas** – *a bright tomorrow* (*maganda* = beautiful, *bukas* = tomorrow)
-
-**Grammar:**  
-- *Nagpapahalaga* = *magpahalaga* ("to value") in the **ongoing** aspect: *nag-* + repeated *pa* + *pahalaga*.  
-- *Sasalubong* = **future** (contemplated) aspect of *sumalubong*: the first syllable *sa* is repeated and the *-um-* infix drops (*sumalubong* → *sasalubong*).  
-- *Isang Biñan tayong…* – "We are One Biñan that…": *tayo* (we, inclusive) + linker *-ng* introduces the description.
-
-**Translation:**  
-> We are One Biñan that values its past, and so we are One Biñan that will welcome our bright tomorrow.
-
-*(Said by Mayor Walfredo "Arman" Dimaguila Jr. at the 2025 Araw ng Biñan.)*
-
----
-
----
-
-### Full Summary Table (Tagalog - English)
-
-| Tagalog | English |
-|:---|:---|
-| Pagkatapos ng digmaan, mabilis na nakabangon ang bayan ng Biñán at pumasok sa isang panahon ng masiglang pagbabago. | After the war, the town of Biñán quickly recovered and entered a period of lively change. |
-| Noong huling bahagi ng dekada 1940 at dekada ’50, sama-samang ibinangon muli ng pamahalaan at mamamayan ang bayan – inayos ang mga nasirang kalsada, muling itinayo ang mga tulay at gusali, at sinigurong makabalik ang mga bata sa paaralan. | In the late 1940s and 1950s, the government and citizens together rebuilt the town — repairing damaged roads, reconstructing bridges and buildings, and ensuring that children could return to school. |
-| Muling sumigla ang agrikultura at kalakalan: nagbalik ang palengke ng Biñán bilang pangunahing bagsakan ng mga ani sa rehiyon, at unti-unti ring nagtayuan ang maliliit na pabrika at pagawaan. | Agriculture and commerce became lively again: the Biñán market returned as the main drop-off point for harvests in the region, and small factories and workshops gradually sprang up. |
-| Sa mga sumunod na dekada, lalo pang lumago ang Biñán. | In the following decades, Biñán grew even further. |
-| Pagsapit ng dekada 1980, mas naging industrial ang karakter ng bayan. | By the 1980s, the town became more industrial in character. |
-| Sinikap ng mga lokal na lider na akitin ang malalaking mamumuhunan upang lumikha ng trabaho para sa mga Biñense. | Local leaders exerted effort to attract large investors to create jobs for the people of Biñán. |
-| Nagbunga ito nang itatag ang mga industrial park sa Biñán – ang Laguna Technopark at Laguna International Industrial Park – na nagdala ng daan-daang kompanya at libu-libong trabaho sa lungsod. | This effort bore fruit with the establishment of industrial parks in Biñán — Laguna Technopark and Laguna International Industrial Park — bringing hundreds of companies and thousands of jobs to the city. |
-| Dahil dito, ang dating tahimik na lupang sakahan ay naging lunsaran ng modernong pagawaan at teknolohiya. | Because of this, the once quiet farmlands became a launching ground for modern industry and technology. |
-| Maraming mga magsasaka ang naging manggagawa sa pabrika, at ang iba’y nagtayo ng maliliit na negosyo upang suportahan ang lumalaking populasyon ng Biñán. | Many farmers became factory workers, and others established small businesses to support Biñán’s growing population. |
-| Sa pag-unlad na ito, hindi nawala ang puso ng mga Biñense sa kanilang nakaraan at kultura. | Despite this development, Biñán's people did not lose their heart for their history and culture. |
-| Noong 2010, nang maging ganap na lungsod ang Biñán sa bisa ng RA 9740, ipinagdiwang hindi lamang ang bagong katayuan kundi pati ang mayamang kasaysayan ng pamayanan. | In 2010, when Biñán officially became a city by virtue of RA 9740, they celebrated not only their new status but also the rich history of their community. |
-| Itinakda ng lungsod ang Araw ng Biñán tuwing unang linggo ng Pebrero bilang tatlong araw na pagdiriwang... | The city designated "Biñán Day" every first week of February as a three-day celebration... |
-| Taun-taon, isinasadula ang makulay na kasaysayan sa mga programa at parada. | Every year, the colorful history is dramatized in programs and parades. |
-| Sa kasalukuyan, ang Biñán ay isang lungsod na pinagsasama ang kaunlaran at tradisyon. | At present, Biñán is a city that combines progress and tradition. |
-| Mahigit 400,000 na ang populasyon nito, patuloy na dumarami dahil sa lokasyon nitong malapit sa Kamaynilaan at sa pagdami ng hanapbuhay dito. | Its population has exceeded 400,000, and continues to grow due to its proximity to Metro Manila and increasing job opportunities. |
-| Pinangangalagaan ng Biñán ang mga pamanang gusali at sining. | Biñán safeguards its heritage buildings and arts. |
-| Inilunsad ng pamahalaang lokal ang “Balik-Biñán” project noong 2016 upang ibalik ang sigla ng downtown heritage district. | The local government launched the "Balik-Biñán" project in 2016 to restore the vitality of the downtown heritage district. |
-| Pinangunahan din ng lungsod ang paggawa ng Cultural Mapping. | The city also led the creation of the Cultural Mapping project. |
-| Ang mga pagsisikap na ito ay nagbunga ng karangalan: kinilala ang Biñán sa pambansang antas at binigyan ng Galing Pook Award noong 2022. | These efforts resulted in honor: Biñán was recognized nationally and awarded the Galing Pook Award in 2022. |
-| Ayon kay Mayor Walfredo “Arman” Dimaguila Jr., ang pagbabalik sa kasaysayan ang susi sa pagharap sa kinabukasan. | According to Mayor Walfredo “Arman” Dimaguila Jr., returning to history is the key to facing the future. |
-| “Isang Biñan tayong nagpapahalaga sa ating nakaraan kaya’t Isang Biñan tayong sasalubong sa ating magandang bukas,” aniya noong Araw ng Biñán 2025. | “We are One Biñan that values its past, and so we are One Biñan that will welcome our bright tomorrow,” he said at the 2025 Araw ng Biñán. |
-| Sa kabuuan, ang Kasalukuyang Biñán ay larawan ng isang lungsod na yumayabong — umuunlad ang ekonomiya, mataas ang kita at antas ng pamumuhay – subalit matibay ang koneksyon sa ugat ng kasaysayan. | Overall, today's Biñán is the image of a flourishing city — with a growing economy, high income and living standards — but firmly connected to its historical roots. |
-| Ang mga kabataan ng Biñán ay lumalaki na may pagmamalaki sa kanilang lungsod. | The youth of Biñán are growing up proud of their city. |
-| Tunay na ang Biñán ay “City of Life” para sa mga naninirahan dito. | Truly, Biñán is the "City of Life" for its residents. |
-| Habang patuloy na isinusulong ng Biñán ang pagiging makabago at kompetitibo, sinisiguro rin nitong hindi mawawala ang puso at diwa na nagbibigay ng natatanging kulay sa Lungsod ng Biñán. | While Biñán continues to promote modernization and competitiveness, it also ensures that the heart and spirit that give the city its unique color will never be lost. |
-
----
+**Translation:**
+> The 2024 census counted 584,479 people in Biñán – more than Calamba – so for the first time it became the most populous city in Laguna; in 2020 it had been only third, with 407,437. On its 43.5 square kilometres, the city of the friars' hacienda is now a dense extension of the capital, with industrial parks, malls and gated subdivisions. Growth has its price. The Biñán River often fails the lake authority's water-quality standard, and in October 2024 Typhoon Kristine flooded 20 of the city's 24 barangays. In 2025 the city elected a new mayor, Gel Alonte, while Arman Dimaguila went to Congress. Between the expressway and the lake, Biñán still has to reconcile the growth that made it rich with the heritage that gives it its own identity.
 
 ### Full Verb Breakdown Table
 
-| Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
-|:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
-| nakabangon | bangon | Completed | Actor | naka- + bangon | recovered |
-| pumasok | pasok | Completed | Actor | -um- + pasok | entered |
-| ibinangon | bangon | Completed | Object | i- + -in- + bangon | was raised up, rebuilt |
-| inayos | ayos | Completed | Object | in- + ayos | was fixed |
-| itinayo | tayo | Completed | Object | i- + -in- + tayo | was rebuilt |
-| siniguro | siguro | Completed | Object | -in- + siguro | ensured |
-| makabalik | balik | Potential | Actor | maka- + balik | be able to return |
-| sumigla | sigla | Completed | Actor | -um- + sigla | became lively |
-| nagbalik | balik | Completed | Actor | nag- + balik | returned |
-| nagtayuan | tayo | Completed (Collective) | Actor | nag- + tayo + -an | sprang up (plural) |
-| sinikap | sikap | Completed | Object | -in- + sikap | endeavored |
-| akitin | akit | Neutral/Infinitive | Object | akit + -in | to attract |
-| itatag | tatag | Infinitive (after nang) | Object | i- + tatag | to establish |
-| nagtayo | tayo | Completed | Actor | nag- + tayo | built |
-| itinakda | takda | Completed | Object | i- + -in- + takda | was designated |
-| isinasadula | dula | Ongoing | Object | i- + -in- + sa (repeated) + sadula | is dramatized |
-| pinagsasama | sama | Ongoing | Object | pinag- + sa (repeated) + sama | combining |
-| dumarami | dami | Ongoing | Actor | -um- + da (repeated, d → r) + dami | increasing |
-| pinangangalagaan | alaga | Ongoing | Object | pang- + alaga + -an, -in- + nga (repeated) | safeguarding |
-| inilunsad | lunsad | Completed | Object | i- + -in- + lunsad | was launched |
-| pinangunahan | una | Completed | Object | pang- + una + -han, -in- | led |
-| nagbunga | bunga | Completed | Actor | nag- + bunga | bore fruit |
-| ipinakita | kita | Completed | Object | i- + -in- + pa- + kita | was shown |
-| nagpapahalaga | halaga | Ongoing | Actor | nag- + pa + pahalaga | values |
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| ginugol | gugol | Completed | Object | -in- + gugol | was spent |
+| itinayo | tayo | Completed | Object | i- + -in- + tayo | was built |
+| nagbayad | bayad | Completed | Actor | nag- + bayad | paid |
+| nabilang | bilang | Completed | Object (non-volitional) | na- + bilang | was counted |
+| binili | bili | Completed | Object | -in- + bili | was bought |
+| kinumpuni | kumpuni | Completed | Object | -in- + kumpuni | was repaired |
+| nilagyan | lagay | Completed | Locative | -in- + lagay + -an | was provided with |
+| binuksan | bukas | Completed | Object | -in- + bukas + -an | was opened |
+| lumipat | lipat | Completed | Actor | -um- + lipat | moved |
+| nag-armas | armas | Completed | Actor | nag- + armas | took up arms |
+| dakpin | dakip | Infinitive | Object | dakip + -in | to arrest |
+| dumami | dami | Completed | Actor | -um- + dami | multiplied |
+| ninakawan | nakaw | Completed | Locative | -in- + nakaw + -an | was robbed |
+| tinamnan | tanim | Completed | Locative | -in- + tanim + -an | was planted |
+| tinupok | tupok | Completed | Object | -in- + tupok | was consumed by fire |
+| sumakay | sakay | Completed | Actor | -um- + sakay | boarded |
+| pinatay | patay | Completed | Object | -in- + patay | was killed |
+| tinangay | tangay | Completed | Object | -in- + tangay | was carried off |
+| isinailalim | ilalim | Completed | Object | isa- + -in- + ilalim | was placed under |
+| tipunin | tipon | Infinitive | Object | tipon + -in | to gather |
+| pinahaba | haba | Completed | Object | -in- + pa- + haba | was lengthened |
+| tinawid | tawid | Completed | Object | -in- + tawid | was crossed |
+| inilapit | lapit | Completed | Object | i- + -in- + lapit | was brought closer |
+| umakyat | akyat | Completed | Actor | -um- + akyat | rose |
+| dinala | dala | Completed | Object | -in- + dala | was brought |
+| hinatulan | hatol | Completed | Locative | -in- + hatol + -an | was sentenced |
+| pinawalang-bisa | walang-bisa | Completed | Object | -in- + pa- + walang-bisa | was annulled |
+| ibinalik | balik | Completed | Object | i- + -in- + balik | was sent back |
+| humalili | halili | Completed | Actor | -um- + halili | succeeded |
+| nanguna | una | Completed | Actor | nang- + una | ranked first |
+| nagbuhos | buhos | Completed | Actor | nag- + buhos | poured |
+| nilagdaan | lagda | Completed | Locative | -in- + lagda + -an | was signed |
+| pinagtibay | tibay | Completed | Object | pag- + -in- + tibay | was ratified |
+| inihalal | halal | Completed | Object | i- + -in- + halal | was elected |
+| lumingon | lingon | Completed | Actor | -um- + lingon | looked back |
+| sinimulan | simula | Completed | Object | -in- + simula + -an | was begun |
+| itinala | tala | Completed | Object | i- + -in- + tala | was recorded |
+| ipinagbili | bili | Completed | Object | ipag- + -in- + bili | was sold |
+| nagsampa | sampa | Completed | Actor | nag- + sampa | filed |
+| ipinagdiriwang | diwang | Ongoing | Object | ipag- + -in- + di + diwang | is celebrated |
 | sasalubong | salubong | Future | Actor | sa + salubong | will welcome |
+| binaha | baha | Completed | Object | -in- + baha | was flooded |
+| naghalal | halal | Completed | Actor | nag- + halal | elected |
+| pagtugmain | tugma | Infinitive | Object | pag- + tugma + -in | to reconcile |
 
 ---
 
-### Visual Diagrams for New Verbs
-
----
-
-#### 1. **nakabangon** (recovered)
-
-```
-Root: bangon → rise
-+ naka- → nakabangon → recovered (completed actor-focus)
-```
-
----
-
-#### 2. **ibinangon** (rebuilt)
-
-```
-Root: bangon → rise
-+ i- → ibangon → to raise (something) up
-+ -in- → ib-in-angon → ibinangon → was raised up / rebuilt (completed object-focus)
-```
-
----
-
-#### 3. **sinikap** (endeavored)
-
-```
-Root: sikap → effort
-+ -in- → s-in-ikap → sinikap → endeavored, strove for (completed object-focus)
-```
-
----
-
-#### 4. **akitin** (to attract)
-
-```
-Root: akit → attract
-+ -in → akitin → to attract (infinitive object-focus)
-```
-
----
-
-#### 5. **itinatag** (was established)
-
-```
-Root: tatag → establish
-+ i- → itatag → to establish (infinitive; used in the text after nang)
-+ -in- → itinatag (completed) → was established
-```
-
----
-
-#### 6. **isinasadula** (is dramatized)
-
-```
-Root: dula → play/drama
-+ i- + sa- → isadula → to dramatize
-+ -in- + repeated sa → isinasadula → being dramatized (ongoing passive)
-```
-
----
-
-#### 7. **pinangangalagaan** (safeguarding)
-
-```
-Root: alaga → care
-+ pang- ... -an → pangalagaan → to take care of
-+ -in- + repeated nga → pinangangalagaan → is being safeguarded (ongoing object-focus)
-```
-
----
 
 ## Culture, Daily Life and Commerce / Kultura, Pang-araw-araw na Buhay at Kalakalan
 

@@ -361,7 +361,7 @@ def map_barangays(bgys, munis):
         m.shape(info["geom"], LAND, stroke=RULE, width=0.2)
     for name, geom in bgys.items():
         m.shape(geom, LAND_ALT, stroke=PAPER, width=0.45)
-    for name in ("Malamig", "Mampalasan"):
+    for name in ("Biñan", "Loma", "Timbao", "Mampalasan", "Ganado"):
         m.shape(bgys[name], "url(#h-industry)", stroke="none")
     m.shape(bgys["Poblacion"], ACCENT, stroke=PAPER, width=0.45)
     m.shape(city, "none", stroke=INK, width=0.5)
@@ -399,7 +399,7 @@ def map_barangays(bgys, munis):
           f'<rect x="{lx + 2}" y="{ly + 2.5}" width="4" height="2.6" fill="{ACCENT}"/>'
           f'<text x="{lx + 8}" y="{ly + 4.8}">Poblacion – heritage town centre</text>'
           f'<rect x="{lx + 2}" y="{ly + 7.5}" width="4" height="2.6" fill="url(#h-industry)" stroke="{MUTED}" stroke-width="0.2"/>'
-          f'<text x="{lx + 8}" y="{ly + 9.8}">Industrial parks (LTI, LIIP)</text>'
+          f'<text x="{lx + 8}" y="{ly + 9.8}">Barangays with industrial parks</text>'
           f'<line x1="{lx + 2}" y1="{ly + 14}" x2="{lx + 6}" y2="{ly + 14}" stroke="{INK}" stroke-width="0.5"/>'
           f'<text x="{lx + 8}" y="{ly + 14.8}">City limits</text></g>')
     m.scale_bar(2, x=4, y=m.height - 5)
@@ -583,6 +583,47 @@ def chart_climate():
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}mm" height="{H}mm" viewBox="0 0 {W} {H}">'
         + "".join(items) + "</svg>\n", encoding="utf-8")
     print("wrote book/layout/maps/climate.svg")
+
+
+def chart_population():
+    """Census population of Biñan, 1903–2024 (PSA)."""
+    data = [(1903, 9563), (1939, 16238), (1948, 20794), (1960, 33309),
+            (1970, 58290), (1975, 67444), (1980, 83684), (1990, 134553), (1995, 160206),
+            (2000, 201186), (2007, 262735), (2010, 283396), (2015, 333028), (2020, 407437),
+            (2024, 584479)]
+    W, H = 116.0, 64.0
+    font = f'font-family="{FONT}"'
+    x0, y0, pw, ph = 14, 9, 96, 44
+    top = 600000
+    X = lambda y: x0 + (y - 1900) / 125 * pw
+    Y = lambda v: y0 + ph - v / top * ph
+    items = [f'<rect width="{W}" height="{H}" fill="{PAPER}"/>',
+             f'<text x="{x0}" y="5" {font} font-size="3" font-weight="600" fill="{ACCENT}">Population of Biñan at each census, 1903–2024</text>']
+    for v in range(0, top + 1, 100000):
+        items.append(f'<line x1="{x0}" x2="{x0 + pw}" y1="{Y(v):.2f}" y2="{Y(v):.2f}" stroke="{RULE}" stroke-width="0.15"/>')
+        items.append(f'<text x="{x0 - 1}" y="{Y(v) + 0.8:.2f}" {font} font-size="2.2" text-anchor="end" fill="{MUTED}">{v:,}</text>')
+    for y in (1900, 1925, 1950, 1975, 2000, 2025):
+        items.append(f'<text x="{X(y):.2f}" y="{y0 + ph + 3.4:.2f}" {font} font-size="2.3" text-anchor="middle" fill="{MUTED}">{y}</text>')
+    for a, b, label in [(1941.9, 1945.1, "war")]:
+        if label:
+            items.append(f'<rect x="{X(a):.2f}" y="{y0}" width="{X(b) - X(a):.2f}" height="{ph}" fill="{RULE}" opacity="0.5"/>')
+            items.append(f'<text x="{X(a) - 0.6:.2f}" y="{y0 + 4}" {font} font-size="2.2" text-anchor="end" font-style="italic" fill="{MUTED}">{label}</text>')
+    pts = " ".join(f"{X(y):.2f},{Y(v):.2f}" for y, v in data)
+    items.append(f'<polyline points="{pts}" fill="none" stroke="{ACCENT}" stroke-width="0.6"/>')
+    for y, v in data:
+        items.append(f'<circle cx="{X(y):.2f}" cy="{Y(v):.2f}" r="0.6" fill="{ACCENT}"/>')
+    notes = [(1948, 20794, "20,794 (1948)", "end", -1.5, -2.5),
+             (1990, 134553, "Laguna Technopark opens, 1990", "end", -1.5, -2.5),
+             (2010, 283396, "City, 2010", "start", 1.5, 3.5),
+             (2024, 584479, "584,479 (2024): first in Laguna", "end", -1.5, 0.8)]
+    for y, v, t, anchor, dx, dy in notes:
+        items.append(f'<text x="{X(y) + dx:.2f}" y="{Y(v) + dy:.2f}" {font} font-size="2.4" text-anchor="{anchor}" fill="{INK}">{t}</text>')
+    items.append(f'<text x="{x0}" y="{H - 2}" {font} font-size="2.2" font-style="italic" fill="{MUTED}">Philippine censuses (PSA).</text>')
+    OUT.mkdir(parents=True, exist_ok=True)
+    (OUT / "population.svg").write_text(
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}mm" height="{H}mm" viewBox="0 0 {W} {H}">'
+        + "".join(items) + "</svg>\n", encoding="utf-8")
+    print("wrote book/layout/maps/population.svg")
 
 
 # --------------------------------------------------------------------------
@@ -776,6 +817,7 @@ if __name__ == "__main__":
     map_tectonics()
     map_westbay(munis)
     chart_climate()
+    chart_population()
     map_migrations()
     map_prehistoric_sites(munis)
     map_polities(munis)

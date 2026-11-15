@@ -81,3 +81,13 @@ Tous les nouveaux documents sont dans le domaine public : caricature *Puck* « S
 | Ruines de Mabitac (4 avril 1945) | Domaine public | U.S. Army Signal Corps |
 
 Aucune autorisation à demander pour ce chapitre. Pistes : photo « Former internees of Los Banos with 11th Airborne troopers, 1945 » (domaine public, Commons ; téléchargement bloqué ici, à ajouter plus tard) ; photos de 1945 montrant Biñan dans la série NARA 111-SC (Signal Corps) ; aucune trouvée en ligne.
+
+## Chapitre VII (après-guerre et époque contemporaine)
+
+| Document | Licence | Crédit |
+|---|---|---|
+| Biñan vue d'avion (2024) | CC BY-SA 4.0 | Patrickroque01, via Wikimedia Commons |
+| Cour intérieure de la maison Alberto (2023) | CC BY-SA 4.0 | Ralff Nestor Nacor, via Wikimedia Commons |
+| Graphique de population | données publiques | Recensements PSA |
+
+Aucune autorisation à demander. Aucune photo libre de Biñan des années 1950–1980 trouvée : pistes NARA (USIS), Filipinas Heritage Library (photo de l'hôtel de ville de 1955, droits à demander).
