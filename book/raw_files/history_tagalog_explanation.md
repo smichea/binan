@@ -762,378 +762,266 @@ Explanation of tagalog text for english only speakers
 
 ## Spanish Colonial Period / Panahon ng Kolonyalismong Espanyol
 
+### Vocabulary and Grammar Explanation
 
-**1. Vocabulary and grammar explanation for new concepts and new verbs**  
-**2. Summary table (Tagalog-English)**  
-**3. Full verb breakdown table**  
-**4. Visual diagrams showing how the new verbs are constructed**
+**1. From encomienda to town**
 
-(→ **No repetition** for words, grammar, or verbs already explained like *dumating*, *tinitirhan*, etc.)
+> *Bahagi noon ng Tabuco (Cabuyao) ang lupain ng Biñán.*
 
----
+**Vocabulary:**
+- **ipinagkaloob** – *were granted* (root: *kaloob* = gift)
+- **mangaral** – *to preach* (root: *aral* = teaching)
+- **iba-iba** – *various, different*
+- **pagsulat** – *writing, spelling* (root: *sulat*)
+- **iniuugnay** – *is linked, is associated* (root: *ugnay*)
 
-### Vocabulary and Grammar Explanation (New Content Only)
+**Grammar:**
+- *Iniuugnay* = *i-* + *-in-* + repeated syllable + *ugnay*: ongoing object focus, "is (being) linked".
 
----
-
-**1.**  
-> *Sa panahon ng pananakop ng Espanya, tuluyang nabago ang mukha ng Biñán.*
-
-**Vocabulary:**  
-- **pananakop** – *colonization, conquest* (root: *sakop* = to conquer)  
-- **tuluyang** – *completely, totally*  
-- **nabago** – *was changed* (root: *bago* = new/change)
-
-**Grammar:**  
-- Passive completed aspect (*nabago*).  
-- Emphasis using *tuluyang* (adverb meaning “completely”).
-
-**Translation:**  
-> During the Spanish conquest, the face of Biñán was completely changed.
+**Translation:**
+> After Juan de Salcedo's journey around the lake in 1571, the lakeshore towns were granted as encomiendas to Spaniards, and missionaries began to preach among them. The land of Biñán was then part of Tabuco (Cabuyao). Its name is written in various ways in Spanish documents – Biñan, Biñang, Viñan – and a local tradition links it to *binyagan*, "the place of baptism".
 
 ---
 
-**2.**  
-> *Matapos italaga ni Salcedo ang lugar bilang pag-aari ng Korona ng Espanya noong 1571...*
+**2. An estate for the college**
 
-**Vocabulary:**  
-- **matapos** – *after*  
-- **italaga** – *to appoint, designate* (root: *talaga*)  
-- **pag-aari** – *ownership* (root: *ari* = possession)  
-- **Korona** – *Crown* (of Spain)
+> *Ang kita nito ang tumutustos sa kolehiyo.*
 
-**Grammar:**  
-- Infinitive form *italaga* (command / future / neutral action).
+**Vocabulary:**
+- **unti-unting binuo** – *was gradually assembled* (root: *buo* = whole)
+- **asyenda** – *hacienda, estate*
+- **yugto** – *stage, phase*
+- **kita** – *income*
+- **tumutustos** – *funds, supports financially* (root: *tustos*)
+- **kaburulan** – *hills, hill country* (root: *burol* = hill)
+- **sakahin** – *to farm* (root: *saka*)
+- **pinanirahan** – *settled (people in a place)* (root: *tira* = to live)
+- **naglinis** – *cleared* (root: *linis* = clean)
+- **namuno** – *led, headed* (root: *puno*)
+- **inapo** – *descendant*
 
-**Translation:**  
-> After Salcedo designated the place as property of the Crown of Spain in 1571...
+**Grammar:**
+- *Unti-unting binuo* – the adverb *unti-unti* (little by little) is linked to the verb with *-ng*.
+- *Kaburulan* = *ka-* + *burol* + *-an* (o → u): a whole area of hills.
 
----
-
-**3.**  
-> *...naging bahagi ang Biñán ng sistemang encomienda at pagkaraan ay ng mga hacienda ng Simbahan.*
-
-**Vocabulary:**  
-- **encomienda** – *land grant system under Spanish rule*  
-- **pagkaraan** – *afterwards, later*  
-- **hacienda** – *large plantation estate*  
-- **Simbahan** – *Church*
-
-**Grammar:**  
-- Sequential narration (first encomienda, then hacienda).
-
-**Translation:**  
-> ...Biñán became part of the encomienda system and later the Church-owned haciendas.
+**Translation:**
+> From the 1640s the Dominicans of the College of Santo Tomás gradually assembled a great hacienda in Tabuco's territory, in three stages from 1641 to 1677. Its income supported the college. The Hacienda of Biñán reached from the lakeshore to the hills of Cavite and from San Pedro Tunasan to south of Santa Rosa. To farm it, the Dominicans also settled Christian Chinese from the Parián of Manila. One of them, Domingo Lam-co, cleared the land of today's Barangay Tubigan; his son Francisco Mercado led the town in 1783, and among his descendants was José Rizal.
 
 ---
 
-**4.**  
-> *Noong 1644, ginawa ng mga paring Dominiko na haciendang pang-agrikultura ang malawak na lupain dito...*
+**3. The fraud of 1743 and the revolts of 1745**
 
-**Vocabulary:**  
-- **ginawa** – *was made, turned into* (root: *gawa* = to make)  
-- **paring Dominiko** – *Dominican priests*  
-- **pang-agrikultura** – *for agriculture* (prefix *pang-* = for)
+> *Nagdala rin ng alitan ang asyenda.*
 
-**Grammar:**  
-- Passive completed (*ginawa*), object focus.
+**Vocabulary:**
+- **alitan** – *conflict, quarrel*
+- **sukatin** – *to measure* (root: *sukat*)
+- **kawani ng hukuman** – *court clerk*
+- **huwad** – *false, forged*
+- **karatig-bayan** – *neighbouring town*
+- **nag-alab** – *flared up, caught fire* (root: *alab* = flame)
+- **sinalakay** – *attacked* (root: *salakay*)
+- **pag-aalsa** – *uprising, revolt* (root: *alsa* = to rise)
+- **magsiyasat** – *to investigate* (root: *siyasat*)
+- **inagaw** – *seized, usurped* (root: *agaw*)
+- **sinang-ayunan** – *approved* (root: *sang-ayon* = agreement)
+- **pasya** – *decision*
 
-**Translation:**  
-> In 1644, the Dominican priests turned the vast land here into an agricultural hacienda.
+**Grammar:**
+- *Sukatin* = *sukat* + *-in*: object-focus infinitive, used here after *nang* ("when (they were) measured").
+- *Sinang-ayunan* = *-in-* + *sang-ayon* + *-an* (o → u): completed object focus, "(the king) approved (them)".
 
----
-
-**5.**  
-> *...tubo ang pangunahing itinatanim.*
-
-**Vocabulary:**  
-- **itinatanim** – *is planted* (root: *tanim* = plant)
-
-**Grammar:**  
-- Passive ongoing aspect: *i-* + *-in-* + repeated syllable *ta* + *tanim*.
-
-**Translation:**  
-> ...sugarcane was the main crop planted.
+**Translation:**
+> The hacienda also brought conflict. In 1743, when the lands of "the hacienda of Biñán, owned by the Dominican fathers" were measured, a court clerk named Juan Monroy used false measures that gave the friars more than half of the lands of the neighbouring town of Silang. The countryside flared up: in 1745 the people of Silang attacked the hacienda's lands, and the revolts spread to Taguig, Parañaque, Bacoor, Imus, San Mateo and much of Bulacan – the largest uprising of Christian Filipinos before 1896. Judge Pedro Calderón Enríquez, sent to investigate, punished the clerk, declared the usurped lands Crown property and returned them to the villages; in 1751 the king approved his decisions. But the friars' estates remained.
 
 ---
 
-**6.**  
-> *nagtayo ang mga prayle ng patubig at tanggulan ng tubig (prinsa)*
+**4. A town of its own**
 
-**Vocabulary:**  
-- **nagtayo** – *built, constructed* (root: *tayo* = to stand, build)  
-- **patubig** – *irrigation system* (root: *tubig* = water)
+> *Samantala, naging ganap na bayan ang Biñán.*
 
-**Grammar:**  
-- Actor-focus past tense (*nag- + root*).
+**Vocabulary:**
+- **samantala** – *meanwhile*
+- **ganap na** – *full, complete*
+- **isaayos** – *to reorganize, to put in order* (root: *ayos*)
+- **inihiwalay** – *was separated* (root: *hiwalay*)
+- **kabayanan** – *town centre*
+- **kura paroko** – *parish priest*
 
-**Translation:**  
-> The friars built an irrigation system and a water fortress (dam).
+**Grammar:**
+- *Nang muling isaayos* – "when (it) was reorganized again": after *nang* (when), the plain infinitive is often used for a past event.
+- *Inihiwalay* = *i-* + *-in-* + *hiwalay*: completed object focus.
 
----
-
-**7.**  
-> *nagsisilbing tanggapan ng pangangasiwa*
-
-**Vocabulary:**  
-- **nagsisilbing** – *serves as* (root: *silbi* = to serve)  
-- **tanggapan** – *office*  
-- **pangangasiwa** – *management* (root: *asiwa* = to manage)
-
-**Grammar:**  
-- Ongoing actor-focus: *nag-* + repeated syllable *si* + *silbi* → *nagsisilbi*, plus linker *-ng*.
-
-**Translation:**  
-> ...serving as the office for land management.
+**Translation:**
+> Meanwhile Biñán became a full town. In 1688, when the province of La Laguna was reorganized, it was separated from Tabuco, and on 4 February 1747 it became a full pueblo with its own town centre and barrios – the date the city still celebrates as its founding anniversary. According to tradition, Father José Monroy (1757) was its first parish priest and Antonio de Santa Rosa its first capitán. In 1791–92 the southern barrio of Santa Rosa was in turn separated to become a new town.
 
 ---
 
-**8.**  
-> *naipalaganap ang debosyon kay San Isidro Labrador.*
+**5. The rice of the hacienda**
 
-**Vocabulary:**  
-- **naipalaganap** – *was spread* (root: *laganap* = to spread)
+> *Palay ang yaman ng asyenda.*
 
-**Grammar:**  
-- Passive completed aspect (*nai- + palaganap*).
+**Vocabulary:**
+- **palay** – *rice (the plant, unhusked grain)*
+- **binhi** – *seed*
+- **ani** – *harvest*
+- **sanga** – *branch (here: tributary)*
+- **bakuran** – *yard, garden* (root: *bakod* = fence)
+- **umuupa** – *tenant* (root: *upa* = rent)
+- **kaban** – *cavan, a measure of grain*
+- **ikasampu** – *one tenth*
+- **paalisin** – *to evict* (root: *alis* = leave)
+- **magkasunod** – *consecutive* (root: *sunod* = follow)
+- **nagpapasaka** – *have (land) farmed by others* (root: *saka*)
+- **kasamá** – *sharecropper* (literally "companion")
+- **prinsa** – *dam* (from Spanish *presa*)
 
-**Translation:**  
-> ...the devotion to San Isidro Labrador was spread here.
+**Grammar:**
+- *Paalisin* = causative *pa-* + *alis* + *-in*: "to make (someone) leave" = to evict.
+- *Nagpapasaka* = *nag-* + *pa* + *pa* + *saka*: causative ongoing, "have others do the farming".
+- *Ikasampu* = *ika-* + *sampu*: ordinal / fraction "the tenth".
 
----
-
-**9.**  
-> *Noong 1747, opisyal na kinilala bilang pueblo.*
-
-**Vocabulary:**  
-- **opisyal** – *officially*  
-- **kinilala** – *recognized* (root: *kilala* = to know)
-
-**Grammar:**  
-- Passive completed form (*-in-* infix: *k-in-ilala*).
-
-**Translation:**  
-> In 1747, Biñán was officially recognized as a town (*pueblo*).
-
----
-
-**10.**  
-> *pinangangasiwaan nito ang mga kalapit na barrio.*
-
-**Vocabulary:**  
-- **pinangangasiwaan** – *is being managed* (root: *asiwa* = to manage)
-
-**Grammar:**  
-- Ongoing passive form: *pangasiwaan* (*pang-* + *asiwa* + *-an*), then *-in-* + repeated *nga* for continuous action.
-
-**Translation:**  
-> ...it managed the nearby barrios.
+**Translation:**
+> Rice was the hacienda's wealth. Around 1850, the geographers Buzeta and Bravo wrote that the Dominicans owned "all the land of Biñán" and that "rice makes its wealth": the harvest was fifty or sixty times the seed thanks to the river coming down from Mount Sungay; sugar cane, fruit trees and vegetables grew in the gardens. Tenants cleared and farmed the land rent-free for three or four years, then paid five cavans of rice for each cabalita of irrigated land – barely a tenth of the harvest – and could not be evicted unless they failed to pay two years running. Many tenants were rich men who had their land farmed by sharecroppers, the kasamá. The hacienda is said to have had a dozen dams; two remain, at Timbao and Soro-soro.
 
 ---
 
-**11.**  
-> *nahubog ang pampublikong buhay ng Biñán.*
+**6. A town of mestizos**
 
-**Vocabulary:**  
-- **nahubog** – *was shaped, molded* (root: *hubog* = to mold, shape)
+> *Pagsapit ng ika-19 na siglo, bayan na ng mga mestizo ang Biñán.*
 
-**Grammar:**  
-- Passive completed form (*na- + root*).
+**Vocabulary:**
+- **maunlad** – *prosperous* (root: *unlad*)
+- **tisa** – *roof tile*
+- **karangyaan** – *luxury* (root: *rangya*)
+- **halamanan** – *garden* (root: *halaman* = plant)
+- **kaluluwa** – *soul*
+- **pinaglilingkuran** – *is served* (root: *lingkod* = servant)
+- **nakadikit** – *attached, stuck* (root: *dikit*)
+- **koro** – *choir loft*
+- **sobra** – *surplus*
+- **hinabi** – *woven* (root: *habi*)
+- **bapor** – *steamboat* (from Spanish *vapor*)
+- **tumuloy** – *stayed (as a guest)* (root: *tuloy*)
+- **tuluyan** – *prose*
 
-**Translation:**  
-> The public life of Biñán was gradually shaped.
+**Grammar:**
+- *Pinaglilingkuran* = *pinag-* + repeated syllable + *lingkod* + *-an* (d → r): ongoing object focus, "is (regularly) served".
+- *Nakadikit dito* – *naka-* gives a state: "is (in the state of being) attached to it".
 
----
-
-**12.**  
-> *nakilala sa kalakalan at pagsasaka.*
-
-**Vocabulary:**  
-- **nakilala** – *became known* (root: *kilala* = to know, be famous)
-
-**Grammar:**  
-- Passive completed form (*na- + kilala*).
-
-**Translation:**  
-> ...became known for trade and farming.
-
----
-
-**13.**  
-> *ipinagdiriwang ang kapistahan.*
-
-**Vocabulary:**  
-- **ipinagdiriwang** – *is celebrated* (root: *diwang* = celebration, feast; *ipagdiwang* = to celebrate)
-
-**Grammar:**  
-- Passive ongoing form: *ipinag-* + repeated syllable *di* + *diwang* (the second *d* becomes *r* between vowels: *diriwang*).
-
-**Translation:**  
-> ...the feast is celebrated.
+**Translation:**
+> By the 19th century Biñán was a town of mestizos, prosperous Chinese-Filipino families who owned the finest houses, "not a few of stone and tile, a luxury found in few towns", with fruit gardens. It had 10,948 souls around 1850. Its church, "of good construction", was served by Filipino secular priests, while the house of the Dominican hacienda was attached to it through the choir loft. Good roads led to the neighbouring towns, and surplus rice and cloth woven by the women went to Manila across the lake, by casco and later by steamboat. In 1858–59 the governor of Hong Kong, Sir John Bowring, stayed with Don José Alberto, Rizal's uncle, and noted "an active trade between Biñán and Manila". The town's families included the Mercado, Alonso and Alberto, and it was the birthplace of Modesto de Castro, father of Tagalog prose, of Francisco Mercado, Rizal's father, and of the lawyer Ambrosio Rianzares Bautista.
 
 ---
 
-**14.**  
-> *idinaraos ang misa.*
+**7. The schoolboy of 1870**
 
-**Vocabulary:**  
-- **idinaraos** – *is being held* (root: *daos* = to hold an event)
+> *Noong 1870, dumating mula Calamba ang isang siyam na taong gulang na batang lalaki.*
 
-**Grammar:**  
-- Passive ongoing form: *i-* + *-in-* + repeated syllable *da* + *daos* (the second *d* becomes *r*: *idinaraos*).
+**Vocabulary:**
+- **siyam na taong gulang** – *nine years old*
+- **alaala** – *memoir, memory*
+- **nagpatuloy** – *took in, gave lodging* (root: *tuloy* = enter, stay)
+- **leeg** – *neck*; **matulis** – *pointed*
+- **pakikipag-away** – *fighting with someone* (root: *away* = quarrel)
+- **nagpatulong** – *asked for help* (root: *tulong*)
+- **tuyo** – *dried fish*
+- **pananda** – *marker* (root: *tanda* = sign)
+- **aklat-aralin** – *textbook*
+- **ginunita** – *recalled* (root: *gunita* = memory)
+- **kidlat** – *lightning*; **kampanaryo** – *bell tower*
 
-**Translation:**  
-> ...the mass is held.
+**Grammar:**
+- *Nagpatuloy sa kaniya* – causative *nagpa-*: "let him stay", i.e. lodged him.
+- *Pakikipag-away* = *pakikipag-* + *away*: the noun for doing something with another person – "fighting with".
 
----
-
-**15.**  
-> *nagkakapit-bisig sa polo y servicios.*
-
-**Vocabulary:**  
-- **nagkakapit-bisig** – *join arms, work together* (root: *kapit* = to cling + *bisig* = arm)  
-- **polo y servicios** – *forced communal labor system* (Spanish colonial term)
-
-**Grammar:**  
-- Actor-focus mutual action (*nagkakapit-bisig* shows collective effort).
-
-**Translation:**  
-> ...they joined forces whether during forced labor or in building houses.
+**Translation:**
+> In 1870 a nine-year-old boy arrived from Calamba to study Latin: José Rizal. In his memoirs he describes his aunt of over seventy who lodged him, his teacher Justiniano Aquino Cruz, "a tall, thin man with a long neck and a pointed nose", his fight with the teacher's son, the old painter Juancho who let him help with his pictures, and his days: Mass at four in the morning, class until ten and again in the afternoon, rice and two dried fish for breakfast. He left Biñán on the steamer Talim on Saturday, 17 December 1870. The 1948 marker at the site of his school says 1871, and textbooks often say 1869. In *Noli me tangere*, Rizal recalled that "in the year '70, when lightning struck Biñán", it hit the church tower and destroyed the clock and an altar.
 
 ---
 
-**16.**  
-> *naitatag bilang isang maunlad at makulay na bayan.*
+**8. The end of Spanish rule**
 
-**Vocabulary:**  
-- **naitatag** – *was established* (root: *tatag* = to establish)  
-- **maunlad** – *prosperous*  
-- **makulay** – *colorful, lively*
+> *Nagwakas sa rebolusyon ang pamamahala ng Espanya.*
 
-**Grammar:**  
-- Passive completed aspect (*nai- + root*).
+**Vocabulary:**
+- **nagwakas** – *ended* (root: *wakas* = end)
+- **pamamahala** – *rule, administration* (root: *bahala* = in charge)
+- **himpilan ng panustos** – *supply base* (*himpil* = station; *tustos* = supplies)
+- **iminungkahi** – *proposed* (root: *mungkahi*)
+- **sawikain** – *motto, saying*
+- **tapat** – *faithful, loyal*
+- **isinantabi** – *was set aside, was shelved* (root: *santabi*)
+- **sumulat at bumasa** – *wrote and read*
+- **kapalaran** – *fate* (root: *palad*)
+- **pagpapasyahan** – *will be decided* (root: *pasya*)
 
-**Translation:**  
-> ...was firmly established as a prosperous and colorful town.
+**Grammar:**
+- *Isinantabi* = *i-* + *-in-* + *santabi*: completed object focus, "was set aside".
+- *Pagpapasyahan* = *pag-* + repeated *pa* + *pasya* + *-han*: **future** object focus, "(it) will be decided".
 
----
-
-### Full Summary Table
-
-| Tagalog | English |
-|:---|:---|
-| Sa panahon ng pananakop ng Espanya, tuluyang nabago ang mukha ng Biñán. | During the Spanish colonization period, the face of Biñán was completely transformed. |
-| Matapos italaga ni Salcedo ang lugar bilang pag-aari ng Korona ng Espanya noong 1571, naging bahagi ang Biñán ng sistemang encomienda at pagkaraan ay ng mga hacienda ng Simbahan. | After Salcedo designated the area as property of the Spanish Crown in 1571, Biñán became part of the encomienda system and later of the Church's haciendas. |
-| Noong 1644, ginawa ng mga paring Dominiko na haciendang pang-agrikultura ang malawak na lupain dito – ang Hacienda de San Isidro Labrador de Biñán. | In 1644, the Dominican priests converted the vast lands here into an agricultural estate — the Hacienda de San Isidro Labrador de Biñán. |
-| Sa haciendang ito, tubo ang pangunahing itinatanim; bukod dito, may kaunting lupaing laan para sa mga naninirahan sa komunidad. | In this estate, sugarcane was the main crop planted; aside from this, a small portion of land was allocated for the community residents. |
-| Upang masaganang madilig ang mga pananim, nagtayo ang mga prayle ng patubig at isang tanggulan ng tubig (prinsa) sa Barrio Timbáo. | To abundantly irrigate the crops, the friars built an irrigation system and a water fortification (dam) in Barrio Timbáo. |
-| Ang pusod ng hacienda ay ang malaki at matibay na bahay na may kamalig at mga kuwadra ng kabayo – nagsisilbing tanggapan ng pangangasiwa sa lupain at kanlungan ng mga gamit sa pagsasaka. | The heart of the hacienda was a large, sturdy house with a granary and horse stables — serving as the administration center for the land and the shelter for farming equipment. |
-| Bagama’t masikap ang paggawa sa hacienda, inalagaan din ng mga Dominiko ang kapakanang panrelihiyon ng mga tao: dito unang naipalaganap ang debosyon kay San Isidro Labrador, ang magiging pintakasi ng Biñán. | Although the work in the hacienda was intense, the Dominicans also cared for the religious welfare of the people: here the devotion to San Isidro Labrador, who would become Biñán's patron, was first propagated. |
-| Noong 1747, matapos ang mahigit isang siglo bilang hacienda, ang Biñán ay opisyal na kinilala bilang isang pueblo o bayan. | In 1747, after more than a century as a hacienda, Biñán was officially recognized as a town or pueblo. |
-| Nagkaroon ng sariling población o kabayanan, kung saan itinayo ang simbahan at liwasan, at pinangangasiwaan nito ang mga kalapit na barrio. | It had its own town center where the church and plaza were built, and it administered the surrounding villages. |
-| Sa panahong ito, unti-unting nahubog ang pampublikong buhay ng Biñán: nagkaroon ng mga halal na opisyal ng bayan at sariling kura paroko. | During this period, Biñán's public life gradually took shape: there were elected town officials and its own parish priest. |
-| Naging unang kura paroko si Padre José Monroy noong 1757, at itinalaga niya si Antonio de Santa Rosa bilang kauna-unahang kapitan ng Biñán. | Father José Monroy became the first parish priest in 1757, and he appointed Antonio de Santa Rosa as the first town captain of Biñán. |
-| Sa mga sumunod na dekada, lalo pang lumago ang Biñán at nakilala ito sa kalakalan at pagsasaka. | In the following decades, Biñán grew even more and became known for trade and farming. |
-| Maraming mga pamilyang mestizo-Tsino ang umunlad dito, nakapag-ipon ng kayamanan mula sa pagtatanim ng tubo at pakikipagkalakalan. | Many Chinese-mestizo families prospered here, amassing wealth from sugarcane farming and trade. |
-| Sila ang nagpatayo ng malalaking bahay na bato sa paligid ng plaza na hanggang ngayon ay bahagi ng pamana ng lungsod. | They built large stone houses around the plaza, which remain part of the city's heritage today. |
-| Naging tampok din ang mga pistang bayan at tradisyon sa Biñán sa ilalim ng mga Espanyol. | Town fiestas and traditions also became prominent in Biñán under Spanish rule. |
-| Tuwing buwan ng Mayo, ipinagdiriwang ng mga taga-Biñán ang kapistahan ni San Isidro Labrador sa pamamagitan ng prusisyon, sabungan, sayawan, at salu-salo. | Every May, Biñán residents celebrate the feast of San Isidro Labrador with processions, cockfights, dances, and feasts. |
-| Ang simbahan ng Biñán ang sentro ng espiritwal na buhay. | The church of Biñán was the center of spiritual life. |
-| Sa kabuuan, nanatiling buhay ang diwa ng bayanihan at pananampalataya sa mga mamamayan. | Overall, the spirit of communal unity and faith remained alive among the people. |
-| Bago matapos ang panahon ng Espanyol noong 1898, ang Biñán ay matatag nang naitatag bilang isang maunlad at makulay na bayan. | Before the end of Spanish rule in 1898, Biñán was firmly established as a prosperous and vibrant town. |
-
+**Translation:**
+> Spanish rule ended in revolution. In 1896–97, Biñán and Santa Rosa served as supply bases and temporary hospitals for the Spanish soldiers fighting the revolutionaries in Cavite, and on 19 January 1898 the provincial junta even proposed to make them villas with the motto "Siempre fiel y leal" – "ever faithful and loyal". The request was set aside when Emilio Aguinaldo returned. A few months later, on 12 June 1898, a son of Biñán, Ambrosio Rianzares Bautista, wrote and read the Act of the Proclamation of Independence at Kawit, and by the end of August the whole province of La Laguna was in Filipino hands. The fate of the friar lands would be decided under the Americans.
 
 ---
 
 ### Full Verb Breakdown Table
 
-| Verb in Text | Root Word | Form | Aspect | Voice | Construction | Meaning / Notes |
-|:-------------|:----------|:-----|:-------|:------|:-------------|:----------------|
-| nabago | bago | Completed (Past) | Object | na- + bago | was changed |
-| italaga | talaga | Neutral / Infinitive | Object | i- + talaga | to designate |
-| ginawa | gawa | Completed (Past) | Object | gi- + gawa | was made |
-| itinatanim | tanim | Ongoing (Present) | Object | i- + -in- + ta (repeated) + tanim | is being planted |
-| nagtayo | tayo | Completed (Past) | Actor | nag- + tayo | built |
-| nagsisilbing | silbi | Ongoing (Present) | Actor | nag- + si (repeated) + silbi + -ng | serving as |
-| naipalaganap | laganap | Completed (Past) | Object | nai- + palaganap | was spread |
-| kinilala | kilala | Completed (Past) | Object | -in- + kilala | was recognized |
-| pinangangasiwaan | asiwa | Ongoing (Present) | Object | pang- + asiwa + -an, -in- + nga (repeated) | is being managed |
-| nahubog | hubog | Completed (Past) | Object | na- + hubog | was shaped |
-| nakilala | kilala | Completed (Past) | Object | na- + kilala | became known |
-| ipinagdiriwang | diwang | Ongoing (Present) | Object | ipinag- + di (repeated, d → r) + diwang | is celebrated |
-| idinaraos | daos | Ongoing (Present) | Object | i- + -in- + da (repeated, d → r) + daos | is being held |
-| nagkakapit-bisig | kapit + bisig | Ongoing (Present) | Actor Mutual | nagkaka- + kapit + bisig | joining forces |
-| naitatag | tatag | Completed (Past) | Object | nai- + tatag | was firmly established |
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| ipinagkaloob | kaloob | Completed | Object | ipag- + -in- + kaloob | were granted |
+| nagsimula | simula | Completed | Actor | nag- + simula | began |
+| iniuugnay | ugnay | Ongoing | Object | i- + -in- + u + ugnay | is linked |
+| binuo | buo | Completed | Object | -in- + buo | was assembled |
+| tumutustos | tustos | Ongoing | Actor | -um- + tu + tustos | supports (financially) |
+| umaabot | abot | Ongoing | Actor | um- + a + abot | reaches |
+| sakahin | saka | Infinitive | Object | saka + -hin | to farm |
+| pinanirahan | tira | Completed | Object (place) | -in- + panirahan | was settled |
+| naglinis | linis | Completed | Actor | nag- + linis | cleared |
+| namuno | puno | Completed | Actor | nang- + puno (p → m) | led |
+| sukatin | sukat | Infinitive | Object | sukat + -in | to measure |
+| gumamit | gamit | Completed | Actor | -um- + gamit | used |
+| nag-alab | alab | Completed | Actor | nag- + alab | flared up |
+| sinalakay | salakay | Completed | Object | -in- + salakay | was attacked |
+| kumalat | kalat | Completed | Actor | -um- + kalat | spread |
+| ipinadala | dala | Completed | Object (causative) | ipa- + -in- + dala | was sent |
+| ipinahayag | hayag | Completed | Object | ipa- + -in- + hayag | declared |
+| inagaw | agaw | Completed | Object | in- + agaw | was seized |
+| ibinalik | balik | Completed | Object | i- + -in- + balik | was returned |
+| sinang-ayunan | sang-ayon | Completed | Object | -in- + sang-ayon + -an | was approved |
+| isaayos | ayos | Infinitive | Object | i- + sa + ayos | to reorganize |
+| inihiwalay | hiwalay | Completed | Object | i- + -in- + hiwalay | was separated |
+| ipinagdiriwang | diwang | Ongoing | Object | ipag- + -in- + di + diwang | is celebrated |
+| bumubuo | buo | Ongoing | Actor | -um- + bu + buo | makes up |
+| tumutubo | tubo | Ongoing | Actor | -um- + tu + tubo | grows |
+| naglilinis | linis | Ongoing | Actor | nag- + li + linis | clears |
+| nagbabayad | bayad | Ongoing | Actor | nag- + ba + bayad | pays |
+| paalisin | alis | Infinitive | Object (causative) | pa- + alis + -in | to evict |
+| nagpapasaka | saka | Ongoing | Actor (causative) | nag- + pa + pa + saka | have (land) farmed |
+| idineklara | deklara | Completed | Object | i- + -in- + deklara | was declared |
+| nagmamay-ari | may-ari | Ongoing | Actor | nag- + ma + may-ari | owns |
+| pinaglilingkuran | lingkod | Ongoing | Object | pinag- + li + lingkod + -an | is served |
+| dinadala | dala | Ongoing | Object | -in- + da + dala | is carried |
+| hinabi | habi | Completed | Object | -in- + habi | was woven |
+| tumuloy | tuloy | Completed | Actor | -um- + tuloy | stayed |
+| napansin | pansin | Completed | Object | na- + pansin | noticed |
+| isinilang | silang | Completed | Object | i- + -in- + silang | was born |
+| lumipat | lipat | Completed | Actor | -um- + lipat | moved |
+| inilalarawan | larawan | Ongoing | Object | i- + -in- + la + larawan | describes |
+| nagpatuloy | tuloy | Completed | Actor (causative) | nagpa- + tuloy | lodged |
+| nagpatulong | tulong | Completed | Actor (causative) | nagpa- + tulong | asked for help |
+| umalis | alis | Completed | Actor | um- + alis | left |
+| itinayo | tayo | Completed | Object | i- + -in- + tayo | was set up |
+| ginunita | gunita | Completed | Object | -in- + gunita | recalled |
+| tumama | tama | Completed | Actor | -um- + tama | hit |
+| nagwakas | wakas | Completed | Actor | nag- + wakas | ended |
+| nagsilbi | silbi | Completed | Actor | nag- + silbi | served |
+| iminungkahi | mungkahi | Completed | Object | i- + -in- + mungkahi | was proposed |
+| isinantabi | santabi | Completed | Object | i- + -in- + santabi | was shelved |
+| bumalik | balik | Completed | Actor | -um- + balik | returned |
+| pagpapasyahan | pasya | Future | Object | pag- + pa + pasya + -han | will be decided |
 
 ---
-
-### Visual Diagram of New Verb Constructions
-
----
-
-#### 1. **nabago** (was changed)
-
-```
-Root: bago → new/change
-+ na- → nabago → was changed (completed passive)
-```
-
----
-
-#### 2. **italaga** (to designate)
-
-```
-Root: talaga → to set, dedicate
-+ i- → italaga → to designate (neutral, object focus)
-```
-
----
-
-#### 3. **nagtayo** (built)
-
-```
-Root: tayo → stand/build
-+ nag- → nagtayo → built (completed, actor focus)
-```
-
----
-
-#### 4. **itinatanim** (is being planted)
-
-```
-Root: tanim → plant
-+ i- + -in- + repeated ta → itinatanim → is being planted (ongoing, passive)
-```
-
----
-
-#### 5. **nagsisilbing** (serving as)
-
-```
-Root: silbi → serve
-+ nag- + repeated si → nagsisilbi → serving (ongoing actor focus)
-+ linker -ng → nagsisilbing → serving as
-```
-
----
-
-#### 6. **naipalaganap** (was spread)
-
-```
-Root: laganap → spread
-+ nai- → naipalaganap → was spread (completed passive)
-```
-
----
-
-#### 7. **ipinagdiriwang** (is celebrated)
-
-```
-Root: diwang → celebration, feast
-+ ipag- → ipagdiwang → to celebrate
-+ ipinag- + repeated di (d → r) → ipinagdiriwang → is being celebrated (ongoing passive)
-```
-
 
 ## American Period / Panahon ng Amerikano
 ---
