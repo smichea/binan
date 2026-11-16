@@ -84,7 +84,7 @@ Several primary sites were unreachable during research (LLDA llda.gov.ph: connec
 - ✅ **Fisheries.**
   - Early 1960s: the catch (about 83,000 t/yr) was **95 % ayungin** (*Leiopotherapon/Therapon plumbeus*, endemic to the Philippines), **biyang puti** (*Glossogobius giuris*) and **kanduli** (*Arius/Neoarius manillensis*, endemic).
   - Twenty years later, native species had collapsed. Introduced or farmed species took over: **tilapia** and **bangus** (milkfish, a marine fish raised in pens), plus **knifefish** (*Chitala ornata*, invasive since about 2008) and janitor fish.
-  - SEAFDEC/AQD, LakeCon2003 paper (catch history): https://repository.seafdec.org.ph/handle/10862/6120
+  - ~~SEAFDEC/AQD, LakeCon2003 paper: https://repository.seafdec.org.ph/handle/10862/6120~~ (erreur : ce handle concerne le lac Manguao, à Palawan). Bonne source pour l'histoire des prises : Bagarinao, « The decline of native fishes and fisheries and the rise of aquaculture in lakes and rivers in the Philippines », SEAFDEC, 2001, https://repository.seafdec.org.ph/handle/10862/834 (résumé : « ayungin », « biyang puti » et « kanduli » = 95 % des 83 000 t annuelles au début des années 1960 ; effondrement vers 1970).
   - Fishers' perceptions study (2022), all native species in decline: https://research.ucc.ie/en/publications/fishers-perspectives-the-drivers-behind-the-decline-in-fish-catch/
   - BFAR, "disappearing endemic fishes": https://newsinfo.inquirer.net/290234/bfar-raises-alarm-over-disappearing-endemic-fishes
 - ✅ **Fish pens and cages.**

@@ -51,13 +51,12 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 ### Vocabulary and Grammar Explanation
 
 **1. Between the lake and the plateau · Sa pagitan ng lawa at ng talampas**
-> *Ang Biñan ay sumasakop sa isang makitid na lupain na humigit-kumulang 43.5 kilometro kuwadrado sa kanlurang pampang ng Lawa ng Laguna.*
+> *Ang Biñan ay sumasakop sa isang makitid na lupain na mga 40 hanggang 44 kilometro kuwadrado sa kanlurang pampang ng Lawa ng Laguna.*
 
 **Vocabulary:**
 - **sumasakop** – *occupies, covers* (root: *sakop* = scope, territory)
 - **makitid** – *narrow* (root: *kitid*)
 - **lupain** – *land, territory* (root: *lupa* = soil, land)
-- **humigit-kumulang** – *more or less, approximately* (from *higit* = more and *kulang* = less)
 - **pampang** – *shore, bank*; **baybayin** – *coast, shoreline*
 - **dahan-dahang tumataas** – *rises gently* (*dahan-dahan* = slowly; root of the verb: *taas* = height)
 - **talampas** – *plateau*
@@ -72,7 +71,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Kanlurang pampang* – the linker *-ng* joins the adjective *kanluran* (western) to the noun.
 
 **Translation:**
-> Biñan occupies a narrow strip of land of about 43.5 square kilometres on the western shore of Laguna de Bay, some 35 kilometres south of Manila. From the lakeshore, barely 2 metres above sea level, the land rises gently westward toward the plateau of Carmona and Silang; the Poblacion stands at about 12 metres. On a clear day, volcanoes close the horizon: Mount Makiling, Mount Banahaw behind it, and to the southwest the Tagaytay ridge, the rim of the caldera that hides Taal Volcano, only 39 km away.
+> Biñan occupies a narrow strip of land of some 40 to 44 square kilometres (43.5 according to the city, 40.27 according to the national statistics of 2013) on the western shore of Laguna de Bay, some 35 kilometres south of Manila. From the lakeshore, barely 2 metres above sea level, the land rises gently westward toward the plateau of Carmona and Silang; the Poblacion stands at about 12 metres. On a clear day, volcanoes close the horizon: Mount Makiling, Mount Banahaw behind it, and to the southwest the Tagaytay ridge, the rim of the caldera that hides Taal Volcano, only 38 km away.
 
 ---
 
@@ -268,7 +267,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Pinatutubigan* = *pa-* + *tubig* + *-an* with *-in-* and reduplication: "is (regularly) given water", i.e. irrigated.
 
 **Translation:**
-> Volcanic ash, river silt and flat land made Biñan fertile: its soils, formed on tuff and volcanic ash, are deep and rich in clay. For centuries this land fed rice fields and sugarcane fields watered by canals – the *patubigan* that gave its name to Barangay Tubigan. In the last fifty years the expressways, the railway and the industrial parks have turned these fields into a city, and all 24 barangays are now urban. The next chapters tell how people came to live on this shore, between the fire, the fault and the lake.
+> Volcanic ash, river silt and flat land made Biñan fertile: the soils of this part of the Cavite–Laguna plateau, formed on tuff, are mostly deep clays and clay loams, and the plain near the lake is almost level. For centuries this land fed rice fields and sugarcane fields watered by canals – the *patubigan* that gave its name to Barangay Tubigan. In the last fifty years the expressways, the railway and the industrial parks have turned these fields into a city, and all 24 barangays are now urban. The next chapters tell how people came to live on this shore, between the fire, the fault and the lake.
 
 ---
 
@@ -335,7 +334,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Nakaaalam* = *naka-* + repeated syllable *a* + *alam*: "one who knows" – with *wala* (none): "no one knows".
 
 **Translation:**
-> The story of the first people on the shores of Laguna de Bay begins in faraway Africa, where the human family was born. About 1.8 million years ago, early humans had already left Africa: their bones and tools were found at Dmanisi in Georgia. *Homo erectus* reached Java 1.5 to 1.3 million years ago. Java, Sumatra and Borneo could then be reached on foot, but further east, beyond the Wallace Line, the islands were always separated from the continent by deep sea. Luzon was never joined to any continent. To reach it, early humans had to cross the sea – by accident on rafts of vegetation, or on purpose; nobody knows.
+> The story of the first people on the shores of Laguna de Bay begins in faraway Africa, where the human family was born. About 1.8 million years ago, early humans had already left Africa: their bones and tools were found at Dmanisi in Georgia. *Homo erectus* reached Java about 1.3 million years ago, and no earlier than 1.5 million years ago. Java, Sumatra and Borneo could then be reached on foot, but further east, beyond the Wallace Line, the islands were always separated from the continent by deep sea. Luzon was never joined to any continent. To reach it, early humans had to cross the sea – by accident on rafts of vegetation, or on purpose; nobody knows.
 
 ---
 
@@ -450,7 +449,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Inukit* = *-in-* + *ukit*; with a root starting with a vowel, *-in-* goes in front: *in + ukit*.
 
 **Translation:**
-> Traces of this ancient time have been found around the lake. In the valleys of Baras, in Rizal, stone tools are estimated from their shape to be 50,000 to 20,000 years old, and small blades of obsidian and chert come from Baras, Tanay and Pililla. On a tuff cliff in Binangonan, the painter Carlos "Botong" Francisco reported in 1965 more than a hundred figures carved in the rock: the Angono–Binangonan Petroglyphs, declared a National Cultural Treasure in 1973. In 2013, in Barangay Puypuy, Bay, a family dug up hundreds of pieces of earthen jars in their yard; archaeologists of the University of the Philippines identified them as burial jars perhaps 2,800 years old. Far away in Palawan, the Manunggul Jar shows on its lid two figures in a boat carrying a soul to the afterlife.
+> Traces of this ancient time have been found around the lake. In the valleys of Baras, in Rizal, stone tools are estimated from their shape to be 50,000 to 20,000 years old, and small blades of obsidian and chert come from Baras, Tanay and Pililla. On a tuff cliff in Binangonan, the painter Carlos "Botong" Francisco documented in 1965 more than a hundred figures carved in the rock (179 according to the National Museum): the Angono–Binangonan Petroglyphs, declared a National Cultural Treasure in 1973; museum scientists have suggested a date around 3000 BCE, but their age cannot be established. In 2013, in Barangay Puypuy, Bay, a family dug up hundreds of pieces of earthen jars in their yard; archaeologists of the University of the Philippines identified them as burial jars perhaps 2,800 years old. Far away in Palawan, the Manunggul Jar shows on its lid two figures in a boat carrying a soul to the afterlife.
 
 ---
 
@@ -597,7 +596,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Pinagtatalunan* = *pinag-* + repeated syllable + *talo* + *-an* (o → u): ongoing, "is argued about".
 
 **Translation:**
-> The oldest written document found in the Philippines comes from this lake. In the late 1980s, a worker digging sand near the mouth of the Lumbang River found a thin copper plate covered with writing, dated 21 April 900. Written mostly in Old Malay, in the Kawi script of Java, the Laguna Copperplate Inscription is a receipt: on behalf of the chief of Tundun (Tondo), it frees the descendants of a man named Namwaran from a debt of about 865 grams of gold, before witnesses from Pailah, Puliran and Binuangan. Scholars still debate where these places were; none of them is Biñan. But the plate shows that by the year 900 the lake belonged to a world of writing, gold, debts and titles linked to Java and Sumatra.
+> The oldest written document found in the Philippines comes from this lake. In the late 1980s, a worker digging sand near the mouth of the Lumbang River found a thin copper plate covered with writing, dated 21 April 900. Written mostly in Old Malay, in the Kawi script of Java, the Laguna Copperplate Inscription is a receipt: on behalf of the chief of Tundun (Tondo), it frees the descendants of a man named Namwaran from a debt of one kati and eight suwarna (weights of gold), before witnesses from Pailah, Puliran and Binuangan. Scholars still debate where these places were; none of them is Biñan. But the plate shows that by the year 900 the lake belonged to a world of writing, gold, debts and titles linked to Java and Sumatra.
 
 ---
 
@@ -625,7 +624,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Hindi pa napatutunayan* – "not yet proven": *napa-* + reduplication + *tunay* + *-an* = can be shown to be true.
 
 **Translation:**
-> The lake was also part of Asia's trade routes. Chinese records mention merchants from a country called Ma-i as early as 971. In 1225, the Chinese official Zhao Rugua described Ma-i: big villages on both banks of a river, Chinese ships anchored before the "official place" where trade took place, local chiefs given white umbrellas, and goods exchanged on credit – cotton, wax, tortoiseshell, betel nut and cloth for porcelain, gold, iron pots, lead, glass beads and needles. Ma-i is usually placed on Mindoro, but Go Bon Juan proposed that it may be Ba-i, the town of Bay – an attractive but unproven idea. What is certain is that at Pinagbayanan, in Pila, archaeologists excavated some 241 graves of the 12th to 14th centuries, with Song and Yuan porcelain, cremations, net weights, spindle whorls and traces of rice farming, cotton weaving and ironworking.
+> The lake was also part of Asia's trade routes. Chinese records mention merchants from a country called Ma-i as early as 982. In 1225, the Chinese official Zhao Rugua described Ma-i: big villages on both banks of a river, Chinese ships anchored before the "official place" where trade took place, local chiefs given white umbrellas, and goods exchanged on credit – cotton, wax, tortoiseshell, betel nut and cloth for porcelain, gold, iron pots, lead, glass beads and needles. Ma-i is usually placed on Mindoro, but Go Bon Juan proposed that it may be Ba-i, the town of Bay – an attractive but unproven idea. What is certain is that at Pinagbayanan, in Pila, archaeologists excavated some 241 graves of the 12th to 14th centuries, with Song and Yuan porcelain, cremations, net weights, spindle whorls and traces of rice farming, cotton weaving and ironworking.
 
 ---
 
@@ -966,13 +965,24 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **sumulat at bumasa** – *wrote and read*
 - **kapalaran** – *fate* (root: *palad*)
 - **pagpapasyahan** – *will be decided* (root: *pasya*)
+- **pumanig** – *sided with* (root: *panig* = side)
+- **nag-alsa** – *rose up, rebelled* (root: *alsa*)
+- **binalaan** – *were warned* (root: *babala* = warning)
+- **parokyano** – *parishioner*
+- **sumuko** – *surrendered* (root: *suko*)
+- **paggunita** – *recollection, remembering* (root: *gunita*)
+- **hayagan** – *open, declared* (root: *hayag*)
+- **kaaway** – *enemy* (root: *away* = quarrel)
+- **tumanggi** – *refused* (root: *tanggi*)
+- **palayaw** – *nickname*
+- **kasalanan** – *fault, guilt* (root: *sala*)
 
 **Grammar:**
 - *Isinantabi* = *i-* + *-in-* + *santabi*: completed object focus, "was set aside".
 - *Pagpapasyahan* = *pag-* + repeated *pa* + *pasya* + *-han*: **future** object focus, "(it) will be decided".
 
 **Translation:**
-> Spanish rule ended in revolution. In 1896–97, Biñan and Santa Rosa served as supply bases and temporary hospitals for the Spanish soldiers fighting the revolutionaries in Cavite, and on 19 January 1898 the provincial junta even proposed to make them villas with the motto "Siempre fiel y leal" – "ever faithful and loyal". The request was set aside when Emilio Aguinaldo returned. A few months later, on 12 June 1898, a son of Biñan, Ambrosio Rianzares Bautista, wrote and read the Act of the Proclamation of Independence at Kawit, and by the end of August the whole province of La Laguna was in Filipino hands. The fate of the friar lands would be decided under the Americans.
+> Spanish rule ended in revolution. In 1896–97, Biñan and Santa Rosa served as supply bases and temporary hospitals for the Spanish soldiers fighting the revolutionaries in Cavite, and on 19 January 1898 the provincial junta even proposed to make them villas with the motto "Siempre fiel y leal" – "ever faithful and loyal". The request was set aside when Emilio Aguinaldo returned. A few months later, on 12 June 1898, a son of Biñan, Ambrosio Rianzares Bautista, wrote and read the Act of the Proclamation of Independence at Kawit. Biñan had by then gone over to the revolution: it had risen before Calamba, and its friars, warned in time by their parishioners, had escaped to Manila. On 6 June the Spanish friars and soldiers who had surrendered at Calamba were brought to Biñan by boat – a town "once so Spanish and our friend", one of the friars recalled, "and now full of people who received us as open enemies." The leader of its revolutionaries and new presidente, Pedro de León, known by the nickname "Palañac", at first refused to give them the boat they needed to reach Manila: "let the friars stay here: they are to blame for everything that is happening." By the end of August the whole province of La Laguna was in Filipino hands. The fate of the friar lands would be decided under the Americans.
 
 ---
 
@@ -1103,13 +1113,16 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **nabihag** – *were taken prisoner* (root: *bihag*)
 - **lumulusong** – *wading* (root: *lusong*)
 - **suyurin** – *to comb, to scour* (root: *suyod* = comb)
+- **naaalala** – *remembers* (root: *alala*)
+- **nakatakas** – *managed to escape* (root: *takas*)
+- **malamang** – *probably*
 
 **Grammar:**
 - *Kakahuyan* = *ka-* + repeated syllable + *kahoy* + *-an* (o → u): "a place full of trees".
 - *Suyurin* = *suyod* + *-in* (d → r): object-focus infinitive.
 
 **Translation:**
-> Biñan was on the front line. In 1899 it was the base of General Mariano Noriel's Filipino brigade, whose trenches ran from Calamba to Santa Rosa. On 2 January 1900, American volunteers of the 39th Infantry advanced from Santa Rosa: there was a sharp clash at the bridge into town, and they took Biñan after an hour. In the presidente's office they seized Filipino flags and military papers – but they were ordered back to Calamba the next day. On 6 January, General Schwan's brigade came from Muntinlupa and San Pedro across the rice fields, defeated Noriel's rearguard in a wood north of the town – 18 Filipinos reported killed and 25 captured – and unloaded its rations from cascos, the soldiers wading through rough water. On 7 January a battalion of the 46th Infantry was left "to garrison Biñan, establish civil government and scour the surroundings".
+> Biñan was on the front line. In 1899 it was the base of General Mariano Noriel's Filipino brigade, whose trenches ran from Calamba to Santa Rosa. On 2 January 1900, American volunteers of the 39th Infantry advanced from Santa Rosa: there was a sharp clash at the bridge into town, and they took Biñan after an hour. In the presidente's office they seized Filipino flags and military papers – but they were ordered back to Calamba the next day. On 6 January, General Schwan's brigade came from Muntinlupa and San Pedro across the rice fields, defeated Noriel's rearguard in a wood north of the town – 18 Filipinos reported killed and 25 captured – and unloaded its rations from cascos, the soldiers wading through rough water. On 7 January a battalion of the 46th Infantry was left "to garrison Biñan, establish civil government and scour the surroundings". Half a century later, Canlalay still remembered that 275 revolutionaries led by one Eligio Masangkay fought the Americans there, and that only 30 of them escaped; 1898 is the date written in the barrio's history of 1953, but the fight most probably took place in these days of January 1900.
 
 ---
 
@@ -1126,13 +1139,16 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **kakila-kilabot** – *terrible* (root: *kilabot* = horror)
 - **pinagbayad** – *were made to pay* (root: *bayad*)
 - **kahabag-habag** – *pitiful, distressed* (root: *habag* = pity)
+- **nagsimula** – *began* (root: *simula*)
+- **nangangasiwa** – *is in charge of, manages*
+- **ikasiyam** – *ninth* (root: *siyam* = nine)
 
 **Grammar:**
 - *Kakila-kilabot* and *kahabag-habag* use the pattern *ka-* + repeated root: "worthy of horror", "worthy of pity".
 - *Hindi na pinagbayad* – "were no longer made to pay": *pinag-* + *bayad*, completed object focus.
 
 **Translation:**
-> For two years Biñan was a garrison town. In December 1901, General Bell ordered the people of "all towns in the provinces of Batangas and Laguna" to move into guarded zones with their rice and animals; anything left outside could be confiscated or destroyed, and men could not leave without a pass. At least 100,000 people were gathered in the two provinces, and thousands died of hunger and disease. On 18 February 1902 a battalion of "Tiradores" surrendered to the American commander of Biñan, and in May and June 1902 the post went through "a terrible cholera epidemic". When civil government returned to La Laguna on 1 July 1902, its people were spared that year's land tax "in view of their distressed condition".
+> For two years Biñan was a garrison town. In December 1901, General Bell ordered the people of "all towns in the provinces of Batangas and Laguna" to move into guarded zones with their rice and animals; anything left outside could be confiscated or destroyed, and men could not leave without a pass. At least 100,000 people were gathered in the two provinces, and thousands died of hunger and disease. On 18 February 1902 a battalion of "Tiradores" surrendered to the American commander of Biñan, and in May and June 1902 the post went through "a terrible cholera epidemic". The town remembers where it began: on 23 May 1902, according to its history written in 1953, in the house of Vicente Almeda, the hermano mayor who was in charge of the celebration of the ninth day of the patron's feast. When civil government returned to La Laguna on 1 July 1902, its people were spared that year's land tax "in view of their distressed condition".
 
 ---
 
@@ -1216,13 +1232,17 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **pinasinayaan** – *was inaugurated* (root: *pasinaya* = inauguration)
 - **paghahanda** – *preparation* (root: *handa*)
 - **plebisito** – *plebiscite*
+- **karahasan** – *violence* (root: *dahas*)
+- **sinaksak** – *was stabbed* (root: *saksak*)
+- **dinadala** – *was being taken* (root: *dala*)
+- **sinuspinde** – *suspended*
 
 **Grammar:**
 - *Manghahabi* = *mang-* + repeated syllable + *habi*: the person who weaves.
 - *Pinasinayaan* = *-in-* + *pasinaya* + *-an*: completed object focus, "was inaugurated".
 
 **Translation:**
-> In the 1920s and 1930s Biñan grew slowly, a town of rice fields, shoemakers, hat weavers and puto makers by the road and the railway to Manila. Its population reached 16,238 in 1939. In 1935 the Commonwealth of the Philippines was inaugurated as a ten-year preparation for independence, and in 1937 Filipino women, Encarnación Alzona among their leaders, voted for the first time in a plebiscite on their own right to vote. Four years later, war came again.
+> In the 1920s and 1930s Biñan grew slowly, a town of rice fields, shoemakers, hat weavers and puto makers by the road and the railway to Manila. Its population reached 16,238 in 1939. Nor was the town spared violence: on 9 April 1938 Mayor Julio A. Antiporda was stabbed inside the municipal hall itself and died while being taken to hospital; President Quezon suspended the town's entire police force. In 1935 the Commonwealth of the Philippines was inaugurated as a ten-year preparation for independence, and in 1937 Filipino women, Encarnación Alzona among their leaders, voted for the first time in a plebiscite on their own right to vote. Four years later, war came again.
 
 ---
 
@@ -1304,7 +1324,8 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **unahan** – *front, vanguard* (root: *una* = first)
 - **kabisera** – *capital city*
 - **nasakop** – *was conquered, occupied* (root: *sakop*)
-- **nanirahan** – *settled, lived* (root: *tira*)
+- **nakapangalan** – *named after* (root: *pangalan* = name)
+- **mabihag** – *to be captured* (root: *bihag* = captive)
 - **Martsa ng Kamatayan** – *Death March*
 
 **Grammar:**
@@ -1312,7 +1333,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Nasakop ang Biñan nang walang labanan* – *na-* + *sakop*: a completed, non-volitional object focus ("ended up occupied"). *Nang walang* = "without".
 
 **Translation:**
-> War came to Biñan from the south-east. On 8 December 1941, a few hours after Pearl Harbor was attacked, Japanese planes bombed Luzon. On 24 December the Japanese 16th Division landed at Lamon Bay, on the Pacific coast of Tayabas, with orders to cross the mountains westward along Route 1, then go north along the shore of Laguna de Bay to Manila. The Filipino and American soldiers of the South Luzon Force retreated around the lake toward Bataan. By 1 January 1942 the Japanese vanguard was on Manila Bay, and on 2 January it entered the capital from the south. The road it took – Route 1, through Calamba, Biñan and Muntinlupa – crosses the Poblacion: Biñan was occupied without a fight in the first days of 1942. On Bataan, Brigadier General Mateo Capinpin, who later lived in Biñan, led the 21st Division of the Philippine Army until the surrender of April 1942 and the Death March that followed.
+> War came to Biñan from the south-east. On 8 December 1941, a few hours after Pearl Harbor was attacked, Japanese planes bombed Luzon. On 24 December the Japanese 16th Division landed at Lamon Bay, on the Pacific coast of Tayabas, with orders to cross the mountains westward along Route 1, then go north along the shore of Laguna de Bay to Manila. The Filipino and American soldiers of the South Luzon Force retreated around the lake toward Bataan. By 1 January 1942 the Japanese vanguard was on Manila Bay, and on 2 January it entered the capital from the south. The road it took – Route 1, through Calamba, Biñan and Muntinlupa – crosses the Poblacion: Biñan was occupied without a fight in the first days of 1942. On Bataan, Brigadier General Mateo Capinpin, whose name a street of Biñan now bears, led the 21st Division of the Philippine Army until he was captured by the Japanese on 5 April 1942, four days before the surrender and the Death March that followed.
 
 ---
 
@@ -1361,6 +1382,18 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **malupit** – *cruel*
 - **itinatag** – *was founded* (root: *tatag*)
 - **maka-Hapon** – *pro-Japanese* (*maka-* = in favour of)
+- **garison** – *garrison*
+- **pinaghihinalaan** – *suspected (people)* (root: *hinala*)
+- **lihim** – *secret*
+- **samahan** – *organization, association* (root: *sama* = go with)
+- **isinama** – *was joined, included* (root: *sama*)
+- **dinakip** – *was arrested, seized* (root: *dakip*)
+- **punong-himpilan** – *headquarters* (root: *himpil* = to halt, station)
+- **pinahirapan** – *was tortured, made to suffer* (root: *hirap*)
+- **nagligtas** – *saved, rescued* (root: *ligtas* = safe)
+- **madaling-araw** – *dawn*
+- **tungkulin** – *duty*
+- **kapanganakan** – *birth* (root: *anak*)
 
 **Grammar:**
 - *Inaaresto* – the repeated first syllable (*a-a-resto*) with no affix marks ongoing or habitual action, here in object focus (*-in-* is dropped before a vowel-initial loanword).
@@ -1369,6 +1402,8 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 
 **Translation:**
 > Behind ordinary life there was fear. The Kempeitai, the Japanese military police, arrested suspected guerrillas, and torture was common. Gustavo Ingles, a Hunters-ROTC officer captured in June 1943, was tortured at Fort Santiago and then imprisoned at New Bilibid Prison in Muntinlupa, only a few kilometres north of Biñan; on 24 June 1944 a guerrilla raid freed him. As the Americans drew near, the occupiers became even crueller. In December 1944 the Makapili was founded, a pro-Japanese militia whose members fought alongside the Japanese in Rizal, Laguna and Bulacan.
+>
+> In Biñan itself the Japanese had a garrison, where suspects were imprisoned. The teachers who wrote the histories of the barrios in 1953 remembered that in August 1942 a secret organization, the "Biñan Unit", was founded in De La Paz, and a month later it was joined to the McKinley Brigade of the Fil-American Irregular Troops, under the American colonel Hugh Straughn. In July 1943 the Kempeitai arrested one of its captains, Enrique Alcabasa, and took him to the San Pedro garrison, while many of its members were imprisoned in the Biñan garrison and released for lack of evidence. In August Alcabasa was arrested again in his house in De La Paz, the headquarters of the organization; he was cruelly tortured, and the next day he was killed. The young mayor, the lawyer Rogelio Limaco, elected in 1940, saved the men of Platero who had been taken to the garrison. At dawn on 24 October 1944 it was his turn to be seized by the Japanese, and he was never seen again: "he became a hero and was killed by the Japanese while doing his duty," says the history of Platero. The city remembers him every 16 September, the day of his birth in 1913.
 
 ---
 
@@ -1420,6 +1455,11 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **nalipol** – *was wiped out* (root: *lipol*)
 - **bumagsak** – *fell* (root: *bagsak*)
 - **nagpapatunay** – *proves, confirms* (root: *tunay* = true)
+- **medyor** – *major (military rank)*
+- **hepe** – *chief* (from Spanish *jefe*)
+- **sertipiko** – *certificate*
+- **iginawad** – *was awarded* (root: *gawad* = award)
+- **anibersaryo** – *anniversary*
 
 **Grammar:**
 - *Pinalaya ng mga Pilipino ang Biñan* – object focus: Biñan (*ang*) is what was freed; the Filipinos are the actors (*ng*). The sentence puts the stress on the town itself.
@@ -1427,7 +1467,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Upang hadlangan* – *upang* ("in order to") + infinitive in *-an*.
 
 **Translation:**
-> In January 1945 the Americans returned to Luzon. On 31 January the 11th Airborne Division landed at Nasugbu, Batangas, and on 3 February its paratroopers dropped on Tagaytay Ridge. On that very day, before any American soldier could arrive, Filipinos freed Biñan. According to the Hunters-ROTC veteran and historian Proculo Mojica, de Ocampo came down from Carmona and decided to take Biñan, and on 3 February he marched on the town in three columns. The first column attacked the garrison head-on – about 30 Japanese soldiers reinforced by about 50 Makapili. The second closed the roads from San Pedro to the north, and the third entered from the south to block any escape toward Santa Rosa. "In one day, the whole garrison was wiped out and Biñan fell to the Hunters." The attackers were the 48th Regiment, 47th Division of the Hunters-ROTC under Colonel Emmanuel de Ocampo. A local account also names a former town president, Marcial Alintanahin, as one of the field commanders, but no other source confirms it. On 5 February the guerrillas came back from San Pedro to "Free Biñan" before attacking Santa Rosa – which is why the liberation was long celebrated on that date.
+> In January 1945 the Americans returned to Luzon. On 31 January the 11th Airborne Division landed at Nasugbu, Batangas, and on 3 February its paratroopers dropped on Tagaytay Ridge. On that very day, before any American soldier could arrive, Filipinos freed Biñan. According to the Hunters-ROTC veteran and historian Proculo Mojica, de Ocampo came down from Carmona and decided to take Biñan, and on 3 February he marched on the town in three columns. The first column attacked the garrison head-on – about 30 Japanese soldiers reinforced by about 50 Makapili. The second closed the roads from San Pedro to the north, and the third entered from the south to block any escape toward Santa Rosa. "In one day, the whole garrison was wiped out and Biñan fell to the Hunters." The attackers were the 48th Regiment, 47th Division of the Hunters-ROTC under Colonel Emmanuel de Ocampo. A local account names Marcial Alintanahin as the leader of the attack. Plaques now in the city museum prove that he was a major of the Hunters-ROTC, leader of the "Blue Lake Battalion" of that same 48th Regiment and a former chief of police, and that he became the "military mayor" of Biñan after the liberation; they do not say what he did on 3 February. On 5 February the guerrillas came back from San Pedro to "Free Biñan" before attacking Santa Rosa – which is why the town long celebrated its liberation on that date: a certificate now in the city museum was awarded "on the 37th Anniversary of the Liberation Day of Biñan, this 5th of February" 1982.
 
 ---
 
@@ -1457,7 +1497,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Makipag-* + root = social verb, doing something *with* others: *makipag-ugnayan* "to get in touch with".
 
 **Translation:**
-> Afterwards, Biñan became a rear base for the most famous rescue of the war. At the College of Agriculture of the University of the Philippines in Los Baños, on the other shore of the lake, 2,147 civilians were held, most of them Americans and many already weak from hunger. On 20 February four American engineers crossed Laguna de Bay aboard a banca from Biñan to choose a landing place. Gustavo Ingles – the very man freed from New Bilibid – also sailed from Biñan to coordinate with the guerrilla leaders on the far shore. On 21 February a battalion of paratroopers marched south on Highway 1, the road that passes through Biñan, to Mamatid in Cabuyao, where the amphibious tractors were waiting. At dawn on 23 February the paratroopers dropped beside the camp, the guerrillas attacked the guards, and the amtracs carried the prisoners across the lake to safety. The Japanese vented their revenge on those left behind. About 1,500 civilians were killed in Los Baños and its barrios, and in Calamba a U.S. military commission later charged Japanese officers with killing "about one thousand" unarmed civilians from 11 to 24 February 1945.
+> Afterwards, Biñan became a rear base for the most famous rescue of the war. At the College of Agriculture of the University of the Philippines in Los Baños, on the other shore of the lake, 2,147 civilians were held, most of them Americans and many already weak from hunger. On 20 February four American engineers crossed Laguna de Bay aboard a banca from Biñan to choose a landing place. Gustavo Ingles – the very man freed from New Bilibid – also sailed from Biñan to coordinate with the guerrilla leaders on the far shore. On 21 February a battalion of paratroopers marched south on Highway 1, the road that passes through Biñan, to Mamatid in Cabuyao, where the amphibious tractors were waiting. At dawn on 23 February the paratroopers dropped beside the camp, the guerrillas attacked the guards, and the amtracs carried the prisoners across the lake to safety. The Japanese vented their revenge on those left behind. In the barrios of Los Baños, soldiers killed more than two hundred civilians in the weeks after the raid. Calamba suffered even more: American war crimes investigators estimated that about 1,500 people were massacred from 12 to 15 February 1945, and according to the evidence heard at the trial of General Yamashita, more than 2,500 died on 12 February alone.
 
 ---
 
@@ -1479,6 +1519,10 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **bahay-pamana** – *heritage house* (*pamana* = inheritance)
 - **nanumbalik** – *returned, was restored* (root: *balik*)
 - **paunawa** – *notice*
+- **iilan** – *only a few* (root: *ilan* = some, how many)
+- **gayunman** – *even so, nevertheless*
+- **pag-aresto** – *arrest*
+- **halaga** – *price, value*
 
 **Grammar:**
 - *Walang naitalang labanan* – *wala* + linker *-ng* + a verb used as an adjective: "there was no recorded battle".
@@ -1486,7 +1530,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Maipagmamalaki* – abilitative *ma-* + *ipag-* + repeated syllable: "something one can be proud of".
 
 **Translation:**
-> By mid-February Biñan, on the north-western shore of the lake, was already behind the front. The fighting moved south and east, to Lipa, Tanauan and the southern shore of the lake, which the American XIV Corps and Filipino guerrillas cleared in March and April. Other places suffered terribly: Lipa was almost unrecognizable from the destruction, the cathedral of San Pablo was destroyed, and the town of Mabitac was completely demolished. No battle or massacre on that scale was recorded in Biñan. The old houses of stone and wood around the plaza – the homes of the Alberto, Ocampo, Gonzales and other families – survived the war, which is why Biñan can still be proud of its heritage houses today. Life returned quickly. On 15 May 1945, while the war was still going on in northern Luzon, Manila's Free Philippines published a short notice: "BIÑAN FIESTA TODAY".
+> By mid-February Biñan, on the north-western shore of the lake, was already behind the front. The fighting moved south and east, to Lipa, Tanauan and the southern shore of the lake, which the American XIV Corps and Filipino guerrillas cleared in March and April. Other places suffered terribly: Lipa was almost unrecognizable from the destruction, the cathedral of San Pablo was destroyed, and the town of Mabitac was completely demolished. No battle or massacre on that scale was recorded in Biñan. "Only a few of the townspeople were killed during the Occupation," its teachers wrote in 1953; "the Japanese no longer had the time to burn the houses or kill the people." Even so, the arrests, the tortures and the deaths of Captain Alcabasa and Mayor Limaco show that the town, too, paid its own price. The old houses of stone and wood around the plaza – the homes of the Alberto, Ocampo, Gonzales and other families – survived the war, which is why Biñan can still be proud of its heritage houses today. Life returned quickly. On 15 May 1945, while the war was still going on in northern Luzon, Manila's Free Philippines published a short notice: "BIÑAN FIESTA TODAY".
 
 ---
 
@@ -1580,16 +1624,21 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **binili** – *was bought* (root: *bili*)
 - **kinumpuni** – *was repaired* (root: *kumpuni*)
 - **nilagyan** – *was provided with, had something added* (root: *lagay*)
-- **kapistahan** – *feast day* (root: *pista*)
 - **kamalig** – *granary, storehouse*
 - **luklukan** – *seat (of power)* (root: *luklok* = to seat)
+- **bakal** – *iron, steel*
+- **nag-abuloy** – *donor, the one who donated* (root: *abuloy* = donation)
+- **inilantad** – *was unveiled* (root: *lantad* = exposed)
+- **pananda** – *marker* (root: *tanda* = sign)
+- **kinatayuan** – *site, where something stood* (root: *tayo*)
+- **ginawang** – *was made into* (root: *gawa*)
 
 **Grammar:**
 - *Ginugol ang mga unang taon … sa muling pagtatayo* – object focus with *-in-*: the years (*ang*) are what was spent.
 - *Ang lumang casa hacienda …, na binili ng bayan noong 1910 …, ay kinumpuni* – a long subject in the *ang … ay …* order: the relative clause with *na* tells which building, and *ay* introduces what happened to it.
 
 **Translation:**
-> After the war, the first years of peace were spent rebuilding. Bridges on the national road were rebuilt under a Philippine–American programme, the War Damage Commission paid for damaged property, and the 1948 census counted 20,794 people in Biñan. In 1954–55 the old casa hacienda of the Dominicans on the plaza, which the town had bought in 1910 for its public school, was repaired, given a portico and opened as the municipal hall on 15 May 1955 – the feast day of San Isidro – under Mayor Jesus M. Garcia, while the school moved to a new building in Santo Domingo. In this way the friars' granary of the eighteenth century became the seat of the town government for more than half a century.
+> After the war, the first years of peace were spent rebuilding. Bridges on the national road were rebuilt under a Philippine–American programme, the War Damage Commission paid for damaged property, and the 1948 census counted 20,794 people in Biñan. That same year a steel bridge, the Evangelista Bridge, named after its donor, replaced the old hanging (colgante) bridge of the Poblacion, and on 30 December a marker dedicated to Rizal was unveiled on the site of his school; since 1946 two colleges had also opened, Grinhar and Santa Catalina. In the 1950s the old casa hacienda of the Dominicans on the plaza, which the town had bought in 1910 for its public school, was repaired, given a portico and made into the municipal hall, once the school had moved to a new building in Santo Domingo. In this way the friars' granary of the eighteenth century became the seat of the town government for more than half a century.
 
 ---
 
@@ -1608,13 +1657,18 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **tinamnan** – *was planted* (root: *tanim*)
 - **tubo** – *sugarcane*
 - **sapatero** – *shoemaker*
+- **hinoldap** – *was held up* (from English *hold-up*)
+- **sahod** – *wages*
+- **pagawaan** – *workshop, factory* (root: *gawa* = make)
+- **pinatanyag** – *made famous* (root: *tanyag*)
+- **itik** – *duck*
 
 **Grammar:**
 - *Ninakawan ng mga Huk ang bangko* – locative focus *-in-…-an*: the bank (*ang*) is the one robbed *from*; the robbers take *ng*.
 - *Matapos dakpin* – *matapos* ("after") + infinitive.
 
 **Translation:**
-> Peace in the countryside was fragile. The Hukbalahap, which had fought the Japanese, took up arms against the new Republic, and after the leaders of the communist party were arrested in Manila on 18 October 1950, their raids and hold-ups multiplied. According to a U.S. Army history of the uprising, late in 1950 "the Huks robbed the bank of Biñan of $76,000". Around the town, life remained rural. The lots of the former friar estate – still called the "Biñan Estate" in land titles – were planted with rice and sugarcane, and the Poblacion lived from its market, its shoemakers and its puto makers along the national road and the railway to Manila.
+> Peace in the countryside was fragile. The Hukbalahap, which had fought the Japanese, took up arms against the new Republic, and after the leaders of the communist party were arrested in Manila on 18 October 1950, their raids and hold-ups multiplied. According to a U.S. Army history of the uprising, late in 1950 "the Huks robbed the bank of Biñan of $76,000"; the history of barrio San Vicente, written a few years later, remembers in turn that on 31 October 1950 the train carrying the wages of the Manila Railroad Company was held up at the San Vicente station by men "believed to be Huks". Around the town, life remained rural. The lots of the former friar estate – still called the "Biñan Estate" in land titles – were planted with rice and sugarcane, and the Poblacion lived from its market, its shoemakers and its puto makers along the national road and the railway to Manila. In 1953 more than a hundred workshops in the town made thousands of pairs of shoes, wooden clogs and slippers, and Puto Biñan had already made it famous; Malaban alone had five shoe and slipper workshops, three hat workshops and some fifty duck raisers.
 
 ---
 
@@ -1632,13 +1686,19 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **tulisan** – *bandit, robber*
 - **kawani** – *employee*
 - **tinangay** – *carried off, took away* (root: *tangay*)
+- **bandang** – *around, about (a date)* (root: *banda* = side, direction)
+- **pinarangalan** – *was honoured* (root: *dangal* = honour)
+- **tagapangulo** – *chairman* (root: *ulo* = head)
+- **lupon** – *committee, board*
+- **pagpapatayo** – *construction, having something built* (root: *tayo*)
+- **pagkakatapos** – *completion* (root: *tapos*)
 
 **Grammar:**
 - *Mas bata pa … kaysa sa …* – comparative: *mas* + adjective + *kaysa sa*.
 - *Habang umaalis ito* – *habang* ("while") + ongoing actor-focus verb.
 
 **Translation:**
-> The town grew quickly in the 1960s, from 33,309 people in 1960 to 58,290 in 1970. In 1968 fire consumed the church of San Isidro Labrador and its convent; the present church was completed in 1970. So the building facing the plaza today is younger than many of the houses around it. Biñan also kept its station on the railway south: on the night of 16 March 1972, bandits boarded the Bicol Express as it left Biñan station, killed a railway employee and carried off more than ₱32,000.
+> The town grew quickly in the 1960s, from 33,309 people in 1960 to 58,290 in 1970. In 1968 fire consumed the church of San Isidro Labrador and its convent; the present church was built in its place around 1970, and in December 1972 the Los Maduros club honoured the former mayor Jesus M. Garcia (1952–1959), chairman of the parish building committee, for "the completion of the San Isidro Parish Church". So the building facing the plaza today is younger than many of the houses around it. Biñan also kept its station on the railway south: on the night of 16 March 1972, bandits boarded the Bicol Express as it left Biñan station, killed a railway employee and carried off more than ₱32,000.
 
 ---
 
@@ -1684,6 +1744,8 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **paglilitis** – *trial* (root: *litis*)
 - **humalili** – *succeeded, replaced* (root: *halili*)
 - **nanguna** – *led, ranked first* (root: *una*)
+- **termino** – *term of office*
+- **pinakamayamang** – *richest* (root: *yaman* = wealth)
 
 **Grammar:**
 - *Dinala ng halalang iyon si Bayani Alonte* – object focus: Alonte (*si*) is what the election "brought".
@@ -1691,7 +1753,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Pinakamayayamang bayan* – superlative plus plural adjective (*mayayaman*, repeated syllable for plural).
 
 **Translation:**
-> That election brought Bayani "Arthur" Alonte, mayor from 1988 to 1998, and with him came the factories. In 1990 the Laguna Technopark, a project of Ayala Land and Japanese partners, opened on former sugarcane land in Santa Rosa and Biñan; by 2020 it covered 471 hectares and had more than 270 companies with over 100,000 workers. Its extensions reached barangay Biñan in 1997 and Loma and Timbao in 1998, and in 1992 Samsung and Solid Corporation opened the Laguna International Industrial Park in Mamplasan and Ganado. Subdivisions followed for workers and for families leaving Metro Manila: Biñan had 134,553 people in 1990 and 201,186 in 2000. Politics also had a scandal: in December 1997 a Manila court convicted Mayor Alonte of rape, but in March 1998 the Supreme Court annulled the verdict because due process had not been followed, and sent the case back for a new trial. Under his successor, Hermis Perez (1998–2007), Biñan became one of the richest towns in the country: according to government statistics for 2008, it ranked first in income among all municipalities of the Philippines.
+> That election brought Bayani "Arthur" Alonte, mayor from 1988 to 1998, and with him came the factories. In 1990 the Laguna Technopark, a project of Ayala Land and Japanese partners, opened on former sugarcane land in Santa Rosa and Biñan; by 2020 it covered 471 hectares and had more than 270 companies with over 100,000 workers. Its extensions reached barangay Biñan in 1997 and Loma and Timbao in 1998, and in 1992 Samsung and Solid Corporation opened the Laguna International Industrial Park in Mamplasan and Ganado. Subdivisions followed for workers and for families leaving Metro Manila: Biñan had 134,553 people in 1990 and 201,186 in 2000. Politics also had a scandal: in December 1997 a Manila court convicted Mayor Alonte of rape, but in March 1998 the Supreme Court annulled the verdict because due process had not been followed, and sent the case back for a new trial. Under his successor, Hermis Perez (1998–2007), Biñan became one of the richest towns in the country: by the end of his terms it was, in the city's own words, "the richest municipality in the Philippines", and according to government statistics for 2008 it ranked first in income among all the municipalities of the country.
 
 ---
 
@@ -1769,7 +1831,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Pagkakakilanlan* – *pagka-* + repeated syllable + root + *-an*: an abstract noun ("identity").
 
 **Translation:**
-> The 2024 census counted 584,479 people in Biñan – more than Calamba – so for the first time it became the most populous city in Laguna; in 2020 it had been only third, with 407,437. On its 43.5 square kilometres, the city of the friars' hacienda is now a dense extension of the capital, with industrial parks, malls and gated subdivisions. Growth has its price. The Biñan River often fails the lake authority's water-quality standard, and in October 2024 Typhoon Kristine flooded 20 of the city's 24 barangays. In 2025 the city elected a new mayor, Gel Alonte, while Arman Dimaguila went to Congress. Between the expressway and the lake, Biñan still has to reconcile the growth that made it rich with the heritage that gives it its own identity.
+> The 2024 census counted 584,479 people in Biñan – more than Calamba – so for the first time it became the most populous city in Laguna; in 2020 it had been only third, with 407,437. On its more than forty square kilometres, the city of the friars' hacienda is now a dense extension of the capital, with industrial parks, malls and gated subdivisions. Growth has its price. The Biñan River often fails the lake authority's water-quality standard, and in October 2024 Typhoon Kristine flooded 20 of the city's 24 barangays. In 2025 the city elected a new mayor, Gel Alonte, while Arman Dimaguila went to Congress. Between the expressway and the lake, Biñan still has to reconcile the growth that made it rich with the heritage that gives it its own identity.
 
 ### Full Verb Breakdown Table
 
@@ -1933,7 +1995,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - *Bagama’t hindi kailanman kinilala* – *bagama’t* (“although”) + *hindi kailanman* (“never”): “although (the Church) never recognized”.
 
 **Translation:**
-> The patron of Biñan is **San Isidro Labrador**, the farmer saint, whose feast falls on 15 May – fitting for a town that began as the “Hacienda de San Isidro Labrador de Biñan”. His church, rebuilt in 1970 after the fire of 1968, keeps an old image that many believe to be miraculous, and on 6 May 2022 it became a diocesan shrine. Biñan also has a queen. *Nuestra Señora de la Paz y Buen Viaje*, venerated in the chapel of De La Paz, was proclaimed “Honorary Queen of Biñan” by a city resolution in 2018, and each May the men of the city carry her image from her chapel to the church in the *Karakol ng Reyna*. The Chinese-Filipino community holds its own thanksgiving, the *Pistang Intsik*, during the May festival, and each barangay has its fiesta: the Santo Niño in Ganado in January, hats in Platero in March, *puto* and *kakanin* in San Vicente in April, ice cream in Santo Domingo in August, *pinipig* in Canlalay in October. Popular faith has its own stories. According to a pamphlet printed in 1947, the body of Filomena Almarines, a young roadside vendor who had died in 1938 at the age of 25, was found intact when her tomb was opened; a chapel was built and pilgrims came for some years, though the Church never recognized her cult. The customs of Holy Week – the *pabasa*, the processions, the old images kept by families – have not yet been described in print; they are among the memories this book hopes to gather.
+> The patron of Biñan is **San Isidro Labrador**, the farmer saint, whose feast falls on 15 May – fitting for a town that began as the “Hacienda de San Isidro Labrador de Biñan”. His church, rebuilt around 1970 after the fire of 1968, keeps an old image that many believe to be miraculous, and on 6 May 2022 it became a diocesan shrine. Biñan also has a queen. *Nuestra Señora de la Paz y Buen Viaje*, venerated in the chapel of De La Paz, was proclaimed “Honorary Queen of Biñan” by a city resolution in 2018, and each May the men of the city carry her image from her chapel to the church in the *Karakol ng Reyna*. The Chinese-Filipino community holds its own thanksgiving, the *Pistang Intsik*, during the May festival, and each barangay has its fiesta: the Santo Niño in Ganado in January, hats in Platero in March, *puto* and *kakanin* in San Vicente in April, ice cream in Santo Domingo in August, *pinipig* in Canlalay in October. Popular faith has its own stories. According to a pamphlet printed in 1947, the body of Filomena Almarines, a young roadside vendor who had died in 1938 at the age of 25, was found intact when her tomb was opened; a chapel was built and pilgrims came for some years, though the Church never recognized her cult. The customs of Holy Week – the *pabasa*, the processions, the old images kept by families – have not yet been described in print; they are among the memories this book hopes to gather.
 
 ---
 
@@ -1994,6 +2056,45 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 
 ---
 
+**7. Customs of 1953 · Mga kaugalian noong 1953**
+
+> *Noong 1952 at 1953, sa utos ni Pangulong Elpidio Quirino, isinulat ng mga guro ng mga pampublikong paaralan sa buong bansa ang kasaysayan at mga kaugalian ng bawat bayan at baryo.*
+
+**Vocabulary:**
+- **kaugalian** – *custom* (root: *ugali* = habit, character)
+- **makinilyado** – *typewritten* (from *makinilya*, typewriter)
+- **iniingatan** – *is kept, looked after* (root: *ingat* = care)
+- **natitira** – *remains, is left* (root: *tira*)
+- **ipinaliliwanag** – *explains* (root: *liwanag* = light, clarity)
+- **yumayabong** – *flourishes* (root: *yabong*)
+- **bininyagan** – *were baptized* (root: *binyag*)
+- **katutubo** – *native* (root: *tubo* = to grow)
+- **panday-ginto** – *goldsmith* (*panday* = smith, *ginto* = gold)
+- **kanlungan** – *shelter, refuge* (root: *kanlong*)
+- **nanganganak** – *is giving birth* (root: *anak* = child)
+- **ninong, ninang** – *godfather, godmother*
+- **mamanahin** – *will inherit* (root: *mana*)
+- **manliligaw** – *suitor* (root: *ligaw* = to court)
+- **iniigiban** – *fetches water for* (root: *igib*)
+- **baywang** – *waist*
+- **kasaganaan** – *prosperity, abundance* (root: *sagana*)
+- **itinatawid** – *is carried across* (root: *tawid*)
+- **yumao** – *the departed, the dead* (root: *yao*)
+- **anino** – *shadow*
+- **alamat** – *legend*
+
+**Grammar:**
+- *Walang dapat tumayo sa pintuan* – *wala* + linker *-ng* + *dapat* + infinitive: “no one should stand in the doorway”.
+- *upang hindi sila dalawin ng kaluluwa ng yumao* – *upang* (“so that”) opens a clause of purpose; *dalawin* is the object-focus infinitive of *dalaw* (to visit): “so that the soul of the departed will not visit them”.
+- *Ayon sa kanila, nagmula ang Biñan sa …* – *ayon sa* (“according to”) is the usual way to report what a source says.
+
+**Translation:**
+> In 1952 and 1953, on the orders of President Elpidio Quirino, the teachers of the public schools of the whole country wrote down the history and customs of every town and barrio. The National Library of the Philippines keeps their typewritten reports, the Historical Data Papers; for Biñan, the report on the town and those on five barrios – Canlalay, De La Paz, Malaban, Platero and San Vicente – still remain. They explain names. According to them, Biñan comes from the banian, a tree that flourished there when the Spaniards arrived, from binyagan, "the place where the first Spaniards baptized the natives", or from "Viñiang", a nickname for Virginia. Malaban means "many battles", because of the fights of the conquest; Platero recalls the goldsmiths, the plateros, who came from there; and De La Paz was named after Our Lady of Peace and Good Voyage, or after the shelter it gives the lake boats in bad weather.
+>
+> They also recorded the customs of daily life. No one should stand in the doorway while a woman is giving birth. A baby should be baptized at once so that it will not fall sick, and given a godfather or godmother of good character, because the child will inherit that character. In the old days the suitor served in the house of the girl he was courting: "He fetches water for her, he helps her father in the field, he gets wood for her." Before the bride leaves for the church, silver coins are placed at her waist for prosperity; at a burial, the children and grandchildren of the dead are carried one by one across the body, "so that the soul of the departed will not visit them." People still measured time by the shadows, the sun and the moon, the stars and "the eyes of the cat." They played tubigan, patintero and sungka, sang kundiman, "La Paloma" and "Bituin Marikit", and in Canlalay they still told the legends of Maria Makiling, Maria Banahaw and Maria Sinukuan.
+
+---
+
 ### Full Verb Breakdown Table
 
 | Verb in Text | Root | Aspect | Focus | Construction | Meaning |
@@ -2024,6 +2125,19 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 | bininyagan | binyag | Completed | Locative | -in- + binyag + -an | were baptized |
 | inaangkin | angkin | Ongoing | Object | -in- + a + angkin | claims |
 | tumutugtog | tugtog | Ongoing | Actor | -um- + tu + tugtog | plays music |
+| isinulat | sulat | Completed | Object | i- + -in- + sulat | was written |
+| iniingatan | ingat | Ongoing | Locative | -in- + i + ingat + -an | is kept |
+| ipinaliliwanag | liwanag | Ongoing | Object (causative) | i- + -in- + pa- + li + liwanag | explains |
+| itinala | tala | Completed | Object | i- + -in- + tala | was recorded |
+| nanganganak | anak | Ongoing | Actor | mang- + a + anak | is giving birth |
+| binyagan | binyag | Infinitive | Locative | binyag + -an | to baptize |
+| mamanahin | mana | Contemplated | Object | ma + mana + -hin | will inherit |
+| naglilingkod | lingkod | Ongoing | Actor | nag- + li + lingkod | serves |
+| nilalagyan | lagay | Ongoing | Locative | -in- + la + lagay + -an | is provided with |
+| itinatawid | tawid | Ongoing | Object | i- + -in- + ta + tawid | is carried across |
+| dalawin | dalaw | Infinitive | Object | dalaw + -in | to visit |
+| sinusukat | sukat | Ongoing | Object | -in- + su + sukat | is measured |
+| ikinukuwento | kuwento | Ongoing | Object | i- + -in- + ku + kuwento | is told |
 
 ---
 
@@ -2088,7 +2202,7 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 
 **3. The expressways · Ang mga expressway**
 
-> *Umabot sa Biñan ang South Luzon Expressway noong 1978, nang buksan ang karugtong nito mula Alabang hanggang Calamba.*
+> *Umabot sa Biñan ang South Luzon Expressway noong huling bahagi ng dekada 1970, nang matapos ang karugtong nito mula Alabang hanggang Calamba, na sinimulan noong 1974.*
 
 **Vocabulary:**
 - **karugtong** – *extension* (root: *dugtong*)
@@ -2101,13 +2215,15 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **paliparan** – *airport* (root: *lipad* = fly)
 - **pandaigdig** – *international* (root: *daigdig* = world)
 - **tagal** – *duration*
+- **huling bahagi** – *the last part, late (of a period)* (root: *bahagi* = part)
+- **sinimulan** – *was begun* (root: *simula*)
 
 **Grammar:**
 - *Wala pang dalawampung minuto* – *wala pa* + a quantity: “not even twenty minutes”, that is, less than twenty.
 - *Kapag walang trapiko* – *kapag* introduces a condition or a habitual time: “when there is no traffic”.
 
 **Translation:**
-> The South Luzon Expressway reached Biñan in 1978, when its extension from Alabang to Calamba was opened. Two of its exits are in Biñan, at Southwoods (exit 31) and at Mamplasan (exit 36); the Carmona exit (33), between them, lies just across the border in Cavite and leads to Biñan by General Malvar Street. Since 2019 the **Cavite–Laguna Expressway** (CALAX) has started at the Mamplasan roundabout, at the Greenfield toll plaza; an exit serving the Laguna Technopark opened in Timbao in 2020, and since 2026 the road runs 26 kilometres into Cavite, as far as General Trias. Without traffic, Alabang is less than twenty minutes away by car, and Makati, the international airport and Tagaytay about half an hour each; at rush hour the same trips often take two or three times as long.
+> The South Luzon Expressway reached Biñan in the late 1970s, when its extension from Alabang to Calamba, begun in 1974, was completed. Two of its exits are in Biñan, at Southwoods (exit 31) and at Mamplasan (exit 36); the Carmona exit (33), between them, lies just across the border in Cavite and leads to Biñan by General Malvar Street. Since 30 October 2019 the **Cavite–Laguna Expressway** (CALAX) has started at the Mamplasan roundabout, beside the SLEX exit; an interchange serving the Laguna Technopark opened in Timbao on 18 August 2020, and since 2026 the road runs 26 kilometres into Cavite, as far as General Trias. Without traffic, Alabang is less than twenty minutes away by car, and Makati, the international airport and Tagaytay about half an hour each; at rush hour the same trips often take two or three times as long.
 
 ---
 
@@ -2126,13 +2242,15 @@ This companion follows the Tagalog text of the *History of Biñan City* section 
 - **pinakamababa** – *lowest* (root: *baba* = low)
 - **pinaghatian** – *was shared* (root: *hati* = half)
 - **panlalawigan** – *provincial* (root: *lalawigan* = province)
+- **negosyo** – *business*
+- **pinatatakbo** – *are run, operated* (root: *takbo* = run)
 
 **Grammar:**
 - *Pinaghatian ng JAC Liner at LLI* – *pag-* + *-in-* + *-an* with *hati*: the route (*ang*) is what the two companies shared between them.
 - *Pinakamababang pamasahe* – the superlative *pinaka-* + *mababa* + linker *-ng*: “the lowest fare”.
 
 **Translation:**
-> Most people travel by jeepney and bus. Jeepneys run along the national road to San Pedro, Alabang and Balibago in Santa Rosa, and up General Malvar Street to Carmona and General Mariano Alvarez in Cavite. The national modernization programme launched in 2017 pushed their owners into cooperatives and brought new, larger vehicles: the modern jeepney line “Biñan – Balibago via Manila South Road” was among the first to run again after the lockdown, on 26 June 2020. Fares are set by the national regulator: since 28 September 2026 the minimum fare has been ₱14 on a traditional jeepney and ₱17 on a modern one. Buses leave from the terminal near the old town centre for Buendia and Ayala in Makati by the expressway; in 2022 that route was shared by JAC Liner and LLI, with 105 buses. Other buses and vans start at Southwoods, and provincial buses heading south stop on the way.
+> Most people travel by jeepney and bus. Transport has long been a business of the people of Biñan: in 1953 they ran three big companies, the Biñan Transportation Company, the Laguna Transportation Company and the Sousa Transportation Co. Today jeepneys run along the national road to San Pedro, Alabang and Balibago in Santa Rosa, and up General Malvar Street to Carmona and General Mariano Alvarez in Cavite. The national modernization programme launched in 2017 pushed their owners into cooperatives and brought new, larger vehicles: the modern jeepney line “Biñan – Balibago via Manila South Road” was among the first to run again after the lockdown, on 26 June 2020. Fares are set by the national regulator: since 28 September 2026 the minimum fare has been ₱14 on a traditional jeepney and ₱17 on a modern one. Buses leave from the terminal near the old town centre for Buendia and Ayala in Makati by the expressway; in 2022 that route was shared by JAC Liner and LLI, with 105 buses. Other buses and vans start at Southwoods, and provincial buses heading south stop on the way.
 
 ---
 

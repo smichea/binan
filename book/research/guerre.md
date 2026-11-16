@@ -2,6 +2,8 @@
 
 *Note pour le livre bilingue (anglais/tagalog) sur Biñan City, Laguna. Rédigée le 15/11/2026. Elle fait suite à `americain.md` (1898–1941). Je n'ai rien modifié sous `/home/user/binan`.*
 
+> **Mise à jour du 16/11/2026.** Les *Historical Data Papers* de 1953 et les plaques du musée corrigent cette note (voir `hdp.md`) : Marcial Alintanahin était major des Hunters-ROTC, chef du « Blue Lake Battalion » du 48ᵉ régiment, ancien chef de la police et « military mayor » en 1945 (« two-time Municipal President » reste sans preuve) ; le maire Rogelio Limaco, élu en 1940, est arrêté par les Japonais le 24 octobre 1944 et n'est jamais revu ; une guérilla FAIT, la « Biñan Unit », naît à De La Paz en août 1942 et le capitaine Enrique Alcabasa est exécuté en août 1943 ; le « Liberation Day » du 5 février était déjà fêté en 1979 et en 1982.
+
 **Légende des niveaux de fiabilité** (même grille que `americain.md`)
 - ✅ **Solide** : source primaire lue (loi, histoire officielle de l'US Army, document d'archives, journal de 1945), ou consensus des historiens.
 - 🟡 **À nuancer** : source secondaire sérieuse non lue en entier, sources contradictoires, déduction géographique raisonnable, tradition locale plausible.

@@ -5,13 +5,16 @@
 
 # People
 Aguinaldo, Emilio = Emilio Aguinaldo | Aguinaldo
+Alcabasa, Enrique = Enrique Alcabasa | Captain Alcabasa | Kapitan Alcabasa
 Alberto, José = José Alberto
 Alberto house = Alberto house | Alberto Mansion | bahay ng mga Alberto
+Almeda, Vicente = Vicente Almeda
 Alonte, Bayani = Bayani “Arthur” Alonte | Bayani Alonte | Alkalde Alonte | Mayor Alonte
 Alonte, Gel = Gel Alonte
 Alonte, Len = Len Alonte
 Alintanahin, Marcial = Marcial Alintanahin
 Alzona, Encarnación = Encarnación Alzona
+Antiporda, Julio A. = Julio A. Antiporda
 Bautista, Ambrosio Rianzares = Ambrosio Rianzares Bautista | Bautista
 Bell, J. Franklin = J. Franklin Bell | Heneral Bell | General Bell
 Bowring, Sir John = Sir John Bowring | Bowring
@@ -22,19 +25,25 @@ Castro, Modesto de = Modesto de Castro
 de Ocampo, Emmanuel = Emmanuel de Ocampo | de Ocampo
 Dimaguila, Arman = Arman Dimaguila | Alkalde Dimaguila | Mayor Dimaguila
 Garcia, Jesus M. = Jesus M. Garcia
+Herrero, Ulpiano = Ulpiano Herrero
 Ingles, Gustavo = Gustavo Ingles
 Justiniano Aquino Cruz = Justiniano Aquino Cruz | Justiniano
 Lakandula
 Lam-co, Domingo = Domingo Lam-co | Lam-co
 Laurel, José P. = José P. Laurel | Laurel
 Legazpi, Miguel López de = Miguel López de Legazpi | Legazpi
+León, Pedro de = Pedro de León
 Limaco, Miguelito = Miguelito Limaco
+Limaco, Rogelio = Rogelio Limaco | Mayor Limaco | Alkalde Limaco
 Marcos, Ferdinand = Ferdinand Marcos
+Masangkay, Eligio = Eligio Masangkay
 Mercado, Francisco = Francisco Mercado
 Mojica, Proculo = Proculo Mojica | Mojica
 Noriel, Mariano = Mariano Noriel | Noriel
 Perez, Hermis = Hermis Perez
 Plasencia, Juan de = Juan de Plasencia | Plasencia
+Quezon, Manuel L. = President Quezon | Pangulong Quezon
+Quirino, Elpidio = Elpidio Quirino
 Remoquillo, Abelardo = Abelardo “Capitan Remo” Remoquillo | Abelardo “Kapitan Remo” Remoquillo
 Rizal, José = José Rizal | Rizal’s | ni Rizal | si Rizal | kay Rizal
 Rizal monument = Rizal monument | bantayog ni Rizal
@@ -42,6 +51,7 @@ Sakay, Macario = Macario Sakay
 Salcedo, Juan de = Juan de Salcedo | Salcedo
 Schwan, Theodore = Theodore Schwan
 Smith, Jacob = Jacob Smith
+Straughn, Hugh = Hugh Straughn
 Sulayman, Rajah = Rajah Sulayman
 Tolentino, Guillermo = Guillermo Tolentino
 Yamashita, Tomoyuki = Tomoyuki Yamashita | Yamashita
@@ -93,10 +103,13 @@ Tondo = Tondo | Tundun
 
 # Institutions, events, things
 Balik-Biñan
+Biñan Unit (guerrilla) = Biñan Unit
 Commonwealth of the Philippines = Commonwealth of the Philippines | Komonwelt ng Pilipinas
 Dominicans = Dominicans | Dominican | Dominiko
+Fil-American Irregular Troops = Fil-American Irregular Troops | FAIT
 Friar lands = friar estate | friar estates | friar lands | asyenda ng mga prayle
 Hacienda de Biñan = Hacienda de Biñan | Asyenda ng Biñan
+Historical Data Papers
 Hukbalahap = Hukbalahap | Huks | Huk
 Hunters-ROTC
 Kempeitai

@@ -53,11 +53,6 @@ IMAGES = {
         "credit": "San Isidro Labrador Parish Church, Biñan (cover). Photo: "
                   "patrickroque01, CC BY-SA 4.0, via Wikimedia Commons.",
     },
-    "File:Alberto Mansion Biñan City, Laguna.jpg": {
-        "file": "images/alberto-mansion.jpg",
-        "credit": "Alberto Mansion, Biñan. Photo: Bengoeswhere, "
-                  "CC BY-SA 3.0, via Wikimedia Commons.",
-    },
 }
 
 # Maps drawn for the book (book/maps/make_maps.py) and archival documents,
@@ -272,6 +267,11 @@ FIGURES = [
          tagalog="Ang “Biñang” at ang mga baryo nito sa mapang militar ng Espanya ng lalawigan ng Cavite at ng karatig na rehiyon, na iginuhit noong 1897, sa panahon ng Rebolusyong Pilipino.",
          credit="Provincia de Cavite y región limítrofe, 1897. Fuente: Archivo Histórico de la "
                 "Armada Juan Sebastián de Elcano / Biblioteca Virtual de Defensa. CC BY 4.0."),
+    dict(chapter=4, after=6, kind="Photo", id="alberto", src="images/alberto-mansion.jpg",
+         title="The Alberto house",
+         caption="The Alberto house on the plaza of Biñan, about two hundred years old: the home of the family of José Rizal’s mother, Teodora Alonso, where she grew up. Its later fate is told in chapter VII.",
+         tagalog="Ang bahay ng mga Alberto sa plaza ng Biñan, na mga dalawandaang taon na: ang tahanan ng pamilya ng ina ni José Rizal, si Teodora Alonso, kung saan siya lumaki. Isinasalaysay sa kabanata VII ang sinapit nito pagkatapos.",
+         credit="Photo: Bengoeswhere, CC BY-SA 3.0, via Wikimedia Commons."),
     dict(chapter=4, after=7, kind="Photo", id="school", src="images/archives/justiniano-school-site-pre1918.jpg",
          title="Where Rizal went to school in Biñan",
          caption="“Where Rizal went to school in Biñan: site of Master Justiniano’s house, which burned down many years ago.” The young José Rizal studied here in 1870; the site is now the School of Dr. José Rizal museum.",
@@ -425,30 +425,37 @@ FIGURES = [
                  "end of the war it was almost worthless.",
          tagalog="Harap at likod ng isang perang papel na 1,000 piso na inilabas ng pamahalaang Hapones sa Pilipinas noong 1945. “Mickey Mouse money” ang tawag ng mga Pilipino sa perang ito: sa pagtatapos ng digmaan, halos wala na itong halaga.",
          credit="National Numismatic Collection, National Museum of American History (Smithsonian). Public domain, via Wikimedia Commons."),
-    dict(chapter=6, after=4, kind="Illustration", id="ill-guerrillas", src="images/illustrations/guerrillas-1944.jpg",
+    dict(chapter=6, after=4, kind="Photo", id="limaco", small=True, css="portrait", rights="pending",
+         src="images/wwii/rogelio-limaco-portrait.jpg",
+         title="Rogelio Limaco",
+         caption="Rogelio Limaco (1913–1944), mayor of Biñan, seized by the Japanese on 24 October 1944 "
+                 "and never seen again. His portrait hangs with those of the other mayors in the city museum.",
+         tagalog="Si Rogelio Limaco (1913–1944), alkalde ng Biñan, na dinakip ng mga Hapones noong Oktubre 24, 1944 at hindi na muling nakita. Nakasabit ang kanyang larawan kasama ng sa iba pang mga alkalde sa museo ng lungsod.",
+         credit="Portrait by Cristobal, 1999, Biñan City Museum. Photo: Judgefloro, 2018, CC0, via Wikimedia Commons."),
+    dict(chapter=6, after=5, kind="Illustration", id="ill-guerrillas", src="images/illustrations/guerrillas-1944.jpg",
          title="A guerrilla meeting, 1944",
          caption="An impression of a night meeting of guerrillas in a lakeshore house, 1944: most of "
                  "the resistance was made of civilians who carried food, messages and information.",
          tagalog="Guhit-paglalarawan ng isang pulong ng mga gerilya sa gabi sa isang bahay sa baybayin ng lawa, 1944: karamihan sa paglaban ay binubuo ng mga sibilyang nagdadala ng pagkain, mensahe at impormasyon.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
-    dict(chapter=6, after=5, kind="Map", id="liberation", src="maps/liberation.svg",
+    dict(chapter=6, after=6, kind="Map", id="liberation", src="maps/liberation.svg",
          title="The liberation of Biñan, 3 February 1945",
          caption="The liberation of Biñan, 3 February 1945. According to Proculo Mojica, the Hunters-ROTC "
                  "came down from Carmona in three columns: one attacked the garrison, one sealed the "
                  "roads from San Pedro, one blocked the way to Santa Rosa. Arrows are schematic.",
          tagalog="Ang paglaya ng Biñan, Pebrero 3, 1945. Ayon kay Proculo Mojica, bumaba mula Carmona ang Hunters-ROTC sa tatlong hanay: sinalakay ng isa ang garison, isinara ng isa ang mga daan mula San Pedro, at hinarangan ng isa ang daan patungong Santa Rosa. Eskematiko ang mga palaso."),
-    dict(chapter=6, after=5, kind="Photo", id="memorial", src="images/wwii/hunters-rotc-memorial-binan.jpg",
+    dict(chapter=6, after=6, kind="Photo", id="memorial", src="images/wwii/hunters-rotc-memorial-binan.jpg",
          title="The Hunters-ROTC memorial at Biñan City Hall",
          caption="The memorial to the Hunters-ROTC guerrillas, “the army that freed Biñan in the time of "
                  "the Japanese”, unveiled at City Hall on 3 February 2018.",
          tagalog="Ang bantayog ng mga gerilyang Hunters-ROTC, “ang hukbong nagpalaya sa Biñan noong panahon ng Hapon”, na pinasinayaan sa Bulwagang Panlungsod noong Pebrero 3, 2018.",
          credit="Photo: Judgefloro, 2018. CC0, via Wikimedia Commons."),
-    dict(chapter=6, after=5, kind="Photo", id="memorial-text", src="images/wwii/hunters-rotc-memorial-text.jpg",
+    dict(chapter=6, after=6, kind="Photo", id="memorial-text", src="images/wwii/hunters-rotc-memorial-text.jpg",
          title="Mojica’s account on the memorial",
          caption="The plaque quotes Proculo Mojica’s Terry’s Hunters (1965): “In one day, the entire "
                  "garrison was annihilated and Biñan fell to the Hunters.”",
          tagalog="Sinisipi ng plake ang Terry’s Hunters (1965) ni Proculo Mojica: “Sa loob ng isang araw, nalipol ang buong garison at bumagsak ang Biñan sa mga Hunters.”",
          credit="Photo: Judgefloro, 2018. CC0, via Wikimedia Commons."),
-    dict(chapter=6, after=7, kind="Photo", id="mabitac", src="images/wwii/mabitac-1945.jpg",
+    dict(chapter=6, after=8, kind="Photo", id="mabitac", src="images/wwii/mabitac-1945.jpg",
          title="Mabitac, Laguna, April 1945",
          caption="The ruins of Mabitac, on the eastern shore of Laguna de Bay, photographed by the U.S. Army "
                  "on 4 April 1945. Biñan, behind the front since February, was spared such destruction.",
@@ -500,9 +507,9 @@ FIGURES = [
     dict(chapter=7, after=7, kind="Photo", id="sentro", src="images/modern/sentrong-pangkultura-2023.jpg",
          title="The Sentrong Pangkultura ng Biñan",
          caption="The old municipal hall – the Dominicans’ casa hacienda, then a school, then the "
-                 "town hall from 1955 – restored as the Sentrong Pangkultura ng Biñan under the "
+                 "town hall from the 1950s – restored as the Sentrong Pangkultura ng Biñan under the "
                  "Balik-Biñan programme.",
-         tagalog="Ang lumang munisipyo – ang casa hacienda ng mga Dominiko, na naging paaralan at, mula 1955, munisipyo – na ipinanumbalik bilang Sentrong Pangkultura ng Biñan sa ilalim ng programang Balik-Biñan.", credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
+         tagalog="Ang lumang munisipyo – ang casa hacienda ng mga Dominiko, na naging paaralan at, mula noong dekada 1950, munisipyo – na ipinanumbalik bilang Sentrong Pangkultura ng Biñan sa ilalim ng programang Balik-Biñan.", credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
     dict(chapter=7, after=7, kind="Photo", id="alberto-inside", src="images/modern/alberto-mansion-interior-2023.jpg",
          title="Inside the rebuilt Alberto house, 2023",
          caption="The arcaded courtyard of the Alberto house, rebuilt by the city and reopened in "
@@ -574,6 +581,14 @@ FIGURES = [
          caption="Araw ng Biñan in February: the illuminated Sentrong Pangkultura and crowds on the plaza.",
          tagalog="Ang Araw ng Biñan tuwing Pebrero: ang naiilawang Sentrong Pangkultura at ang mga tao sa plaza.",
          credit="Experience Biñan, City Government of Biñan (BCHATO), experiencebinan.com."),
+    dict(chapter=8, after=7, kind="Photo", id="hdp1953", rights="pending",
+         src="images/today/hdp-binan-town-1953.jpg",
+         title="The history of Biñan written in 1953",
+         caption="The first page of the “History and Cultural Life of the Town of Biñan”, typed by the "
+                 "town’s teachers for the Historical Data Papers of 1952–53. Section III gives three "
+                 "explanations of the name: the banian tree, binyagan and the nickname Viñiang.",
+         tagalog="Ang unang pahina ng “History and Cultural Life of the Town of Biñan”, na makinilyado ng mga guro ng bayan para sa Historical Data Papers ng 1952–53. Ibinibigay ng bahaging III ang tatlong paliwanag sa pangalan: ang punong banian, ang binyagan at ang palayaw na Viñiang.",
+         credit="Historical Data Papers, Laguna: Biñan (scan NLP00NNHDBIL29001). National Library of the Philippines."),
     dict(chapter=9, after=1, kind="Photo", id="pasig1917", src="images/today/pasig-steamers-1917.jpg",
          title="Barges and steamers on the Pasig, c. 1917",
          caption="Barges, steamers and sailing boats on the Pasig River in Manila, around 1917: the waterway that linked the lake towns, Biñan among them, to the capital.",
@@ -594,11 +609,6 @@ FIGURES = [
          caption="Roads, railway and lake around Biñan. The expressways (SLEX and CALAX) with the exit numbers, the national roads N1 and N65, the railway being rebuilt as the North–South Commuter Railway, and the planned lakeshore road (schematic).",
          tagalog="Mga daan, riles at lawa sa paligid ng Biñan: ang mga expressway (SLEX at CALAX) at ang bilang ng mga labasan, ang mga pambansang daang N1 at N65, ang riles na muling itinatayo bilang North–South Commuter Railway, at ang planong daan sa baybayin (eskematiko).",
          credit="Roads and railway: © OpenStreetMap contributors (ODbL), via Nominatim and OSRM; stations: Wikidata."),
-    dict(chapter=9, after=3, kind="Photo", id="calaxarch", small=True, src="images/today/calax-arch-2019.jpg",
-         title="The CALAX at Mamplasan, 2019",
-         caption="The welcome arch of the Cavite–Laguna Expressway at Mamplasan, two months after the first section opened in 2019.",
-         tagalog="Ang arko ng Cavite–Laguna Expressway sa Mamplasan, dalawang buwan matapos buksan ang unang bahagi nito noong 2019.",
-         credit="Photo: LMP 2001, 2019, CC BY-SA 4.0, via Wikimedia Commons."),
     dict(chapter=9, after=4, kind="Photo", id="jeepney2013", src="images/today/jeepney-binan-2013.jpg",
          title="A jeepney in Biñan, 2013",
          caption="A Sarao jeepney near Biñan Central Mall, 2013.",
@@ -614,7 +624,7 @@ FIGURES = [
          caption="Where Biñan makes a living: the industrial parks of the south, the market and shops of the old centre, the malls, the fishing barangays on the lake and the barangays where some farmland remains. Boundaries and fish-pen area are approximate.",
          tagalog="Kung saan naghahanapbuhay ang Biñan: ang mga industrial park sa timog, ang pamilihan at mga tindahan sa lumang kabayanan, ang mga mall, ang mga barangay ng mangingisda sa lawa at ang mga barangay na may natitira pang bukirin. Tinatayang hangganan at lugar ng baklad lamang ang nasa mapa.",
          credit="Places: © OpenStreetMap contributors (ODbL), via Nominatim; land use after the city (Experience Biñan)."),
-    dict(chapter=10, after=1, kind="Photo", id="calaxtechno", small=True, src="images/today/calax-technopark-2024.jpg",
+    dict(chapter=9, after=3, kind="Photo", id="calaxtechno", small=True, src="images/today/calax-technopark-2024.jpg",
          title="The Laguna Technopark exit of the CALAX, 2024",
          caption="The Laguna Technopark exit of the Cavite–Laguna Expressway, opened in 2020 in Timbao.",
          tagalog="Ang labasan ng Laguna Technopark sa Cavite–Laguna Expressway, na binuksan noong 2020 sa Timbao.",
@@ -663,6 +673,8 @@ def figure_html(fig, number):
     css = "map" if fig["src"].endswith(".svg") else "archive"
     if fig.get("small"):
         css += " small"
+    if fig.get("css"):
+        css += " " + fig["css"]
     if fig["kind"] == "Illustration":
         css += " impression"
     return (

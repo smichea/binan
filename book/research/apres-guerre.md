@@ -2,6 +2,8 @@
 
 *Note pour le livre bilingue (anglais/tagalog) sur Biñan City, Laguna. Rédigée le 15/11/2026. Elle fait suite à `guerre.md` (1941–1946). Elle vérifie le chapitre « Post-War Reconstruction and Contemporary Era » de `book/raw_files/history.md` (lignes 241–271). Je n'ai rien modifié d'autre sous `/home/user/binan`.*
 
+> **Mise à jour du 16/11/2026.** Voir `hdp.md` et `sources_remplacement.md` : la date du 15 mai 1955 et le nom du maire pour l'ouverture de l'hôtel de ville ne sont pas confirmés (le livre écrit « In the 1950s ») ; Jesus M. Garcia a bien été maire de 1952 à 1959 ; l'église actuelle est achevée vers 1970–1972 (plaque Los Maduros de décembre 1972) ; Rogelio Limaco n'est pas un maire d'après-guerre mais le maire de 1941–1944, mort sous l'occupation ; le chiffre de 20 794 habitants en 1948 est confirmé par le tableau 1903–2007 de la NSO (Internet Archive, `PhilippinesCensusofPopulationLGUs19032007`).
+
 **Légende des niveaux de fiabilité** (même grille que `guerre.md`)
 - ✅ **Solide** : source primaire lue (loi, proclamation, décision de la Cour suprême, recensement PSA, page officielle), ou presse nationale concordante.
 - 🟡 **À nuancer** : source secondaire sérieuse non lue en entier, sources contradictoires, site municipal ou touristique cohérent mais sans document joint.

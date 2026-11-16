@@ -1,20 +1,23 @@
 # Avant publication : liste de contrôle
 
-Objectif : une édition électronique gratuite (PDF, éventuellement EPUB) et une édition papier vendue à prix coûtant. État au 16 novembre 2026 : livre de 200 pages environ et compagnon de 86 pages, en brouillon.
+Objectif : une édition électronique gratuite (PDF, éventuellement EPUB) et une édition papier vendue à prix coûtant. État au 16 novembre 2026 : livre de 222 pages et compagnon de 120 pages, en brouillon.
 
 ## 1. Le texte
 
 - [ ] **Relecture du tagalog par un locuteur natif, de préférence de Biñan.** Mon tagalog est correct mais pas natif ; la relecture précédente (`relecture_tagalog.md`) avait trouvé des fautes. Points à surveiller : registre (tagalog courant ou filipino soutenu), termes techniques (géologie, droit foncier), cohérence des titres de section avec le compagnon.
 - [ ] **Relecture de l'anglais** par un lecteur extérieur, pour les phrases trop longues et les répétitions.
-- [ ] **Faits encore fragiles** (marqués 🟡 ou 🔴 dans `book/research/*.md`) : l'issue de l'affaire Alonte après 1998 ; la liste complète des maires avant 1980 ; la date d'ouverture de la SLEX à Biñan ; Marcial Alintanahin ; les porcheries près du lac ; le nombre de pêcheurs ; les tarifs et couleurs des tricycles ; la Semaine sainte ; la loi martiale.
-- [ ] **Sources faibles restantes** : quelques citations de Wikipédia ou de blogs (liste dans `book/research/sources_remplacement.md`).
+- [ ] **Faits encore fragiles** (marqués 🟡 ou 🔴 dans `book/research/*.md`) : l'issue de l'affaire Alonte après 1998 ; les maires de 1926–1937 et l'OIC de 1986–1988 (annexe B) ; la date exacte où l'ancienne *casa hacienda* devient hôtel de ville (le 15 mai 1955 d'une notice de la Filipinas Heritage Library, à vérifier dans un navigateur) ; le rôle de Marcial Alintanahin le 3 février 1945 ; les mandats de 1943–1944 (Limaco, Belisario, Silva) ; les porcheries près du lac ; le nombre de pêcheurs ; les tarifs et couleurs des tricycles ; la Semaine sainte ; la loi martiale.
+- [ ] **Sources faibles restantes** : il ne reste aucune citation de Wikipédia. Restent un blog (EL FILIPINISMO, présenté comme « a local account »), une transcription (Batangas History, à côté de la cote NARA), PhilAtlas et City Population (qui reprennent la PSA et le BLGF) : voir `book/research/sources_remplacement.md`.
+- [ ] **Au musée de la ville** : photographier lisiblement le panneau « Listahan ng mga naging Pinuno ng Bayan ng Biñan » (liste des chefs de la commune sous l'Espagne, illisible sur Commons) et le panneau sur Rogelio Limaco (`book/research/hdp.md`, § 9).
 - [ ] **Entretiens** : intégrer les témoignages recueillis avec `guide_entretiens.md`.
 - [ ] **Licence du texte** : à décider. Le projet est public sur GitHub ; une licence libre (par exemple CC BY-SA 4.0, compatible avec les photos et les cartes sous cette licence) permettrait aux écoles et aux bibliothèques de le copier. Sinon, écrire « Tous droits réservés » dans le colophon.
 
 ## 2. Les images
 
-- [ ] **Droits à obtenir (6 images)** — voir `droits_a_obtenir.md` :
+- [ ] **Droits à obtenir (8 images)** — voir `droits_a_obtenir.md` :
   - 5 photos d'Experience Biñan (BCHATO) : Puto Biñan, pospas, maglalatik, Puto Latik Festival, Araw ng Biñan la nuit ;
+  - le portrait de Rogelio Limaco (galerie des maires du musée, BCHATO) ;
+  - la première page des *Historical Data Papers* de Biñan (Bibliothèque nationale des Philippines) ;
   - la photo de la route du Sud en 1934 (Robert L. Pendleton, American Geographical Society Library).
   Sans accord, `python3 book/build_pdf.py --final` les retire automatiquement.
 - [ ] **Illustrations IA** : faire relire les 15 images restantes par quelqu'un de Biñan, et si possible faire redessiner les plus importantes par un illustrateur local (`illustrations_revue.md`).
