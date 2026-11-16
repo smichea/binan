@@ -1,0 +1,152 @@
+# Index of the history: one entry per line.
+# "Heading = variant | variant": every variant found in the English or Tagalog
+# text points to the heading. A line with no "=" is its own variant.
+# Variants are case-sensitive and matched as whole words.
+
+# People
+Aguinaldo, Emilio = Emilio Aguinaldo | Aguinaldo
+Alberto, José = José Alberto
+Alberto house = Alberto house | Alberto Mansion | bahay ng mga Alberto
+Alonte, Bayani = Bayani “Arthur” Alonte | Bayani Alonte | Alkalde Alonte | Mayor Alonte
+Alonte, Gel = Gel Alonte
+Alonte, Len = Len Alonte
+Alintanahin, Marcial = Marcial Alintanahin
+Alzona, Encarnación = Encarnación Alzona
+Bautista, Ambrosio Rianzares = Ambrosio Rianzares Bautista | Bautista
+Bell, J. Franklin = J. Franklin Bell | Heneral Bell | General Bell
+Bowring, Sir John = Sir John Bowring | Bowring
+Bullard, Robert = Robert Bullard
+Calderón Enríquez, Pedro = Pedro Calderón Enríquez
+Capinpin, Mateo = Mateo Capinpin | Capinpin
+Castro, Modesto de = Modesto de Castro
+de Ocampo, Emmanuel = Emmanuel de Ocampo | de Ocampo
+Dimaguila, Arman = Arman Dimaguila | Alkalde Dimaguila | Mayor Dimaguila
+Garcia, Jesus M. = Jesus M. Garcia
+Ingles, Gustavo = Gustavo Ingles
+Justiniano Aquino Cruz = Justiniano Aquino Cruz | Justiniano
+Lakandula
+Lam-co, Domingo = Domingo Lam-co | Lam-co
+Laurel, José P. = José P. Laurel | Laurel
+Legazpi, Miguel López de = Miguel López de Legazpi | Legazpi
+Limaco, Miguelito = Miguelito Limaco
+Marcos, Ferdinand = Ferdinand Marcos
+Mercado, Francisco = Francisco Mercado
+Mojica, Proculo = Proculo Mojica | Mojica
+Noriel, Mariano = Mariano Noriel | Noriel
+Perez, Hermis = Hermis Perez
+Plasencia, Juan de = Juan de Plasencia | Plasencia
+Remoquillo, Abelardo = Abelardo “Capitan Remo” Remoquillo | Abelardo “Kapitan Remo” Remoquillo
+Rizal, José = José Rizal | Rizal’s | ni Rizal | si Rizal | kay Rizal
+Rizal monument = Rizal monument | bantayog ni Rizal
+Sakay, Macario = Macario Sakay
+Salcedo, Juan de = Juan de Salcedo | Salcedo
+Schwan, Theodore = Theodore Schwan
+Smith, Jacob = Jacob Smith
+Sulayman, Rajah = Rajah Sulayman
+Tolentino, Guillermo = Guillermo Tolentino
+Yamashita, Tomoyuki = Tomoyuki Yamashita | Yamashita
+Zhao Rugua
+
+# Places in Biñan
+Biñan River = Biñan River | Ilog Biñan
+Bungahan
+Canlalay
+Casile
+De La Paz
+Ganado
+Langkiwa
+Loma
+Malaban
+Malamig
+Mamplasan = Mamplasan | Mampalasan
+Platero
+Poblacion
+San Antonio
+San Francisco
+San Vicente
+Santo Domingo
+Santo Tomas
+Soro-soro
+Timbao
+Tubigan
+Zapote
+
+# Places around
+Bay (town) = bayan ng Bay | town of Bay
+Bataan
+Cabuyao = Cabuyao | Tabuco
+Cainta
+Calamba
+Carmona
+Kawit
+Los Baños
+Lumban
+Manila Bay = Manila Bay | Look ng Maynila
+Muntinlupa
+Pasig River = Pasig River | Ilog Pasig
+San Pedro = San Pedro | San Pedro Tunasan
+Santa Rosa
+Silang
+Tagaytay = Tagaytay
+Taal = Taal Volcano | Bulkang Taal | Taal
+Tondo = Tondo | Tundun
+
+# Institutions, events, things
+Balik-Biñan
+Commonwealth of the Philippines = Commonwealth of the Philippines | Komonwelt ng Pilipinas
+Dominicans = Dominicans | Dominican | Dominiko
+Friar lands = friar estate | friar estates | friar lands | asyenda ng mga prayle
+Hacienda de Biñan = Hacienda de Biñan | Asyenda ng Biñan
+Hukbalahap = Hukbalahap | Huks | Huk
+Hunters-ROTC
+Kempeitai
+Laguna Copperplate Inscription = Laguna Copperplate Inscription | Inskripsiyon sa Binatbat na Tanso ng Laguna
+Laguna International Industrial Park
+Laguna Technopark
+Makapili
+Manila Railroad
+Noli me tangere
+Ondoy (typhoon) = Ondoy
+Puto Biñan = Puto Biñan
+Santo Tomás, College of = College of Santo Tomás | University of Santo Tomás
+Sentrong Pangkultura ng Biñan
+South Luzon Expressway
+Treaty of Paris = Treaty of Paris | Kasunduan sa Paris
+West Valley Fault
+
+# Part Two
+Almarines, Filomena = Filomena Almarines
+Ayala Land
+Bangkarera sa Lawa
+Benjamin, Antonio “Tonyo” = Antonio “Tonyo” Benjamin
+Cavite–Laguna Expressway = Cavite–Laguna Expressway | CALAX
+De La Salle University = De La Salle University | De La Salle
+Domino Farms
+Endriga, Marvin = Marvin Endriga
+Federal Land
+Filinvest
+Gardenia
+Holiday Hills
+Integrated Micro-Electronics
+Isuzu
+JAC Liner
+Laguna Lakeshore Road Network
+Los Maduros bandstand = Los Maduros
+Maglalatik = maglalatik
+Megaworld
+Nidec
+North–South Commuter Railway
+Nuestra Señora de la Paz y Buen Viaje
+Pavilion Mall
+Pistang Intsik
+Puto Latik Festival
+Samaniego, Petronila “Nila” = Petronila “Nila” Samaniego
+Samsung
+San Isidro Labrador
+Silva, Merta = Aling Merta Silva | Merta Silva
+Southwoods = Southwoods City | Southwoods Mall | Southwoods
+Terumo
+Toshiba
+TODA = TODA | TODAs
+Unilab
+Western Digital

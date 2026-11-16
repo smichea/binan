@@ -3,6 +3,49 @@
 Explanation of tagalog text for english only speakers
 
 ---
+## Introduction / Panimula
+
+This companion follows the Tagalog text of the *History of Biñan City* section by section. For each numbered section, it quotes the first Tagalog sentence, lists the new words with their roots, explains one or two points of grammar and gives a translation. At the end of each chapter, a table lists the verbs with their root, aspect and focus. Read a section in the book, then here, then read the Tagalog again aloud.
+
+### Tagalog grammar in one page
+
+**Markers.** A small word before each noun shows its role in the sentence:
+
+- *ang* (*si* before a name) marks the topic, the noun the sentence is about;
+- *ng* (*ni* before a name) marks the actor or the object that is not the topic, and possession;
+- *sa* (*kay* before a name) marks place, direction and the receiver.
+
+**Focus.** The verb changes its form to show which noun is the topic (*ang*):
+
+- actor focus (*-um-*, *mag-*, *ma-*): *Bumili si Nila ng bigas.* – Nila bought rice.
+- object focus (*-in-*, *i-*): *Binili ni Nila ang bigas.* – The rice was bought by Nila.
+- locative focus (*-an*): *Binilhan ni Nila ng bigas ang tindahan.* – Nila bought rice from the shop.
+
+**Aspect.** Each verb shows whether the action is completed, ongoing or yet to come:
+
+| Affix and root | Completed | Ongoing | Future | Infinitive |
+|:---------------|:----------|:--------|:-------|:-----------|
+| -um- + bili (buy) | bumili | bumibili | bibili | bumili |
+| mag- + luto (cook) | nagluto | nagluluto | magluluto | magluto |
+| -in- + bili | binili | binibili | bibilhin | bilhin |
+| i- + sulat (write) | isinulat | isinusulat | isusulat | isulat |
+
+**Repeated syllables.** Repeating the first syllable of the root marks the ongoing and the future (*nagluluto*, *bibili*), and it also makes adjectives plural (*malalaking bahay*, “big houses”).
+
+**Linkers.** A word and the word that describes it are joined by *na*, or by *-ng* after a vowel or *n*: *malaking bahay*, “a big house”; *bahay na bato*, “a stone house”.
+
+**Word order.** The verb usually comes first: *Dumating ang tren*, “The train arrived”. Formal writing often puts the topic first with *ay*: *Ang tren ay dumating*.
+
+**Other affixes in this book:**
+
+- *pa-* makes a verb causative: *pinabagsak*, “caused to fall, brought down”;
+- *ma-* / *na-* expresses ability or an action that just happens: *nasakop*, “was occupied”; *mabibili*, “can be bought”;
+- *maka-* / *naka-* expresses ability, and with colours or clothes, “wearing”: *nakapula*, “in red”;
+- *pang-* makes adjectives meaning “for”: *pambata*, “for children”;
+- *ka-* … *-an* makes abstract or collective nouns: *kasaysayan*, “history”; *kabundukan*, “uplands”.
+
+---
+
 ## Geography / Heograpiya
 
 ### Vocabulary and Grammar Explanation
@@ -1780,114 +1823,174 @@ Explanation of tagalog text for english only speakers
 ---
 
 
-## Culture, Daily Life and Commerce / Kultura, Pang-araw-araw na Buhay at Kalakalan
+## Culture and Daily Life / Kultura at Pang-araw-araw na Buhay
 
-### Vocabulary and Grammar Explanation (New Content Only)
+### Vocabulary and Grammar Explanation
 
-**1. The market and everyday trade**
+**1. A market town · Isang bayan ng pamilihan**
 
 > *Mula pa noon, bayan na ng mga mangangalakal ang Biñan.*
 
 **Vocabulary:**
-- **mula pa noon** – *since long ago, from way back*
-- **mangangalakal** – *traders, merchants* (root: *kalakal* = goods, trade)
-- **pampublikong pamilihan** – *public market* (root: *bili* = buy; *pamilihan* = place for buying)
-- **madaling-araw** – *dawn, very early morning*
-- **puwesto** – *stall*
-- **siksikan** – *crowded, packed together* (root: *siksik* = compressed)
-- **dyip, traysikel** – *jeepney, tricycle*
-- **umusbong** – *sprang up, sprouted* (root: *usbong* = shoot, bud)
-- **sambahayan** – *household*
-- **tsinelas** – *slippers*
-- **nakaugat** – *rooted* (root: *ugat* = root)
-- **entablado ng banda** – *bandstand*
-- **pospas** – *Biñan’s yellow rice porridge*; **lugaw** – *rice porridge*; **lamang-loob** – *innards*; **kasubha** – *safflower*
+- **mangangalakal** – *trader* (root: *kalakal* = goods)
+- **abala** – *busy*
+- **pamilihan** – *market* (root: *bili* = buy)
+- **dumarayo** – *come from afar* (root: *dayo*)
+- **mamili** – *to shop* (root: *bili*)
+- **sariwa** – *fresh*
+- **ipaluto** – *to have something cooked* (root: *luto*)
+- **kabibili** – *just bought* (root: *bili*)
+- **pinupuno** – *fill* (root: *puno* = full)
+- **karinderya** – *small eatery*
 
 **Grammar:**
-- *Mangangalakal* = *mang-* + repeated first syllable + *kalakal* (k → ng): the doer of an action, "one who trades". Compare *mananakop* (occupier) in the WWII chapter.
-- *Pamilihan* = *pang-* + *bili* + *-han*: the place where an action happens. The same pattern gives *paaralan* (school), *simbahan* (church).
-- *Napupuno* = *na-* + repeated syllable + *puno* (full): ongoing state, "is (always) getting filled".
-- *Umusbong* = *-um-* + *usbong*. With a root beginning with a vowel, *-um-* goes in front: *um* + *usbong*.
-- *Kinukulayan* = *-in-* + repeated syllable + *kulay* + *-an*: ongoing object focus, "is coloured (with)".
+- *Kabibili lamang niya* – *ka-* + repeated first syllable + root marks an action just completed: “that he or she has just bought”.
+- *Ipaluto* – *i-* (object focus) + causative *pa-* + *luto*: “to have (it) cooked” by someone else.
 
 **Translation:**
-> Biñan has been a town of traders since long ago. Its public market, near the plaza and the old municipal hall, is where daily life begins: from dawn the stalls fill with fruit, vegetables, fish and flowers, while jeepneys and tricycles crowd the streets of the Poblacion. Small family businesses sprang up around it. For generations, households in barangays such as Dela Paz and Malaban made slippers and shoes – a livelihood so rooted in the town’s identity that its bandstand was even built in the shape of a slipper. The market also enriched the food traditions. Every morning someone sells pospas there, a yellow porridge with chicken and innards coloured with safflower; Merta Silva is said to have started it in Biñan during the Japanese period, and Mang Tony’s still serves it in the Poblacion.
+> Biñan has always been a town of traders. Its public market, on J. Gonzales Street in the Poblacion, is busy day and night; the city calls it the largest public market in Laguna and in the whole CALABARZON region, and retailers from the neighbouring towns come to buy there and sell again at home. A new wet market opened on 15 April 2019, with a *paluto* corner upstairs where shoppers can have the fish or meat they have just bought cooked on the spot. Around it, family businesses – *sari-sari* stores, eateries and bakeries – fill the streets of the old town, while the malls of the last thirty years stand along the national road and the expressway (see chapter X). Each February, during Araw ng Biñan, the *Gawang Biñan* trade fair shows what the city makes.
 
 ---
 
-**2. Puto Biñan**
+**2. Hands at work · Mga kamay na gumagawa**
 
-> *Ang pinakatanyag na produkto ng lungsod ay ang Puto Biñan, isang pinasingawang kakanin na kasinlaki ng pizza.*
+> *Sa halos buong ikadalawampung siglo, bayan ng mga sapatero ang Biñan.*
 
 **Vocabulary:**
-- **pinakatanyag** – *most famous* (root: *tanyag* = famous)
-- **pinasingawan** – *steamed* (root: *singaw* = steam)
-- **kakanin** – *native rice cake, snack* (root: *kain* = eat)
-- **kasinlaki ng** – *as big as* (root: *laki* = size)
-- **ginadgad** – *grated* (root: *gadgad*)
-- **itlog na maalat** – *salted egg*
-- **maybahay** – *housewife*
-- **galapong** – *rice-flour batter*; **lansungan** – *steamer*; **katsa** – *muslin cloth*; **pugon** – *oven*; **ipa** – *rice husk*
-- **inilako** – *was peddled* (root: *lako* = to peddle)
-- **tagapagmana** – *heir* (root: *mana* = inheritance)
+- **sapatero** – *shoemaker* (from Spanish *zapatero*)
+- **kasagsagan** – *peak, height* (root: *sagsag*)
+- **talyer** – *workshop*
+- **kumikilos** – *operate, move* (root: *kilos*)
+- **tahanan** – *home* (root: *tahan*)
+- **pambata / panlalaki** – *for children / for men*
+- **pakyawan** – *wholesale* (root: *pakyaw*)
+- **sagisag** – *seal, emblem*
+- **pinabagsak** – *brought down, ruined* (root: *bagsak* = fall)
+- **inangkat** – *imported* (root: *angkat*)
+- **gorra** – *cap*
+- **handog** – *gift, offering*
 
 **Grammar:**
-- *Pinaka-* + adjective = superlative: *tanyag* (famous) → *pinakatanyag* (most famous).
-- *Kasin-* + adjective = equality: *kasinlaki ng pizza* = "as big as a pizza".
-- *Pinasingawan* = *pa-* + *singaw* + *-an* with *-in-*: "was caused to be steamed". *Pinaaapoy* (is fired) follows the same causative pattern in the ongoing aspect.
-- *Tagapag-* + root names a role: *tagapagmana* = "the one who inherits".
+- *Pambata*, *panlalaki* – the prefix *pang-* makes adjectives meaning “for”: *pang-* + *bata* → *pambata* (*ng* becomes *m* before *b*); *pang-* + *lalaki* → *panlalaki* (*ng* becomes *n* before *l*).
+- *Pinabagsak ng murang inangkat na produkto ang karamihan sa mga talyer* – causative object focus (*pa-* + *-in-*): the workshops (*ang*) were brought down by cheap imports (*ng*).
 
 **Translation:**
-> The city’s most famous product is Puto Biñan, a steamed rice cake as big as a pizza, soft and moist, topped with grated cheese, bits of salted egg and a little condensed milk. According to the town’s story, it was created almost a century ago by a housewife, Petronila “Aling Nila” Samaniego. She tried out a batter of rice flour, brown sugar and baking powder, poured it onto a steamer covered with muslin, and steamed it in an oven fired with rice husks. Her puto was first peddled to passengers at the old Biñan railway station in Barangay Santo Niño; other puto makers followed, and her recipe is still cooked today in the family’s original bakery, now managed by her heir.
+> For most of the twentieth century Biñan was a town of shoemakers. At the height of the trade, in the 1960s, some 500 workshops worked in about 3,000 homes: sandals, step-ins and children’s shoes in De La Paz, men’s shoes in Malaban, and wooden clogs – *bakya* – in Casile and San Jose. Families such as the Almendral and the Dilag built small businesses that sold to department stores and to the wholesale market of Baclaran, and a shoe still appears on the city’s seal. Cheap imports ruined most workshops from the late 1990s. In Platero, about 450 makers of hats and caps carry on another old trade, celebrated every 17 March since 2008 with a Sombrero Festival. Each barangay had its craft: horse-drawn *kalesa* in Canlalay and De La Paz, pedicabs in Soro-soro, sampaguita garlands in Bungahan, candles in Santo Domingo. The town remembered its shoemakers on its plaza: the Los Maduros bandstand, given by a local gentlemen’s club in the 1950s or 1960s, is shaped like a wooden clog, or a slipper.
 
 ---
 
-**3. The Puto Latik Festival and the maglalatik**
+**3. Puto, pospas and pinipig · Puto, pospas at pinipig**
 
-> *Mula noong 2011, sabay na ipinagdiriwang ng lungsod ang kakanin at ang sayaw nito sa Puto Latik Festival.*
+> *Ang pinakatanyag na produkto ng lungsod ay ang **Puto Biñan**, isang malapad at malambot na kakanin.*
+
+**Vocabulary:**
+- **kakanin** – *rice cake, native delicacy*
+- **masa** – *batter, dough*
+- **pampaalsa** – *raising agent* (root: *alsa* = rise)
+- **pinasisingawan** – *is steamed* (root: *singaw* = steam)
+- **ipa** – *rice husk*
+- **ginadgad** – *grated* (root: *gadgad*)
+- **inapo** – *descendant*
+- **lugaw** – *porridge*
+- **malagkit** – *glutinous rice*
+- **lamang-loob** – *innards*
+- **pinadilaw** – *coloured yellow* (root: *dilaw*)
+- **binayo** – *pounded* (root: *bayo*)
+- **lusong** – *wooden mortar*
+- **Undas** – *All Saints’ Day*
+
+**Grammar:**
+- *Pinasisingawan* – *pa-* + *-in-* + repeated syllable + *-an*: an ongoing causative verb in locative focus, “(the batter) is being steamed”.
+- *Binayo hanggang pumipi* – *hanggang* (“until”) + an *-um-* verb: “pounded until it becomes flat”.
+
+**Translation:**
+> The city’s most famous product is **Puto Biñan**, a wide, soft rice cake. Its batter, the *galapong*, is made of rice flour, brown sugar, a raising agent and water; it is steamed in a *lansungan* lined with muslin over a fire of rice husks, then topped with grated cheese, salted egg and condensed milk. Local memory credits it to **Petronila “Nila” Samaniego**; vendors sold the cakes to passengers at the railway station, and travellers began to call them “the puto of Biñan”. Her descendant Marvin Endriga still runs the family kitchen, and most puto makers today live in San Vicente. The family brand dates its first sale to 1925, and older makers such as Aling Manay and Aling Juling are still remembered. The morning dish is **pospas**, a porridge of glutinous rice with native chicken and pork innards, coloured yellow with *kasubha* and topped with fried garlic and spring onion. Aling Merta Silva is believed to have pioneered it, perhaps as early as the Japanese occupation, and her helper Antonio “Tonyo” Benjamin carried it on. Canlalay is known for **pinipig**, young glutinous rice toasted in a clay pot and pounded flat in a wooden mortar; demand peaks before All Saints’ Day, and one maker, Edna’s, has been at work since 1967. Santo Domingo calls itself the capital of *sorbetes*, home-made ice cream. Other favourites of Laguna, such as *espasol* and *kesong puti*, belong to other towns of the province.
+
+---
+
+**4. San Isidro, the Queen and the saints · Si San Isidro, ang Reyna at ang mga santo**
+
+> *Ang patron ng Biñan ay si **San Isidro Labrador**, ang santo ng mga magsasaka, na ang kapistahan ay tuwing Mayo 15 – angkop sa isang bayang nagsimula bilang “Hacienda de San Isidro Labrador de Biñan”.*
+
+**Vocabulary:**
+- **kapistahan** – *feast day* (root: *pista*)
+- **angkop** – *fitting, suitable*
+- **mapaghimala** – *miraculous* (root: *himala* = miracle)
+- **dambanang pandiyosesis** – *diocesan shrine* (*dambana* = altar, shrine)
+- **pinipintakasi** – *is venerated as patron* (root: *pintakasi*)
+- **hinirang** – *was proclaimed, chosen* (root: *hirang*)
+- **pandangal** – *honorary* (root: *dangal* = honour)
+- **pinapasan** – *carry on the shoulders* (root: *pasan*)
+- **pasasalamat** – *thanksgiving* (root: *salamat*)
+- **pananampalataya** – *faith*
+- **polyeto** – *pamphlet*
+- **libingan** – *grave* (root: *libing* = burial)
+- **pamimintuho** – *devotion*
+- **Mahal na Araw** – *Holy Week*
+
+**Grammar:**
+- *Pandangal* – *pang-* + *dangal*: *ng* becomes *n* before *d*, as in *pandiyosesis* (“diocesan”).
+- *Bagama’t hindi kailanman kinilala* – *bagama’t* (“although”) + *hindi kailanman* (“never”): “although (the Church) never recognized”.
+
+**Translation:**
+> The patron of Biñan is **San Isidro Labrador**, the farmer saint, whose feast falls on 15 May – fitting for a town that began as the “Hacienda de San Isidro Labrador de Biñan”. His church, rebuilt in 1970 after the fire of 1968, keeps an old image that many believe to be miraculous, and on 6 May 2022 it became a diocesan shrine. Biñan also has a queen. *Nuestra Señora de la Paz y Buen Viaje*, venerated in the chapel of De La Paz, was proclaimed “Honorary Queen of Biñan” by a city resolution in 2018, and each May the men of the city carry her image from her chapel to the church in the *Karakol ng Reyna*. The Chinese-Filipino community holds its own thanksgiving, the *Pistang Intsik*, during the May festival, and each barangay has its fiesta: the Santo Niño in Ganado in January, hats in Platero in March, *puto* and *kakanin* in San Vicente in April, ice cream in Santo Domingo in August, *pinipig* in Canlalay in October. Popular faith has its own stories. According to a pamphlet printed in 1947, the body of Filomena Almarines, a young roadside vendor who had died in 1938 at the age of 25, was found intact when her tomb was opened; a chapel was built and pilgrims came for some years, though the Church never recognized her cult. The customs of Holy Week – the *pabasa*, the processions, the old images kept by families – have not yet been described in print; they are among the memories this book hopes to gather.
+
+---
+
+**5. The Puto Latik Festival · Ang Puto Latik Festival**
+
+> *Mula noong 2011, sabay na ipinagdiriwang ng lungsod ang kakanin at ang sayaw nito sa **Puto Latik Festival**.*
 
 **Vocabulary:**
 - **sabay** – *together, at the same time*
-- **ipinagdiriwang** – *is celebrated* (root: *diwang* = feast)
-- **maglalatik** – *the latik dance* (root: *latik* = sweet coconut curd)
-- **isinayaw** – *was danced* (root: *sayaw* = dance)
-- **handog** – *offering*
-- **bao ng niyog** – *coconut shell*
-- **dibdib, balakang, hita** – *chest, hips, thighs*
-- **kunwaring labanan** – *mock battle* (*kunwari* = pretend)
-- **latak** – *residue, dregs*; **gata** – *coconut milk*
-- **pagkakasundo** – *reconciliation* (root: *sundo*, *magkasundo* = to agree)
+- **idinaos** – *was held* (root: *daos*)
+- **inilipat** – *was moved* (root: *lipat*)
 - **karosa** – *float, carriage*
-- **ginawaran** – *was awarded* (root: *gawad* = award)
-- **hinirang** – *was named, was chosen* (root: *hirang*)
+- **paligsahan** – *contest*
+- **palaman** – *filling, topping*
+- **nagkamit** – *won, obtained* (root: *kamit*)
+- **gantimpala** – *award, prize*
+- **indayog** – *rhythm, sway*
+- **bao** – *coconut shell*
+- **nakatali** – *tied* (root: *tali*)
+- **isinayaw** – *was danced* (root: *sayaw*)
+- **nagkasundo** – *made peace, agreed* (root: *sundo*)
+- **inaangkin** – *claims* (root: *angkin*)
 
 **Grammar:**
-- *Maglalatik* = *mag-* + repeated first syllable + *latik*: a noun for the person (or here the dance) associated with an activity, "the latik-fighter".
-- *Isinayaw* = *i-* + *-in-* + *sayaw*: object focus, completed ("was danced").
-- *Dating idinaraos tuwing Pebrero* – "formerly held every February": *dati* + linker *-ng*; *idinaraos* shows the reduplicated ongoing aspect of *idaos* (to hold an event), with *d → r* between vowels.
-- *Ginawaran* = *-in-* + *gawad* + *-an* (d → r): "was given an award".
+- *Nakapula*, *nakaasul* – *naka-* + a colour means “wearing” that colour: *mga Morong nakapula* = “Moros in red”.
+- *Isinayaw*, *bininyagan* – *i-* + *-in-* (object focus) and *-in-* + *-an* (locative focus): “was danced”, “were baptized”.
 
 **Translation:**
-> Since 2011, the city has celebrated its rice cake and its dance together in the Puto Latik Festival. Its name joins puto and the maglalatik, a folk dance said to have been first danced by the men of Loma and Zapote as an offering to San Isidro Labrador in his procession. In this dance, men with halved coconut shells tied to their chests, hips and thighs stage a mock battle over latik, the sweet curd of boiled coconut milk: Moros in red trousers against Christians in blue, in a fight that ends in reconciliation. Formerly held every February, the festival was moved to the feast of San Isidro on 15 May, and now lasts nine days, from 15 to 23 May. It begins with the procession of the image of Nuestra Señora de la Paz y Buen Viaje, followed by the inter-barangay street-dance contest, the float parade and the Puto Biñan cooking contest, and ends with the Pistang Intsik and the Santacruzan. It has been given the Pearl Awards of the Department of Tourism and the tourism officers several times – in 2018, 2019 and 2022 – and was named the best cultural festival in the city category in 2025.
+> Since 2011 the city has celebrated its rice cake and its dance together in the **Puto Latik Festival**. First held in February, it moved in 2017 to the nine days from 15 to 23 May, around the feast of San Isidro, and it was held online in 2020 and 2021. It opens with the *Karakol ng Reyna* and fills the streets with dancers from every barangay, with floats, with the *Puto Biñan 2.0* contest, in which barangays invent new toppings for the old cake, with the *Pistang Intsik* and, at the end, with the *Santacruzan*. The city reports national tourism awards for the festival in 2018, 2019 and 2022, and in 2025 it was named the best cultural festival among the country’s cities. Its heart is the **maglalatik**, a dance in which men with coconut shells strapped to their bodies strike them in rhythm. Biñan tradition holds that it was first danced by the men of Loma and Zapote as an offering to San Isidro during his procession, and that it tells of a fight for the *latik*, the coconut curd, between Moros in red and Christians in blue: the Moros win, but the two sides make peace and the Moros are baptized. Other places, such as Cainta in Rizal, also claim the dance.
 
 ---
 
-**4. The rhythm of the year**
+**6. Bands, books and football · Banda, aklat at futbol**
 
-> *May sariling indayog ang bawat araw.*
+> *Isang banda ng lungsod, na itinatag noong Hunyo 5, 2017 na may mga 35 musikero, ang tumutugtog ng *Serenata* sa mga misa de gallo bago mag-Pasko sa sampung simbahan, at itinatag din nang taong iyon ang isang Sentro para sa Sining ng Pagtatanghal.*
 
 **Vocabulary:**
-- **minamarkahan** – *is marked* (root: *marka* = mark)
-- **pagdiriwang** – *celebration* (root: *diwang*)
-- **indayog** – *rhythm, sway*
-- **pamamasyal** – *strolling, going for a walk* (root: *pasyal*)
+- **itinatag** – *was founded* (root: *tatag*)
+- **tumutugtog** – *plays (music)* (root: *tugtog*)
+- **misa de gallo** – *dawn mass before Christmas*
+- **pagtatanghal** – *performance* (root: *tanghal*)
+- **aklatan** – *library* (root: *aklat* = book)
+- **kaanib** – *affiliated, member* (root: *anib*)
+- **prinsa** – *dam* (from Spanish *presa*)
+- **iisang** – *one single*
+- **palakasan** – *sport* (root: *lakas* = strength)
+- **damuhan** – *lawn, turf* (root: *damo* = grass)
+- **katabi** – *next to* (root: *tabi*)
+- **koponan** – *team*
+- **kasunduan** – *agreement* (root: *sundo*)
 
 **Grammar:**
-- *Minamarkahan* = *-in-* + repeated syllable + *marka* + *-han*: ongoing object focus.
-- *Pamamasyal* = *pang-* + repeated syllable + *pasyal* (p → m): the noun for an ongoing activity.
+- *Sa bisa ng kasunduan* – “by virtue of the agreement”: *bisa* means force, validity.
+- *Iisang silid* – the doubled number *iisa* means “one only, one single”.
 
 **Translation:**
-> In this way, the year in Biñan is marked by celebrations – the Araw ng Biñan in the first days of February and the fiesta of San Isidro in May – and each day has its own rhythm: Mass at the church of San Isidro Labrador, the market in the morning, and strolling on the plaza in the evening.
+> A city brass band, founded on 5 June 2017 with some 35 musicians, plays the *Serenata* at the dawn masses before Christmas in ten churches, and a Centre for Performing Arts was created the same year. The Sentrong Pangkultura, in the old town hall, houses the city museum and a library affiliated with the National Library. In 2017 the city declared a heritage district around Plaza Rizal and J. Gonzales and V. Ocampo streets, with several old houses and the Catholic cemetery of Canlalay; the Spanish-era dams of Timbao and Soro-soro followed in 2023. Biñan now has universities and colleges – Perpetual Help, La Consolacion, the Polytechnic University of the Philippines and a campus of De La Salle among them – a long way from the one-room school where Rizal studied in 1870. Sport has found a home too. A football stadium with an artificial pitch, completed in 2015 in Zapote beside City Hall, became, under an agreement signed on 30 September 2015, the home ground of the women’s national team, the Malditas.
 
 ---
 
@@ -1895,23 +1998,537 @@ Explanation of tagalog text for english only speakers
 
 | Verb in Text | Root | Aspect | Focus | Construction | Meaning |
 |:-------------|:-----|:-------|:------|:-------------|:--------|
-| napupuno | puno | Ongoing | Actor | na- + pu + puno | is getting filled |
-| umusbong | usbong | Completed | Actor | um- + usbong | sprang up |
-| gumawa | gawa | Completed | Actor | -um- + gawa | made |
-| itinayo | tayo | Completed | Object | i- + -in- + tayo | was built |
-| pinayaman | yaman | Completed | Object | -in- + payaman (pa- + yaman) | was enriched |
-| kinukulayan | kulay | Ongoing | Object | -in- + ku + kulay + -an | is coloured |
-| inihahain | hain | Ongoing | Object | i- + -in- + ha + hain | is served |
-| pinasingawan | singaw | Completed | Object | pa- + singaw + -an, -in- | was steamed |
-| nilikha | likha | Completed | Object | ni- + likha (-in- becomes ni- before l) | was created |
-| ibinuhos | buhos | Completed | Object | i- + -in- + buhos | was poured |
-| inilako | lako | Completed | Object | i- + -in- + lako | was peddled |
-| niluluto | luto | Ongoing | Object | -in- + lu + luto | is being cooked |
-| ipinagdiriwang | diwang | Ongoing | Object | ipag- + -in- + di + diwang | is celebrated |
-| isinayaw | sayaw | Completed | Object | i- + -in- + sayaw | was danced |
-| nagtatanghal | tanghal | Ongoing | Actor | nag- + ta + tanghal | stage, perform |
+| dumarayo | dayo | Ongoing | Actor | -um- + da + dayo | come from afar |
+| mamili | bili | Infinitive | Actor | mang- + bili | to shop |
+| binuksan | bukas | Completed | Object | -in- + bukas + -an | was opened |
+| ipaluto | luto | Infinitive | Object (causative) | i- + pa- + luto | to have cooked |
+| pinupuno | puno | Ongoing | Object | -in- + pu + puno | fills |
+| ipinakikita | kita | Ongoing | Object | i- + -in- + pa- + ki + kita | shows |
+| kumikilos | kilos | Ongoing | Actor | -um- + ki + kilos | operates |
+| nagtayo | tayo | Completed | Actor | nag- + tayo | built |
+| pinabagsak | bagsak | Completed | Object (causative) | pa- + -in- + bagsak | brought down |
+| inalala | alala | Completed | Object | -in- + alala | remembered |
+| pinasisingawan | singaw | Ongoing | Locative (causative) | pa- + -in- + si + singaw + -an | is steamed |
+| lumikha | likha | Completed | Actor | -um- + likha | created |
+| pinadilaw | dilaw | Completed | Object (causative) | pa- + -in- + dilaw | was coloured yellow |
+| pinaniniwalaan | paniwala | Ongoing | Locative | -in- + ni + paniwala + -an | is believed |
+| ipinagpatuloy | tuloy | Completed | Object | ipag- + -in- + pa- + tuloy | was carried on |
+| binayo | bayo | Completed | Object | -in- + bayo | was pounded |
+| hinirang | hirang | Completed | Object | -in- + hirang | was proclaimed |
+| pinapasan | pasan | Ongoing | Object | -in- + pa + pasan | carry on the shoulders |
+| idinaos | daos | Completed | Object | i- + -in- + daos | was held |
 | inilipat | lipat | Completed | Object | i- + -in- + lipat | was moved |
-| tumatagal | tagal | Ongoing | Actor | -um- + ta + tagal | lasts |
-| ginawaran | gawad | Completed | Object | -in- + gawad + -an (d → r) | was awarded |
-| hinirang | hirang | Completed | Object | -in- + hirang | was named |
-| minamarkahan | marka | Ongoing | Object | -in- + ma + marka + -han | is marked |
+| nagkamit | kamit | Completed | Actor | nag- + kamit | won |
+| isinayaw | sayaw | Completed | Object | i- + -in- + sayaw | was danced |
+| nagkasundo | sundo | Completed | Actor (reciprocal) | nagka- + sundo | made peace |
+| bininyagan | binyag | Completed | Locative | -in- + binyag + -an | were baptized |
+| inaangkin | angkin | Ongoing | Object | -in- + a + angkin | claims |
+| tumutugtog | tugtog | Ongoing | Actor | -um- + tu + tugtog | plays music |
+
+---
+
+## Getting Around / Paglalakbay at Transportasyon
+
+### Vocabulary and Grammar Explanation
+
+**1. The lake and the old road · Ang lawa at ang lumang daan**
+
+> *Sa loob ng tatlong siglo, nakaharap sa tubig ang Biñan.*
+
+**Vocabulary:**
+- **nakaharap** – *facing* (root: *harap*)
+- **kasko** – *casco, cargo barge*
+- **patawid** – *across* (root: *tawid*)
+- **barkong de-singaw** – *steamboat* (*singaw* = steam)
+- **iuwi** – *to bring home* (root: *uwi*)
+- **magaan** – *light* (root: *gaan*)
+- **naglalayag** – *sail* (root: *layag* = sail)
+- **kasindali** – *as easy as* (root: *dali*)
+- **iniugnay** – *linked* (root: *ugnay*)
+- **hukbo** – *army*
+- **mangingisda** – *fisher* (root: *isda* = fish)
+- **nagkakarera** – *race* (root: *karera*)
+- **pasyalan** – *promenade* (root: *pasyal* = stroll)
+
+**Grammar:**
+- *Kasindali ng Calamba* – *kasing-* (here *kasin-*) + adjective = “as … as”: “as easy as (approaching) Calamba”.
+- *Upang iuwi sa Calamba ang batang si Rizal* – *upang* (“in order to”) + an *i-* verb in object focus: the boy (*ang*) is what is brought home.
+
+**Translation:**
+> For three centuries Biñan looked to the water. *Cascos* and *bancas* carried rice, sugar and cloth across Laguna de Bay and down the Pasig River to Manila, and in December 1870 the steamer *Talim* called at Biñan to take the young Rizal home to Calamba (see chapter IV). Around 1900 an English writer noted that “light draught steamers… ply daily to Binan, Calamba, and Santa Cruz”, and an American colonel found that “Binan can be approached from the lake about as easily as Calamba”. On land, paved *calzadas* linked the town to its neighbours, and the Manila South Road – the “Route 1” of the armies of 1941–1945 – became the national road, today numbered N1. No passenger boat leaves Biñan any more. The lake belongs to its fishers, who race their boats off Malaban every 31 July in the *Bangkarera sa Lawa*; a Coast Guard sub-station registers their boats, and a 325-metre lakeshore promenade opened in De La Paz in March 2024.
+
+---
+
+**2. The railway · Ang riles**
+
+> *Umabot sa Biñan ang Manila Railroad noong Setyembre 2, 1908.*
+
+**Vocabulary:**
+- **umabot** – *reached* (root: *abot*)
+- **hintuan** – *stop, halt* (root: *hinto*)
+- **tulisan** – *bandit*
+- **pinasinayaan** – *was inaugurated* (root: *pasinaya*)
+- **dinisenyo** – *was designed*
+- **tumigil** – *stopped* (root: *tigil*)
+- **bigyang-daan** – *to make way for*
+- **de-kuryente** – *electric*
+- **pautang** – *loan* (root: *utang* = debt)
+- **nakataas** – *raised, elevated* (root: *taas*)
+- **inaasahang** – *expected* (root: *asa* = hope)
+- **pabahay** – *housing* (root: *bahay*)
+
+**Grammar:**
+- *Upang bigyang-daan ang North–South Commuter Railway* – *bigyan* (“to give to”) + *daan* (“way”) form one verb: “to make way for”.
+- *Inaasahang matatapos* – *inaasahan* + linker *-ng* + the future *matatapos*: “expected to be finished”.
+
+**Translation:**
+> The Manila Railroad reached Biñan on 2 September 1908. For more than a century its station on General Malvar Street, in San Vicente, linked the town to Manila and to the south, with a second stop at Golden City 1; in 1972 robbers attacked the Bicol Express as it left the platform (see chapter VII). On 24 April 2019 the first train designed and built in the Philippines, the Hybrid Electric Train of the Department of Science and Technology, was inaugurated at Biñan station after a first run from Alabang. Four years later, on 2 July 2023, all trains between Alabang and Calamba stopped and the station closed, to make way for the **North–South Commuter Railway**. The new electric line, built on a viaduct with loans from the Asian Development Bank and Japan, will have an elevated station in Biñan, between Pacita and Santa Rosa; the works began on 3 July 2023 and are due to end around 2028. The families who lived along the old track have been moved to new housing at The Meadows, in Langkiwa, since February 2026.
+
+---
+
+**3. The expressways · Ang mga expressway**
+
+> *Umabot sa Biñan ang South Luzon Expressway noong 1978, nang buksan ang karugtong nito mula Alabang hanggang Calamba.*
+
+**Vocabulary:**
+- **karugtong** – *extension* (root: *dugtong*)
+- **labasan** – *exit* (root: *labas* = outside)
+- **hangganan** – *border, boundary* (root: *hangga*)
+- **rotonda** – *roundabout*
+- **naglilingkod** – *serves* (root: *lingkod*)
+- **haba** – *length*
+- **papasok** – *going into* (root: *pasok*)
+- **paliparan** – *airport* (root: *lipad* = fly)
+- **pandaigdig** – *international* (root: *daigdig* = world)
+- **tagal** – *duration*
+
+**Grammar:**
+- *Wala pang dalawampung minuto* – *wala pa* + a quantity: “not even twenty minutes”, that is, less than twenty.
+- *Kapag walang trapiko* – *kapag* introduces a condition or a habitual time: “when there is no traffic”.
+
+**Translation:**
+> The South Luzon Expressway reached Biñan in 1978, when its extension from Alabang to Calamba was opened. Two of its exits are in Biñan, at Southwoods (exit 31) and at Mamplasan (exit 36); the Carmona exit (33), between them, lies just across the border in Cavite and leads to Biñan by General Malvar Street. Since 2019 the **Cavite–Laguna Expressway** (CALAX) has started at the Mamplasan roundabout, at the Greenfield toll plaza; an exit serving the Laguna Technopark opened in Timbao in 2020, and since 2026 the road runs 26 kilometres into Cavite, as far as General Trias. Without traffic, Alabang is less than twenty minutes away by car, and Makati, the international airport and Tagaytay about half an hour each; at rush hour the same trips often take two or three times as long.
+
+---
+
+**4. Jeepneys, buses and vans · Dyip, bus at van**
+
+> *Karamihan sa mga tao ay nagbibiyahe sakay ng dyip at bus.*
+
+**Vocabulary:**
+- **nagbibiyahe** – *travel* (root: *biyahe*)
+- **paakyat** – *going up* (root: *akyat* = climb)
+- **nagtulak** – *pushed* (root: *tulak*)
+- **sumapi** – *to join* (root: *sapi*)
+- **kooperatiba** – *cooperative*
+- **tagapag-regula** – *regulator*
+- **pamasahe** – *fare*
+- **pinakamababa** – *lowest* (root: *baba* = low)
+- **pinaghatian** – *was shared* (root: *hati* = half)
+- **panlalawigan** – *provincial* (root: *lalawigan* = province)
+
+**Grammar:**
+- *Pinaghatian ng JAC Liner at LLI* – *pag-* + *-in-* + *-an* with *hati*: the route (*ang*) is what the two companies shared between them.
+- *Pinakamababang pamasahe* – the superlative *pinaka-* + *mababa* + linker *-ng*: “the lowest fare”.
+
+**Translation:**
+> Most people travel by jeepney and bus. Jeepneys run along the national road to San Pedro, Alabang and Balibago in Santa Rosa, and up General Malvar Street to Carmona and General Mariano Alvarez in Cavite. The national modernization programme launched in 2017 pushed their owners into cooperatives and brought new, larger vehicles: the modern jeepney line “Biñan – Balibago via Manila South Road” was among the first to run again after the lockdown, on 26 June 2020. Fares are set by the national regulator: since 28 September 2026 the minimum fare has been ₱14 on a traditional jeepney and ₱17 on a modern one. Buses leave from the terminal near the old town centre for Buendia and Ayala in Makati by the expressway; in 2022 that route was shared by JAC Liner and LLI, with 105 buses. Other buses and vans start at Southwoods, and provincial buses heading south stop on the way.
+
+---
+
+**5. Tricycles · Ang traysikel**
+
+> *Sa maiikling biyahe, traysikel ang sinasakyan ng Biñan, isang motorsiklong may nakakabit na sidecar na may bubong.*
+
+**Vocabulary:**
+- **maiikli** – *short* (plural; root: *ikli*)
+- **nakakabit** – *attached* (root: *kabit*)
+- **prangkisa** – *franchise*
+- **alituntunin** – *guidelines, rules*
+- **sinipi** – *quoted* (root: *sipi*)
+- **lansangan** – *road, highway*
+- **maliban kung** – *unless*
+- **pagkakakilanlan** – *identification* (root: *kilala*)
+- **kasapi** – *member* (root: *sapi*)
+- **samahan** – *association* (root: *sama* = together)
+- **kani-kaniyang** – *each one’s own*
+- **pinahihintulutan** – *allows, permits* (root: *hintulot*)
+- **kahabaan** – *length* (root: *haba*)
+
+**Grammar:**
+- *Kani-kaniyang sona at terminal* – doubling *kaniya* (“his, hers, its”) gives “each its own”.
+- *Maliban kung walang ibang daan* – *maliban kung* (“unless”) + clause: “unless there is no other road”.
+
+**Translation:**
+> For short trips, Biñan rides the tricycle, a motorcycle with a covered sidecar. Since the Local Government Code of 1991, it is the city, not the national government, that grants tricycle franchises and regulates their operation. National guidelines, quoted by the Supreme Court in 2000, keep tricycles off the national highways used by heavy vehicles unless there is no other road, allow a common colour for the tricycles of each zone and give each unit an identification number; a permit lasts three years. In Biñan the permits are issued by the Biñan Tricycle Franchising and Regulatory Board. Owners and drivers belong to TODAs – tricycle operators and drivers’ associations – each with its own zone and terminal, grouped in a city federation; in April 2026, 5,489 TODA members received a fuel subsidy from the city. The first electric tricycles arrived in 2017, and a 2023 ordinance lets e-trikes cross the main roads but not ride along them.
+
+---
+
+**6. Where can you go from Biñan? · Saan ka makararating mula sa Biñan?**
+
+> *Magbabago pang muli ang mapa.*
+
+**Vocabulary:**
+- **makararating** – *will be able to reach* (root: *dating* = arrive)
+- **patungo sa** – *toward, going to*
+- **taksi** – *taxi*
+- **sasakyan** – *vehicle* (root: *sakay* = ride)
+- **magbabago** – *will change* (root: *bago* = new)
+- **ibabalik** – *will bring back* (root: *balik*)
+- **pinondohan** – *was funded* (root: *pondo* = fund)
+- **magdadala** – *will carry* (root: *dala*)
+- **lansangan** – *highway*
+- **gilid** – *edge, side*
+
+**Grammar:**
+- *Saan ka makararating?* – *maka-* + repeated syllable is the abilitative future: “where can you get to?”
+- *Magbabago pang muli* – future *magbabago* + *pa* (“still”) + *muli* (“again”): “will change once more”.
+
+**Translation:**
+> The map will change again. The North–South Commuter Railway should bring trains back around 2028, and a raised road, the **Laguna Lakeshore Road Network**, is to be built along the shore from Taguig to Calamba, with financing approved in 2024 by the Asian Development Bank and the Asian Infrastructure Investment Bank; its San Pedro–Cabuyao section, 12.23 kilometres long, will have an interchange for San Pedro and Biñan. The lake, Biñan’s oldest highway, will carry traffic again – on a road built along its edge.
+
+---
+
+### Full Verb Breakdown Table
+
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| dumaan | daan | Completed | Actor | -um- + daan | passed by, called at |
+| iuwi | uwi | Infinitive | Object | i- + uwi | to bring home |
+| naglalayag | layag | Ongoing | Actor | nag- + la + layag | sail |
+| iniugnay | ugnay | Completed | Object | i- + -in- + ugnay | linked |
+| nagkakarera | karera | Ongoing | Actor | nagka- + ka + karera | race |
+| nagtatala | tala | Ongoing | Actor | nag- + ta + tala | records |
+| umabot | abot | Completed | Actor | -um- + abot | reached |
+| sinalakay | salakay | Completed | Object | -in- + salakay | was attacked |
+| pinasinayaan | pasinaya | Completed | Locative | -in- + pasinaya + -an | was inaugurated |
+| tumigil | tigil | Completed | Actor | -um- + tigil | stopped |
+| isinara | sara | Completed | Object | i- + -in- + sara | was closed |
+| itinatayo | tayo | Ongoing | Object | i- + -in- + ta + tayo | is being built |
+| naglilingkod | lingkod | Ongoing | Actor | nag- + li + lingkod | serves |
+| bumibiyahe | biyahe | Ongoing | Actor | -um- + bi + biyahe | travel, run |
+| nagtulak | tulak | Completed | Actor | nag- + tulak | pushed |
+| sumapi | sapi | Infinitive | Actor | -um- + sapi | to join |
+| nagtatakda | takda | Ongoing | Actor | nag- + ta + takda | sets |
+| pinaghatian | hati | Completed | Locative | pag- + -in- + hati + -an | was shared |
+| sinipi | sipi | Completed | Object | -in- + sipi | was quoted |
+| naglalabas | labas | Ongoing | Actor | nag- + la + labas | issues |
+| pinahihintulutan | hintulot | Ongoing | Locative | pa- + -in- + hi + hintulot + -an | allows |
+| tumawid | tawid | Infinitive | Actor | -um- + tawid | to cross |
+| makararating | dating | Future (abilitative) | Actor | maka- + ra + rating | will be able to reach |
+| magbabago | bago | Future | Actor | mag- + ba + bago | will change |
+| ibabalik | balik | Future | Object | i- + ba + balik | will bring back |
+| pinondohan | pondo | Completed | Locative | -in- + pondo + -han | was funded |
+| magdadala | dala | Future | Actor | mag- + da + dala | will carry |
+
+---
+
+## Making a Living / Hanapbuhay
+
+### Vocabulary and Grammar Explanation
+
+**1. A factory city on old cane fields · Isang lungsod ng pabrika sa dating tubuhan**
+
+> *Pangunahing ikinabubuhay ng Biñan ngayon ang pagmamanupaktura para sa pagluluwas.*
+
+**Vocabulary:**
+- **ikinabubuhay** – *means of living, livelihood* (root: *buhay* = life)
+- **pagmamanupaktura** – *manufacturing*
+- **pagluluwas** – *export* (root: *luwas*)
+- **ipinahayag** – *was proclaimed* (root: *pahayag*)
+- **sonang pang-ekonomiya** – *economic zone*
+- **sakop** – *covered, within*
+- **piyesa** – *part, spare part*
+- **punong-tanggapan** – *headquarters*
+- **heringgilya** – *syringe*
+- **gamot** – *medicine*
+- **tinapay** – *bread*
+- **nagkakahalaga** – *is worth* (root: *halaga* = value)
+
+**Grammar:**
+- *Pangunahing ikinabubuhay ng Biñan … ang pagmamanupaktura* – *ika-* + *-in-* + repeated syllable names the means by which something is done: “what Biñan mainly lives by is manufacturing”.
+- *Na nagkakahalaga ng ₱1 bilyon* – a relative clause with *na*: “worth one billion pesos”.
+
+**Translation:**
+> Biñan today lives mainly from manufacturing for export. Roughly half of the 471-hectare Laguna Technopark lies inside the city: more than 230 hectares of it, in the barangays of Biñan, Loma, Timbao and Mamplasan, were proclaimed economic zones between 1997 and 2015, and the Laguna International Industrial Park fills Mamplasan and Ganado. The largest employers make parts of the digital world: the sliders that carry the read-write heads of hard disks at Western Digital, disk-drive motors at Nidec, drives and solid-state memory at Toshiba, whose plant was founded in 1995, and electronic assemblies at Integrated Micro-Electronics, whose world headquarters is in the Technopark, at Amkor and at Cirtek. Car parts come next – Isuzu trucks and gearboxes, Honda parts, wiring harnesses at Furukawa, seat belts and airbags at Joyson – then medical goods, such as the syringes of Terumo and the medicines of Unilab’s Amherst plant, opened in 2007, and bread: Gardenia has baked in the industrial park since the late 1990s and opened a new ₱1-billion plant there in 2016. Not every famous name is in Biñan, however: the Honda and Mitsubishi car plants stand on the Santa Rosa side of the Technopark.
+
+---
+
+**2. Market town, mall town · Bayan ng pamilihan, bayan ng mall**
+
+> *Buhay pa rin sa Poblacion, sa paligid ng pampublikong pamilihan, ang lumang kalakalan ng bayan.*
+
+**Vocabulary:**
+- **kalakalan** – *trade* (root: *kalakal*)
+- **kasabay** – *together with, at the same time as* (root: *sabay*)
+- **gusali** – *building*
+- **lawak** – *area, extent*
+- **tore** – *tower*
+- **nangungunang** – *leading, top* (root: *una* = first)
+- **nag-aambag** – *contributes* (root: *ambag*)
+- **kita** – *income, earnings*
+- **kakayahang makipagkompetensiya** – *competitiveness*
+- **umakyat** – *climbed* (root: *akyat*)
+- **puwesto** – *place, rank*
+
+**Grammar:**
+- *Ika-136 na puwesto* – ordinal numbers take *ika-* and a linker: “the 136th place”.
+- *Taon-taon* – doubling *taon* (“year”) means “every year”.
+
+**Translation:**
+> The old trade of the town lives on in the Poblacion, around the public market. The malls came with the subdivisions: Pavilion Mall at the end of the 1990s, Biñan Central Mall in 2011 and Southwoods Mall, a ₱2-billion building of 58,000 square metres opened in September 2017 beside new office towers. In 2021 the city counted 7,524 registered businesses, up from 7,013 a year before; yet, in the mayor’s words, “our top 100 taxpayers contribute 95 percent of all the taxes”. The city’s regular income rose from ₱607 million in 2009 to ₱1.53 billion in 2016. In the national competitiveness index, Biñan climbed from 136th place among the country’s component cities in 2014 to 7th in 2024, and it has ranked first for economic dynamism every year since 2022 – but only 40th for infrastructure.
+
+---
+
+**3. The farms that disappeared · Ang mga bukid na naglaho**
+
+> *Noong 1979, bukirin pa ang malaking bahagi ng Biñan; makalipas ang dalawampung taon, wala pang ikasampung bahagi nito ang bukid, ayon sa isang pag-aaral ng Southern Luzon State University.*
+
+**Vocabulary:**
+- **naglaho** – *vanished* (root: *laho*)
+- **bukirin** – *farmland* (root: *bukid*)
+- **ikasampung bahagi** – *a tenth*
+- **pag-aaral** – *study* (root: *aral*)
+- **sakahan** – *farm* (root: *saka* = farm work)
+- **lupain** – *land, territory*
+- **natitira** – *remaining* (root: *tira*)
+- **pinatutubigan** – *is irrigated* (root: *tubig* = water)
+- **sinanay** – *trained* (root: *sanay*)
+
+**Grammar:**
+- *Wala pang ikasampung bahagi nito ang bukid* – *wala pa* + quantity: “not even a tenth of it was farmland”.
+- *Pinatutubigan* – causative *pa-* + *-in-* + repeated syllable + *-an*: “is (still) being watered”.
+
+**Translation:**
+> In 1979 most of Biñan was still farmland; twenty years later less than a tenth was, according to a study by Southern Luzon State University. The farm census of 2012 counted only 118 farms on 135 hectares in the whole city – about 3 per cent of its land. Pockets of rice survive in Langkiwa, Timbao, Bungahan, Platero, Santo Tomas and Malaban, some of them still watered by the Spanish-era dam of Timbao. The memory of the fields lives on in the *pinipig* still pounded in Canlalay, and in a few new ventures, such as the organic farm of De La Paz where the city trained its first 25 organic farmers in 2017.
+
+---
+
+**4. Pigs before the court · Mga baboy sa harap ng hukuman**
+
+> *Mas madula ang pag-alis ng malalaking babuyan sa bayan.*
+
+**Vocabulary:**
+- **madula** – *dramatic* (root: *dula* = play)
+- **babuyan** – *pig farm* (root: *baboy* = pig)
+- **unti-unti** – *gradually*
+- **pagsasara** – *closing* (root: *sara*)
+- **nagreklamo** – *complained*
+- **amoy** – *smell*
+- **nagsampa ng kaso** – *filed a case*
+- **usapin** – *case, issue* (root: *usap* = talk)
+- **labag sa Konstitusyon** – *unconstitutional*
+- **tinamaan** – *was struck* (root: *tama*)
+- **bakuran** – *backyard* (root: *bakod* = fence)
+- **nailalathala** – *is published* (root: *lathala*)
+
+**Grammar:**
+- *Mas madula ang pag-alis* – comparative *mas* + adjective: “the departure was more dramatic”.
+- *Hindi pa nailalathala* – *hindi pa* (“not yet”) + abilitative verb: “has not yet been published”.
+
+**Translation:**
+> Large livestock left the town in a more dramatic way. In November 2004 the town council ordered the gradual phase-out of every farm with more than ten pigs or five hundred birds, after residents of the new subdivisions had complained of the smell. Two large hog farms, Holiday Hills and Domino Farms, went to court, and the case reached the Supreme Court, which on 10 October 2022 declared the ordinance “NOT UNCONSTITUTIONAL”. In January 2025 the mayor announced that the two farms, in Langkiwa and Santo Tomas, no longer had permits. Meanwhile African swine fever struck the whole province: the number of pigs in Laguna fell from 194,394 on 1 January 2020 to 60,258 a year later, and it was back to 130,206 in 2026. These figures include the pigs raised in backyards; how many are still kept in Biñan’s own yards, near the lake or elsewhere, has not been published.
+
+---
+
+**5. Life on the lakeshore · Buhay sa baybayin ng lawa**
+
+> *Dalawang barangay lamang, ang Malaban at ang De La Paz, ang nakadikit sa Laguna de Bay, sa kahabaan ng mga apat na kilometrong baybayin, at matagal nang nabubuhay ang kanilang mga tao sa pangingisda at paggawa ng sapatos.*
+
+**Vocabulary:**
+- **nakadikit** – *touching, attached* (root: *dikit*)
+- **kahabaan** – *length, stretch* (root: *haba*)
+- **pangingisda** – *fishing* (root: *isda*)
+- **baklad** – *fish pen*
+- **hawla** – *cage*
+- **bangus** – *milkfish*
+- **karpa** – *carp*
+- **inuuna** – *gives priority to* (root: *una*)
+- **nanumpa** – *took an oath* (root: *sumpa*)
+- **humaharap** – *face, confront* (root: *harap*)
+- **marurumi** – *dirty* (plural; root: *dumi*)
+- **makaaapekto** – *will affect*
+- **kabuhayan** – *livelihood* (root: *buhay*)
+
+**Grammar:**
+- *Higit kaysa sa alinmang bayan* – *higit kaysa sa* (“more than”) + *alinman* (“any”): “more than any other town”.
+- *Na inaasahan ng mga nagtatayo na makaaapekto* – a relative clause inside another: “which the builders expect will affect”.
+
+**Translation:**
+> Only two barangays, Malaban and De La Paz, touch Laguna de Bay, along about four kilometres of shore, and their people have long lived from fishing and from shoemaking. In 2006 the lake authority registered 26 fish-pen operators on 650 hectares and 76 fish-cage operators on 35 hectares off Biñan – 102 in all, more than in any other town of the province; most pens raised milkfish, *bangus*, and almost all cages carp. Since 2018 the pens and cages of the whole lake have been limited to 9,200 hectares, with priority for registered local fishers. The city swore in 25 deputy fish wardens in 2018. But the fishers face polluted rivers, water hyacinth and floods – and now the Laguna Lakeshore Road Network, whose builders expect economic impacts on the fish pens and fish cages of San Pedro, Biñan, Santa Rosa and Cabuyao.
+
+---
+
+### Full Verb Breakdown Table
+
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| ikinabubuhay | buhay | Ongoing | Instrument | ika- + -in- + bu + buhay | lives by |
+| ipinahayag | pahayag | Completed | Object | i- + -in- + pahayag | was proclaimed, announced |
+| gumagawa | gawa | Ongoing | Actor | -um- + ga + gawa | make |
+| itinatag | tatag | Completed | Object | i- + -in- + tatag | was founded |
+| nagluluto | luto | Ongoing | Actor | nag- + lu + luto | bakes, cooks |
+| nagbukas | bukas | Completed | Actor | nag- + bukas | opened |
+| dumating | dating | Completed | Actor | -um- + dating | came |
+| nabilang | bilang | Completed | Object (non-volitional) | na- + bilang | was counted |
+| nag-aambag | ambag | Ongoing | Actor | nag- + a + ambag | contributes |
+| tumaas | taas | Completed | Actor | -um- + taas | rose |
+| umakyat | akyat | Completed | Actor | -um- + akyat | climbed |
+| naglaho | laho | Completed | Actor | nag- + laho | vanished |
+| pinatutubigan | tubig | Ongoing | Locative (causative) | pa- + -in- + tu + tubig + -an | is irrigated |
+| binabayo | bayo | Ongoing | Object | -in- + ba + bayo | is pounded |
+| sinanay | sanay | Completed | Object | -in- + sanay | was trained |
+| iniutos | utos | Completed | Object | i- + -in- + utos | was ordered |
+| magreklamo | reklamo | Infinitive | Actor | mag- + reklamo | to complain |
+| nagsampa | sampa | Completed | Actor | nag- + sampa | filed |
+| nagpasya | pasya | Completed | Actor | nag- + pasya | decided |
+| tinamaan | tama | Completed | Locative | -in- + tama + -an | was struck |
+| bumagsak | bagsak | Completed | Actor | -um- + bagsak | fell |
+| inaalagaan | alaga | Ongoing | Locative | -in- + a + alaga + -an | is raised, cared for |
+| nagtala | tala | Completed | Actor | nag- + tala | recorded |
+| inuuna | una | Ongoing | Object | -in- + u + una | gives priority to |
+| nanumpa | sumpa | Completed | Actor | nang- + sumpa | took an oath |
+| humaharap | harap | Ongoing | Actor | -um- + ha + harap | face |
+| makaaapekto | apekto | Future (abilitative) | Actor | maka- + a + apekto | will affect |
+
+---
+
+## Who Owns the Land? / Kanino ang Lupa?
+
+### Vocabulary and Grammar Explanation
+
+**1. One owner, then three thousand · Isang may-ari, saka tatlong libo**
+
+> *Sa loob ng dalawa’t kalahating siglo, halos lahat ng lupain ng Biñan ay may iisang may-ari: ang Kolehiyo ng Santo Tomás ng mga Dominiko, na ang asyenda ay sumasakop sa mga 3,474 na ektarya, karamihan ay palayang may patubig at kaunting tubuhan.*
+
+**Vocabulary:**
+- **dalawa’t kalahati** – *two and a half*
+- **may-ari** – *owner* (root: *ari* = own)
+- **sumasakop** – *covers* (root: *sakop*)
+- **patubig** – *irrigation* (root: *tubig*)
+- **agrimensor** – *land surveyor*
+- **sinukat** – *measured* (root: *sukat*)
+- **titulo** – *land title*
+- **binabanggit** – *is mentioned* (root: *banggit*)
+- **lote** – *lot, parcel*
+- **umuupa** – *renter, tenant* (root: *upa* = rent)
+- **iilan** – *only a few*
+- **nanirahan** – *settled* (root: *tira*)
+
+**Grammar:**
+- *Iilang dosenang tao lamang* – *iilan* (“only a few”) + linker + *dosena* (“dozen”) + linker: “only a few dozen people”.
+- *Na binabanggit pa rin* – an ongoing object-focus verb with *pa rin* (“still”): “which is still cited”.
+
+**Translation:**
+> For two and a half centuries, almost all the land of Biñan had a single owner: the Dominican College of Santo Tomás, whose estate covered some 3,474 hectares, most of it irrigated rice land with a little sugarcane. After the American government bought the friar estates in 1903, its surveyors measured every field of the “Biñan Estate” between January 1906 and February 1907 – a survey still cited in land titles today. When the land went on sale in May 1910, 2,500 of its 3,200 parcels were sold in eight days, and the director of lands told the United States Congress that “nearly all of the purchasers were former tenants”. Only a few dozen people leased more than 16 hectares; among them were members of the Gana, Yatco and Ocampo families and an American settler, Frank J. Ferguson, with about 142 hectares.
+
+---
+
+**2. Rice, tenants and sugar · Palay, kasama at tubo**
+
+> *Sa halos buong ikadalawampung siglo, nanatili sa kamay ng mga lokal na may-ari ang mga palayan sa kapatagan at sinasaka ng mga *kasamá*, habang naging tubuhan naman ang mas tuyong kabundukan sa kanluran.*
+
+**Vocabulary:**
+- **kapatagan** – *lowlands* (root: *patag* = flat)
+- **sinasaka** – *is farmed* (root: *saka*)
+- **kasamá** – *sharecropper*
+- **kabundukan** – *uplands* (root: *bundok* = mountain)
+- **bakas** – *trace*
+- **talaan** – *record* (root: *tala*)
+- **bayarang trabahador** – *paid labourer*
+- **repormang agraryo** – *agrarian reform*
+- **idinulot** – *caused* (root: *dulot*)
+- **nagwagi** – *won* (root: *wagi*)
+- **tumanggi** – *refused* (root: *tanggi*)
+- **baligtarin** – *to overturn* (root: *baligtad*)
+- **isinailalim** – *was placed under* (root: *ilalim*)
+- **ipinagtanggol** – *was defended* (root: *tanggol*)
+
+**Grammar:**
+- *Kung gaano kahirap* – *gaano* + *ka-* + adjective: “how hard (it was)”.
+- *Na ipinagtanggol naman ng may-ari* – *naman* marks a contrast: “which the owner, for his part, defended”.
+
+**Translation:**
+> For most of the twentieth century the rice fields of the lowlands stayed in the hands of local owners and were tilled by sharecroppers, the *kasamá*, while the drier uplands to the west became sugarcane fields. Court records keep traces of this world: a 4.5-hectare rice field in Zapote worked by a sharecropper in the 1960s, or the rice land of Luis Alberto in Langkiwa, whose workers were found in 2001 to be paid labourers rather than tenants. The land reform laws of 1963, 1972 and 1988 reached Biñan, but the disputes they raised show how hard it was for tillers to become owners. In Loma, the tenants of some 37 hectares won: in 2000 the Supreme Court refused to overturn their recognition as legitimate beneficiaries of agrarian reform. In Langkiwa and Timbao, 43.7 hectares owned by Gonzalo Puyat & Sons were placed under agrarian reform in 1998, then defended by their owner as industrial land; in 2012 the Supreme Court sent the question back to the Department of Agrarian Reform.
+
+---
+
+**3. From cane fields to factories and townships · Mula sa tubuhan hanggang sa pabrika at bagong bayan**
+
+> *Sa loob ng isang henerasyon, naging isa sa malalaking sinturon ng industriya sa bansa ang kabundukan.*
+
+**Vocabulary:**
+- **henerasyon** – *generation*
+- **sinturon ng industriya** – *industrial belt*
+- **iginuhit** – *drew* (root: *guhit* = line)
+- **bloke** – *block*
+- **planadong pamayanan** – *planned community*
+- **naitala** – *recorded* (root: *tala*)
+- **kampus** – *campus*
+- **daan-daan** – *hundreds*
+
+**Grammar:**
+- *Muling iginuhit … bilang malalaking bloke* – *bilang* means “as”: “redrawn as large blocks”.
+- *Daan-daang kompanya* – doubling *daan* (“hundred”) gives “hundreds of companies”.
+
+**Translation:**
+> Within one generation the uplands became one of the country’s great industrial belts. In March 1989 surveyors redrew the old lots into large blocks, and the Laguna Technopark opened the next year; the Laguna International Industrial Park followed in 1992, then Southwoods City on the border with Carmona and, after 2015, large planned communities around Malamig. No public register lists the largest landowners of Biñan. Among the largest documented holdings are those of a handful of developers – Ayala Land, Megaworld, Samsung and Solid, Filinvest, Federal Land and ArthaLand – and of De La Salle University, whose 50-hectare campus includes an economic zone proclaimed in 2025. Inside the industrial parks, the lots are sold on to hundreds of companies.
+
+---
+
+**4. The land nobody can buy · Ang lupang hindi mabibili**
+
+> *May dalawang piraso pa rin ng Biñan na pag-aari ng Estado.*
+
+**Vocabulary:**
+- **mabibili** – *can be bought* (root: *bili*)
+- **Estado** – *the State*
+- **ilalim** – *bottom, bed*
+- **panukat** – *gauge, measuring device* (root: *sukat*)
+- **guhit** – *strip, line*
+- **inililipat** – *are being moved* (root: *lipat*)
+- **nakaplano** – *planned*
+- **lubhang tumaas** – *rose greatly*
+- **metro kuwadrado** – *square metre*
+- **sentimo** – *centavo*
+- **pinakamahahalaga** – *most valuable* (plural; root: *halaga*)
+
+**Grammar:**
+- *Ang lupang hindi mabibili* – abilitative *ma-* + repeated syllable, negated: “the land that cannot be bought”.
+- *Pinakamahahalaga* – superlative *pinaka-* + *mahalaga*, with the repeated syllable marking the plural: “the most valuable (lands)”.
+
+**Translation:**
+> The State still owns two strips of Biñan. By law, the bed of Laguna de Bay includes every piece of shore at or below 12.5 metres on the lake gauge: a band of public land along Malaban and De La Paz. The other is the railway, now being rebuilt for the North–South Commuter Railway; the families who lived along it are being moved to The Meadows in Langkiwa, where 2,030 homes are planned. Meanwhile the price of land has soared: about ₱164 per hectare around 1909, ₱30 per square metre for a rice field in Langkiwa in 1989, and about ₱3,800 per square metre in 2016, when a developer paid ₱307 million for 8.1 hectares. The land that some three thousand tenant families bought in 1910 for less than two centavos a square metre has become some of the most valuable in the province.
+
+---
+
+### Full Verb Breakdown Table
+
+| Verb in Text | Root | Aspect | Focus | Construction | Meaning |
+|:-------------|:-----|:-------|:------|:-------------|:--------|
+| sumasakop | sakop | Ongoing | Actor | -um- + sa + sakop | covers |
+| bilhin | bili | Infinitive | Object | bili + -hin | to buy |
+| sinukat | sukat | Completed | Object | -in- + sukat | was measured |
+| binabanggit | banggit | Ongoing | Object | -in- + ba + banggit | is mentioned |
+| ipagbili | bili | Infinitive | Object | ipag- + bili | to sell |
+| naipagbili | bili | Completed (abilitative) | Object | na- + ipag- + bili | was sold |
+| umupa | upa | Completed | Actor | -um- + upa | rented, leased |
+| bumili | bili | Completed | Actor | -um- + bili | bought |
+| sinasaka | saka | Ongoing | Object | -in- + sa + saka | is farmed |
+| itinuring | turing | Completed | Object | i- + -in- + turing | was considered |
+| nagwagi | wagi | Completed | Actor | nag- + wagi | won |
+| tumanggi | tanggi | Completed | Actor | -um- + tanggi | refused |
+| baligtarin | baligtad | Infinitive | Object | baligtad + -in | to overturn |
+| isinailalim | ilalim | Completed | Object | isa- + -in- + ilalim | was placed under |
+| ipinagtanggol | tanggol | Completed | Object | ipag- + -in- + tanggol | was defended |
+| ibinalik | balik | Completed | Object | i- + -in- + balik | was sent back |
+| iginuhit | guhit | Completed | Object | i- + -in- + guhit | was drawn |
+| sumunod | sunod | Completed | Actor | -um- + sunod | followed |
+| naglilista | lista | Ongoing | Actor | nag- + li + lista | lists |
+| ipinagbibili | bili | Ongoing | Object | ipag- + -in- + bi + bili | is sold |
+| mabibili | bili | Future (abilitative) | Object | ma- + bi + bili | can be bought |
+| inililipat | lipat | Ongoing | Object | i- + -in- + li + lipat | are being moved |
+| magbayad | bayad | Infinitive | Actor | mag- + bayad | to pay |
+| binili | bili | Completed | Object | -in- + bili | was bought |
+
+---
