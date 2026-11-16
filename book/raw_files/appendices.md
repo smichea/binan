@@ -46,11 +46,18 @@
 | 1992 | The Laguna International Industrial Park opens in Mamplasan and Ganado. | Binuksan ang Laguna International Industrial Park sa Mamplasan at Ganado. |
 | 26 September 2009 | Typhoon Ondoy: the lake floods the lakeshore barangays for weeks. | Bagyong Ondoy: binaha ng lawa ang mga barangay sa baybayin nang ilang linggo. |
 | 2 February 2010 | A plebiscite ratifies the charter of the City of Biñan. | Pinagtibay ng isang plebisito ang karta ng Lungsod ng Biñan. |
+| 2011 | The first Puto Latik Festival. | Ang unang Puto Latik Festival. |
 | 2015 – 2016 | Biñan becomes a congressional district and elects its first representative. | Naging distritong pangkongreso ang Biñan at inihalal ang una nitong kinatawan. |
 | 2016 | The Balik-Biñan heritage programme begins. | Nagsimula ang programang pamana na Balik-Biñan. |
+| 2017 | The city declares a heritage district around Plaza Rizal. | Idineklara ng lungsod ang isang pook-pamana sa paligid ng Plaza Rizal. |
+| 24 April 2019 | The first train made in the Philippines is inaugurated at Biñan station. | Pinasinayaan sa istasyon ng Biñan ang unang tren na ginawa sa Pilipinas. |
+| 30 October 2019 | The Cavite–Laguna Expressway opens from Mamplasan. | Binuksan ang Cavite–Laguna Expressway mula sa Mamplasan. |
 | 6 December 2019 | The rebuilt Alberto house opens to the public. | Binuksan sa publiko ang muling itinayong bahay ng mga Alberto. |
 | 12 January 2020 | Taal erupts; its ash falls on Biñan. | Sumabog ang Taal; bumagsak sa Biñan ang abo nito. |
+| 10 October 2022 | The Supreme Court upholds the ordinance phasing out large hog farms. | Pinagtibay ng Korte Suprema ang ordinansang unti-unting nagsasara sa malalaking babuyan. |
+| 2 July 2023 | Biñan station closes for the building of the North–South Commuter Railway. | Isinara ang istasyon ng Biñan para sa pagtatayo ng North–South Commuter Railway. |
 | 2024 | The census counts 584,479 people: Biñan becomes the most populous city of Laguna. | Nabilang ng senso ang 584,479 katao: naging pinakamataong lungsod ng Laguna ang Biñan. |
+| c. 2028 | Expected opening of the new commuter railway through Biñan. | Inaasahang pagbubukas ng bagong riles pang-commuter na dumaraan sa Biñan. |
 
 ## Population at Each Census / Ang Populasyon sa Bawat Senso
 
@@ -81,6 +88,7 @@
 | *alcalde* | Mayor. Under Spain, the *alcalde mayor* governed a province. | Alkalde. Noong panahon ng Espanya, ang *alcalde mayor* ang namamahala sa isang lalawigan. |
 | *anito* | The spirits of the ancestors, and the images that represented them. | Ang mga espiritu ng mga ninuno, at ang mga larawang kumakatawan sa kanila. |
 | *bahay-na-bato* | “Stone house”: a house with a ground floor of stone and an upper storey of wood. | Bahay na bato ang silong at kahoy ang itaas na palapag. |
+| *baklad* | A fish pen: an enclosure of bamboo poles and nets in the lake. | Kulungan ng isda na yari sa kawayan at lambat sa lawa. |
 | *bakya* | A wooden clog, once made in Biñan. | Sapin sa paa na yari sa kahoy, na dating ginagawa sa Biñan. |
 | *banca*, *bangka* | A boat, often a dugout canoe with outriggers. | Bangka, kadalasang may katig. |
 | *barangay* | The village community of old (from *balangay*, a boat); today the smallest unit of local government. | Ang sinaunang pamayanan (mula sa *balangay*); ngayon, ang pinakamaliit na yunit ng pamahalaang lokal. |
@@ -97,12 +105,17 @@
 | *hacienda*, *asyenda* | A great landed estate. | Malawak na lupaing pag-aari ng iisang may-ari. |
 | *inquilino*, *inkilino* | A tenant who rented land from a friar estate. | Ang umuupa ng lupa sa isang asyenda ng mga prayle. |
 | *kakanin* | Rice cakes and sweets made from rice. | Mga pagkaing gawa sa bigas o malagkit. |
+| *kalesa* | A two-wheeled horse-drawn carriage. | Karitelang may dalawang gulong na hinihila ng kabayo. |
 | *kasamá* | A sharecropper, who farmed the land of a tenant or owner for a share of the harvest. | Ang nagsasaka sa lupa ng iba kapalit ng bahagi ng ani. |
 | *latik* | Coconut curd fried from coconut milk; also the name of the coconut-shell dance, *maglalatik*. | Ang namuong gata ng niyog; gayundin ang sayaw na *maglalatik*. |
 | Makapili | A pro-Japanese Filipino militia formed in December 1944. | Isang milisyang Pilipinong maka-Hapon na itinatag noong Disyembre 1944. |
+| *pinipig* | Young glutinous rice, toasted and pounded flat. | Batang malagkit na sinangag at binayo hanggang pumipi. |
 | *poblacion* | The town centre, around the church and the plaza. | Ang kabayanan, sa paligid ng simbahan at plaza. |
+| *pospas* | Biñan’s yellow porridge of glutinous rice with chicken. | Ang dilaw na lugaw na malagkit ng Biñan na may manok. |
 | *presidente municipal* | The elected head of a town under American rule. | Ang inihahalal na pinuno ng bayan noong panahon ng Amerikano. |
 | *pueblo* | A town, under Spanish rule. | Bayan, noong panahon ng Espanya. |
 | *puto* | A steamed rice cake; *Puto Biñan* is the city’s famous version. | Pinasingawang kakanin na gawa sa bigas; tanyag ang *Puto Biñan*. |
+| *Santacruzan* | The May procession that closes the Flores de Mayo and the Puto Latik Festival. | Ang prusisyon tuwing Mayo na nagtatapos sa Flores de Mayo at sa Puto Latik Festival. |
 | *sari-sari* store | A small neighbourhood shop selling a little of everything. | Maliit na tindahan sa kapitbahayan na nagbebenta ng kaunti sa lahat ng bagay. |
+| TODA | Tricycle Operators and Drivers’ Association: the tricycle drivers of one zone. | Samahan ng mga operator at tsuper ng traysikel sa isang sona. |
 | tuff | A rock made of compacted volcanic ash. | Batong nabuo mula sa siksik na abo ng bulkan. |
