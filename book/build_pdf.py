@@ -473,33 +473,62 @@ FIGURES = [
          tagalog="Ang bayan ng Biñán sa mapa ng U.S. Army, 1956.",
          credit="U.S. Army Map Service, San Pedro (sheet 3263 III), 1:50,000, 1956. "
                 "Courtesy of the University of Texas Libraries. Public domain."),
-    dict(chapter=7, after=2, kind="Map", id="barangays", src="maps/barangays.svg",
+    dict(chapter=7, after=1, kind="Illustration", id="ill-townhall", src="images/illustrations/town-hall-1955.jpg",
+         title="A new town hall, 1955",
+         caption="An impression of the plaza on 15 May 1955, San Isidro’s feast day, when the old "
+                 "Dominican casa hacienda was opened as Biñan’s municipal hall.",
+         tagalog="Ang bagong munisipyo, 1955.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=7, after=4, kind="Chart", id="population", src="maps/population.svg",
+         title="Population of Biñan, 1903–2024",
+         caption="Population of Biñan at each census. The town grew slowly until the war, then "
+                 "doubled every fifteen years or so; the expressway, the industrial parks of the "
+                 "1990s and the subdivisions turned it into the most populous city of Laguna.",
+         tagalog="Ang populasyon ng Biñán, 1903–2024."),
+    dict(chapter=7, after=4, kind="Photo", id="slex", src="images/modern/slex-from-air-2024.jpg",
+         title="Biñan from the air, 2024",
+         caption="Biñan from the air in April 2024: the dense city between Laguna de Bay (top) and "
+                 "the South Luzon Expressway, with industrial buildings on the right.",
+         tagalog="Ang Biñán mula sa himpapawid, 2024.",
+         credit="Photo: Patrickroque01, 2024, CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=7, after=5, kind="Map", id="barangays", src="maps/barangays.svg",
          title="The barangays of Biñan today",
-         caption="Biñan today and its 24 barangays. The Poblacion keeps the Spanish-era "
-                 "heart of the town; the Laguna Technopark (Malamig) and the Laguna "
-                 "International Industrial Park (Mampalasan) mark its industrial growth "
-                 "since 1990.",
+         caption="Biñan today and its 24 barangays. The Poblacion keeps the Spanish-era heart of "
+                 "the town; hatching marks the barangays where the Laguna Technopark (Biñan, Loma, "
+                 "Timbao) and the Laguna International Industrial Park (Mamplasan, Ganado) were "
+                 "built from 1990.",
          tagalog="Ang 24 na barangay ng Biñán ngayon."),
-    dict(chapter=7, after=2, kind="Photo", id="technopark", src="images/modern/technopark-sign-2018.jpg",
+    dict(chapter=7, after=5, kind="Photo", id="technopark", src="images/modern/technopark-sign-2018.jpg",
          title="The Laguna Technopark",
-         caption="The entrance sign of the Laguna Technopark, opened in 1990 on land in Biñan "
-                 "(Malamig) and Santa Rosa (Don Jose), listing some of its manufacturers.",
+         caption="The entrance sign of the Laguna Technopark, opened in 1990 on former sugarcane "
+                 "land in Santa Rosa and Biñan, listing some of its manufacturers.",
          tagalog="Ang Laguna Technopark.", credit="Photo: Judgefloro, 2018, CC0, via Wikimedia Commons."),
-    dict(chapter=7, after=4, kind="Photo", id="cityhall", src="images/modern/city-hall-2018.jpg",
+    dict(chapter=7, after=6, kind="Illustration", id="ill-ondoy", src="images/illustrations/ondoy-flood-2009.jpg",
+         title="After Ondoy, 2009",
+         caption="An impression of a lakeshore barangay weeks after Typhoon Ondoy (September 2009), "
+                 "when Laguna de Bay flooded De La Paz and Malaban for weeks.",
+         tagalog="Matapos ang Ondoy, 2009.", credit="Illustration created for this book (AI-generated, Figma). Artist’s impression."),
+    dict(chapter=7, after=6, kind="Photo", id="cityhall", src="images/modern/city-hall-2018.jpg",
          title="Biñan City Hall",
-         caption="The Biñan City Hall complex, seat of the city government since Biñan became "
-                 "a city in 2010.",
+         caption="The Biñan City Hall complex in Zapote, seat of the city government since Biñan "
+                 "became a city in 2010.",
          tagalog="Ang bulwagang panlungsod ng Biñán.", credit="Photo: Judgefloro, 2018, CC0, via Wikimedia Commons."),
-    dict(chapter=7, after=5, kind="Photo", id="view2023", src="images/modern/view-from-alberto-mansion-2023.jpg",
-         title="The Poblacion from the Alberto Mansion, 2023",
-         caption="The heart of Biñan seen from the balcony of the restored Alberto Mansion: the "
-                 "plaza, the old municipal hall and the bell tower of San Isidro Labrador.",
-         tagalog="Ang Poblacion mula sa Alberto Mansion, 2023.", credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
-    dict(chapter=7, after=6, kind="Photo", id="sentro", src="images/modern/sentrong-pangkultura-2023.jpg",
+    dict(chapter=7, after=7, kind="Photo", id="sentro", src="images/modern/sentrong-pangkultura-2023.jpg",
          title="The Sentrong Pangkultura ng Biñan",
-         caption="The Spanish-era municipal hall, restored as the Sentrong Pangkultura ng Biñan "
-                 "(Biñan Center for Culture and the Arts) under the Balik-Biñan programme.",
+         caption="The old municipal hall – the Dominicans’ casa hacienda, then a school, then the "
+                 "town hall from 1955 – restored as the Sentrong Pangkultura ng Biñan under the "
+                 "Balik-Biñan programme.",
          tagalog="Ang Sentrong Pangkultura ng Biñán.", credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=7, after=7, kind="Photo", id="alberto-inside", src="images/modern/alberto-mansion-interior-2023.jpg",
+         title="Inside the rebuilt Alberto house, 2023",
+         caption="The arcaded courtyard of the Alberto house, rebuilt by the city and reopened in "
+                 "December 2019.",
+         tagalog="Sa loob ng muling itinayong bahay ng mga Alberto, 2023.",
+         credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
+    dict(chapter=7, after=8, kind="Photo", id="view2023", src="images/modern/view-from-alberto-mansion-2023.jpg",
+         title="The Poblacion from the Alberto house, 2023",
+         caption="The heart of Biñan seen from the balcony of the Alberto house: the plaza, the old "
+                 "municipal hall and the church of San Isidro Labrador, rebuilt after the fire of 1968.",
+         tagalog="Ang Poblacion mula sa bahay ng mga Alberto, 2023.", credit="Photo: Ralff Nestor Nacor, 2023, CC BY-SA 4.0, via Wikimedia Commons."),
     dict(chapter=8, after=1, kind="Photo", id="marketstreet", src="images/modern/market-street-2013.jpg",
          title="Around the public market, 2013",
          caption="Shops and shoppers around the public market of Biñan on a rainy morning.",
