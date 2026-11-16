@@ -66,6 +66,7 @@ strong { font-weight: 600; }
 .cover-photo { height: 62mm; margin: 14mm 4mm 9mm; background-size: cover; background-position: center 60%;
                border: 0.6pt solid var(--gold); }
 .cover-tagline { text-align: center; font-size: 10.5pt; font-style: italic; }
+.cover-tagline.tl { font-size: 9.5pt; color: var(--gold); margin-top: 1mm; }
 .cover-languages { text-align: center; font-variant: small-caps; letter-spacing: 0.12em; font-size: 9.5pt;
                    color: var(--gold); margin-top: 4mm; }
 
@@ -75,6 +76,8 @@ strong { font-weight: 600; }
 .colophon p { text-align: left; text-indent: 0; margin-bottom: 1mm; }
 .colophon-title { font-weight: 600; color: var(--ink); font-size: 9.5pt; }
 .colophon-head { font-variant: small-caps; letter-spacing: 0.1em; color: var(--accent); margin-top: 3mm; }
+.colophon .tl { font-style: italic; }
+.colophon { font-size: 8.4pt; line-height: 1.35; }
 
 /* ---------- Figures ---------- */
 
@@ -87,7 +90,7 @@ figure.map { margin: 7mm 0 6mm; }
 figure.map img { width: auto; max-width: 100%; max-height: 150mm; margin: 0 auto; }
 figure.map figcaption { font-style: normal; color: var(--ink); font-size: 8.8pt; }
 .map-no { font-variant: small-caps; color: var(--accent); font-weight: 600; letter-spacing: 0.04em; }
-figcaption .tl { color: var(--muted); }
+figcaption .tl { color: var(--muted); font-style: italic; }
 figure.archive figcaption { font-style: normal; color: var(--ink); }
 figure.archive img { border: 0.4pt solid var(--rule); max-height: 125mm; width: auto; max-width: 100%; margin: 0 auto; }
 .fig-row { display: flex; gap: 4mm; align-items: flex-start; margin: 6mm 0; break-inside: avoid; }
@@ -106,18 +109,21 @@ figcaption .credit { display: block; font-size: 7.4pt; color: var(--muted); marg
 .toc-title { font-family: "Cormorant Garamond"; font-weight: 600; font-size: 24pt; color: var(--accent);
              margin: 0; text-align: center; }
 .toc-sub { text-align: center; font-style: italic; color: var(--muted); margin-bottom: 6mm; }
-.toc ol { list-style: none; padding: 0; margin: 0; counter-reset: toc; }
-.toc li { counter-increment: toc; margin-bottom: 2.6mm; }
-.toc-en { display: block; font-size: 11.5pt; }
-.toc-en::before { content: counter(toc, upper-roman) ".\2003"; color: var(--accent); font-variant: small-caps; }
-.toc-en::after { content: leader(". ") target-counter(attr(href url), page); }
+.toc ol { list-style: none; padding: 0; margin: 0; }
+.toc-main li { margin-bottom: 1.5mm; font-size: 10.4pt; line-height: 1.25; }
+.toc-link { display: block; }
+.toc-link::after { content: leader(". ") target-counter(attr(href url), page); }
+.toc-no { display: inline-block; min-width: 2.4em; color: var(--accent); font-variant: small-caps; }
+.toc-main .toc-tl { font-style: italic; color: var(--muted); font-size: 9pt; }
+.toc-main .toc-tl::before { content: " · "; font-style: normal; }
+li.toc-part { margin: 4.5mm 0 2mm; font-variant: small-caps; letter-spacing: 0.1em; color: var(--accent);
+              font-size: 10pt; }
+li.toc-part .toc-tl { letter-spacing: 0; font-variant: normal; }
+li.toc-front, li.toc-backmatter { margin-top: 2.5mm; }
 .toc-maps-title { font-variant: small-caps; letter-spacing: 0.12em; color: var(--accent); margin: 6mm 0 2mm;
                   text-align: left; }
-.toc ol.toc-maps { counter-reset: none; }
-.toc-maps li { counter-increment: none; margin-bottom: 2mm; font-size: 10pt; }
-.toc-map::before { content: none; }
+.toc-maps li { margin-bottom: 1.6mm; font-size: 9.6pt; }
 .toc-map::after { content: leader(". ") target-counter(attr(href url), page); }
-.toc-tl { display: block; font-style: italic; color: var(--muted); font-size: 9.5pt; padding-left: 2.2em; }
 
 /* ---------- Chapters ---------- */
 
@@ -132,8 +138,39 @@ h1.chapter::after { content: attr(data-tl); display: block; font-style: italic; 
                     font-size: 13pt; color: var(--muted); margin-top: 2mm; padding-bottom: 7mm;
                     border-bottom: 0.6pt solid var(--rule); margin-bottom: 7mm; }
 
+h1.front, h1.appendix, h1.backmatter { page: chapter-start; break-before: page; string-set: chapter content(text);
+             font-family: "Cormorant Garamond"; font-weight: 600; font-size: 21pt; line-height: 1.1;
+             color: var(--accent); text-align: center; margin: 14mm 0 2mm; }
+h1.front::after, h1.appendix::after, h1.backmatter::after {
+             content: attr(data-tl); display: block; font-style: italic; font-weight: 500;
+             font-size: 13pt; color: var(--muted); margin-top: 2mm; padding-bottom: 7mm;
+             border-bottom: 0.6pt solid var(--rule); margin-bottom: 7mm; }
+.back-matter { counter-reset: appendix; }
+h1.appendix { counter-increment: appendix; }
+h1.appendix::before { content: "Appendix " counter(appendix, upper-alpha); display: block; font-family: "EB Garamond";
+                      font-weight: 400; font-size: 9pt; letter-spacing: 0.2em; text-transform: uppercase;
+                      color: var(--gold); margin-bottom: 4mm; }
+
+/* Part title pages */
+@page part { @top-left { content: none; } @top-right { content: none; } }
+.part-page { page: part; break-before: page; break-after: page; padding-top: 52mm; }
+h1.part { font-family: "Cormorant Garamond"; font-weight: 600; font-size: 30pt; line-height: 1.1; color: var(--accent);
+          text-align: center; margin: 0; string-set: chapter content(text); }
+h1.part::before { content: attr(data-no); display: block; font-family: "EB Garamond"; font-weight: 400; font-size: 10pt;
+                  letter-spacing: 0.25em; text-transform: uppercase; color: var(--gold); margin-bottom: 7mm; }
+h1.part::after { content: attr(data-tl); display: block; font-style: italic; font-weight: 500; font-size: 15pt;
+                 color: var(--muted); margin-top: 5mm; }
+
+/* Numbered sections inside a chapter, in both languages */
+.history h2.section { font-family: "Cormorant Garamond"; font-weight: 600; font-size: 13pt; line-height: 1.15;
+                      color: var(--accent); margin: 5mm 0 1.5mm; text-align: left; break-after: avoid;
+                      hyphens: manual; }
+.history .tagalog h2.section { color: var(--gold); font-size: 12.5pt; }
+.history h2.section + p { text-indent: 0; }
+
 /* First line of a chapter in small capitals. */
-.history h1.chapter + p::first-line { font-variant: small-caps; letter-spacing: 0.03em; }
+.history h1.chapter + p::first-line, .history h1.chapter + h2.section + p::first-line,
+.history h1.front + p::first-line { font-variant: small-caps; letter-spacing: 0.03em; }
 
 .tagalog { hyphens: manual; margin: 6mm 0; padding: 4mm 0 0 5mm; border-left: 1.5pt solid var(--gold); }
 .tagalog p { font-size: 10.2pt; }
@@ -146,6 +183,8 @@ h1.chapter::after { content: attr(data-tl); display: block; font-style: italic; 
 .didyouknow p { text-indent: 0; }
 .dyk-title { font-family: "Cormorant Garamond"; font-weight: 600; font-style: italic; font-size: 13pt;
              color: var(--accent); margin-bottom: 1.5mm; }
+.dyk-tl { margin-top: 2.5mm; padding-top: 2mm; border-top: 0.4pt solid var(--rule); hyphens: manual; }
+.dyk-tl .dyk-title { color: var(--gold); font-size: 12pt; }
 
 /* ---------- Footnotes ---------- */
 
@@ -154,8 +193,7 @@ h1.chapter::after { content: attr(data-tl); display: block; font-style: italic; 
 .fn::footnote-call { content: counter(footnote); font-size: 0.65em; vertical-align: super; line-height: 0;
                      color: var(--accent); padding-left: 0.08em; }
 .fn::footnote-marker { content: counter(footnote) ".\2002"; color: var(--accent); }
-.fn-label { font-style: italic; }
-.fn a { color: var(--muted); word-break: break-all; }
+.fn a { color: inherit; }
 
 /* ---------- Companion (vocabulary) ---------- */
 
@@ -198,3 +236,30 @@ h1.chapter::after { content: attr(data-tl); display: block; font-style: italic; 
 .bc-footer { position: absolute; bottom: 7mm; left: 0; right: 0; text-align: center; font-variant: small-caps;
              letter-spacing: 0.12em; font-size: 8.5pt; color: var(--gold); }
 .back-frame { position: relative; }
+
+/* ---------- Back matter: appendices, sources, credits, index ---------- */
+
+.history table { width: 100%; border-collapse: collapse; font-size: 8.4pt; line-height: 1.28; margin: 3mm 0 5mm;
+                 hyphens: manual; }
+.history th { text-align: left; font-weight: 600; color: var(--accent); border-bottom: 0.8pt solid var(--accent);
+              padding: 1.2mm 1.5mm; }
+.history td { border-bottom: 0.4pt solid var(--rule); padding: 1.2mm 1.5mm; vertical-align: top; text-align: left; }
+.history tr { break-inside: avoid; }
+.history td em { color: var(--muted); }
+.back-matter p { text-indent: 0; }
+.back-matter h2 { font-family: "Cormorant Garamond"; font-weight: 600; font-size: 13pt; color: var(--accent);
+                  margin: 5mm 0 1.5mm; break-after: avoid; }
+.bm-intro { font-size: 9pt; color: var(--muted); margin-bottom: 1.5mm; text-align: left; }
+.bm-intro.tl { font-style: italic; margin-bottom: 4mm; }
+h2.bib-group { font-size: 11.5pt; margin: 4mm 0 1.2mm; }
+ul.bib { list-style: none; padding: 0; margin: 0; font-size: 7.8pt; line-height: 1.28; }
+ul.bib li { margin-bottom: 1mm; padding-left: 3mm; text-indent: -3mm; hyphens: none; text-align: left; }
+ul.bib a { color: var(--muted); word-break: break-all; }
+.bib-title { font-style: italic; }
+.credits p { text-align: left; font-size: 7.8pt; line-height: 1.3; margin-bottom: 1mm; color: var(--muted); }
+.credits .colophon-head { font-size: 8.6pt; margin-top: 3mm; }
+.credits .tl { font-style: italic; }
+.cr-title { color: var(--ink); }
+ul.index { list-style: none; padding: 0; margin: 0; columns: 2; column-gap: 6mm; font-size: 8.3pt; line-height: 1.28; }
+ul.index li { break-inside: avoid; padding-left: 3mm; text-indent: -3mm; margin-bottom: 0.5mm; text-align: left; }
+.glossary td:first-child { font-weight: 600; white-space: nowrap; }
