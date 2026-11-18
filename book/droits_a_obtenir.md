@@ -17,7 +17,7 @@ Les photos de Pendleton entrent dans le domaine public le 1er janvier 2028 (nég
 
 Modèle de demande pour la photo de Pendleton (anglais) :
 
-> I am preparing a bilingual (English/Filipino) local-history book on Biñan, Laguna, Philippines, to be published by [publisher] in [year], print run about [n] copies, [non-profit/commercial]. I would like permission to reproduce the photograph by Robert L. Pendleton held in the AGSL Digital Photo Archive "Laguna province (Philippines), water buffaloes on the Manila south road" (agsphoto id 14222, Pendleton negative 409.11, identifier pe004836), taken 6 December 1934 on the Manila South Road between Biñan and Muntinlupa. I request non-exclusive, one-time print and e-book rights, worldwide, with the credit line "Robert L. Pendleton, 1934. American Geographical Society Library, University of Wisconsin–Milwaukee Libraries." Please let me know of any fees, the required credit wording, and whether a higher-resolution TIFF file is available.
+> I am preparing a local-history book, in an English and a Filipino edition, on Biñan, Laguna, Philippines, to be published by [publisher] in [year], print run about [n] copies, [non-profit/commercial]. I would like permission to reproduce the photograph by Robert L. Pendleton held in the AGSL Digital Photo Archive "Laguna province (Philippines), water buffaloes on the Manila south road" (agsphoto id 14222, Pendleton negative 409.11, identifier pe004836), taken 6 December 1934 on the Manila South Road between Biñan and Muntinlupa. I request non-exclusive, one-time print and e-book rights, worldwide, with the credit line "Robert L. Pendleton, 1934. American Geographical Society Library, University of Wisconsin–Milwaukee Libraries." Please let me know of any fees, the required credit wording, and whether a higher-resolution TIFF file is available.
 
 ## Licence libre : pas d'autorisation, mais crédit obligatoire
 
@@ -47,7 +47,7 @@ Voir `book/archives_catalogue.md` et `book/archives_catalogue_2.md` : *Pictorial
 
 Modèle de demande pour la ville de Biñan (anglais) :
 
-> I am preparing a bilingual (English/Filipino) history of Biñan City for publication by [publisher] in [year]. I would like permission to reproduce five photographs published on Experience Biñan (experiencebinan.com): pospas, Puto Biñan, the maglalatik dancers, the Puto Latik Festival street dancers and Araw ng Biñan by night, with the credit "Experience Biñan, City Government of Biñan (BCHATO)". If possible, could you also share high-resolution files (at least 2,000 px wide) and the names of the photographers to credit?
+> I am preparing a history of Biñan City, in an English and a Filipino edition, for publication by [publisher] in [year]. I would like permission to reproduce five photographs published on Experience Biñan (experiencebinan.com): pospas, Puto Biñan, the maglalatik dancers, the Puto Latik Festival street dancers and Araw ng Biñan by night, with the credit "Experience Biñan, City Government of Biñan (BCHATO)". If possible, could you also share high-resolution files (at least 2,000 px wide) and the names of the photographers to credit?
 
 ## Chapitre I (géographie) : crédits obligatoires
 

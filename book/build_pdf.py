@@ -23,28 +23,151 @@ LAYOUT = BOOK / "layout"
 
 DOCUMENTS = [
     {
+        "kind": "history", "lang": "en",
         "source": BOOK / "raw_files" / "history.md",
         "front": BOOK / "raw_files" / "introduction.md",
         "back": BOOK / "raw_files" / "appendices.md",
-        "output": BOOK / "word" / "history.pdf",
+        "output": BOOK / "word" / "history_english.pdf",
         "kicker": "The Book of Biñan",
         "title": "History of Biñan City",
-        "subtitle": "Kasaysayan ng Lungsod ng Biñan",
+        "subtitle": "Laguna, Philippines",
         "tagline": "The history of the Philippines through one town",
-        "tagline_tl": "Ang kasaysayan ng Pilipinas sa pamamagitan ng isang bayan",
-        "languages": "English · Tagalog",
+        "languages": "English edition",
     },
     {
+        "kind": "history", "lang": "tl",
+        "source": BOOK / "raw_files" / "history.md",
+        "front": BOOK / "raw_files" / "introduction.md",
+        "back": BOOK / "raw_files" / "appendices.md",
+        "output": BOOK / "word" / "history_tagalog.pdf",
+        "kicker": "Ang Aklat ng Biñan",
+        "title": "Kasaysayan ng Lungsod ng Biñan",
+        "subtitle": "Laguna, Pilipinas",
+        "tagline": "Ang kasaysayan ng Pilipinas sa pamamagitan ng isang bayan",
+        "languages": "Edisyong Tagalog",
+    },
+    {
+        "kind": "companion", "lang": "en",
         "source": BOOK / "raw_files" / "history_tagalog_explanation.md",
         "output": BOOK / "word" / "history_tagalog_explanation.pdf",
         "kicker": "The Book of Biñan · Companion",
         "title": "Reading the Tagalog Text",
-        "subtitle": "Vocabulary, grammar and verbs of the History of Biñan City",
+        "subtitle": "Vocabulary, grammar and verbs of Kasaysayan ng Lungsod ng Biñan",
         "tagline": "For learners of Tagalog",
-        "tagline_tl": "Para sa mga nag-aaral ng Tagalog",
         "languages": "Tagalog → English",
     },
 ]
+
+# Titles of the figures in the Tagalog edition (list of maps and documents).
+TITLES_TL = {
+    'location': 'Ang Biñan at ang Laguna de Bay',
+    'iss-lake': 'Ang Look ng Maynila at ang Laguna de Bay mula sa kalawakan',
+    'tectonics': 'Ang Pilipinas sa pagitan ng dalawang plate',
+    'taal-ash': 'Ang abo ng Taal patungong Laguna de Bay, 2020',
+    'makiling': 'Ang Bundok Makiling sa kabila ng lawa',
+    'westbay': 'Apoy, fault at lawa sa paligid ng Biñan',
+    'fault-plane': 'Ang West Valley Fault sa Carmona',
+    'lagoon': 'Ang laguna ng tubig-alat, 6,000 taon na ang nakararaan',
+    'climate': 'Ang klima ng Biñan',
+    'migrations': 'Ang mga unang paglalakbay ng tao sa Timog-Silangang Asyang kapuluan',
+    'rhino': 'Ang kinatay na rhinoceros ng Kalinga',
+    'luzonensis': 'Homo luzonensis',
+    'ill-luzonensis': 'Homo luzonensis, isang guhit-paglalarawan',
+    'tabon': 'Ang Kuweba ng Tabon, Palawan',
+    'ill-austronesians': 'Dumating sa Luzon ang mga Austronesyong manlalayag',
+    'prehistoric-sites': 'Mga sinaunang pook sa Pilipinas',
+    'petroglyphs': 'Ang mga Petroglyph ng Angono–Binangonan',
+    'manunggul': 'Ang Banga ng Manunggul',
+    'ill-village': 'Isang nayon sa baybayin ng lawa, mga 1,000 taon na ang nakararaan',
+    'balangay': 'Muling naglayag ang isang balangay',
+    'polities': 'Ang Laguna de Bay noong mga 1570',
+    'copperplate': 'Ang Inskripsiyon sa Binatbat na Tanso ng Laguna, 900',
+    'ill-trade': 'Pakikipagkalakalan sa mga junk ng Tsina',
+    'boxer-couple': 'Mag-asawang Tagalog sa Boxer Codex',
+    'ill-catalonan': 'Isang pista para sa anito',
+    'doctrina': 'Ang baybayin sa Doctrina Christiana, 1593',
+    'ill-salcedo': 'Si Salcedo sa lawa, 1571',
+    'territory': 'Ang nasasakupan ng Biñan, 1688–1907',
+    'murillo': '“Viñan” sa mapa ni Murillo Velarde, 1734',
+    'manuscript': '“Biñang” sa isang mapang Espanyol ng ika-18 siglo',
+    'map1897': '“Biñang” sa isang mapang militar ng Espanya, 1897',
+    'alberto': 'Ang bahay ng mga Alberto',
+    'school': 'Kung saan nag-aral si Rizal sa Biñan',
+    'tablet': 'Ang plake ng alaala ni José Alberto',
+    'lamco': 'Ang talaan ng binyag ni Domingo Lam-co',
+    'ill-hacienda': 'Ang asyenda ng mga Dominiko',
+    'timbao': 'Ang prinsa ng Timbao',
+    'ill-plaza': 'Isang plaza ng bayan noong mga 1870',
+    'church2010': 'Ang simbahan ni San Isidro Labrador',
+    'ill-cascos': 'Mga kasko sa lawa',
+    'gallera': 'Isang sabungan, 1859',
+    'rizal-sketch': 'Ang guhit ni Rizal ng rehiyon ng lawa',
+    'marker1948': 'Ang panandang “Rizal in Biñan” ng 1948',
+    'bautista': 'Si Ambrosio Rianzares Bautista',
+    'puck': '“School Begins”, Puck, 1899',
+    'kill-every-one': '“Kill every one over ten”, 1902',
+    'ill-troops': 'Mga sundalong Amerikano sa Laguna, 1900',
+    'gunboat': 'Ang barkong pandigmang Laguna de Bay, 1899',
+    'ill-classroom': 'Isang pampublikong paaralan, mga 1905',
+    'ill-station': 'Dumating ang tren sa Biñan, 1908',
+    'atlas': 'Ang Biñan sa Atlas de Filipinas, 1899–1900',
+    'monument': 'Ang bantayog ni Rizal sa plaza, 1918',
+    'cinema': 'Ang bahay ng mga Alberto bilang sinehan, dekada 1910',
+    'southroad': 'Mga kalabaw sa Manila South Road, 1934',
+    'ill-rice': 'Ang bigas sa panahon ng okupasyon, 1943',
+    'peso1000': 'Isang perang papel ng okupasyon na 1,000 piso, 1945',
+    'limaco': 'Si Rogelio Limaco',
+    'ill-guerrillas': 'Isang pulong ng mga gerilya, 1944',
+    'liberation': 'Ang paglaya ng Biñan, Pebrero 3, 1945',
+    'memorial': 'Ang bantayog ng Hunters-ROTC sa Bulwagang Panlungsod ng Biñan',
+    'memorial-text': 'Ang salaysay ni Mojica sa bantayog',
+    'mabitac': 'Mabitac, Laguna, Abril 1945',
+    'bridge': 'Ang bagong tulay ng Biñan, mga 1951',
+    'ams1956': 'Ang bayan ng Biñan sa isang mapa ng 1956',
+    'population': 'Ang populasyon ng Biñan, 1903–2024',
+    'slex': 'Ang Biñan mula sa himpapawid, 2024',
+    'barangays': 'Ang mga barangay ng Biñan ngayon',
+    'technopark': 'Ang Laguna Technopark',
+    'cityhall': 'Ang Bulwagang Panlungsod ng Biñan',
+    'sentro': 'Ang Sentrong Pangkultura ng Biñan',
+    'alberto-inside': 'Sa loob ng muling itinayong bahay ng mga Alberto, 2023',
+    'view2023': 'Ang Poblacion mula sa bahay ng mga Alberto, 2023',
+    'marketstreet': 'Sa paligid ng pampublikong pamilihan, 2013',
+    'fruit': 'Isang tindahan ng prutas sa pamilihan, 2013',
+    'bandstand': 'Ang kiyosko ng Los Maduros, 2023',
+    'bakya': 'Bakya',
+    'puto': 'Puto Biñan',
+    'pospas': 'Pospas',
+    'church2021': 'Ang dambanang pandiyosesis ni San Isidro Labrador, 2021',
+    'mass': 'Misa sa San Isidro Labrador, 2013',
+    'flowers': 'Mga tindera ng bulaklak, 2013',
+    'maglalatik': 'Mga mananayaw ng maglalatik',
+    'festival': 'Ang Puto Latik Festival',
+    'arawngbinan': 'Ang Araw ng Biñan sa gabi',
+    'hdp1953': 'Ang kasaysayan ng Biñan na isinulat noong 1953',
+    'pasig1917': 'Mga kasko at barkong de-singaw sa Pasig, mga 1917',
+    'station2023': 'Ang istasyon ng Biñan, Hunyo 2023',
+    'hybridtrain': 'Ang Hybrid Electric Train sa Biñan, 2019',
+    'transport': 'Mga daan, riles at lawa sa paligid ng Biñan',
+    'jeepney2013': 'Isang dyip sa Biñan, 2013',
+    'n1-2023': 'Ang pambansang daan sa Santo Domingo, 2023',
+    'economy': 'Saan naghahanapbuhay ang Biñan',
+    'calaxtechno': 'Ang labasan ng CALAX sa Laguna Technopark, 2024',
+    'southwoodsmall': 'Southwoods Mall, 2024',
+    'pavilion': 'Pavilion Mall, 2013',
+    'fishpens': 'Mga baklad sa Laguna de Bay',
+    'land': 'Kanino ang lupa?',
+}
+
+# The language of the edition being built: "en" or "tl".
+LANG = {"code": "en"}
+
+
+def T(english, tagalog):
+    """The English or the Tagalog wording, for the edition being built."""
+    return tagalog if LANG["code"] == "tl" else english
+
+
 
 # Photos from Wikimedia Commons used in the layout, with their credits.
 IMAGES = {
@@ -665,10 +788,19 @@ def active_figures():
     return [f for f in FIGURES if not (FINAL and f.get("rights") == "pending")]
 
 
+KIND_TL = {"Map": "Mapa", "Photo": "Larawan", "Illustration": "Guhit", "Chart": "Tsart"}
+
+
+def kind_label(kind):
+    return T(kind, KIND_TL.get(kind, kind))
+
+
 def figure_html(fig, number):
     credit = f' <span class="credit">{fig["credit"]}</span>' if fig.get("credit") else ""
     if fig.get("rights") == "pending":
-        credit += ' <span class="rights-pending">Reproduction rights being requested.</span>'
+        credit += (' <span class="rights-pending">'
+                   + T("Reproduction rights being requested.",
+                       "Hinihingi pa ang pahintulot na mailathala ito.") + '</span>')
 
     css = "map" if fig["src"].endswith(".svg") else "archive"
     if fig.get("small"):
@@ -677,10 +809,11 @@ def figure_html(fig, number):
         css += " " + fig["css"]
     if fig["kind"] == "Illustration":
         css += " impression"
+    caption = T(fig["caption"], fig.get("tagalog") or fig["caption"])
     return (
         f'<figure class="{css}" id="fig-{fig["id"]}"><img src="{fig["src"]}" alt="">'
-        f'<figcaption><span class="map-no">{fig["kind"]} {number}.</span> '
-        f'{fig["caption"]} <span class="tl">{fig["tagalog"]}</span>{credit}</figcaption></figure>'
+        f'<figcaption><span class="map-no">{kind_label(fig["kind"])} {number}.</span> '
+        f'{caption}{credit}</figcaption></figure>'
     )
 
 
@@ -775,14 +908,16 @@ def sources_section():
                         f'<a href="{html.escape(url)}">{html.escape(short_url(url))}</a></li>')
         parts.append(f'<h2 class="bib-group">{html.escape(section)}</h2>'
                      f'<ul class="bib">{"".join(rows)}</ul>')
+    intro = T("The sources cited in the footnotes, chapter by chapter, with their web addresses "
+              "(shortened: add https:// in front). In the electronic edition, every footnote is "
+              "also a link.",
+              "Ang mga sangguniang binanggit sa mga talababa, ayon sa kabanata, kasama ang "
+              "kanilang web address (pinaikli: idagdag ang https:// sa unahan). Sa elektronikong "
+              "edisyon, bawat talababa ay isa ring link.")
     return (
         '<section class="sources">'
-        '<h1 class="backmatter" id="sources" data-tl="Mga sanggunian">Sources</h1>'
-        '<p class="bm-intro">The sources cited in the footnotes, chapter by chapter, with their '
-        'web addresses (shortened: add https:// in front). In the electronic edition, every '
-        'footnote is also a link.</p>'
-        '<p class="bm-intro tl">Ang mga sangguniang binanggit sa mga talababa, ayon sa kabanata, '
-        'kasama ang kanilang web address. Sa elektronikong edisyon, bawat talababa ay isa ring link.</p>'
+        f'<h1 class="backmatter" id="sources">{T("Sources", "Mga Sanggunian")}</h1>'
+        f'<p class="bm-intro">{intro}</p>'
         + "".join(parts) + "</section>"
     )
 
@@ -807,30 +942,30 @@ def bilingual(text):
     return text.strip(), ""
 
 
-def split_heading(line, css="chapter"):
-    """'## English / Tagalog' -> heading with the Tagalog part as subtitle."""
+def split_heading(line, css="chapter", both=False):
+    """'## English / Tagalog' -> the heading in the language of the edition
+    (both=True: English, with the Tagalog part as subtitle)."""
     level, text = line.split(" ", 1)
     english, tagalog = bilingual(text)
-    if tagalog:
+    if both and tagalog:
         return f'{level} {english} {{.{css} data-tl="{html.escape(tagalog)}"}}'
-    return f"{level} {english} {{.{css}}}"
+    return f"{level} {T(english, tagalog or english)} {{.{css}}}"
 
 
 def part_page(text):
     """'# Part One · History / Unang Bahagi · Kasaysayan' -> a part title page."""
     english, tagalog = bilingual(text)
-    number, _, title = english.partition(" · ")
-    anchor = "part-" + re.sub(r"[^a-z]+", "-", number.lower()).strip("-")
+    anchor = "part-" + re.sub(r"[^a-z]+", "-", english.partition(" · ")[0].lower()).strip("-")
+    number, _, title = T(english, tagalog or english).partition(" · ")
     return (f'<section class="part-page"><h1 class="part" id="{anchor}" '
-            f'data-no="{html.escape(number)}" data-tl="{html.escape(tagalog)}">'
-            f'{html.escape(title)}</h1></section>')
+            f'data-no="{html.escape(number)}">{html.escape(title)}</h1></section>')
 
 
 FIGURE_NUMBERS = {}
 
 
 def place_figures(chapter, paragraph, out):
-    """Insert the figures that follow the n-th English paragraph of a chapter."""
+    """Insert the figures that follow the n-th paragraph of a chapter."""
     here = [f for f in active_figures() if (f["chapter"], f["after"]) == (chapter, paragraph)]
     row = []  # consecutive photos are set side by side, two per row
     for fig in here:
@@ -849,22 +984,91 @@ def place_figures(chapter, paragraph, out):
         out.append(row.pop())
 
 
+MONTHS_TL = {"January": "Enero", "February": "Pebrero", "March": "Marso", "April": "Abril",
+             "May": "Mayo", "June": "Hunyo", "July": "Hulyo", "August": "Agosto",
+             "September": "Setyembre", "October": "Oktubre", "November": "Nobyembre",
+             "December": "Disyembre"}
+MONTH = "(" + "|".join(MONTHS_TL) + ")"
+
+
+def date_tl(text):
+    """English dates of the appendices -> Tagalog ('15 May 1955' -> 'Mayo 15, 1955')."""
+    text = re.sub(rf"(\d{{1,2}}) and (\d{{1,2}}) {MONTH} (\d{{3,4}})",
+                  lambda m: f"{MONTHS_TL[m[3]]} {m[1]} at {m[2]}, {m[4]}", text)
+    text = re.sub(rf"(\d{{1,2}}) {MONTH} (\d{{3,4}})",
+                  lambda m: f"{MONTHS_TL[m[2]]} {m[1]}, {m[3]}", text)
+    text = re.sub(rf"{MONTH} (\d{{3,4}})", lambda m: f"{MONTHS_TL[m[1]]} {m[2]}", text)
+    for english, tagalog in [("late (\\d{4})s", r"huling bahagi ng dekada \1"),
+                             ("late (\\d{4})", r"huling bahagi ng \1"),
+                             ("(\\d{4})s", r"dekada \1"),
+                             ("at least ", "hindi bababa sa "), ("c\\. ", "mga "),
+                             (" million", " milyon"), ("years ago", "taon na ang nakararaan")]:
+        text = re.sub(english, tagalog, text)
+    return text
+
+
+# Table columns kept in one edition only, and Tagalog column headings.
+COLUMNS_EN_ONLY = {"Event", "Note", "English"}
+COLUMNS_TL_ONLY = {"Pangyayari", "Tala", "Tagalog"}
+HEADINGS_TL = {"Date": "Petsa", "Years": "Mga taon", "Head of the town": "Pinuno ng bayan",
+               "Year": "Taon", "Population": "Populasyon", "Source": "Sanggunian",
+               "Word": "Salita", "Tagalog": "Kahulugan"}
+CELLS_TL = [("Census of ", "Senso ng "), ("Census (PSA)", "Senso (PSA)"),
+            ("Proclamation No. 973 of 2025", "Proklamasyon Blg. 973 ng 2025"),
+            ("Buzeta and Bravo", "Buzeta at Bravo"),
+            ("“souls” of the parish", "mga “kaluluwa” ng parokya"),
+            ("officer-in-charge, not yet known", "officer-in-charge, hindi pa alam"),
+            ("not yet known", "hindi pa alam")]
+
+
+def table_for_edition(block):
+    """A bilingual table of the appendices -> the columns of one edition."""
+    rows = [[c.strip() for c in line.strip().strip("|").split("|")] for line in block.splitlines()]
+    header, rule, body = rows[0], rows[1], rows[2:]
+    drop = COLUMNS_TL_ONLY if LANG["code"] == "en" else COLUMNS_EN_ONLY
+    keep = [k for k, name in enumerate(header) if name not in drop]
+    out = []
+    for n, row in enumerate([header, rule] + body):
+        cells = [row[k] if k < len(row) else "" for k in keep]
+        if LANG["code"] == "tl" and n == 0:
+            cells = [HEADINGS_TL.get(c, c) for c in cells]
+        elif LANG["code"] == "tl" and n > 1:
+            cells = [date_tl(c) for c in cells]
+            for english, tagalog in CELLS_TL:
+                cells = [c.replace(english, tagalog) for c in cells]
+        out.append("| " + " | ".join(cells) + " |")
+    return "\n".join(out)
+
+
+def citations(text):
+    """The sources cited in a paragraph, in order: [(label, url)]."""
+    found = [(m.start(), m.group(1), m.group(2)) for m in CITATION.finditer(text)]
+    rest = CITATION.sub("", text)
+    found += [(10 ** 6 + m.start(), m.group(1), m.group(2)) for m in INLINE_LINK.finditer(rest)]
+    seen, result = set(), []
+    for _, label, url in sorted(found):
+        if url not in seen:
+            seen.add(url)
+            result.append((label, url))
+    return result
+
+
 def prepare_text(markdown, kind="chapter"):
-    """Mark up a bilingual text for the book layout.
+    """Mark up the text of one edition (English or Tagalog) for the book layout.
+
+    The source is bilingual: in each chapter the English sections come first,
+    then the same sections in Tagalog. Only one language is kept. The sources
+    are cited in the English paragraphs; in the Tagalog edition, each paragraph
+    receives the footnotes of its English twin.
 
     kind: "chapter" (the history: numbered chapters with figures), "front"
     (introduction) or "appendix" (back matter)."""
     blocks = [b.strip() for b in markdown.split("\n\n") if b.strip()]
     out = []
-    state = {"tagalog": False}
-    chapter = english_paragraphs = 0
-
-    def set_tagalog(value):
-        if value and not state["tagalog"]:
-            out.append('::: {.tagalog}\n<p class="lang-label">Sa Tagalog</p>')
-        elif not value and state["tagalog"]:
-            out.append(":::")
-        state["tagalog"] = value
+    want_tl = LANG["code"] == "tl"
+    chapter = paragraphs = 0
+    english_sources, tagalog_count = [], 0
+    current_tl = False
 
     def next_text(i):
         for later in blocks[i + 1:]:
@@ -877,38 +1081,40 @@ def prepare_text(markdown, kind="chapter"):
         if i in skip:
             continue
         if block.startswith("# "):
-            set_tagalog(False)
             if block[2:].startswith("Part "):
                 out.append(part_page(block[2:]))
             continue  # the H1 title of the book is on the cover
         if block.startswith("## "):
-            set_tagalog(False)
-            english, _ = bilingual(block[3:])
+            current_tl = False
+            english_sources, tagalog_count = [], 0
+            english, tagalog = bilingual(block[3:])
+            title = T(english, tagalog or english)
             if kind == "chapter":
                 chapter += 1
-                english_paragraphs = 0
-                CURRENT["section"] = f"{ROMAN[chapter - 1]}. {english}"
+                paragraphs = 0
+                CURRENT["section"] = f"{ROMAN[chapter - 1]}. {title}"
                 out.append(split_heading(block, "chapter"))
             else:
-                CURRENT["section"] = english
+                CURRENT["section"] = title
                 out.append(split_heading(block, "front" if kind == "front" else "appendix"))
             continue
         if block.startswith("### "):
-            set_tagalog(is_tagalog(next_text(i)) and kind != "appendix")
-            out.append(f"### {block[4:].strip()} {{.section}}")
+            current_tl = is_tagalog(next_text(i))
+            if current_tl == want_tl:
+                out.append(f"### {block[4:].strip()} {{.section}}")
             continue
         if block.startswith("**Did You Know?**"):
-            set_tagalog(False)
-            body = block.removeprefix("**Did You Know?**").strip()
-            box = ['::::: {.didyouknow}', '<p class="dyk-title">Did you know?</p>', "",
-                   links_to_footnotes(body)]
+            english = block.removeprefix("**Did You Know?**").strip()
+            text = links_to_footnotes(english)
             if i + 1 < len(blocks) and blocks[i + 1].startswith("**Alam Mo Ba?**"):
                 skip.add(i + 1)
-                tagalog = blocks[i + 1].removeprefix("**Alam Mo Ba?**").strip()
-                box += ["", "::: {.dyk-tl}", '<p class="dyk-title">Alam mo ba?</p>', "",
-                        links_to_footnotes(tagalog), ":::"]
-            box.append(":::::")
-            out.append("\n".join(box))
+                if want_tl:
+                    tagalog = blocks[i + 1].removeprefix("**Alam Mo Ba?**").strip()
+                    text = links_to_footnotes(tagalog) + "".join(
+                        footnote(label, url) for label, url in citations(english))
+            out.append("\n".join(['::::: {.didyouknow}',
+                                  f'<p class="dyk-title">{T("Did you know?", "Alam mo ba?")}</p>',
+                                  "", text, ":::::"]))
             continue
         figure = FIGURE.match(block)
         if figure and figure.group(1) in IMAGES:
@@ -919,16 +1125,29 @@ def prepare_text(markdown, kind="chapter"):
                 f"<figcaption>\n\n{caption}\n\n</figcaption></figure>"
             )
             continue
-        if block.startswith("|") or block.startswith("<"):
-            out.append(block)  # tables and raw HTML keep their place
+        if block.startswith("<"):
+            out.append(block)
             continue
-        tagalog = is_tagalog(block)
-        set_tagalog(tagalog)
-        out.append(links_to_footnotes(block))
-        if not tagalog and kind == "chapter":
-            english_paragraphs += 1
-            place_figures(chapter, english_paragraphs, out)
-    set_tagalog(False)
+        if block.startswith("|"):
+            if kind == "appendix":
+                out.append(table_for_edition(block))
+            elif current_tl == want_tl:
+                out.append(block)  # the tables of the chapters exist in each language
+            continue
+        current_tl = is_tagalog(block)
+        if not current_tl:
+            english_sources.append(citations(block))
+        if current_tl != want_tl:
+            continue
+        if current_tl:
+            twin = english_sources[tagalog_count] if tagalog_count < len(english_sources) else []
+            tagalog_count += 1
+            out.append(links_to_footnotes(block) + "".join(footnote(l, u) for l, u in twin))
+        else:
+            out.append(links_to_footnotes(block))
+        if kind == "chapter":
+            paragraphs += 1
+            place_figures(chapter, paragraphs, out)
     return "\n\n".join(out)
 
 
@@ -943,7 +1162,7 @@ def prepare_explanation(markdown):
             continue  # already the cover tagline
         if stripped.startswith("## "):
             css = "front" if stripped.startswith("## Introduction") else "chapter"
-            out.extend(["", split_heading(stripped, css), ""])
+            out.extend(["", split_heading(stripped, css, both=True), ""])
             continue
         out.append(links_to_footnotes(line))
     return "\n".join(out)
@@ -1066,29 +1285,31 @@ def table_of_contents(html_text):
             number = f'<span class="toc-no">{LETTERS[appendix - 1]}.</span>'
         items.append(f'<li class="toc-{css}"><a class="toc-link" href="#{anchor}">{number}'
                      f'<span class="toc-en">{title}</span>{tl}</a></li>')
-    present = set(re.findall(r'<figure class="[^"]+" id="fig-([^"]+)"', html_text))
-    figures = [f for f in active_figures() if f["id"] in present]
-    map_list = ""
-    if figures:
-        counts, rows = {}, []
-        for fig in figures:
-            counts[fig["kind"]] = counts.get(fig["kind"], 0) + 1
-            rows.append(f'<li><a class="toc-map" href="#fig-{fig["id"]}">'
-                        f'<span class="toc-kind">{fig["kind"]} {counts[fig["kind"]]}.</span> '
-                        f'{fig["title"]}</a></li>')
-        map_list = ('</section><section class="toc toc-figures">'
-                    '<h1 class="toc-title">Maps and documents</h1>'
-                    '<p class="toc-sub">Mga mapa at dokumento</p>'
-                    f'<ol class="toc-maps">{"".join(rows)}</ol>')
     return (
-        '<section class="toc"><h1 class="toc-title">Contents</h1>'
-        f'<p class="toc-sub">Nilalaman</p><ol class="toc-main">{"".join(items)}</ol>'
-        f'{map_list}</section>'
+        f'<section class="toc"><h1 class="toc-title">{T("Contents", "Nilalaman")}</h1>'
+        f'<ol class="toc-main">{"".join(items)}</ol></section>'
     )
 
 
+def figures_section(html_text):
+    """The list of maps, photos and documents, at the end of the book."""
+    present = set(re.findall(r'<figure class="[^"]+" id="fig-([^"]+)"', html_text))
+    figures = [f for f in active_figures() if f["id"] in present]
+    if not figures:
+        return ""
+    counts, rows = {}, []
+    for fig in figures:
+        counts[fig["kind"]] = counts.get(fig["kind"], 0) + 1
+        title = TITLES_TL.get(fig["id"], fig["title"]) if LANG["code"] == "tl" else fig["title"]
+        rows.append(f'<li><a class="toc-map" href="#fig-{fig["id"]}">'
+                    f'<span class="toc-kind">{kind_label(fig["kind"])} {counts[fig["kind"]]}.</span> '
+                    f'{title}</a></li>')
+    return ('<section class="figure-list">'
+            f'<h1 class="backmatter" id="figures">{T("Maps and Documents", "Mga Mapa at Dokumento")}</h1>'
+            f'<ol class="toc-maps">{"".join(rows)}</ol></section>')
+
+
 def cover(doc):
-    tagline_tl = f'<p class="cover-tagline tl">{doc["tagline_tl"]}</p>' if doc.get("tagline_tl") else ""
     return f"""
 <section class="cover">
   <div class="cover-frame">
@@ -1098,7 +1319,6 @@ def cover(doc):
     <p class="cover-subtitle">{doc['subtitle']}</p>
     <div class="cover-photo" style="background-image: url({IMAGES['cover']['file']})"></div>
     <p class="cover-tagline">{doc['tagline']}</p>
-    {tagline_tl}
     <p class="cover-languages">{doc['languages']}</p>
   </div>
 </section>"""
@@ -1139,93 +1359,126 @@ BACK_COVER_FACTS = [
 
 
 def back_cover(doc):
-    if doc["source"].name != "history.md":
+    if doc["kind"] != "history":
         return ""
-    items = "".join(
-        f'<li><p class="bc-en">{en}</p><p class="bc-tl">{tl}</p></li>'
-        for en, tl in BACK_COVER_FACTS)
+    items = "".join(f'<li><p class="bc-en">{T(en, tl)}</p></li>' for en, tl in BACK_COVER_FACTS)
     return f"""
 <section class="back-cover">
   <div class="cover-frame back-frame">
-    <p class="bc-title">Did you know?</p>
-    <p class="bc-subtitle">Alam mo ba?</p>
+    <p class="bc-title">{T("Did you know?", "Alam mo ba?")}</p>
     <div class="cover-rule"></div>
     <ul class="bc-facts">{items}</ul>
-    <p class="bc-footer">{doc['title']} · {doc['subtitle']}</p>
+    <p class="bc-footer">{doc['title']} · {doc['kicker']}</p>
   </div>
 </section>"""
 
 
 def colophon(doc):
     """The short notice on the back of the title page."""
+    other = T("A Tagalog edition, <em>Kasaysayan ng Lungsod ng Biñan</em>, has the same text "
+              "and the same numbered sections, and a companion, <em>Reading the Tagalog Text</em>, "
+              "explains its vocabulary and grammar.",
+              "May edisyong Ingles, ang <em>History of Biñan City</em>, na pareho ang teksto at ang "
+              "mga bahaging may bilang, at isang kasamang aklat, ang <em>Reading the Tagalog "
+              "Text</em>, na nagpapaliwanag sa talasalitaan at balarila nito.")
     return f"""
 <section class="colophon">
   <p class="colophon-title">{doc['title']}</p>
   <p>{doc['subtitle']}</p>
-  <p>Draft edition, November 2026.</p>
-  <p class="colophon-head">An open book · Isang bukas na aklat</p>
-  <p>Part of <em>The Book of Biñan</em>, an open project: the text, its sources and every
-     correction are public at github.com/smichea/binan. Corrections and memories from
-     the people of Biñan are welcome.</p>
-  <p class="tl">Bahagi ng <em>The Book of Biñan</em>, isang bukas na proyekto: nasa
-     github.com/smichea/binan ang teksto, ang mga sanggunian at ang bawat pagwawasto.
-     Malugod na tinatanggap ang mga pagwawasto at alaala ng mga taga-Biñan.</p>
-  <p>The electronic edition of this book is free. The printed edition is sold at cost.</p>
-  <p class="tl">Libre ang elektronikong edisyon ng aklat na ito. Ang nakalimbag na edisyon
-     ay ipinagbibili sa halaga lamang ng pagpapalimbag.</p>
-  <p>Sources, picture credits and licences are listed at the end of the book.</p>
+  <p>{T("Draft edition, November 2026.", "Borador na edisyon, Nobyembre 2026.")}</p>
+  <p>{other}</p>
+  <p class="colophon-head">{T("An open book", "Isang bukas na aklat")}</p>
+  <p>{T("Part of <em>The Book of Biñan</em>, an open project: the text, its sources and every "
+        "correction are public at github.com/smichea/binan. Corrections and memories from the "
+        "people of Biñan are welcome.",
+        "Bahagi ng <em>Ang Aklat ng Biñan</em>, isang bukas na proyekto: nasa "
+        "github.com/smichea/binan ang teksto, ang mga sanggunian at ang bawat pagwawasto. Malugod "
+        "na tinatanggap ang mga pagwawasto at alaala ng mga taga-Biñan.")}</p>
+  <p>{T("The electronic edition of this book is free. The printed edition is sold at cost.",
+        "Libre ang elektronikong edisyon ng aklat na ito. Ang nakalimbag na edisyon ay "
+        "ipinagbibili sa halaga lamang ng pagpapalimbag.")}</p>
+  <p>{T("Sources, picture credits, the list of maps and documents and the index are at the end "
+        "of the book.",
+        "Nasa dulo ng aklat ang mga sanggunian, ang mga kredito ng mga larawan, ang talaan ng "
+        "mga mapa at dokumento at ang talatuntunan.")}</p>
 </section>"""
 
 
 def credits_section(doc):
     photos = "".join(f"<p>{image['credit']}</p>" for image in IMAGES.values())
     figures = "".join(
-        f"<p><span class=\"cr-title\">{fig['title']}</span>: {fig['credit']}</p>"
+        f"<p><span class=\"cr-title\">{T(fig['title'], TITLES_TL.get(fig['id'], fig['title']))}</span>: {fig['credit']}</p>"
         for fig in active_figures() if fig.get("credit") and fig["kind"] != "Illustration")
-    return f"""
-<section class="credits">
-  <h1 class="backmatter" id="credits" data-tl="Mga kredito">Credits</h1>
-  <p class="colophon-head">Cover and photographs</p>
-  {photos}
-  {figures}
-  <p class="colophon-head">Maps and charts</p>
-  <p>Maps and charts were drawn for this book (book/maps/make_maps.py) from: the
+    maps = T(
+        """Maps and charts were drawn for this book (book/maps/make_maps.py) from: the
      Philippine Standard Geographic Code boundaries (PSA, via OCHA and
      github.com/faeldon/philippines-json-maps, MIT licence; barangay boundaries are
      approximate); Natural Earth land (public domain, via world-atlas, ISC licence);
      plate boundaries of P. Bird (2003), PB2002 (ODC-By); the GEM Global Active Faults
      Database (Styron &amp; Pagani 2020, CC BY-SA 4.0); NASA POWER and PAGASA climate data;
-     the Philippine censuses (PSA); and, for roads, railway and places of Part Two,
+     the Philippine censuses (NSO and PSA); and, for roads, railway and places of Part Two,
      OpenStreetMap (© OpenStreetMap contributors, ODbL 1.0, via Nominatim and OSRM) and
      Wikidata (CC0). The maps that contain GEM fault traces are released under the same
-     CC BY-SA 4.0 licence.</p>
-  <p class="colophon-head">Illustrations</p>
-  <p>The pictures labelled “Illustration” are artist’s impressions created for this book
+     CC BY-SA 4.0 licence.""",
+        """Iginuhit para sa aklat na ito ang mga mapa at tsart (book/maps/make_maps.py) mula sa:
+     mga hangganan ng Philippine Standard Geographic Code (PSA, sa pamamagitan ng OCHA at
+     github.com/faeldon/philippines-json-maps, lisensiyang MIT; tinatayang lamang ang mga
+     hangganan ng mga barangay); ang lupain ng Natural Earth (pampublikong pag-aari, sa
+     pamamagitan ng world-atlas, lisensiyang ISC); ang mga hangganan ng plate ni P. Bird
+     (2003), PB2002 (ODC-By); ang GEM Global Active Faults Database (Styron &amp; Pagani 2020,
+     CC BY-SA 4.0); ang mga datos ng klima ng NASA POWER at PAGASA; ang mga senso ng Pilipinas
+     (NSO at PSA); at, para sa mga daan, riles at lugar ng Ikalawang Bahagi, ang OpenStreetMap
+     (© mga kontributor ng OpenStreetMap, ODbL 1.0, sa pamamagitan ng Nominatim at OSRM) at
+     ang Wikidata (CC0). Inilalathala sa ilalim ng parehong lisensiyang CC BY-SA 4.0 ang mga
+     mapang may mga fault ng GEM.""")
+    illustrations = T(
+        """The pictures labelled “Illustration” are artist’s impressions created for this book
      with an AI image generator (Figma). They show what the sources describe, for periods
      or scenes of which no picture exists; they are not historical documents. They are
-     listed for review by people of Biñan in book/illustrations_revue.md.</p>
-  <p class="tl">Ang mga larawang may tatak na “Illustration” ay guhit-paglalarawan na
-     ginawa para sa aklat na ito sa tulong ng AI. Hindi sila makasaysayang dokumento.</p>
-  <p class="colophon-head">Typography</p>
-  <p>Set in EB Garamond and Cormorant Garamond (SIL Open Font License).</p>
+     listed for review by people of Biñan in book/illustrations_revue.md.""",
+        """Ang mga larawang may tatak na “Guhit” ay guhit-paglalarawan na ginawa para sa aklat na
+     ito sa tulong ng isang AI (Figma). Ipinakikita nila ang inilalarawan ng mga sanggunian,
+     para sa mga panahon o eksenang walang natitirang larawan; hindi sila makasaysayang
+     dokumento. Nakalista sila sa book/illustrations_revue.md upang masuri ng mga taga-Biñan.""")
+    return f"""
+<section class="credits">
+  <h1 class="backmatter" id="credits">{T("Credits", "Mga Kredito")}</h1>
+  <p class="colophon-head">{T("Cover and photographs", "Pabalat at mga larawan")}</p>
+  {photos}
+  {figures}
+  <p class="colophon-head">{T("Maps and charts", "Mga mapa at tsart")}</p>
+  <p>{maps}</p>
+  <p class="colophon-head">{T("Illustrations", "Mga guhit")}</p>
+  <p>{illustrations}</p>
+  <p class="colophon-head">{T("Typography", "Tipograpiya")}</p>
+  <p>{T("Set in EB Garamond and Cormorant Garamond (SIL Open Font License).",
+        "Nakaayos sa EB Garamond at Cormorant Garamond (SIL Open Font License).")}</p>
 </section>"""
 
 
 def index_shell():
     return ('<section class="index-section">'
-            '<h1 class="backmatter" id="index" data-tl="Talatuntunan">Index</h1>'
-            '<p class="bm-intro">People, places and institutions, with the pages where they '
-            'appear in the English or Tagalog text.</p>'
-            '<p class="bm-intro tl">Mga tao, lugar at institusyon, at ang mga pahinang '
-            'kinaroroonan nila sa tekstong Ingles o Tagalog.</p>'
-            f'{INDEX_PLACEHOLDER}</section>')
+            f'<h1 class="backmatter" id="index">{T("Index", "Talatuntunan")}</h1>'
+            '<p class="bm-intro">'
+            + T("People, places and institutions, with the pages where they appear.",
+                "Mga tao, lugar at institusyon, at ang mga pahinang kinaroroonan nila.")
+            + f'</p>{INDEX_PLACEHOLDER}</section>')
+
+
+EDITION_CSS = {
+    "tl": """body.history { string-set: book-title "Kasaysayan ng Lungsod ng Biñan"; }
+h1.chapter::before { content: "Kabanata " counter(chapter, upper-roman); }
+h1.appendix::before { content: "Apendise " counter(appendix, upper-alpha); }""",
+}
 
 
 def page_html(doc, front, body, back, body_class):
+    style = EDITION_CSS.get(LANG["code"], "") if body_class == "history" else ""
     return f"""<!doctype html>
-<html lang="en"><head><meta charset="utf-8">
+<html lang="{LANG['code']}"><head><meta charset="utf-8">
 <title>{doc['title']}</title>
 <link rel="stylesheet" href="book.css">
+<style>{style}</style>
 </head><body class="{body_class}">
 {cover(doc)}
 {colophon(doc) if body_class == "history" else ""}
@@ -1238,8 +1491,9 @@ def page_html(doc, front, body, back, body_class):
 
 
 def build(doc):
+    LANG["code"] = doc.get("lang", "en")
     markdown = doc["source"].read_text(encoding="utf-8")
-    if doc["source"].name != "history.md":
+    if doc["kind"] != "history":
         CURRENT["record"] = False
         body = to_html(prepare_explanation(markdown), "commonmark_x")
         page = page_html(doc, "", body, "", "companion")
@@ -1263,7 +1517,8 @@ def build(doc):
     # print the index (at the very end, so no earlier page moves).
     indexed, anchors = mark_index(front + "<!--MAIN-->" + body)
     front, body = indexed.split("<!--MAIN-->")
-    back = appendices + sources_section() + credits_section(doc) + index_shell()
+    back = (appendices + sources_section() + credits_section(doc)
+            + figures_section(body) + index_shell())
     page = page_html(doc, front, body, back, "history")
     base = str(LAYOUT) + "/"
     if anchors:

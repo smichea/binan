@@ -1,8 +1,8 @@
 # Biñan
 
-The book of Biñan: the history of the Philippines through one town, in English and Tagalog.
+The book of Biñan: the history of the Philippines through one town, in an English and a Tagalog edition.
 
-* Read the books (PDF): [History of Biñan City](book/word/history.pdf) · [Reading the Tagalog Text](book/word/history_tagalog_explanation.pdf), the companion for learners of Tagalog
+* Read the books (PDF): [History of Biñan City](book/word/history_english.pdf) (English edition) · [Kasaysayan ng Lungsod ng Biñan](book/word/history_tagalog.pdf) (Tagalog edition) · [Reading the Tagalog Text](book/word/history_tagalog_explanation.pdf), the companion for learners of Tagalog
 * Sources of the text: [introduction](book/raw_files/introduction.md) · [history, chapters I–XI](book/raw_files/history.md) · [appendices](book/raw_files/appendices.md) · [companion](book/raw_files/history_tagalog_explanation.md)
 * Research notes, with every source: [book/research](book/research)
 * Working documents (in French): [rights to obtain](book/droits_a_obtenir.md) · [AI illustrations to review](book/illustrations_revue.md) · [interview guide](book/guide_entretiens.md) · [publication checklist](book/publication_checklist.md) · [Tagalog proofreading](book/relecture_tagalog.md)
