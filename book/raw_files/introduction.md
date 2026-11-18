@@ -1,0 +1,49 @@
+## Introduction / Panimula
+
+### 1. A town and its country
+
+This is the history of one town on the shore of a lake: Biñan, in the province of Laguna, some thirty-five kilometres south of Manila. It is also, through this one town, a history of the Philippines. The ground of Biñan was made by the volcanoes and the fault that shape the whole archipelago. Its lake was once an arm of the sea. The Tagalog communities of the lakeshore traded with China and Brunei long before the Spaniards came. Then the friars turned its land into a great estate. A schoolboy named José Rizal studied here, and a son of the town wrote the proclamation of Philippine independence. The Americans fought for the town in 1900, and Filipino guerrillas freed it in 1945. Its rice fields became factories, subdivisions and, in 2024, the most populous city of the province. Almost every great moment of the country’s history left a trace here.
+
+### 2. For whom this book is written
+
+The book is written for everyone. People of Biñan and of the Philippines can discover the history of their city and practise their English with a text they already half know. Readers who do not speak Tagalog can discover the language, or improve it, while learning the history of the Philippines through one place. The electronic edition is free; the printed edition is sold at the cost of printing.
+
+### 3. How to read it
+
+Each chapter is told twice. It begins in English. The same text follows in Tagalog, under the heading *Sa Tagalog*, with the same numbered sections, so that every English section can be compared with its Tagalog twin. The boxes *Did you know? · Alam mo ba?* give a curious fact in both languages, and the captions of the maps and pictures are bilingual as well. A companion volume, *Reading the Tagalog Text*, takes the Tagalog text section by section: it explains the vocabulary, the grammar and every verb, with a translation. A learner of Tagalog can read a section in English, then in Tagalog, then check the companion; a learner of English can do the opposite. At the end of the book, a chronology, a list of mayors, the census figures, a bilingual glossary, the list of sources and an index help the reader find their way.
+
+### 4. The name of the town
+
+The official name is **Biñan**, with the Spanish letter *ñ*, pronounced as in *Santo Niño* – or like the *ny* in “canyon”: *bi-NYAN*, with the stress on the last syllable. Old documents spell it in many ways: *Viñan* on a map of 1734, *Biñang* on Spanish maps of the eighteenth and nineteenth centuries, *Binan* without the tilde in American reports, and *Biñán* with an accent in Spanish texts. This book uses the official spelling except in quotations. Where the name comes from is told in chapters III and VIII.
+
+### 5. Sources, and what we do not know
+
+Every fact in this book comes from a source, named in a footnote and listed at the end, chapter by chapter, with its web address. Whenever possible the sources are documents of the time: laws, censuses, military reports, travellers’ accounts and old maps – and, for the first half of the twentieth century, the histories of the town and its barrios written by Biñan’s own teachers in 1952–53, the *Historical Data Papers*. When the sources disagree, or when a story rests only on tradition, the text says so (“according to local tradition”, “one account says”). Much remains unknown. No archaeologist has yet excavated the soil of Biñan. Little has been written about the town under martial law, and the memories of its elders, of Holy Week, of the old workshops and of the lake, have mostly not been recorded. The book is an open project: its text and sources are public, and corrections, documents and memories from the people of Biñan are welcome.
+
+### 6. The pictures
+
+The book uses four kinds of pictures. **Documents** are old maps, prints and photographs, most of them in the public domain. **Maps and charts** were drawn for this book from public data. **Photographs** of today’s Biñan are under free licences, credited at the end of the book; a few are still awaiting permission from their owners. **Illustrations** are artist’s impressions made with an AI image generator. They show scenes that no document records, from the shores of the ancient lagoon to a guerrilla meeting, and they are always labelled as impressions: they are not historical documents.
+
+### 1. Isang bayan at ang kanyang bansa
+
+Ito ang kasaysayan ng isang bayan sa baybayin ng isang lawa: ang Biñan, sa lalawigan ng Laguna, mga tatlumpu’t limang kilometro sa timog ng Maynila. Sa pamamagitan ng iisang bayang ito, isa rin itong kasaysayan ng Pilipinas. Ang lupa ng Biñan ay hinubog ng mga bulkan at ng fault na humuhubog sa buong kapuluan. Ang lawa nito ay dating bahagi ng dagat. Nakipagkalakalan sa Tsina at Brunei ang mga pamayanang Tagalog sa baybayin ng lawa bago pa dumating ang mga Espanyol. Pagkatapos, ginawa ng mga prayle ang lupain nito na isang malaking asyenda. Dito nag-aral ang isang batang nagngangalang José Rizal, at isang anak ng bayan ang sumulat ng pagpapahayag ng kasarinlan ng Pilipinas. Ipinaglaban ng mga Amerikano ang bayan noong 1900, at pinalaya ito ng mga gerilyang Pilipino noong 1945. Naging mga pabrika at subdibisyon ang mga palayan nito, at noong 2024, ito ang naging pinakamataong lungsod ng lalawigan. Halos bawat dakilang yugto ng kasaysayan ng bansa ay nag-iwan ng bakas dito.
+
+### 2. Para kanino isinulat ang aklat na ito
+
+Isinulat ang aklat para sa lahat. Matutuklasan ng mga taga-Biñan at ng mga Pilipino ang kasaysayan ng kanilang lungsod at makapagsasanay sila sa Ingles sa pamamagitan ng tekstong halos kilala na nila. Ang mga mambabasang hindi marunong ng Tagalog ay matututo o makapagpapahusay ng wika habang inaalam ang kasaysayan ng Pilipinas sa pamamagitan ng iisang lugar. Libre ang elektronikong edisyon; ang nakalimbag na edisyon ay ipinagbibili sa halaga lamang ng pagpapalimbag.
+
+### 3. Paano ito babasahin
+
+Dalawang beses isinasalaysay ang bawat kabanata. Nagsisimula ito sa Ingles. Kasunod nito ang parehong teksto sa Tagalog, sa ilalim ng pamagat na *Sa Tagalog*, na may parehong bilang ng mga bahagi, upang maihambing ang bawat bahaging Ingles sa kakambal nitong Tagalog. Nagbibigay ang mga kahong *Did you know? · Alam mo ba?* ng isang kawili-wiling kaalaman sa dalawang wika, at dalawang wika rin ang mga paliwanag sa ilalim ng mga mapa at larawan. Isang kasamang aklat, ang *Reading the Tagalog Text*, ang sumusuri sa tekstong Tagalog bahagi por bahagi: ipinaliliwanag nito ang talasalitaan, ang balarila at bawat pandiwa, kasama ang salin. Mababasa ng nag-aaral ng Tagalog ang isang bahagi sa Ingles, saka sa Tagalog, saka titingnan ang kasamang aklat; ang nag-aaral ng Ingles ay maaaring gumawa ng kabaligtaran. Sa dulo ng aklat, may kronolohiya, listahan ng mga alkalde, mga bilang ng senso, isang talahuluganang Ingles-Tagalog, ang listahan ng mga sanggunian at isang talatuntunan na tutulong sa mambabasa.
+
+### 4. Ang pangalan ng bayan
+
+Ang opisyal na pangalan ay **Biñan**, na may letrang Espanyol na *ñ*, na binibigkas na gaya ng *ñ* sa *Santo Niño*: *bi-NYAN*, na may diin sa huling pantig. Iba-iba ang baybay nito sa mga lumang dokumento: *Viñan* sa isang mapa ng 1734, *Biñang* sa mga mapang Espanyol ng ikalabingwalo at ikalabinsiyam na siglo, *Binan* na walang tilde sa mga ulat ng mga Amerikano, at *Biñán* na may tuldik sa mga tekstong Espanyol. Ginagamit ng aklat na ito ang opisyal na baybay maliban sa mga sipi. Isinasalaysay sa ikatlo at ikawalong kabanata kung saan nagmula ang pangalan.
+
+### 5. Mga sanggunian, at ang hindi pa natin alam
+
+Bawat kaalaman sa aklat na ito ay may pinagmulan, na binanggit sa isang talababa at nakalista sa dulo, ayon sa kabanata, kasama ang web address nito. Hangga’t maaari, mga dokumento ng panahong iyon ang mga sanggunian: mga batas, mga senso, mga ulat militar, mga salaysay ng mga manlalakbay at mga lumang mapa – at, para sa unang kalahati ng ikadalawampung siglo, ang mga kasaysayan ng bayan at ng mga baryo nito na isinulat ng mga guro mismo ng Biñan noong 1952–53, ang *Historical Data Papers*. Kapag hindi nagkakasundo ang mga sanggunian, o kapag tradisyon lamang ang batayan ng isang kuwento, sinasabi ito ng teksto (“ayon sa tradisyon ng bayan”, “ayon sa isang salaysay”). Marami pa ang hindi natin alam. Wala pang arkeologong humukay sa lupa ng Biñan. Kakaunti pa ang naisusulat tungkol sa bayan sa panahon ng batas militar, at karamihan sa mga alaala ng matatanda – tungkol sa Mahal na Araw, sa mga lumang talyer at sa lawa – ay hindi pa naitatala. Isang bukas na proyekto ang aklat: pampubliko ang teksto at mga sanggunian nito, at malugod na tinatanggap ang mga pagwawasto, dokumento at alaala ng mga taga-Biñan.
+
+### 6. Ang mga larawan
+
+Apat na uri ng larawan ang ginagamit ng aklat. Ang mga **dokumento** ay mga lumang mapa, guhit at litrato, na karamihan ay pampublikong pag-aari. Ang mga **mapa at tsart** ay iginuhit para sa aklat na ito mula sa mga pampublikong datos. Ang mga **litrato** ng Biñan ngayon ay may malayang lisensiya, at nakatala ang kredito nila sa dulo ng aklat; ilan ay naghihintay pa ng pahintulot ng may-ari. Ang mga **ilustrasyon** ay guhit-paglalarawan na ginawa sa tulong ng AI. Ipinakikita nila ang mga eksenang walang dokumentong nagtala, mula sa baybayin ng sinaunang laguna ng tubig-alat hanggang sa isang pulong ng mga gerilya, at laging may tatak ang mga ito bilang guhit-paglalarawan: hindi sila makasaysayang dokumento.

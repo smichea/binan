@@ -1,62 +1,74 @@
+"""Word version of the history, for editing and review (not for print).
+
+Joins the introduction, the history and the appendices into word/history.docx:
+headings, bold and italic text, pipe tables, and the sources as numbered
+references at the end. Run from the book/ folder:  python3 convert_md_to_docx.py
+"""
+
 import re
+from pathlib import Path
+
 from docx import Document
-from docx.shared import Pt
-from docx.enum.text import WD_BREAK
 
-# Function to convert Markdown file to Word document with footnotes and bold formatting
-def markdown_to_docx(md_filename, docx_filename):
-    # Read markdown content
-    with open(md_filename, 'r', encoding='utf-8') as file:
-        content = file.read()
+BOOK = Path(__file__).resolve().parent
+SOURCES = [BOOK / "raw_files" / name for name in ("introduction.md", "history.md", "appendices.md")]
+OUTPUT = BOOK / "word" / "history.docx"
 
-    # Find markdown links
-    link_pattern = re.compile(r'\[([^\]]+)\]\(([^)]+)\)')
-    links = link_pattern.findall(content)
+LINK = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+CITATION = re.compile(r"\s*\(\[([^\]]+)\]\(([^)]+)\)\)")
+INLINE = re.compile(r"(\*\*[^*]+\*\*|\*[^*]+\*)")
 
-    footnotes = []
 
-    # Replace markdown links with footnote indicators
-    def replace_links(match):
-        footnotes.append(match.group(2))
-        return f"{match.group(1)}[{len(footnotes)}]"
+def add_runs(paragraph, text):
+    """Write text with **bold** and *italic* runs."""
+    for part in INLINE.split(text):
+        if part.startswith("**") and part.endswith("**"):
+            paragraph.add_run(part[2:-2]).bold = True
+        elif part.startswith("*") and part.endswith("*") and len(part) > 2:
+            paragraph.add_run(part[1:-1]).italic = True
+        elif part:
+            paragraph.add_run(part)
 
-    content_with_footnotes = link_pattern.sub(replace_links, content)
 
-    # Create Word document
+def main():
+    references = []
+
+    def to_reference(match):
+        references.append(f"{match.group(1)} – {match.group(2)}")
+        return f" [{len(references)}]"
+
     doc = Document()
-
-    # Add content by paragraphs
-    paragraphs = content_with_footnotes.split('\n\n')
-    for para in paragraphs:
-        para = para.strip()
-        if para.startswith('# '):
-            doc.add_heading(para[2:], level=1)
-        elif para.startswith('## '):
-            doc.add_heading(para[3:], level=2)
-        elif para.startswith('### '):
-            doc.add_heading(para[4:], level=3)
-        else:
-            # Process bold formatting
-            para_parts = re.split(r'(\*\*[^*]+\*\*)', para)
-            doc_para = doc.add_paragraph()
-            for part in para_parts:
-                if part.startswith('**') and part.endswith('**'):
-                    doc_para.add_run(part[2:-2]).bold = True
-                else:
-                    doc_para.add_run(part)
-
-    # Add footnotes section
-    if footnotes:
+    for source in SOURCES:
+        text = source.read_text(encoding="utf-8")
+        text = CITATION.sub(to_reference, text)
+        text = LINK.sub(lambda m: m.group(1) + to_reference(m), text)
+        for block in text.split("\n\n"):
+            block = block.strip()
+            if not block:
+                continue
+            if block.startswith("#"):
+                level = len(block) - len(block.lstrip("#"))
+                doc.add_heading(block.lstrip("#").strip(), level=min(level, 4))
+            elif block.startswith("|"):
+                rows = [r for r in block.splitlines() if not re.match(r"^\|\s*:?-", r)]
+                cells = [[c.strip() for c in r.strip("|").split("|")] for r in rows]
+                table = doc.add_table(rows=len(cells), cols=max(len(r) for r in cells))
+                table.style = "Table Grid"
+                for i, row in enumerate(cells):
+                    for j, value in enumerate(row):
+                        cell = table.cell(i, j)
+                        cell.text = ""
+                        add_runs(cell.paragraphs[0], value)
+            else:
+                add_runs(doc.add_paragraph(), " ".join(block.splitlines()))
+    if references:
         doc.add_page_break()
-        doc.add_heading('References', level=2)
-        for idx, footnote in enumerate(footnotes, start=1):
-            doc.add_paragraph(f'[{idx}] {footnote}')
+        doc.add_heading("References", level=1)
+        for number, reference in enumerate(references, start=1):
+            doc.add_paragraph(f"[{number}] {reference}")
+    doc.save(OUTPUT)
+    print(f"wrote {OUTPUT.relative_to(BOOK.parent)}")
 
-    # Save document
-    doc.save(docx_filename)
 
-# Usage example
-md_filename = 'raw_files/history.md'
-docx_filename = 'word/history.docx'
-
-markdown_to_docx(md_filename, docx_filename)
+if __name__ == "__main__":
+    main()

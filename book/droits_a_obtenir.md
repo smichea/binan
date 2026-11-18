@@ -8,9 +8,10 @@ requested » dans leur légende. `python3 book/build_pdf.py --final` produit le 
 
 | Document | Page du livre | Détenteur des droits | Contact |
 |---|---|---|---|
-| Photo 6 : « Carabaos on the Manila South Road, looking toward Biñan », Robert L. Pendleton, 6 décembre 1934 (AGSL id 14222, négatif 409.11) | chapitre III | Board of Regents of the University of Wisconsin System, American Geographical Society Library (UW–Milwaukee) | agsl@uwm.edu, +1 414-229-6282 |
-
-| Photos du chapitre VI : pospas, Puto Biñan, danseurs de maglalatik, Puto Latik Festival, Araw ng Biñan la nuit (images du site touristique officiel, 719×408 px – demander aussi les fichiers en haute résolution) | chapitre VI | Ville de Biñan – Biñan City Culture, History, Arts and Tourism Office (BCHATO) | via experiencebinan.com et binan.gov.ph (bureau BCHATO, hôtel de ville) |
+| Photo : « Carabaos on the Manila South Road, looking toward Biñan », Robert L. Pendleton, 6 décembre 1934 (AGSL id 14222, négatif 409.11) | chapitre V | Board of Regents of the University of Wisconsin System, American Geographical Society Library (UW–Milwaukee) | agsl@uwm.edu, +1 414-229-6282 |
+| Photos du chapitre VIII : pospas, Puto Biñan, danseurs de maglalatik, Puto Latik Festival, Araw ng Biñan la nuit (images du site touristique officiel, 719×408 px – demander aussi les fichiers en haute résolution) | chapitre VIII | Ville de Biñan – Biñan City Culture, History, Arts and Tourism Office (BCHATO) | via experiencebinan.com et binan.gov.ph (bureau BCHATO, hôtel de ville) |
+| Photo : portrait de Rogelio Limaco (tableau signé « Cristobal ’99 »), galerie des maires du musée de la ville. La photo de Judgefloro est en CC0, mais le tableau lui-même est une œuvre récente : il faut l’accord du peintre ou du musée | chapitre VI | Ville de Biñan – BCHATO (musée, Sentrong Pangkultura ng Biñan) ; le peintre, s’il est identifié | BCHATO, via experiencebinan.com ou la mairie |
+| Photo : première page du rapport « History and Cultural Life of the Town of Biñan » (*Historical Data Papers*, 1952–53, scan NLP00NNHDBIL29001) | chapitre VIII | Document de l’État philippin (instituteurs publics) : sans droit d’auteur (IP Code, sect. 176), mais la numérisation appartient à la Bibliothèque nationale | National Library of the Philippines, Filipiniana Division (nlp.gov.ph) |
 
 Les photos de Pendleton entrent dans le domaine public le 1er janvier 2028 (négatifs inédits, photographe mort en 1957) : un livre publié en 2028 ou après pourra les utiliser sans autorisation.
 
@@ -40,7 +41,7 @@ Voir `book/archives_catalogue.md` et `book/archives_catalogue_2.md` : *Pictorial
 
 | Document | Licence | Auteur |
 |---|---|---|
-| Marché, étals de fruits, vendeuses de fleurs, messe à San Isidro (2013) | CC BY-SA 3.0 | Ramon FVelasquez, via Wikimedia Commons |
+| Marché, étals de fruits, vendeuses de fleurs, messe à San Isidro (2013) | CC BY-SA 3.0 | Ramon F. Velasquez, via Wikimedia Commons |
 | Laguna Technopark, hôtel de ville (2018) | CC0 | Judgefloro, via Wikimedia Commons |
 | Vue depuis l’Alberto Mansion, Sentrong Pangkultura (2023) | CC BY-SA 4.0 | Ralff Nestor Nacor, via Wikimedia Commons |
 
@@ -88,6 +89,23 @@ Aucune autorisation à demander pour ce chapitre. Pistes : photo « Former inter
 |---|---|---|
 | Biñan vue d'avion (2024) | CC BY-SA 4.0 | Patrickroque01, via Wikimedia Commons |
 | Cour intérieure de la maison Alberto (2023) | CC BY-SA 4.0 | Ralff Nestor Nacor, via Wikimedia Commons |
-| Graphique de population | données publiques | Recensements PSA |
+| Graphique de population | données publiques | Recensements NSO et PSA (tableau 1903–2007 de la NSO, via Internet Archive) |
 
 Aucune autorisation à demander. Aucune photo libre de Biñan des années 1950–1980 trouvée : pistes NARA (USIS), Filipinas Heritage Library (photo de l'hôtel de ville de 1955, droits à demander).
+
+## Partie II (chapitres VIII–XI) : crédits obligatoires
+
+| Document | Licence | Crédit |
+|---|---|---|
+| Kiosque Los Maduros (2023), Southwoods Mall (2024) | CC BY-SA 4.0 | Ralff Nestor Nacor, via Wikimedia Commons |
+| Église San Isidro (2021), gare PNR de Biñan (2023), route nationale à Santo Domingo (2023) | CC BY-SA 4.0 | Patrickroque01, via Wikimedia Commons |
+| Inauguration du train hybride du DOST (2019) | CC BY-SA 4.0 | JC John Sese Cuneta, via Wikimedia Commons |
+| Jeepney (2013), Pavilion Mall (2013) | CC BY-SA 3.0 | Ramon F. Velasquez, via Wikimedia Commons |
+| Bakya | CC BY-SA 2.0 | Joan Villarante-Kavianifar, via Wikimedia Commons |
+| Enclos à poissons sur la Laguna de Bay (Cardona, 2010) | CC BY 2.0 | Shubert Ciencia, via Wikimedia Commons |
+| Échangeur CALAX du Laguna Technopark (2024) | CC BY-SA 4.0 | LMP 2001, via Wikimedia Commons |
+| Barges et vapeurs sur le Pasig (vers 1917) | Domaine public | Henry S. Townsend |
+| Cartes des transports, de l’économie et de la terre | ODbL / CC BY-SA | © contributeurs OpenStreetMap ; Wikidata ; PSGC (faeldon) |
+
+Les photos du musée de la ville utilisées comme **sources** (plaques, certificats, galerie des maires : catégorie Commons « Mayors of Biñan ») sont de Judgefloro, en CC0 : elles ne sont pas reproduites dans le livre, sauf le portrait de Rogelio Limaco (voir plus haut).
+

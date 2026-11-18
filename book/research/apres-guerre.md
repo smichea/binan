@@ -2,6 +2,8 @@
 
 *Note pour le livre bilingue (anglais/tagalog) sur Biñan City, Laguna. Rédigée le 15/11/2026. Elle fait suite à `guerre.md` (1941–1946). Elle vérifie le chapitre « Post-War Reconstruction and Contemporary Era » de `book/raw_files/history.md` (lignes 241–271). Je n'ai rien modifié d'autre sous `/home/user/binan`.*
 
+> **Mise à jour du 16/11/2026.** Voir `hdp.md` et `sources_remplacement.md` : la date du 15 mai 1955 et le nom du maire pour l'ouverture de l'hôtel de ville ne sont pas confirmés (le livre écrit « In the 1950s ») ; Jesus M. Garcia a bien été maire de 1952 à 1959 ; l'église actuelle est achevée vers 1970–1972 (plaque Los Maduros de décembre 1972) ; Rogelio Limaco n'est pas un maire d'après-guerre mais le maire de 1941–1944, mort sous l'occupation ; le chiffre de 20 794 habitants en 1948 est confirmé par le tableau 1903–2007 de la NSO (Internet Archive, `PhilippinesCensusofPopulationLGUs19032007`).
+
 **Légende des niveaux de fiabilité** (même grille que `guerre.md`)
 - ✅ **Solide** : source primaire lue (loi, proclamation, décision de la Cour suprême, recensement PSA, page officielle), ou presse nationale concordante.
 - 🟡 **À nuancer** : source secondaire sérieuse non lue en entier, sources contradictoires, site municipal ou touristique cohérent mais sans document joint.
@@ -80,7 +82,7 @@
 - ✅/🟡 **Église.** Le clocher date de **1929** (`espagnol.md` 🟡). L'église est **remaniée et agrandie en 1953** (diocèse, via extrait 🟡).
 - ✅ **Huks.** Après les raids de Manille contre le Politburo du PKP (**18 octobre 1950**), les Huks multiplient « raids, holdups, kidnappings ». Greenberg : « **In Binan, Huks robbed the local bank of $76,000.** » (ch. VI, d'après le colonel Lapus, AFP). La date se situe entre le 18 oct. et le 25 nov. 1950 (massacre d'Aglao cité juste après) 🟡. Lansdale parlerait d'un hold-up du **Manila Railroad** (`guerre.md`, non vérifié 🔴). Formulation conseillée : « In late 1950, Huk guerrillas carried out a robbery in Biñan worth about $76,000 (U.S. Army history of the Huk insurrection). »
 - ✅ **Mateo Capinpin** meurt dans sa maison de Biñan le 28 déc. 1958 (voir `guerre.md`).
-- 🟡 **Terres.** Les terres de l'ancienne hacienda dominicaine (« Biñan Estate », vendue aux occupants après 1903–1908, voir `americain.md`) restent la trame cadastrale : les proclamations de 1997 citent encore les « Lots 2717, 2718… Biñan Estate ». En 1953, le *Director of Lands* attribue un lot à la **Biñan Development Co., Inc.** (demande de 1951 ; source : copie non officielle d'une décision, 🔴 à vérifier). Aucun conflit de métayage spécifique à Biñan trouvé.
+- 🟡 **Terres.** Les terres de l'ancienne hacienda dominicaine (« Biñan Estate », vendue aux occupants après 1903–1908, voir `americain.md`) restent la trame cadastrale : les proclamations de 1997 citent encore les « Lots 2717, 2718… Biñan Estate ». ~~En 1953, le *Director of Lands* attribue un lot à la **Biñan Development Co., Inc.**~~ **Erreur corrigée** : selon *Ayog v. Cusi* (1982), ce lot (n° 281) se trouve à **Davao City**, pas à Biñan ; voir `foncier.md`. Les conflits de métayage documentés à Biñan (Loma, Langkiwa, Timbao) sont détaillés dans `foncier.md`.
 - 🟡 **Population** : 1948 : 20 794 ; 1960 : 33 309 (+60 % en 12 ans).
 
 ### 2.2 Croissance et loi martiale (1960–1986)

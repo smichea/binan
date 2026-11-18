@@ -165,6 +165,24 @@ class Map:
             f'<line x1="{x1:.2f}" y1="{y1:.2f}" x2="{x2:.2f}" y2="{y2:.2f}" '
             f'stroke="{color}" stroke-width="0.25"/>')
 
+    def line(self, coords, color=INK, width=0.6, dash=None, opacity=1.0, cap="round"):
+        """A polyline through (lon, lat) points."""
+        pts = [self.xy(lon, lat) for lon, lat in coords]
+        if len(pts) < 2:
+            return
+        d = "M" + " L".join(f"{x:.2f},{y:.2f}" for x, y in pts)
+        dash_attr = f' stroke-dasharray="{dash}"' if dash else ""
+        self.items.append(
+            f'<path d="{d}" fill="none" stroke="{color}" stroke-width="{width}" '
+            f'stroke-linecap="{cap}" stroke-linejoin="round" opacity="{opacity}"{dash_attr}/>')
+
+    def circle(self, lon, lat, r_mm, fill="none", stroke=INK, width=0.3, opacity=1.0, dash=None):
+        x, y = self.xy(lon, lat)
+        dash_attr = f' stroke-dasharray="{dash}"' if dash else ""
+        self.items.append(
+            f'<circle cx="{x:.2f}" cy="{y:.2f}" r="{r_mm:.2f}" fill="{fill}" fill-opacity="{opacity}" '
+            f'stroke="{stroke}" stroke-width="{width}"{dash_attr}/>')
+
     def raw(self, svg):
         self.items.append(svg)
 
@@ -587,7 +605,7 @@ def chart_climate():
 
 def chart_population():
     """Census population of Biñan, 1903–2024 (PSA)."""
-    data = [(1903, 9563), (1939, 16238), (1948, 20794), (1960, 33309),
+    data = [(1903, 9563), (1918, 10692), (1939, 16238), (1948, 20794), (1960, 33309),
             (1970, 58290), (1975, 67444), (1980, 83684), (1990, 134553), (1995, 160206),
             (2000, 201186), (2007, 262735), (2010, 283396), (2015, 333028), (2020, 407437),
             (2024, 584479)]
@@ -624,6 +642,273 @@ def chart_population():
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}mm" height="{H}mm" viewBox="0 0 {W} {H}">'
         + "".join(items) + "</svg>\n", encoding="utf-8")
     print("wrote book/layout/maps/population.svg")
+
+
+# --------------------------------------------------------------------------
+# Part II: transport, economy, land
+# --------------------------------------------------------------------------
+
+def osm_lines(road):
+    """Road and railway lines from OpenStreetMap (ODbL), saved in data/osm_transport.geojson."""
+    data = json.load(open(DATA / "osm_transport.geojson"))
+    for feature in data["features"]:
+        if feature["properties"]["road"] != road:
+            continue
+        geom = feature["geometry"]
+        if geom["type"] == "LineString":
+            yield geom["coordinates"]
+        else:
+            yield from geom["coordinates"]
+
+
+def lines_geom(road):
+    from shapely.geometry import MultiLineString
+    return MultiLineString([LineString(c) for c in osm_lines(road) if len(c) > 1])
+
+
+# Shore of Biñan (from the city boundary, simplified) and a schematic course for
+# the planned Laguna Lakeshore Road Network, a little offshore.
+LLRN = [(121.070, 14.384), (121.0790, 14.3690), (121.0840, 14.3625), (121.0930, 14.3580),
+        (121.0955, 14.3535), (121.0975, 14.3495), (121.0980, 14.3433), (121.1010, 14.3402),
+        (121.1050, 14.3360), (121.1110, 14.3270), (121.1180, 14.3150), (121.1260, 14.3020)]
+
+
+def map_transport(munis, bgys):
+    """Roads, expressways, railway and the lake around Biñan."""
+    m = Map(121.000, 14.245, 121.135, 14.388)
+    for name, info in munis.items():
+        m.shape(info["geom"], LAND, stroke=RULE, width=0.2)
+    m.shape(munis["Biñan"]["geom"], LAND_ALT, stroke=ACCENT, width=0.55)
+    m.shape(bgys["Poblacion"], ACCENT, stroke=PAPER, width=0.25)
+
+    road_red = "#b4533a"
+    for coords in osm_lines("N65"):
+        m.line(coords, PAPER, 1.5)
+        m.line(coords, road_red, 0.8)
+    for coords in osm_lines("N1"):
+        m.line(coords, PAPER, 1.7)
+        m.line(coords, road_red, 1.0)
+    for road in ("SLEX", "CALAX"):
+        for coords in osm_lines(road):
+            m.line(coords, INK, 1.9)
+            m.line(coords, GOLD, 0.9)
+    for coords in osm_lines("NSCR"):
+        m.line(coords, INK, 1.0)
+        m.line(coords, PAPER, 0.5, dash="1.3,1.3", cap="butt")
+    m.line(LLRN, ACCENT, 0.8, dash="2,1.2")
+
+    slex, calax, n65 = lines_geom("SLEX"), lines_geom("CALAX"), lines_geom("N65")
+
+    def on_slex(lon, lat):
+        from shapely.ops import nearest_points
+        point = nearest_points(slex, Point(lon, lat))[0]
+        return point.x, point.y
+
+    def crossing(a, b, near):
+        hit = a.intersection(b)
+        points = [hit] if hit.geom_type == "Point" else list(getattr(hit, "geoms", []))
+        points = [p for p in points if p.geom_type == "Point"] or [Point(*on_slex(*near))]
+        best = min(points, key=lambda p: p.distance(Point(*near)))
+        return best.x, best.y
+
+    exits = [("31 Southwoods", on_slex(121.0503, 14.3314), "end", -2.0, 0.6),
+             ("33 Carmona (Cavite)", crossing(slex, n65, (121.0600, 14.3200)), "end", -2.0, 0.6),
+             ("36 Mamplasan", crossing(slex, calax, (121.0790, 14.2925)), "start", 2.0, 1.2)]
+    for label, (lon, lat), anchor, dx, dy in exits:
+        m.dot(lon, lat, r=1.0, fill=PAPER, stroke=INK)
+        m.text(lon, lat, label, size=2.4, anchor=anchor, dx=dx, dy=dy, weight=600)
+
+    # Stations (Wikidata coordinates)
+    for label, lon, lat, anchor, dx, dy in [
+            ("Biñan station\n(closed 2023; NSCR c. 2028)", 121.081181, 14.3314, "start", 1.8, 2.6),
+            ("Golden City 1", 121.063686, 14.332878, "start", 1.8, -1.2),
+            ("San Pedro", 121.055278, 14.361667, "end", -1.8, 0.8),
+            ("Santa Rosa", 121.1098, 14.3061, "start", 1.8, 0.8)]:
+        x, y = m.xy(lon, lat)
+        m.raw(f'<rect x="{x - 1.1:.2f}" y="{y - 1.1:.2f}" width="2.2" height="2.2" fill="{PAPER}" '
+              f'stroke="{INK}" stroke-width="0.4"/>')
+        m.text(lon, lat, label, size=2.3, anchor=anchor, dx=dx, dy=dy, italic=True)
+
+    m.text(121.0843, 14.3384, "POBLACION", size=2.3, weight=700, color=ACCENT, anchor="start",
+           dx=2.0, dy=-1.6, spacing=0.2)
+    for label, lon, lat in [("SAN PEDRO", 121.028, 14.378), ("SANTA ROSA", 121.092, 14.262),
+                            ("CARMONA", 121.020, 14.318), ("BIÑAN", 121.074, 14.300)]:
+        m.text(lon, lat, label, size=3.0 if label == "BIÑAN" else 2.6,
+               color=ACCENT if label == "BIÑAN" else MUTED, weight=700 if label == "BIÑAN" else 400,
+               spacing=0.3)
+    m.text(121.118, 14.366, "Laguna de Bay", size=3.8, italic=True, color=WATER_INK, halo=False)
+    m.text(121.1035, 14.352, "lakeshore road\n(planned)", size=2.2, italic=True, color=ACCENT,
+           anchor="start", dx=1.5)
+    m.text(121.0620, 14.2790, "CALAX", size=2.4, weight=600, color=INK, anchor="start", dx=1.5)
+    m.text(121.064, 14.360, "SLEX", size=2.4, weight=600, color=INK)
+    m.text(121.093, 14.322, "N1", size=2.4, weight=600, color=road_red, anchor="start", dx=1.2)
+    m.text(121.0705, 14.3285, "N65", size=2.2, weight=600, color=road_red)
+
+    lx, ly = m.width - 61, m.height - 33
+    m.raw(f'<g font-family="{FONT}" font-size="2.5" fill="{INK}">'
+          f'<rect x="{lx}" y="{ly}" width="57" height="29" fill="{PAPER}" stroke="{RULE}" stroke-width="0.3"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 4}" x2="{lx + 8}" y2="{ly + 4}" stroke="{INK}" stroke-width="1.9"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 4}" x2="{lx + 8}" y2="{ly + 4}" stroke="{GOLD}" stroke-width="0.9"/>'
+          f'<text x="{lx + 10}" y="{ly + 4.9}">Expressway, with exit number</text>'
+          f'<line x1="{lx + 2}" y1="{ly + 9}" x2="{lx + 8}" y2="{ly + 9}" stroke="{road_red}" stroke-width="1.0"/>'
+          f'<text x="{lx + 10}" y="{ly + 9.9}">National road (N1, N65)</text>'
+          f'<line x1="{lx + 2}" y1="{ly + 14}" x2="{lx + 8}" y2="{ly + 14}" stroke="{INK}" stroke-width="1.0"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 14}" x2="{lx + 8}" y2="{ly + 14}" stroke="{PAPER}" stroke-width="0.5" stroke-dasharray="1.3,1.3"/>'
+          f'<text x="{lx + 10}" y="{ly + 14.9}">Railway (rebuilt as the NSCR)</text>'
+          f'<rect x="{lx + 3.9}" y="{ly + 17.9}" width="2.2" height="2.2" fill="{PAPER}" stroke="{INK}" stroke-width="0.4"/>'
+          f'<text x="{lx + 10}" y="{ly + 19.9}">Railway station</text>'
+          f'<line x1="{lx + 2}" y1="{ly + 24}" x2="{lx + 8}" y2="{ly + 24}" stroke="{ACCENT}" stroke-width="0.8" stroke-dasharray="2,1.2"/>'
+          f'<text x="{lx + 10}" y="{ly + 24.9}">Lakeshore road (planned, schematic)</text></g>')
+    m.scale_bar(2, x=4, y=m.height - 5)
+    m.north_arrow()
+    m.save("transport")
+
+
+ECONOMY = {
+    "industrial": ["Biñan", "Loma", "Malamig", "Mampalasan", "Ganado"],
+    "centre": ["Poblacion", "San Vicente", "Santo Domingo", "San Jose", "Casile"],
+    "lake": ["Malaban", "De La Paz"],
+    "farm": ["Bungahan", "Langkiwa", "Platero", "Santo Tomas", "Timbao"],
+}
+
+
+def map_economy(bgys, munis):
+    """Where Biñan makes a living: industry, trade, the last farms and the lake."""
+    city = munis["Biñan"]["geom"]
+    w, s, e, n = city.bounds
+    m = Map(w - 0.006, s - 0.006, e + 0.035, n + 0.006, height=150)
+    m.raw(hatch_pattern("h-farm", "#6f8a4a", spacing=1.2, width=0.35))
+    for name, info in munis.items():
+        m.shape(info["geom"], LAND, stroke=RULE, width=0.2)
+    fills = {"industrial": "#c9b48e", "centre": "#d9a79b", "lake": "#b9d0d1"}
+    for name, geom in bgys.items():
+        fill = LAND_ALT
+        for kind, names in ECONOMY.items():
+            if name in names and kind in fills:
+                fill = fills[kind]
+        m.shape(geom, fill, stroke=PAPER, width=0.4)
+    for name in ECONOMY["farm"]:
+        m.shape(bgys[name], "url(#h-farm)", stroke="none")
+    m.shape(city, "none", stroke=INK, width=0.5)
+    # Fish pens and cages offshore: their exact place is not mapped here (the LLDA
+    # zoning map was not available), so a symbol marks the waters off Malaban.
+    for dlon, dlat in [(0, 0), (0.0035, 0.0012), (0.0016, -0.0026), (0.0052, -0.0016), (0.0030, 0.0040)]:
+        x, y = m.xy(121.1040 + dlon, 14.3560 + dlat)
+        m.raw(f'<rect x="{x - 1.3:.2f}" y="{y - 1.3:.2f}" width="2.6" height="2.6" fill="none" '
+              f'stroke="{WATER_INK}" stroke-width="0.35"/>')
+    m.text(121.1065, 14.3500, "fish pens and cages\n(offshore)", size=2.3, italic=True,
+           color=WATER_INK, halo=False)
+
+    def marker(lon, lat, symbol, label, anchor="start", dx=1.8, dy=0.9, size=2.4, color=INK):
+        x, y = m.xy(lon, lat)
+        if symbol == "mall":
+            m.raw(f'<rect x="{x - 1.2:.2f}" y="{y - 1.2:.2f}" width="2.4" height="2.4" fill="{ACCENT}" '
+                  f'stroke="{PAPER}" stroke-width="0.4"/>')
+        elif symbol == "market":
+            m.raw(f'<circle cx="{x:.2f}" cy="{y:.2f}" r="1.4" fill="{ACCENT}" stroke="{PAPER}" stroke-width="0.4"/>')
+        elif symbol == "pig":
+            m.raw(f'<path d="M{x - 1.1:.2f},{y - 1.1:.2f} L{x + 1.1:.2f},{y + 1.1:.2f} M{x + 1.1:.2f},{y - 1.1:.2f} '
+                  f'L{x - 1.1:.2f},{y + 1.1:.2f}" stroke="{INK}" stroke-width="0.6"/>')
+        elif symbol == "dam":
+            m.raw(f'<path d="M{x - 1.4:.2f},{y + 1:.2f} L{x:.2f},{y - 1.2:.2f} L{x + 1.4:.2f},{y + 1:.2f} Z" '
+                  f'fill="#6f8a4a" stroke="{PAPER}" stroke-width="0.3"/>')
+        elif symbol == "office":
+            m.raw(f'<rect x="{x - 1:.2f}" y="{y - 1:.2f}" width="2" height="2" fill="{PAPER}" '
+                  f'stroke="{ACCENT}" stroke-width="0.5"/>')
+        m.text(lon, lat, label, size=size, anchor=anchor, dx=dx, dy=dy, color=color)
+
+    marker(121.0847, 14.3380, "market", "Public market", dx=2.0)
+    marker(121.0896, 14.3288, "mall", "Pavilion Mall (1999)")
+    marker(121.0821, 14.3323, "mall", "Central Mall (2011)", anchor="end", dx=-2.0)
+    marker(121.0505, 14.3315, "mall", "Southwoods Mall\nand offices (2017)", anchor="end", dx=-2.0)
+    marker(121.0870, 14.3246, "office", "One Asia IT Park")
+    marker(121.0794, 14.3088, "office", "Unilab pharma campus", anchor="end", dx=-2.0)
+    marker(121.0610, 14.2972, "pig", "hog farm\n(closed 2025)", anchor="end", dx=-1.8, size=2.2)
+    marker(121.0723, 14.3142, "pig", "hog farm\n(closed 2025)", anchor="start", dx=1.8, size=2.2)
+    marker(121.0449, 14.2780, "dam", "Timbao dam\n(irrigation)", anchor="end", dx=-2.0, size=2.2)
+    m.text(121.0565, 14.2700, "LAGUNA\nTECHNOPARK", size=2.6, weight=700, color=INK, spacing=0.2)
+    m.text(121.0790, 14.2880, "LIIP", size=2.6, weight=700, color=INK, spacing=0.2)
+    for key, label in [("Santa Rosa", "SANTA ROSA"), ("San Pedro", "SAN PEDRO"), ("Carmona", "CARMONA")]:
+        geom = munis[key]["geom"].intersection(m.clip)
+        if not geom.is_empty:
+            m.text(*centre(geom), label, size=2.6, color=MUTED, spacing=0.3)
+    m.text(121.118, 14.372, "Laguna de Bay", size=3.4, italic=True, color=WATER_INK, halo=False)
+
+    lx, ly = m.width - 58, m.height - 37
+    m.raw(f'<g font-family="{FONT}" font-size="2.5" fill="{INK}">'
+          f'<rect x="{lx}" y="{ly}" width="55" height="34" fill="{PAPER}" stroke="{RULE}" stroke-width="0.3"/>'
+          f'<rect x="{lx + 2}" y="{ly + 2.5}" width="4" height="2.6" fill="#c9b48e"/>'
+          f'<text x="{lx + 8}" y="{ly + 4.8}">Industrial parks (Technopark, LIIP)</text>'
+          f'<rect x="{lx + 2}" y="{ly + 7.5}" width="4" height="2.6" fill="#d9a79b"/>'
+          f'<text x="{lx + 8}" y="{ly + 9.8}">Old town centre: market and shops</text>'
+          f'<rect x="{lx + 2}" y="{ly + 12.5}" width="4" height="2.6" fill="#b9d0d1"/>'
+          f'<text x="{lx + 8}" y="{ly + 14.8}">Lakeshore barangays: fishing</text>'
+          f'<rect x="{lx + 2}" y="{ly + 17.5}" width="4" height="2.6" fill="url(#h-farm)" stroke="#6f8a4a" stroke-width="0.2"/>'
+          f'<text x="{lx + 8}" y="{ly + 19.8}">Barangays with remaining farmland</text>'
+          f'<rect x="{lx + 2}" y="{ly + 22.5}" width="4" height="2.6" fill="{LAND_ALT}"/>'
+          f'<text x="{lx + 8}" y="{ly + 24.8}">Mostly residential</text>'
+          f'<rect x="{lx + 2.8}" y="{ly + 27.6}" width="2.4" height="2.4" fill="{ACCENT}"/>'
+          f'<text x="{lx + 8}" y="{ly + 29.8}">Mall · circle: public market</text></g>')
+    m.scale_bar(1, x=4, y=m.height - 5)
+    m.north_arrow(x=7, y=8)
+    m.save("economy")
+
+
+# Largest documented landholdings (book/research/foncier.md): number, label,
+# hectares (in Biñan where known), approximate position, colour.
+HOLDINGS = [
+    (1, "Laguna Technopark (Ayala Land), c. 240 ha in Biñan", 240, 121.0560, 14.2730, ACCENT),
+    (2, "Southwoods City (Megaworld), 561 ha with Carmona", 561, 121.0420, 14.3290, ACCENT),
+    (3, "Broadfield (Ayala Land), c. 120 ha", 120, 121.0490, 14.2618, ACCENT),
+    (4, "Laguna Int. Industrial Park (Samsung, Solid), c. 117 ha", 117, 121.0790, 14.2880, ACCENT),
+    (5, "Brentville (Filinvest), c. 53 ha", 53, 121.0880, 14.2985, ACCENT),
+    (6, "De La Salle University campus, 50 ha", 50, 121.0428, 14.2609, GOLD),
+    (7, "Meadowcrest (Federal Land), 48 ha", 48, 121.0450, 14.2740, ACCENT),
+    (8, "Gonzalo Puyat &amp; Sons, 43.7 ha (court case 1998–2012)", 43.7, 121.0590, 14.2900, MUTED),
+    (9, "Loma lots, c. 37 ha (tenants upheld, 2000)", 37, 121.0691, 14.2846, MUTED),
+    (10, "Sevina Park (ArthaLand), 8.1 ha", 8.1, 121.0455, 14.2575, ACCENT),
+]
+
+
+def map_land(bgys, munis):
+    """Who owns the land: the largest documented holdings, to scale, at approximate places."""
+    city = munis["Biñan"]["geom"]
+    w, s, e, n = city.bounds
+    m = Map(w - 0.012, s - 0.006, e + 0.012, n + 0.006, height=150)
+    m.raw(hatch_pattern("h-state", WATER_INK, spacing=1.0, width=0.3))
+    for name, info in munis.items():
+        m.shape(info["geom"], LAND, stroke=RULE, width=0.2)
+    for name, geom in bgys.items():
+        m.shape(geom, LAND_ALT, stroke=PAPER, width=0.4)
+    m.shape(city, "none", stroke=INK, width=0.5)
+    # Public land: the lake bed (at or below 12.5 m on the lake gauge) along the shore,
+    # drawn as a schematic strip, and the railway right of way.
+    shore = city.boundary.intersection(unary_union([bgys["Malaban"], bgys["De La Paz"]]).buffer(0.0005))
+    strip = shore.buffer(0.0018).intersection(city.buffer(0.0002))
+    m.shape(strip, "url(#h-state)", stroke=WATER_INK, width=0.25)
+    for coords in osm_lines("NSCR"):
+        m.line(coords, WATER_INK, 1.0)
+        m.line(coords, PAPER, 0.45, dash="1.3,1.3", cap="butt")
+    x, y = m.xy(121.0610, 14.2985)
+    m.raw(f'<rect x="{x - 1.1:.2f}" y="{y - 1.1:.2f}" width="2.2" height="2.2" fill="{WATER_INK}" '
+          f'stroke="{PAPER}" stroke-width="0.3"/>')
+    m.text(121.0610, 14.2985, "The Meadows (rail\nrelocation, 2026)", size=2.2, anchor="end", dx=-1.8,
+           dy=0.8, italic=True, color=WATER_INK)
+    for number, label, hectares, lon, lat, color in HOLDINGS:
+        radius_km = math.sqrt(hectares / 100 / math.pi)
+        r = m.km(radius_km)
+        dash = "1.2,0.8" if number == 2 else None
+        m.circle(lon, lat, r, fill=color, stroke=color, width=0.4, opacity=0.28, dash=dash)
+        m.text(lon, lat, str(number), size=2.6, weight=700, color=INK, dy=0.9)
+    m.text(121.0880, 14.3470, "lake bed\n(public land)", size=2.3, italic=True, color=WATER_INK,
+           anchor="end", dx=-1.0)
+    for key, label in [("Santa Rosa", "SANTA ROSA"), ("San Pedro", "SAN PEDRO"), ("Carmona", "CARMONA")]:
+        geom = munis[key]["geom"].intersection(m.clip)
+        if not geom.is_empty:
+            m.text(*centre(geom), label, size=2.6, color=MUTED, spacing=0.3)
+    m.scale_bar(1, x=m.width - 22, y=m.height - 5)
+    m.north_arrow()
+    m.save("land")
 
 
 # --------------------------------------------------------------------------
@@ -818,6 +1103,9 @@ if __name__ == "__main__":
     map_westbay(munis)
     chart_climate()
     chart_population()
+    map_transport(munis, bgys)
+    map_economy(bgys, munis)
+    map_land(bgys, munis)
     map_migrations()
     map_prehistoric_sites(munis)
     map_polities(munis)
