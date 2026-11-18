@@ -1472,7 +1472,18 @@ h1.appendix::before { content: "Apendise " counter(appendix, upper-alpha); }""",
 }
 
 
-def page_html(doc, front, body, back, body_class):
+def title_page(doc):
+    """The first page of the printed interior (the cover is printed apart)."""
+    return f"""
+<section class="title-page">
+  <p class="tp-kicker">{doc['kicker']}</p>
+  <h1 class="tp-title">{doc['title']}</h1>
+  <p class="tp-subtitle">{doc['subtitle']}</p>
+  <p class="tp-tagline">{doc['tagline']}</p>
+</section>"""
+
+
+def page_html(doc, front, body, back, body_class, printing=False):
     style = EDITION_CSS.get(LANG["code"], "") if body_class == "history" else ""
     return f"""<!doctype html>
 <html lang="{LANG['code']}"><head><meta charset="utf-8">
@@ -1480,17 +1491,20 @@ def page_html(doc, front, body, back, body_class):
 <link rel="stylesheet" href="book.css">
 <style>{style}</style>
 </head><body class="{body_class}">
-{cover(doc)}
+{title_page(doc) if printing else cover(doc)}
 {colophon(doc) if body_class == "history" else ""}
 {table_of_contents(front + body + back)}
 <div class="front-matter">{front}</div>
 <main>{body}</main>
 <div class="back-matter">{back}</div>
-{back_cover(doc)}
+{"" if printing else back_cover(doc)}
 </body></html>"""
 
 
-def build(doc):
+def build(doc, printing=False):
+    """Write the PDF of one document. printing=True writes, for a printer, the
+    interior (title page instead of the cover, even number of pages) and the
+    cover as one spread: back, spine and front, with bleed."""
     LANG["code"] = doc.get("lang", "en")
     markdown = doc["source"].read_text(encoding="utf-8")
     if doc["kind"] != "history":
@@ -1519,7 +1533,7 @@ def build(doc):
     front, body = indexed.split("<!--MAIN-->")
     back = (appendices + sources_section() + credits_section(doc)
             + figures_section(body) + index_shell())
-    page = page_html(doc, front, body, back, "history")
+    page = page_html(doc, front, body, back, "history", printing)
     base = str(LAYOUT) + "/"
     if anchors:
         first = HTML(string=page.replace(INDEX_PLACEHOLDER, ""), base_url=base).render()
@@ -1529,10 +1543,68 @@ def build(doc):
                 if anchor.startswith("ix"):
                     pages.setdefault(anchor, number)
         page = page.replace(INDEX_PLACEHOLDER, index_section(anchors, pages))
-    HTML(string=page, base_url=base).write_pdf(doc["output"])
-    print(f"wrote {doc['output'].relative_to(BOOK.parent)}")
+    if not printing:
+        HTML(string=page, base_url=base).write_pdf(doc["output"])
+        print(f"wrote {doc['output'].relative_to(BOOK.parent)}")
+        return
+    PRINT_DIR.mkdir(exist_ok=True)
+    stem = doc["output"].stem
+    interior = HTML(string=page, base_url=base).render()
+    count = len(interior.pages)
+    path = PRINT_DIR / f"{stem}_interior.pdf"
+    interior.write_pdf(path)
+    if count % 2:  # a bound book has an even number of pages
+        from pypdf import PdfReader, PdfWriter
+        writer = PdfWriter(clone_from=PdfReader(path))
+        writer.add_blank_page()
+        writer.write(path)
+        count += 1
+    print(f"wrote {path.relative_to(BOOK.parent)} ({count} pages)")
+    spine = round(count / 2 * PAPER_MM + 0.5, 1)
+    path = PRINT_DIR / f"{stem}_cover.pdf"
+    HTML(string=cover_spread(doc, spine), base_url=base).write_pdf(path)
+    print(f"wrote {path.relative_to(BOOK.parent)} (spine {spine} mm, bleed {BLEED_MM} mm)")
+
+
+# Printing: the files for a printer go to book/word/print. The spine width
+# follows the page count; PAPER_MM is the thickness of one sheet (80 g/m²
+# offset paper: about 0.1 mm) -- ask the printer for the real value.
+PRINT_DIR = BOOK / "word" / "print"
+PAPER_MM = 0.1
+BLEED_MM = 3
+
+
+def cover_spread(doc, spine):
+    """The printed cover: back cover, spine and front cover on one sheet."""
+    width = 2 * 152.4 + spine + 2 * BLEED_MM
+    height = 228.6 + 2 * BLEED_MM
+    spine_text = f"{doc['title']} · {doc['kicker']}"
+    return f"""<!doctype html>
+<html lang="{LANG['code']}"><head><meta charset="utf-8"><title>{doc['title']} – cover</title>
+<link rel="stylesheet" href="book.css">
+<style>
+@page {{ size: {width}mm {height}mm; margin: 0; @top-left {{ content: none; }} @top-right {{ content: none; }} }}
+body {{ margin: 0; }}
+.spread {{ position: relative; width: {width}mm; height: {height}mm; background: var(--accent); }}
+.panel {{ position: absolute; top: {BLEED_MM}mm; width: 6in; height: 9in; }}
+.panel .cover, .panel .back-cover {{ page: auto; break-before: auto; break-after: auto; }}
+.spine {{ position: absolute; top: {BLEED_MM}mm; left: {BLEED_MM + 152.4}mm; width: {spine}mm; height: 9in; }}
+.spine p {{ position: absolute; left: 50%; top: 50%; width: 8in; margin: 0; text-align: center;
+           transform: translate(-50%, -50%) rotate(90deg); color: var(--gold);
+           font-family: "Cormorant Garamond"; font-weight: 600; font-size: {min(11, spine * 1.6):.1f}pt;
+           letter-spacing: 0.08em; white-space: nowrap; }}
+</style></head><body class="history">
+<div class="spread">
+  <div class="panel" style="left: {BLEED_MM}mm">{back_cover(doc)}</div>
+  <div class="spine"><p>{spine_text}</p></div>
+  <div class="panel" style="left: {BLEED_MM + 152.4 + spine}mm">{cover(doc)}</div>
+</div>
+</body></html>"""
 
 
 if __name__ == "__main__":
-    for document in DOCUMENTS:
-        build(document)
+    if "--print" in sys.argv:  # print files of the English edition
+        build(DOCUMENTS[0], printing=True)
+    else:
+        for document in DOCUMENTS:
+            build(document)

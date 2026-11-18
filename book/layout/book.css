@@ -264,3 +264,12 @@ ul.bib a { color: var(--muted); word-break: break-all; }
 ul.index { list-style: none; padding: 0; margin: 0; columns: 2; column-gap: 6mm; font-size: 8.3pt; line-height: 1.28; }
 ul.index li { break-inside: avoid; padding-left: 3mm; text-indent: -3mm; margin-bottom: 0.5mm; text-align: left; }
 .glossary td:first-child { font-weight: 600; white-space: nowrap; }
+
+/* ---------- Title page of the printed interior ---------- */
+
+.title-page { page: front; break-after: page; text-align: center; padding-top: 45mm; }
+.tp-kicker { text-align: center; font-variant: small-caps; letter-spacing: 0.18em; font-size: 10pt; color: var(--gold); }
+.tp-title { font-family: "Cormorant Garamond"; font-weight: 600; font-size: 30pt; line-height: 1.1;
+            color: var(--accent); margin: 8mm 0 4mm; }
+.tp-subtitle { text-align: center; font-family: "Cormorant Garamond"; font-style: italic; font-size: 15pt; color: var(--muted); }
+.tp-tagline { text-align: center; font-style: italic; margin-top: 30mm; }
