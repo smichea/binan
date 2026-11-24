@@ -5,7 +5,7 @@ Explanation of tagalog text for english only speakers
 ---
 ## Introduction / Panimula
 
-This companion follows the Tagalog text of the *History of Biñan City* section by section. For each numbered section, it quotes the first Tagalog sentence, lists the new words with their roots, explains one or two points of grammar and gives a translation. At the end of each chapter, a table lists the verbs with their root, aspect and focus. Read a section in the book, then here, then read the Tagalog again aloud.
+This companion follows the Tagalog edition of the book, *Kasaysayan ng Lungsod ng Biñan*, section by section; the English edition, *History of Biñan City*, has the same numbered sections. For each numbered section, it quotes the first Tagalog sentence, lists the new words with their roots, explains one or two points of grammar and gives a translation. At the end of each chapter, a table lists the verbs with their root, aspect and focus. Read a section in the book, then here, then read the Tagalog again aloud.
 
 ### Tagalog grammar in one page
 

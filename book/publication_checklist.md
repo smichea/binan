@@ -1,6 +1,6 @@
 # Avant publication : liste de contrôle
 
-Objectif : une édition électronique gratuite (PDF, éventuellement EPUB) et une édition papier vendue à prix coûtant. État au 16 novembre 2026 : livre de 222 pages et compagnon de 120 pages, en brouillon.
+Objectif : une édition électronique gratuite (PDF, éventuellement EPUB) et une édition papier vendue à prix coûtant. État au 16 novembre 2026 : deux éditions du livre (anglaise, 160 pages ; tagalog, 167 pages) et compagnon de 120 pages, en brouillon. Les cartes gardent pour l'instant leurs légendes en anglais dans l'édition tagalog.
 
 ## 1. Le texte
 

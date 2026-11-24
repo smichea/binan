@@ -224,6 +224,13 @@ def centre(geom):
     return p.x, p.y
 
 
+def dot_pattern(pid, color, spacing=1.3, radius=0.28):
+    """Dots: a fill that stays distinct from hatching when printed in black and white."""
+    return (f'<defs><pattern id="{pid}" patternUnits="userSpaceOnUse" width="{spacing}" '
+            f'height="{spacing}"><circle cx="{spacing / 2}" cy="{spacing / 2}" r="{radius}" '
+            f'fill="{color}"/></pattern></defs>')
+
+
 def hatch_pattern(pid, color, spacing=1.6, angle=45, width=0.3):
     return (f'<defs><pattern id="{pid}" patternUnits="userSpaceOnUse" width="{spacing}" '
             f'height="{spacing}" patternTransform="rotate({angle})">'
@@ -471,7 +478,9 @@ def map_tectonics():
     for props, geom in lines_of("gem_active_faults_philippines.geojson"):
         is_wvf = props.get("name") == "West Valley Fault"
         m.raw(f'<path d="{line_path(m, geom)}" fill="none" stroke="{ACCENT if is_wvf else MUTED}" '
-              f'stroke-width="{0.9 if is_wvf else 0.3}" opacity="{1 if is_wvf else 0.8}"/>')
+              f'stroke-width="{1.6 if is_wvf else 0.3}" opacity="{1 if is_wvf else 0.8}"/>')
+        if is_wvf:  # a double line: still distinct when printed in black and white
+            m.raw(f'<path d="{line_path(m, geom)}" fill="none" stroke="{PAPER}" stroke-width="0.5"/>')
     for props, geom in lines_of("pb2002_boundaries_philippines.geojson",
                                 lambda p: p.get("Type") == "subduction"):
         sub = True
@@ -505,7 +514,8 @@ def map_tectonics():
           f'<text x="{lx + 10}" y="{ly + 4.8}">Subduction trench</text>'
           f'<line x1="{lx + 2}" y1="{ly + 8.5}" x2="{lx + 8}" y2="{ly + 8.5}" stroke="{MUTED}" stroke-width="0.4"/>'
           f'<text x="{lx + 10}" y="{ly + 9.3}">Active fault</text>'
-          f'<line x1="{lx + 2}" y1="{ly + 13}" x2="{lx + 8}" y2="{ly + 13}" stroke="{ACCENT}" stroke-width="1"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 13}" x2="{lx + 8}" y2="{ly + 13}" stroke="{ACCENT}" stroke-width="1.6"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 13}" x2="{lx + 8}" y2="{ly + 13}" stroke="{PAPER}" stroke-width="0.5"/>'
           f'<text x="{lx + 10}" y="{ly + 13.8}">West Valley Fault</text>'
           f'<path d="M{lx + 5},{ly + 16.2} L{lx + 6.4},{ly + 18.6} L{lx + 3.6},{ly + 18.6} Z" fill="{ACCENT}"/>'
           f'<text x="{lx + 10}" y="{ly + 18.6}">Active volcano</text></g>')
@@ -777,16 +787,26 @@ def map_economy(bgys, munis):
     city = munis["Biñan"]["geom"]
     w, s, e, n = city.bounds
     m = Map(w - 0.006, s - 0.006, e + 0.035, n + 0.006, height=150)
-    m.raw(hatch_pattern("h-farm", "#6f8a4a", spacing=1.2, width=0.35))
+    # Each zone has its own colour and its own texture, so that the map can be
+    # read in the black-and-white edition too.
+    m.raw(hatch_pattern("h-farm", "#4f6a2e", spacing=1.2, width=0.35))
+    m.raw(hatch_pattern("h-ind1", "#6b5536", spacing=1.3, angle=45, width=0.3))
+    m.raw(hatch_pattern("h-ind2", "#6b5536", spacing=1.3, angle=-45, width=0.3))
+    m.raw(dot_pattern("h-centre", "#7a3a2e", spacing=1.1, radius=0.3))
+    m.raw(hatch_pattern("h-lake", "#3d6b70", spacing=1.0, angle=0, width=0.28))
+    textures = {"industrial": ["url(#h-ind1)", "url(#h-ind2)"], "centre": ["url(#h-centre)"],
+                "lake": ["url(#h-lake)"]}
     for name, info in munis.items():
         m.shape(info["geom"], LAND, stroke=RULE, width=0.2)
     fills = {"industrial": "#c9b48e", "centre": "#d9a79b", "lake": "#b9d0d1"}
     for name, geom in bgys.items():
-        fill = LAND_ALT
+        fill, texture = LAND_ALT, []
         for kind, names in ECONOMY.items():
             if name in names and kind in fills:
-                fill = fills[kind]
+                fill, texture = fills[kind], textures[kind]
         m.shape(geom, fill, stroke=PAPER, width=0.4)
+        for t in texture:
+            m.shape(geom, t, stroke="none")
     for name in ECONOMY["farm"]:
         m.shape(bgys[name], "url(#h-farm)", stroke="none")
     m.shape(city, "none", stroke=INK, width=0.5)
@@ -838,14 +858,18 @@ def map_economy(bgys, munis):
     m.raw(f'<g font-family="{FONT}" font-size="2.5" fill="{INK}">'
           f'<rect x="{lx}" y="{ly}" width="55" height="34" fill="{PAPER}" stroke="{RULE}" stroke-width="0.3"/>'
           f'<rect x="{lx + 2}" y="{ly + 2.5}" width="4" height="2.6" fill="#c9b48e"/>'
+          f'<rect x="{lx + 2}" y="{ly + 2.5}" width="4" height="2.6" fill="url(#h-ind1)"/>'
+          f'<rect x="{lx + 2}" y="{ly + 2.5}" width="4" height="2.6" fill="url(#h-ind2)"/>'
           f'<text x="{lx + 8}" y="{ly + 4.8}">Industrial parks (Technopark, LIIP)</text>'
           f'<rect x="{lx + 2}" y="{ly + 7.5}" width="4" height="2.6" fill="#d9a79b"/>'
+          f'<rect x="{lx + 2}" y="{ly + 7.5}" width="4" height="2.6" fill="url(#h-centre)"/>'
           f'<text x="{lx + 8}" y="{ly + 9.8}">Old town centre: market and shops</text>'
           f'<rect x="{lx + 2}" y="{ly + 12.5}" width="4" height="2.6" fill="#b9d0d1"/>'
+          f'<rect x="{lx + 2}" y="{ly + 12.5}" width="4" height="2.6" fill="url(#h-lake)"/>'
           f'<text x="{lx + 8}" y="{ly + 14.8}">Lakeshore barangays: fishing</text>'
-          f'<rect x="{lx + 2}" y="{ly + 17.5}" width="4" height="2.6" fill="url(#h-farm)" stroke="#6f8a4a" stroke-width="0.2"/>'
+          f'<rect x="{lx + 2}" y="{ly + 17.5}" width="4" height="2.6" fill="url(#h-farm)" stroke="#4f6a2e" stroke-width="0.2"/>'
           f'<text x="{lx + 8}" y="{ly + 19.8}">Barangays with remaining farmland</text>'
-          f'<rect x="{lx + 2}" y="{ly + 22.5}" width="4" height="2.6" fill="{LAND_ALT}"/>'
+          f'<rect x="{lx + 2}" y="{ly + 22.5}" width="4" height="2.6" fill="{LAND_ALT}" stroke="{RULE}" stroke-width="0.2"/>'
           f'<text x="{lx + 8}" y="{ly + 24.8}">Mostly residential</text>'
           f'<rect x="{lx + 2.8}" y="{ly + 27.6}" width="2.4" height="2.4" fill="{ACCENT}"/>'
           f'<text x="{lx + 8}" y="{ly + 29.8}">Mall · circle: public market</text></g>')
@@ -963,7 +987,7 @@ def map_migrations():
     curved_arrow(m, [(39, 9), (45, 13), (60, 22), (78, 12), (98, 8), (106, 0)], sapiens, 1.1)
     curved_arrow(m, [(106, 0), (118, -3), (133, -14)], sapiens, 1.1)
     curved_arrow(m, [(106, 0), (114, 6), (117.9, 9.3)], sapiens, 1.0)
-    curved_arrow(m, [(121.0, 23.3), (122, 20.4), (121.7, 17.9)], austro, 1.0)
+    curved_arrow(m, [(121.0, 23.3), (122, 20.4), (121.7, 17.9)], austro, 1.0, "0.5,0.5")
     sites = [
         ("Dmanisi\n1.8 million years", 44.5, 41.3, "start", 2, 1, archaic),
         ("Java\n1.5–1.3 million", 110.8, -7.4, "end", -2.5, 4.5, archaic),
@@ -993,7 +1017,7 @@ def map_migrations():
           f'<text x="{lx + 10}" y="{ly + 4}">Early humans (Homo erectus and others)</text>'
           f'<line x1="{lx + 2}" y1="{ly + 7.3}" x2="{lx + 8}" y2="{ly + 7.3}" stroke="{sapiens}" stroke-width="1"/>'
           f'<text x="{lx + 10}" y="{ly + 8}">Homo sapiens</text>'
-          f'<line x1="{lx + 2}" y1="{ly + 11.1}" x2="{lx + 8}" y2="{ly + 11.1}" stroke="{austro}" stroke-width="1"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 11.1}" x2="{lx + 8}" y2="{ly + 11.1}" stroke="{austro}" stroke-width="1" stroke-dasharray="0.5,0.5"/>'
           f'<text x="{lx + 10}" y="{ly + 11.8}">Austronesian seafarers</text></g>')
     m.save("migrations")
 
