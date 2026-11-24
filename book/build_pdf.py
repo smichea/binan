@@ -23,7 +23,7 @@ LAYOUT = BOOK / "layout"
 
 DOCUMENTS = [
     {
-        "kind": "history", "lang": "en",
+        "kind": "history", "lang": "en", "author": "Sébastien Michéa",
         "source": BOOK / "raw_files" / "history.md",
         "front": BOOK / "raw_files" / "introduction.md",
         "back": BOOK / "raw_files" / "appendices.md",
@@ -35,7 +35,7 @@ DOCUMENTS = [
         "languages": "English edition",
     },
     {
-        "kind": "history", "lang": "tl",
+        "kind": "history", "lang": "tl", "author": "Sébastien Michéa",
         "source": BOOK / "raw_files" / "history.md",
         "front": BOOK / "raw_files" / "introduction.md",
         "back": BOOK / "raw_files" / "appendices.md",
@@ -47,7 +47,7 @@ DOCUMENTS = [
         "languages": "Edisyong Tagalog",
     },
     {
-        "kind": "companion", "lang": "en",
+        "kind": "companion", "lang": "en", "author": "Sébastien Michéa",
         "source": BOOK / "raw_files" / "history_tagalog_explanation.md",
         "output": BOOK / "word" / "history_tagalog_explanation.pdf",
         "kicker": "The Book of Biñan · Companion",
@@ -1317,6 +1317,7 @@ def cover(doc):
     <div class="cover-rule"></div>
     <h1 class="cover-title">{doc['title']}</h1>
     <p class="cover-subtitle">{doc['subtitle']}</p>
+    <p class="cover-author">{doc.get('author', '')}</p>
     <div class="cover-photo" style="background-image: url({IMAGES['cover']['file']})"></div>
     <p class="cover-tagline">{doc['tagline']}</p>
     <p class="cover-languages">{doc['languages']}</p>
@@ -1368,7 +1369,7 @@ def back_cover(doc):
     <p class="bc-title">{T("Did you know?", "Alam mo ba?")}</p>
     <div class="cover-rule"></div>
     <ul class="bc-facts">{items}</ul>
-    <p class="bc-footer">{doc['title']} · {doc['kicker']}</p>
+    <p class="bc-footer">{doc['title']} · {doc.get('author', '')}</p>
   </div>
 </section>"""
 
@@ -1384,6 +1385,7 @@ def colophon(doc):
     return f"""
 <section class="colophon">
   <p class="colophon-title">{doc['title']}</p>
+  <p>© {doc.get('author', '')}, 2026</p>
   <p>{doc['subtitle']}</p>
   <p>{T("Draft edition, November 2026.", "Borador na edisyon, Nobyembre 2026.")}</p>
   <p>{other}</p>
@@ -1479,6 +1481,7 @@ def title_page(doc):
   <p class="tp-kicker">{doc['kicker']}</p>
   <h1 class="tp-title">{doc['title']}</h1>
   <p class="tp-subtitle">{doc['subtitle']}</p>
+  <p class="tp-author">{doc.get('author', '')}</p>
   <p class="tp-tagline">{doc['tagline']}</p>
 </section>"""
 
@@ -1488,6 +1491,7 @@ def page_html(doc, front, body, back, body_class, printing=False):
     return f"""<!doctype html>
 <html lang="{LANG['code']}"><head><meta charset="utf-8">
 <title>{doc['title']}</title>
+<meta name="author" content="{doc.get('author', '')}">
 <link rel="stylesheet" href="book.css">
 <style>{style}</style>
 </head><body class="{body_class}">
@@ -1578,7 +1582,7 @@ def cover_spread(doc, spine):
     """The printed cover: back cover, spine and front cover on one sheet."""
     width = 2 * 152.4 + spine + 2 * BLEED_MM
     height = 228.6 + 2 * BLEED_MM
-    spine_text = f"{doc['title']} · {doc['kicker']}"
+    spine_text = f"{doc['title']} · {doc.get('author', '')}"
     return f"""<!doctype html>
 <html lang="{LANG['code']}"><head><meta charset="utf-8"><title>{doc['title']} – cover</title>
 <link rel="stylesheet" href="book.css">

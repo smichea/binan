@@ -63,7 +63,7 @@ strong { font-weight: 600; }
                margin: 0; text-align: center; }
 .cover-subtitle { text-align: center; font-family: "Cormorant Garamond"; font-style: italic; font-size: 16pt;
                   margin-top: 6mm; line-height: 1.2; }
-.cover-photo { height: 62mm; margin: 14mm 4mm 9mm; background-size: cover; background-position: center 60%;
+.cover-photo { height: 62mm; margin: 9mm 4mm 9mm; background-size: cover; background-position: center 60%;
                border: 0.6pt solid var(--gold); }
 .cover-tagline { text-align: center; font-size: 10.5pt; font-style: italic; }
 .cover-tagline.tl { font-size: 9.5pt; color: var(--gold); margin-top: 1mm; }
@@ -273,3 +273,7 @@ ul.index li { break-inside: avoid; padding-left: 3mm; text-indent: -3mm; margin-
             color: var(--accent); margin: 8mm 0 4mm; }
 .tp-subtitle { text-align: center; font-family: "Cormorant Garamond"; font-style: italic; font-size: 15pt; color: var(--muted); }
 .tp-tagline { text-align: center; font-style: italic; margin-top: 30mm; }
+.cover-author { text-align: center; font-variant: small-caps; letter-spacing: 0.14em; font-size: 11pt;
+                color: var(--gold); margin-top: 5mm; }
+.tp-author { text-align: center; font-variant: small-caps; letter-spacing: 0.14em; font-size: 11pt;
+             color: var(--ink); margin-top: 12mm; }
