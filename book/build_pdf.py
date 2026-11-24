@@ -197,9 +197,9 @@ FIGURES = [
     dict(chapter=1, after=2, kind="Map", id="tectonics", src="maps/tectonics.svg",
          title="The Philippines between two plates",
          caption="The Philippines between the Philippine Sea Plate and the Sunda Plate: the "
-                 "subduction trenches, the active faults and some of the active volcanoes. In red, "
-                 "the West Valley Fault, which crosses Biñan.",
-         tagalog="Ang Pilipinas sa pagitan ng Philippine Sea Plate at ng Sunda Plate: ang mga trench ng subduction, ang mga aktibong fault at ilan sa mga aktibong bulkan. Kulay pula ang West Valley Fault, na tumatawid sa Biñan.",
+                 "subduction trenches, the active faults and some of the active volcanoes. The heavy "
+                 "double line is the West Valley Fault, which crosses Biñan.",
+         tagalog="Ang Pilipinas sa pagitan ng Philippine Sea Plate at ng Sunda Plate: ang mga trench ng subduction, ang mga aktibong fault at ilan sa mga aktibong bulkan. Ang makapal na dobleng guhit ang West Valley Fault, na tumatawid sa Biñan.",
          credit="Plate boundaries: P. Bird (2003), PB2002, via H. Ahlenius (ODC-By). Faults: GEM "
                 "Global Active Faults Database (Styron & Pagani 2020), CC BY-SA."),
     dict(chapter=1, after=3, kind="Photo", id="taal-ash", src="images/geography/iss-taal-ash-2020.jpg",
@@ -238,11 +238,11 @@ FIGURES = [
     dict(chapter=1, after=7, kind="Chart", id="climate", src="maps/climate.svg",
          title="The climate of Biñan",
          caption="Left: the monsoon year – normal monthly rainfall at Sangley Point, the nearest "
-                 "PAGASA station; the wet months are in blue. Right: mean yearly temperature for "
+                 "PAGASA station; the wet months are in blue, with darker bars. Right: mean yearly temperature for "
                  "Biñan’s coordinates, 1981–2024, from NASA’s reconstruction, with its trend. The "
                  "model averages a wide area, so its values are lower than those measured on the "
                  "lakeshore; it is the trend that matters.",
-         tagalog="Kaliwa: ang taon ng habagat – ang karaniwang buwanang ulan sa Sangley Point, ang pinakamalapit na istasyon ng PAGASA; kulay asul ang mga buwan ng tag-ulan. Kanan: ang katamtamang temperatura bawat taon sa mga koordinada ng Biñan, 1981–2024, ayon sa rekonstruksiyon ng NASA, kasama ang takbo nito. Malawak na lugar ang kinukuhanan ng karaniwan ng modelo, kaya mas mababa ang mga halaga nito kaysa sa nasusukat sa baybayin ng lawa; ang takbo ang mahalaga.",
+         tagalog="Kaliwa: ang taon ng habagat – ang karaniwang buwanang ulan sa Sangley Point, ang pinakamalapit na istasyon ng PAGASA; kulay asul at mas madilim ang mga bar ng mga buwan ng tag-ulan. Kanan: ang katamtamang temperatura bawat taon sa mga koordinada ng Biñan, 1981–2024, ayon sa rekonstruksiyon ng NASA, kasama ang takbo nito. Malawak na lugar ang kinukuhanan ng karaniwan ng modelo, kaya mas mababa ang mga halaga nito kaysa sa nasusukat sa baybayin ng lawa; ang takbo ang mahalaga.",
          credit="PAGASA Climatological Normals; NASA POWER (MERRA-2)."),
     dict(chapter=2, after=1, kind="Map", id="migrations", src="maps/migrations.svg",
          title="Early human journeys to Island Southeast Asia",
@@ -377,10 +377,10 @@ FIGURES = [
     dict(chapter=4, after=2, kind="Map", id="manuscript", src="images/archives/manuscript-laguna-18th-c.jpg",
          title="“Biñang” on an 18th-century Spanish map",
          caption="Detail of an 18th-century Spanish manuscript map of the surroundings of "
-                 "Laguna de Bay: the town of “Biñang” with its church (red square), the river "
+                 "Laguna de Bay: the town of “Biñang” with its church (small square), the river "
                  "mouth (“Bª de Biñang”), Malabag (today Malaban), Sinalsan, Landayan, San "
                  "Pedro Tunasan and Santa Rosa.",
-         tagalog="Detalye ng isang manuskritong mapang Espanyol ng ika-18 siglo ng paligid ng Laguna de Bay: ang bayan ng “Biñang” at ang simbahan nito (pulang parisukat), ang bukana ng ilog (“Bª de Biñang”), ang Malabag (Malaban ngayon), Sinalsan, Landayan, San Pedro Tunasan at Santa Rosa.",
+         tagalog="Detalye ng isang manuskritong mapang Espanyol ng ika-18 siglo ng paligid ng Laguna de Bay: ang bayan ng “Biñang” at ang simbahan nito (maliit na parisukat), ang bukana ng ilog (“Bª de Biñang”), ang Malabag (Malaban ngayon), Sinalsan, Landayan, San Pedro Tunasan at Santa Rosa.",
          credit="Fuente: Archivo Cartográfico de Estudios Geográficos del Centro Geográfico "
                 "del Ejército / Biblioteca Virtual de Defensa. CC BY 4.0."),
     dict(chapter=4, after=8, kind="Map", id="map1897", src="images/archives/cavite-region-map-1897.jpg",

@@ -478,7 +478,9 @@ def map_tectonics():
     for props, geom in lines_of("gem_active_faults_philippines.geojson"):
         is_wvf = props.get("name") == "West Valley Fault"
         m.raw(f'<path d="{line_path(m, geom)}" fill="none" stroke="{ACCENT if is_wvf else MUTED}" '
-              f'stroke-width="{0.9 if is_wvf else 0.3}" opacity="{1 if is_wvf else 0.8}"/>')
+              f'stroke-width="{1.6 if is_wvf else 0.3}" opacity="{1 if is_wvf else 0.8}"/>')
+        if is_wvf:  # a double line: still distinct when printed in black and white
+            m.raw(f'<path d="{line_path(m, geom)}" fill="none" stroke="{PAPER}" stroke-width="0.5"/>')
     for props, geom in lines_of("pb2002_boundaries_philippines.geojson",
                                 lambda p: p.get("Type") == "subduction"):
         sub = True
@@ -512,7 +514,8 @@ def map_tectonics():
           f'<text x="{lx + 10}" y="{ly + 4.8}">Subduction trench</text>'
           f'<line x1="{lx + 2}" y1="{ly + 8.5}" x2="{lx + 8}" y2="{ly + 8.5}" stroke="{MUTED}" stroke-width="0.4"/>'
           f'<text x="{lx + 10}" y="{ly + 9.3}">Active fault</text>'
-          f'<line x1="{lx + 2}" y1="{ly + 13}" x2="{lx + 8}" y2="{ly + 13}" stroke="{ACCENT}" stroke-width="1"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 13}" x2="{lx + 8}" y2="{ly + 13}" stroke="{ACCENT}" stroke-width="1.6"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 13}" x2="{lx + 8}" y2="{ly + 13}" stroke="{PAPER}" stroke-width="0.5"/>'
           f'<text x="{lx + 10}" y="{ly + 13.8}">West Valley Fault</text>'
           f'<path d="M{lx + 5},{ly + 16.2} L{lx + 6.4},{ly + 18.6} L{lx + 3.6},{ly + 18.6} Z" fill="{ACCENT}"/>'
           f'<text x="{lx + 10}" y="{ly + 18.6}">Active volcano</text></g>')
@@ -984,7 +987,7 @@ def map_migrations():
     curved_arrow(m, [(39, 9), (45, 13), (60, 22), (78, 12), (98, 8), (106, 0)], sapiens, 1.1)
     curved_arrow(m, [(106, 0), (118, -3), (133, -14)], sapiens, 1.1)
     curved_arrow(m, [(106, 0), (114, 6), (117.9, 9.3)], sapiens, 1.0)
-    curved_arrow(m, [(121.0, 23.3), (122, 20.4), (121.7, 17.9)], austro, 1.0)
+    curved_arrow(m, [(121.0, 23.3), (122, 20.4), (121.7, 17.9)], austro, 1.0, "0.5,0.5")
     sites = [
         ("Dmanisi\n1.8 million years", 44.5, 41.3, "start", 2, 1, archaic),
         ("Java\n1.5–1.3 million", 110.8, -7.4, "end", -2.5, 4.5, archaic),
@@ -1014,7 +1017,7 @@ def map_migrations():
           f'<text x="{lx + 10}" y="{ly + 4}">Early humans (Homo erectus and others)</text>'
           f'<line x1="{lx + 2}" y1="{ly + 7.3}" x2="{lx + 8}" y2="{ly + 7.3}" stroke="{sapiens}" stroke-width="1"/>'
           f'<text x="{lx + 10}" y="{ly + 8}">Homo sapiens</text>'
-          f'<line x1="{lx + 2}" y1="{ly + 11.1}" x2="{lx + 8}" y2="{ly + 11.1}" stroke="{austro}" stroke-width="1"/>'
+          f'<line x1="{lx + 2}" y1="{ly + 11.1}" x2="{lx + 8}" y2="{ly + 11.1}" stroke="{austro}" stroke-width="1" stroke-dasharray="0.5,0.5"/>'
           f'<text x="{lx + 10}" y="{ly + 11.8}">Austronesian seafarers</text></g>')
     m.save("migrations")
 
