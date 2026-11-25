@@ -1577,10 +1577,11 @@ PAPER_MM = 0.1
 BLEED_MM = 3
 
 
-def cover_spread(doc, spine):
-    """The printed cover: back cover, spine and front cover on one sheet."""
-    width = 2 * 152.4 + spine + 2 * BLEED_MM
-    height = 228.6 + 2 * BLEED_MM
+def cover_spread(doc, spine, panel_w=152.4, panel_h=228.6):
+    """The printed cover: back cover, spine and front cover on one sheet.
+    The panels are 6 x 9 in, unless another trim size is given (in mm)."""
+    width = 2 * panel_w + spine + 2 * BLEED_MM
+    height = panel_h + 2 * BLEED_MM
     spine_text = f"{doc['title']} · {doc.get('author', '')}"
     return f"""<!doctype html>
 <html lang="{LANG['code']}"><head><meta charset="utf-8"><title>{doc['title']} – cover</title>
@@ -1589,9 +1590,9 @@ def cover_spread(doc, spine):
 @page {{ size: {width}mm {height}mm; margin: 0; @top-left {{ content: none; }} @top-right {{ content: none; }} }}
 body {{ margin: 0; }}
 .spread {{ position: relative; width: {width}mm; height: {height}mm; background: var(--accent); }}
-.panel {{ position: absolute; top: {BLEED_MM}mm; width: 6in; height: 9in; }}
-.panel .cover, .panel .back-cover {{ page: auto; break-before: auto; break-after: auto; }}
-.spine {{ position: absolute; top: {BLEED_MM}mm; left: {BLEED_MM + 152.4}mm; width: {spine}mm; height: 9in; }}
+.panel {{ position: absolute; top: {BLEED_MM}mm; width: {panel_w}mm; height: {panel_h}mm; }}
+.panel .cover, .panel .back-cover {{ page: auto; break-before: auto; break-after: auto; height: {panel_h}mm; }}
+.spine {{ position: absolute; top: {BLEED_MM}mm; left: {BLEED_MM + panel_w}mm; width: {spine}mm; height: {panel_h}mm; }}
 .spine p {{ position: absolute; left: 50%; top: 50%; width: 8in; margin: 0; text-align: center;
            transform: translate(-50%, -50%) rotate(90deg); color: var(--gold);
            font-family: "Cormorant Garamond"; font-weight: 600; font-size: {min(11, spine * 1.6):.1f}pt;
@@ -1600,7 +1601,7 @@ body {{ margin: 0; }}
 <div class="spread">
   <div class="panel" style="left: {BLEED_MM}mm">{back_cover(doc)}</div>
   <div class="spine"><p>{spine_text}</p></div>
-  <div class="panel" style="left: {BLEED_MM + 152.4 + spine}mm">{cover(doc)}</div>
+  <div class="panel" style="left: {BLEED_MM + panel_w + spine}mm">{cover(doc)}</div>
 </div>
 </body></html>"""
 
