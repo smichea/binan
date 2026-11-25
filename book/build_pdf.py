@@ -28,8 +28,8 @@ DOCUMENTS = [
         "front": BOOK / "raw_files" / "introduction.md",
         "back": BOOK / "raw_files" / "appendices.md",
         "output": BOOK / "word" / "history_english.pdf",
-        "kicker": "The Book of Biñan",
-        "title": "History of Biñan City",
+        "kicker": "",
+        "title": "The Book of Biñan",
         "subtitle": "Laguna, Philippines",
         "tagline": "The history of the Philippines through one town",
         "languages": "English edition",
@@ -1313,7 +1313,7 @@ def cover(doc):
     return f"""
 <section class="cover">
   <div class="cover-frame">
-    <p class="cover-kicker">{doc['kicker']}</p>
+    {f'<p class="cover-kicker">{doc["kicker"]}</p>' if doc['kicker'] else ''}
     <div class="cover-rule"></div>
     <h1 class="cover-title">{doc['title']}</h1>
     <p class="cover-subtitle">{doc['subtitle']}</p>
@@ -1379,7 +1379,7 @@ def colophon(doc):
     other = T("A Tagalog edition, <em>Kasaysayan ng Lungsod ng Biñan</em>, has the same text "
               "and the same numbered sections, and a companion, <em>Reading the Tagalog Text</em>, "
               "explains its vocabulary and grammar.",
-              "May edisyong Ingles, ang <em>History of Biñan City</em>, na pareho ang teksto at ang "
+              "May edisyong Ingles, ang <em>The Book of Biñan</em>, na pareho ang teksto at ang "
               "mga bahaging may bilang, at isang kasamang aklat, ang <em>Reading the Tagalog "
               "Text</em>, na nagpapaliwanag sa talasalitaan at balarila nito.")
     return f"""
@@ -1390,15 +1390,14 @@ def colophon(doc):
   <p>{T("Draft edition, November 2026.", "Borador na edisyon, Nobyembre 2026.")}</p>
   <p>{other}</p>
   <p class="colophon-head">{T("An open book", "Isang bukas na aklat")}</p>
-  <p>{T("Part of <em>The Book of Biñan</em>, an open project: the text, its sources and every "
-        "correction are public at github.com/smichea/binan. Corrections and memories from the "
+  <p>{T("This book is an open project: the text, its sources and every "
+        "correction are public at https://github.com/smichea/binan. Corrections and memories from the "
         "people of Biñan are welcome.",
         "Bahagi ng <em>Ang Aklat ng Biñan</em>, isang bukas na proyekto: nasa "
-        "github.com/smichea/binan ang teksto, ang mga sanggunian at ang bawat pagwawasto. Malugod "
+        "https://github.com/smichea/binan ang teksto, ang mga sanggunian at ang bawat pagwawasto. Malugod "
         "na tinatanggap ang mga pagwawasto at alaala ng mga taga-Biñan.")}</p>
-  <p>{T("The electronic edition of this book is free. The printed edition is sold at cost.",
-        "Libre ang elektronikong edisyon ng aklat na ito. Ang nakalimbag na edisyon ay "
-        "ipinagbibili sa halaga lamang ng pagpapalimbag.")}</p>
+  <p>{T("The electronic edition of this book is free.",
+        "Libre ang elektronikong edisyon ng aklat na ito.")}</p>
   <p>{T("Sources, picture credits, the list of maps and documents and the index are at the end "
         "of the book.",
         "Nasa dulo ng aklat ang mga sanggunian, ang mga kredito ng mga larawan, ang talaan ng "
@@ -1453,8 +1452,8 @@ def credits_section(doc):
   <p class="colophon-head">{T("Illustrations", "Mga guhit")}</p>
   <p>{illustrations}</p>
   <p class="colophon-head">{T("Typography", "Tipograpiya")}</p>
-  <p>{T("Set in EB Garamond and Cormorant Garamond (SIL Open Font License).",
-        "Nakaayos sa EB Garamond at Cormorant Garamond (SIL Open Font License).")}</p>
+  <p>{T("Set in Source Serif 4 and Cormorant Garamond (SIL Open Font License).",
+        "Nakaayos sa Source Serif 4 at Cormorant Garamond (SIL Open Font License).")}</p>
 </section>"""
 
 
@@ -1478,7 +1477,7 @@ def title_page(doc):
     """The first page of the printed interior (the cover is printed apart)."""
     return f"""
 <section class="title-page">
-  <p class="tp-kicker">{doc['kicker']}</p>
+  {f'<p class="tp-kicker">{doc["kicker"]}</p>' if doc['kicker'] else ''}
   <h1 class="tp-title">{doc['title']}</h1>
   <p class="tp-subtitle">{doc['subtitle']}</p>
   <p class="tp-author">{doc.get('author', '')}</p>
