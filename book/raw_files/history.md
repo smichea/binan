@@ -1,4 +1,4 @@
-# The Book of Biñan / Kasaysayan ng Lungsod ng Biñan
+# The Book of Biñan / Ang Aklat ng Biñan
 
 # Part One · History / Unang Bahagi · Kasaysayan
 

@@ -6,7 +6,7 @@ This is the history of one town on the shore of a lake: Biñan, in the province 
 
 ### 2. For whom this book is written
 
-The book is written for everyone: for the people of Biñan who want to know the history of their city, for Filipinos everywhere, and for readers abroad who want to understand the Philippines through one place. It also exists in a Tagalog edition, *Kasaysayan ng Lungsod ng Biñan*, so that every reader can choose their language, and a learner of either language can use the two editions side by side. The electronic edition is free.
+The book is written for everyone: for the people of Biñan who want to know the history of their city, for Filipinos everywhere, and for readers abroad who want to understand the Philippines through one place. It also exists in a Tagalog edition, *Ang Aklat ng Biñan*, so that every reader can choose their language, and a learner of either language can use the two editions side by side. The electronic edition is free.
 
 ### 3. How to read it
 

@@ -40,8 +40,8 @@ DOCUMENTS = [
         "front": BOOK / "raw_files" / "introduction.md",
         "back": BOOK / "raw_files" / "appendices.md",
         "output": BOOK / "word" / "history_tagalog.pdf",
-        "kicker": "Ang Aklat ng Biñan",
-        "title": "Kasaysayan ng Lungsod ng Biñan",
+        "kicker": "",
+        "title": "Ang Aklat ng Biñan",
         "subtitle": "Laguna, Pilipinas",
         "tagline": "Ang kasaysayan ng Pilipinas sa pamamagitan ng isang bayan",
         "languages": "Edisyong Tagalog",
@@ -52,7 +52,7 @@ DOCUMENTS = [
         "output": BOOK / "word" / "history_tagalog_explanation.pdf",
         "kicker": "The Book of Biñan · Companion",
         "title": "Reading the Tagalog Text",
-        "subtitle": "Vocabulary, grammar and verbs of Kasaysayan ng Lungsod ng Biñan",
+        "subtitle": "Vocabulary, grammar and verbs of Ang Aklat ng Biñan",
         "tagline": "For learners of Tagalog",
         "languages": "Tagalog → English",
     },
@@ -1376,7 +1376,7 @@ def back_cover(doc):
 
 def colophon(doc):
     """The short notice on the back of the title page."""
-    other = T("A Tagalog edition, <em>Kasaysayan ng Lungsod ng Biñan</em>, has the same text "
+    other = T("A Tagalog edition, <em>Ang Aklat ng Biñan</em>, has the same text "
               "and the same numbered sections, and a companion, <em>Reading the Tagalog Text</em>, "
               "explains its vocabulary and grammar.",
               "May edisyong Ingles, ang <em>The Book of Biñan</em>, na pareho ang teksto at ang "
@@ -1393,7 +1393,7 @@ def colophon(doc):
   <p>{T("This book is an open project: the text, its sources and every "
         "correction are public at https://github.com/smichea/binan. Corrections and memories from the "
         "people of Biñan are welcome.",
-        "Bahagi ng <em>Ang Aklat ng Biñan</em>, isang bukas na proyekto: nasa "
+        "Isang bukas na proyekto ang aklat na ito: nasa "
         "https://github.com/smichea/binan ang teksto, ang mga sanggunian at ang bawat pagwawasto. Malugod "
         "na tinatanggap ang mga pagwawasto at alaala ng mga taga-Biñan.")}</p>
   <p>{T("The electronic edition of this book is free.",
@@ -1467,7 +1467,7 @@ def index_shell():
 
 
 EDITION_CSS = {
-    "tl": """body.history { string-set: book-title "Kasaysayan ng Lungsod ng Biñan"; }
+    "tl": """body.history { string-set: book-title "Ang Aklat ng Biñan"; }
 h1.chapter::before { content: "Kabanata " counter(chapter, upper-roman); }
 h1.appendix::before { content: "Apendise " counter(appendix, upper-alpha); }""",
 }
