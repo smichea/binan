@@ -1,11 +1,11 @@
 /* Print layout of the Biñan book (rendered with WeasyPrint). */
 
-@font-face { font-family: "EB Garamond"; font-weight: 400; font-style: normal; src: url(fonts/eb-garamond-latin-400-normal.woff); }
-@font-face { font-family: "EB Garamond"; font-weight: 400; font-style: italic; src: url(fonts/eb-garamond-latin-400-italic.woff); }
-@font-face { font-family: "EB Garamond"; font-weight: 600; font-style: normal; src: url(fonts/eb-garamond-latin-600-normal.woff); }
-@font-face { font-family: "EB Garamond"; font-weight: 600; font-style: italic; src: url(fonts/eb-garamond-latin-600-italic.woff); }
-@font-face { font-family: "EB Garamond"; font-weight: 700; font-style: normal; src: url(fonts/eb-garamond-latin-700-normal.woff); }
-@font-face { font-family: "EB Garamond"; font-weight: 700; font-style: italic; src: url(fonts/eb-garamond-latin-700-italic.woff); }
+@font-face { font-family: "Source Serif 4"; font-weight: 400; font-style: normal; src: url(fonts/source-serif-4-latin-400-normal.woff); }
+@font-face { font-family: "Source Serif 4"; font-weight: 400; font-style: italic; src: url(fonts/source-serif-4-latin-400-italic.woff); }
+@font-face { font-family: "Source Serif 4"; font-weight: 600; font-style: normal; src: url(fonts/source-serif-4-latin-600-normal.woff); }
+@font-face { font-family: "Source Serif 4"; font-weight: 600; font-style: italic; src: url(fonts/source-serif-4-latin-600-italic.woff); }
+@font-face { font-family: "Source Serif 4"; font-weight: 700; font-style: normal; src: url(fonts/source-serif-4-latin-700-normal.woff); }
+@font-face { font-family: "Source Serif 4"; font-weight: 700; font-style: italic; src: url(fonts/source-serif-4-latin-700-italic.woff); }
 @font-face { font-family: "Cormorant Garamond"; font-weight: 500; font-style: normal; src: url(fonts/cormorant-garamond-latin-500-normal.woff); }
 @font-face { font-family: "Cormorant Garamond"; font-weight: 500; font-style: italic; src: url(fonts/cormorant-garamond-latin-500-italic.woff); }
 @font-face { font-family: "Cormorant Garamond"; font-weight: 600; font-style: normal; src: url(fonts/cormorant-garamond-latin-600-normal.woff); }
@@ -29,20 +29,20 @@
 }
 @page :left {
   margin-left: 17mm; margin-right: 19mm;
-  @top-left { content: counter(page); font: 9pt "EB Garamond"; color: var(--muted); }
-  @top-right { content: string(book-title); font: italic 9pt "EB Garamond"; color: var(--muted); }
+  @top-left { content: counter(page); font: 9pt "Source Serif 4"; color: var(--muted); }
+  @top-right { content: string(book-title); font: italic 9pt "Source Serif 4"; color: var(--muted); }
 }
 @page :right {
-  @top-left { content: string(chapter); font: italic 9pt "EB Garamond"; color: var(--muted); }
-  @top-right { content: counter(page); font: 9pt "EB Garamond"; color: var(--muted); }
+  @top-left { content: string(chapter); font: italic 9pt "Source Serif 4"; color: var(--muted); }
+  @top-right { content: counter(page); font: 9pt "Source Serif 4"; color: var(--muted); }
 }
 @page cover { margin: 0; @top-left { content: none; } @top-right { content: none; } }
 @page front { @top-left { content: none; } @top-right { content: none; } }
 @page chapter-start:first { @top-left { content: none; } @top-right { content: none; } }
 
-html { font-family: "EB Garamond", serif; font-size: 10.5pt; line-height: 1.42; color: var(--ink);
+html { font-family: "Source Serif 4", serif; font-size: 10.5pt; line-height: 1.42; color: var(--ink);
        hyphens: auto; font-variant-ligatures: common-ligatures; }
-body.history { string-set: book-title "History of Biñan City"; }
+body.history { string-set: book-title "The Book of Biñan"; }
 body.companion { string-set: book-title "Reading the Tagalog Text"; }
 
 p { margin: 0; text-align: justify; orphans: 2; widows: 2; }
@@ -132,7 +132,7 @@ main { counter-reset: chapter; }
 h1.chapter { page: chapter-start; break-before: page; counter-increment: chapter; string-set: chapter content(text);
              font-family: "Cormorant Garamond"; font-weight: 600; font-size: 21pt; line-height: 1.1;
              color: var(--accent); text-align: center; margin: 14mm 0 2mm; }
-h1.chapter::before { content: "Chapter " counter(chapter, upper-roman); display: block; font-family: "EB Garamond";
+h1.chapter::before { content: "Chapter " counter(chapter, upper-roman); display: block; font-family: "Source Serif 4";
                      font-weight: 400; font-size: 9pt; letter-spacing: 0.2em; text-transform: uppercase;
                      color: var(--gold); margin-bottom: 4mm; }
 h1.chapter::after { content: attr(data-tl); display: block; font-style: italic; font-weight: 500;
@@ -148,7 +148,7 @@ h1.front::after, h1.appendix::after, h1.backmatter::after {
              border-bottom: 0.6pt solid var(--rule); margin-bottom: 7mm; }
 .back-matter { counter-reset: appendix; }
 h1.appendix { counter-increment: appendix; }
-h1.appendix::before { content: "Appendix " counter(appendix, upper-alpha); display: block; font-family: "EB Garamond";
+h1.appendix::before { content: "Appendix " counter(appendix, upper-alpha); display: block; font-family: "Source Serif 4";
                       font-weight: 400; font-size: 9pt; letter-spacing: 0.2em; text-transform: uppercase;
                       color: var(--gold); margin-bottom: 4mm; }
 
@@ -157,17 +157,23 @@ h1.appendix::before { content: "Appendix " counter(appendix, upper-alpha); displ
 .part-page { page: part; break-before: page; break-after: page; padding-top: 52mm; }
 h1.part { font-family: "Cormorant Garamond"; font-weight: 600; font-size: 30pt; line-height: 1.1; color: var(--accent);
           text-align: center; margin: 0; string-set: chapter content(text); }
-h1.part::before { content: attr(data-no); display: block; font-family: "EB Garamond"; font-weight: 400; font-size: 10pt;
+h1.part::before { content: attr(data-no); display: block; font-family: "Source Serif 4"; font-weight: 400; font-size: 10pt;
                   letter-spacing: 0.25em; text-transform: uppercase; color: var(--gold); margin-bottom: 7mm; }
 h1.part::after { content: attr(data-tl); display: block; font-style: italic; font-weight: 500; font-size: 15pt;
                  color: var(--muted); margin-top: 5mm; }
 
+/* Cormorant has old-style figures by default: "4." sinks below the line. */
+h1, h2, h3, .cover-title, .tp-title, .toc-title { font-variant-numeric: lining-nums; }
+
 /* Numbered sections inside a chapter, in both languages */
-.history h2.section { font-family: "Cormorant Garamond"; font-weight: 600; font-size: 13pt; line-height: 1.15;
+.history h2.section { font-family: "Cormorant Garamond"; font-weight: 600; font-size: 15pt; line-height: 1.15;
                       color: var(--accent); margin: 5mm 0 1.5mm; text-align: left; break-after: avoid;
                       hyphens: manual; }
-.history .tagalog h2.section { color: var(--gold); font-size: 12.5pt; }
+.history .tagalog h2.section { color: var(--gold); font-size: 14.5pt; }
 .history h2.section + p { text-indent: 0; }
+
+/* Page references in notes: <a class="pref" href="#id"></a> */
+.pref::after { content: target-counter(attr(href url), page); }
 
 /* First line of a chapter in small capitals. */
 .history h1.chapter + p::first-line, .history h1.chapter + h2.section + p::first-line,

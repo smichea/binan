@@ -30,7 +30,7 @@ LAND_ALT = "#ebe1cc"
 WATER = "#d9e4e4"
 WATER_INK = "#5d7c80"
 RULE = "#c9b996"
-FONT = "EB Garamond, Georgia, serif"
+FONT = "Source Serif 4, Georgia, serif"
 
 
 # --------------------------------------------------------------------------
